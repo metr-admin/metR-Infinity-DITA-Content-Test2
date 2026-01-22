@@ -17,6 +17,15 @@
    <topicref href="BAT-00-001_cullet_preheater_manual-villotta.dita"
       chunk="to-content"
       class="- map/topicref ">
+<<<<<<< Updated upstream
+=======
+      <topicmeta class="- map/topicmeta ">
+         <othermeta name="DocumentNumber"
+            content="BAT-02-001"
+            class="- topic/othermeta "/>
+         <othermeta name="RevisionDate" content="05-20-2020" class="- topic/othermeta "/>
+      </topicmeta>
+>>>>>>> Stashed changes
       <topicref href="BAT-00-001_references.dita" class="- map/topicref "/>
       <topicref href="BAT-00-001_approval.dita" audience="internal" class="- map/topicref "/>
       <topicref href="BAT-00-001_revision_history.dita" audience="internal" class="- map/topicref "
