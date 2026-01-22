@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\BAT-Space/BAT-02-003?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/BAT-Space/BAT-02-003/?><?path2rootmap-uri ./?><?path2project ../../?><?path2project-uri ../../?><dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3"><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\BAT-Space\BAT-02-003\BAT-Space/BAT-02-003?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/BAT-Space/BAT-02-003/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1A668B2-BB01-11F0-3820-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita">Batch House Environmental Health and Safety</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita">
+         <created class="- topic/created " date="2025-11-06+05:30" xtrc="created:1;12:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita"/>
+         <revised class="- topic/revised " modified="2025-11-06" xtrc="revised:1;13:42" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita">
+         <audience class="- topic/audience " otherprops="operator,maintenance,safety-engineer" type="role" xtrc="audience:1;16:83" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita">
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;18:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita">metr-bat-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita">batch-house</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita">environmental-health-and-safety</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita">ehs-system</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita">safety-equipment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita">hazard-identification</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita">incident-prevention</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita">ppe-requirements</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita">ventilation-system</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita">fire-suppression</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita">glass-manufacturing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita">workplace-safety</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita">regulatory-compliance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita">environmental-control</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita">hazardous-materials-handling</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;34:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;35:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita">metR-BAT-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;36:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="09-10-2020" name="RevisionDate" xtrc="othermeta:2;24:90" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003.ditamap"/><othermeta class="- topic/othermeta " content="BAT-02-003" name="DocumentNumber" xtrc="othermeta:1;23:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003.ditamap"/><othermeta class="- topic/othermeta " content="Batch House — Environmental Health and Safety" name="title" xtrc="othermeta:1;38:91" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="EHS policy and controls for the batch house: hazard identification, PPE, ventilation, fire suppression, and environmental controls." name="shortdesc" xtrc="othermeta:2;39:181" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;40:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;41:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;42:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;43:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;44:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;45:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="ehs-policy;hazard-register;ppe-list;ventilation-unit;fire-suppression-system;incident-log" name="entities" xtrc="othermeta:9;46:138" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:glass-production;usecase:ehs-management;industry:glassmanufacturing" name="taxonomy" xtrc="othermeta:10;47:123" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="ehs,safety,ventilation,fire-suppression,ppe" name="tags" xtrc="othermeta:11;48:88" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="ehs-management" name="usecase" xtrc="othermeta:12;49:62" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;52:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_batch_house_environmental_health_and_safety.dita"/>
+<?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\BAT-Space\BAT-02-003\BAT-Space/BAT-02-003?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/BAT-Space/BAT-02-003/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1A69814-BB01-11F0-1383-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita">Purpose</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita">
+         <created class="- topic/created " date="2025-11-06+05:30" xtrc="created:1;12:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita"/>
+         <revised class="- topic/revised " modified="2025-11-06" xtrc="revised:1;13:42" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita">
+         <audience class="- topic/audience " otherprops="operator,maintenance,safety-engineer" type="role" xtrc="audience:1;16:83" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita">
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;18:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita">metr-bat-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita">batch-house</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita">ehs-purpose</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita">worker-safety</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita">product-integrity</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita">regulatory-compliance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita">environmental-protection</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita">incident-prevention</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita">training-and-induction</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita">continuous-improvement</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita">glass-manufacturing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita">quality-assurance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita">workplace-safety</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita">production-integrity</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita">risk-mitigation</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;34:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;35:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita">metR-BAT-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;36:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Batch House EHS — Purpose" name="title" xtrc="othermeta:1;38:71" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="Defines the purpose of EHS controls for the batch house: protect people, preserve product integrity, meet regulatory and environmental requirements." name="shortdesc" xtrc="othermeta:2;39:198" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="en-US" name="language" xtrc="othermeta:3;40:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;41:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;42:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;43:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;44:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;45:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="ehs-purpose-statement;safety-objectives;environmental-targets;training-program;risk-register" name="entities" xtrc="othermeta:9;46:141" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:glass-production;usecase:governance-and-purpose;industry:glassmanufacturing" name="taxonomy" xtrc="othermeta:10;47:131" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="purpose,ehs,safety,environment,compliance" name="tags" xtrc="othermeta:11;48:86" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="purpose-statement" name="usecase" xtrc="othermeta:12;49:65" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;52:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita">
+      <p class="- topic/p " xtrc="p:1;53:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_purpose.dita">To define a standard set of mandatory minimum environmental, health and safety
+                    requirements and procedures that apply to all personnel working in the Batch
+                    House at all plants.</p>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\BAT-Space\BAT-02-003\BAT-Space/BAT-02-003?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/BAT-Space/BAT-02-003/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="r1A6AF20-BB01-11F0-1194-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="reference:1;7:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">Reference</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">
+         <created class="- topic/created " date="2025-11-06+05:30" xtrc="created:1;12:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita"/>
+         <revised class="- topic/revised " modified="2025-11-06" xtrc="revised:1;13:42" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">
+         <audience class="- topic/audience " otherprops="operator,maintenance,safety-engineer" type="role" xtrc="audience:1;16:83" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;18:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">metr-bat-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">ehs-references</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">regulatory-guidance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">inspection-forms</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">chemical-safety-data</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">ppe-manual</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">ventilation-specifications</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">fire-suppression-guidelines</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">training-materials</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">supplier-safety-data</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">glass-manufacturing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">technical-standards</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">maintenance-reference</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">environmental-safety</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">procurement-guidelines</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;34:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;35:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">metR-BAT-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;36:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Batch House EHS — References" name="title" xtrc="othermeta:1;38:74" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="Reference list of regulatory documents, MSDS, inspection forms, training guides and supplier safety information relevant to batch house EHS." name="shortdesc" xtrc="othermeta:2;39:190" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;40:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;41:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;42:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;43:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;44:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;45:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="msds;inspection-form;training-guide;ventilation-spec;fire-suppression-manual;supplier-safety-data" name="entities" xtrc="othermeta:9;46:146" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:glass-production;usecase:reference-and-specification;industry:glassmanufacturing" name="taxonomy" xtrc="othermeta:10;47:136" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="references,msds,inspection,training,ventilation" name="tags" xtrc="othermeta:11;48:92" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="reference-list" name="usecase" xtrc="othermeta:12;49:62" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita"/>
+      </metadata>
+   </prolog>
+   <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;52:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">
+      <section class="- topic/section " id="section_qjx_sms_4zb" xtrc="section:1;53:66" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">
+         <title class="- topic/title " xtrc="title:2;54:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">Environmental</title>
+         <ul class="- topic/ul " id="ul_uxg_vms_4zb" xtrc="ul:1;55:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">
+            <li class="- topic/li " xtrc="li:1;56:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">EHS-06-010 Air Emissions Management Fundamental</li>
+            <li class="- topic/li " xtrc="li:2;57:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">EHS-06-006 Waste Management Fundamental</li>
+            <li class="- topic/li " xtrc="li:3;58:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">EHS-02-131 Stormwater Pollution Prevention </li>
+            <li class="- topic/li " xtrc="li:4;59:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">EHS-02-131-F001 Frequent Visual Stormwater Checks </li>
+            <li class="- topic/li " xtrc="li:5;60:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">EHS-02-131-F002 Periodic Stormwater Sampling </li>
+            <li class="- topic/li " xtrc="li:6;61:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">EHS-02-131-F003 Annual Reporting </li>
+            <li class="- topic/li " xtrc="li:7;62:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">EHS-02-131-F004 Non-Stormwater Discharge Evaluation </li>
+            <li class="- topic/li " xtrc="li:8;63:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">EHS-03-010 Periodic Stormwater Sampling </li>
+         </ul>
+      </section>
+      <section class="- topic/section " id="section_pxk_wms_4zb" xtrc="section:2;66:66" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">
+         <title class="- topic/title " xtrc="title:3;67:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">Health</title>
+         <ul class="- topic/ul " id="ul_l5k_xms_4zb" xtrc="ul:2;68:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">
+            <li class="- topic/li " xtrc="li:9;69:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">EHS-06-004 Respirable Crystalline Silica Fundamental</li>
+            <li class="- topic/li " xtrc="li:10;70:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">EHS-02-133 Hearing Conservation </li>
+            <li class="- topic/li " xtrc="li:11;71:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">EHS-06-009 Respiratory Protection Fundamental</li>
+            <li class="- topic/li " xtrc="li:12;72:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">EHS-02-134 Heat Related Illness </li>
+            <li class="- topic/li " xtrc="li:13;73:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">EHS-02-123 Chemical Management </li>
+            <li class="- topic/li " xtrc="li:14;74:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">OIES-L-001 Illumination</li>
+         </ul>
+      </section>
+      <section class="- topic/section " id="section_blb_yms_4zb" xtrc="section:3;77:66" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">
+         <title class="- topic/title " xtrc="title:4;78:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">Safety</title>
+         <ul class="- topic/ul " id="ul_yfj_zms_4zb" xtrc="ul:3;79:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">
+            <li class="- topic/li " xtrc="li:15;80:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">EHS-02-103-F004 Working At Heights Risk Assessment </li>
+            <li class="- topic/li " xtrc="li:16;81:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">EHS-02-107-F005 LOTO Assessment </li>
+            <li class="- topic/li " xtrc="li:17;82:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">EHS-02-107-F006 LOTO Program Annual Evaluation </li>
+            <li class="- topic/li " xtrc="li:18;83:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">EHS-02-108-F002 Hot Works Assessment </li>
+            <li class="- topic/li " xtrc="li:19;84:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">EHS-02-115-F002 Traffic Management Program Annual Evaluation </li>
+            <li class="- topic/li " xtrc="li:20;85:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">EHS-02-122-F001 Machine Guarding Assessment </li>
+            <li class="- topic/li " xtrc="li:21;86:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">EHS-02-122-F002 Machine Guarding Annual Evaluation </li>
+            <li class="- topic/li " xtrc="li:22;87:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">EHS-06-007 Roof Access Fundamental</li>
+         </ul>
+      </section>
+      <section class="- topic/section " id="section_ohk_1ns_4zb" xtrc="section:4;90:66" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">
+         <title class="- topic/title " xtrc="title:5;91:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">Document Classification</title>
+         <ul class="- topic/ul " id="ul_mxq_bns_4zb" xtrc="ul:4;92:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">
+            <li class="- topic/li " xtrc="li:23;93:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">Safety and Environment</li>
+         </ul>
+      </section>
+      <section class="- topic/section " id="section_cwm_cns_4zb" xtrc="section:5;96:66" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">
+         <title class="- topic/title " xtrc="title:6;97:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">Fundamentals</title>
+         <ul class="- topic/ul " id="ul_an3_dns_4zb" xtrc="ul:5;98:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">
+            <li class="- topic/li " xtrc="li:24;99:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_reference.dita">FUR-600</li>
+         </ul>
+      </section>
+   </refbody>
+</reference><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\BAT-Space\BAT-02-003\BAT-Space/BAT-02-003?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/BAT-Space/BAT-02-003/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="r1A68034-BB01-11F0-2476-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="reference:1;7:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Procedure</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">
+         <created class="- topic/created " date="2025-11-06+05:30" xtrc="created:1;12:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita"/>
+         <revised class="- topic/revised " modified="2025-11-06" xtrc="revised:1;13:42" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">
+         <audience class="- topic/audience " otherprops="operator,maintenance,safety-engineer" type="role" xtrc="audience:1;16:83" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;18:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">metr-bat-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">batch-house</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">ehs-procedure</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">hazard-identification</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">incident-reporting</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">ppe-inspection</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">emergency-evacuation</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">fire-drill</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">ventilation-check</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">chemical-spill-response</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">glass-manufacturing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">workplace-safety</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">process-control</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">training-and-induction</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">maintenance-activity</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;34:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;35:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">metR-BAT-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;36:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Batch House EHS — Procedure" name="title" xtrc="othermeta:1;38:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="Procedural steps for EHS activities in the batch house: hazard checks, PPE inspection, ventilation and fire checks, incident response and reporting." name="shortdesc" xtrc="othermeta:2;39:198" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;40:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;41:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;42:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;43:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;44:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;45:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="ehs-procedure;hazard-checklist;ppe-inspection-form;ventilation-log;incident-report-form" name="entities" xtrc="othermeta:9;46:136" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:glass-production;usecase:procedural-guidance;industry:glassmanufacturing" name="taxonomy" xtrc="othermeta:10;47:128" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="procedure,ehs,incident-response,ppe,ventilation" name="tags" xtrc="othermeta:11;48:92" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="procedure" name="usecase" xtrc="othermeta:12;49:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita"/>
+      </metadata>
+   </prolog>
+   <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;52:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">
+      <section class="- topic/section " xtrc="section:1;53:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">
+         <p class="- topic/p " xtrc="p:1;54:32" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Plant leadership shall be accountable and responsible for providing the
+        environmental, health and safety devices and equipment, prerequisite programs, and
+        procedures and environmental, health and safety assessments described and referred to in
+        this document.</p>
+         <p class="- topic/p " xtrc="p:2;58:32" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">
+            <u class="+ topic/ph hi-d/u " xtrc="u:1;59:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Environmental</u>
+            <ol class="- topic/ol " id="ol_fv2_h4s_4zb" xtrc="ol:1;60:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">
+               <li class="- topic/li " xtrc="li:1;61:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">All plants shall develop and manage procedures in compliance with the
+              <b class="+ topic/ph hi-d/b " xtrc="b:1;62:45" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">EHS Air Emissions Management Fundamental </b>as required by specific job duties.
+            The procedure shall include the following Batch House specific requirements:<p class="- topic/p " xtrc="p:3;63:111" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">
+                     <u class="+ topic/ph hi-d/u " xtrc="u:2;64:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">General</u>
+                     <ol class="- topic/ol " id="ol_dqy_k4s_4zb" xtrc="ol:2;65:66" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">
+                        <li class="- topic/li " xtrc="li:2;66:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Efficient dust management equipment including transferring
+                  equipment, gathering equipment and raw materials silos in the Batch House to
+                  control dust.</li>
+                        <li class="- topic/li " xtrc="li:3;69:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Good work practices to minimize fugitive emissions during
+                  unloading and material transfer.</li>
+                        <li class="- topic/li " xtrc="li:4;71:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Good work practices to clean-up batch unloading area when
+                  material is spilled.</li>
+                        <li class="- topic/li " xtrc="li:5;73:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Good work practices to manage waste batch material (the
+                  handling of waste batch material can be problematic - fugitive emissions and
+                  spills).</li>
+                        <li class="- topic/li " xtrc="li:6;76:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Periodic inspections of the unloading process to confirm that
+                  fugitive dust during unloading is not going across the property line.</li>
+                        <li class="- topic/li " xtrc="li:7;78:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Comply with any permit conditions regarding fugitive emissions
+                  in the raw material unloading and handling process and within the Batch House.<p class="- topic/p " xtrc="p:4;79:119" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">
+                              <u class="+ topic/ph hi-d/u " xtrc="u:3;80:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Within the Batch House</u>
+                           </p>
+                        </li>
+                        <li class="- topic/li " xtrc="li:8;83:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Conduct a periodic inspection of each filter sock and dust
+                  collector that is used in the Batch House.</li>
+                        <li class="- topic/li " xtrc="li:9;85:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Promptly perform corrective actions to remedy the situation (no
+                  excess discharge outside) when the dust collection equipment is not working
+                  properly.</li>
+                        <li class="- topic/li " xtrc="li:10;88:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Document inspections, problems found and the corrective actions
+                  taken.</li>
+                        <li class="- topic/li " xtrc="li:11;90:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">If required by the permit, complete Visual Determination of
+                  Visible Emissions Readings at the Batch House.<p class="- topic/p " xtrc="p:5;91:87" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">
+                              <u class="+ topic/ph hi-d/u " xtrc="u:4;92:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Modifications</u>
+                           </p>
+                        </li>
+                        <li class="- topic/li " xtrc="li:12;95:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Do not add equipment or replace existing equipment in the Batch
+                  House without determining the need for a permit or permit modification.</li>
+                     </ol>
+                  </p>
+               </li>
+               <li class="- topic/li " xtrc="li:13;100:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">All plants shall develop and manage procedures in compliance with the
+              <b class="+ topic/ph hi-d/b " xtrc="b:2;101:45" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">EHS Waste Management Fundamental</b> as required by specific job duties. The
+            procedure shall include the following Batch House specific requirements:<ol class="- topic/ol " id="ol_o4d_cqs_4zb" xtrc="ol:3;102:129" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">
+                     <li class="- topic/li " xtrc="li:14;103:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Properly characterize all hazardous and non-hazardous materials
+                and ensure they are kept separate. <u class="+ topic/ph hi-d/u " xtrc="u:5;104:82" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Waste batch and cullet </u>will require
+                additional management if they are a hazardous waste. Do not mix hazardous and
+                non-hazardous waste. </li>
+                     <li class="- topic/li " xtrc="li:15;107:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Housekeeping of outside batch area is critical to overall waste
+                management compliance. This area should be regularly swept with equipment capable of
+                vacuuming, wetting and collecting material during sweeping operation. Dry sweeping
+                is prohibited. The waste should be separated as needed. Where sweeping is not
+                possible, spilled raw material and batch should be shoveled up or otherwise removed
+                promptly.</li>
+                     <li class="- topic/li " xtrc="li:16;113:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Provide appropriate storage areas to handle waste batch, waste
+                cullet and basement cullet. Do not typically mix wastes together or add construction
+                and miscellaneous debris to designated waste areas.</li>
+                  </ol>
+               </li>
+               <li class="- topic/li " xtrc="li:17;118:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">All plants shall develop and manage procedures in compliance with the
+              <b class="+ topic/ph hi-d/b " xtrc="b:3;119:45" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">EHS Storm Water Pollution Prevention Plan Fundamental (SWPPP) </b>as required by
+            specific job duties. The procedure shall include the following Batch House specific
+              requirements:<ol class="- topic/ol " id="ol_bbp_dqs_4zb" xtrc="ol:4;121:72" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">
+                     <li class="- topic/li " xtrc="li:18;122:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">The batch/raw material transfer conveyer and elevator should be
+                contained/covered to minimize leakage, routinely inspected for proper operations
+                including routinely checking for proper tracking and leakage should be promptly
+                cleaned up.</li>
+                     <li class="- topic/li " xtrc="li:19;126:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">The raw material unloading area should be swept after each raw
+                material delivery and vacuumed as needed. Measures should be taken to minimize wind
+                from blowing material around.</li>
+                     <li class="- topic/li " xtrc="li:20;129:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Need to control water run off (dry weather and storm water) from
+                basement cullet outside bunkers. Operations should consolidate storage area, protect
+                area from storm water, and direct runoff back to basement for reuse.</li>
+                     <li class="- topic/li " xtrc="li:21;132:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Ensure that a dust collector system is utilized, as needed, to
+                control fugitive dust from various operations to protect these materials from storm
+                water impact, waste management concerns and air permit concerns.</li>
+                  </ol>
+               </li>
+               <li class="- topic/li " xtrc="li:22;137:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">All plants shall develop and manage <b class="+ topic/ph hi-d/b " xtrc="b:4;137:106" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">oil management procedures</b>
+            in compliance with the <b class="+ topic/ph hi-d/b " xtrc="b:5;138:66" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">EHS Spill Prevention Control and Countermeasure Plan
+              (SPCC)</b> and implement best management practices as required by specific job
+            duties.</li>
+               <li class="- topic/li " xtrc="li:23;141:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">All plants shall develop and manage <b class="+ topic/ph hi-d/b " xtrc="b:6;141:106" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">asbestos procedures</b> in
+            compliance with the <b class="+ topic/ph hi-d/b " xtrc="b:7;142:63" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">EHS Asbestos Management Plan</b> guidance as required by specific
+            job duties. The procedure shall include the following Batch House specific
+              requirements:<ol class="- topic/ol " id="ol_rzq_nqs_4zb" xtrc="ol:5;144:72" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">
+                     <li class="- topic/li " xtrc="li:24;145:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Follow “Do Not Disturb” instructions/signs near any asbestos
+                containing materials commonly found in window caulking and paint at the Batch
+                House.</li>
+                  </ol>
+                  <p class="- topic/p " xtrc="p:6;149:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">
+                     <u class="+ topic/ph hi-d/u " xtrc="u:6;150:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Health</u>
+                  </p>
+                  <p class="- topic/p " xtrc="p:7;152:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Respirable Crystalline
+              Silica (RCS) is one of the most impactful health concerns relative to Space Batch
+              Houses. RCS primarily comes from the sand portion of the batch mix, which can become
+              airborne anytime the batch material is not contained and/or disturbed during the
+              process, cleaning, or maintenance activities. Airborne concentrations must be
+              evaluated and controls put in place according to the Global EHS Respirable Silica
+              Fundamental EHS-06-004.</p>
+               </li>
+               <li class="- topic/li " xtrc="li:25;160:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Each facility shall conduct a respirable crystalline silica (RCS)
+            exposure assessment to determine the potential for employee exposure to RCS. The
+            assessment shall be based on the potential RCS airborne concentrations for the jobs and
+            tasks of similar exposure groups (SEGs).</li>
+               <li class="- topic/li " xtrc="li:26;164:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Each facility shall prepare a sampling plan based upon the exposure
+            assessment and the plan should cover planned sampling activities over the next 24 to 36
+            months.</li>
+               <li class="- topic/li " xtrc="li:27;167:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">The assessment and sampling plan must be completed by a person
+            competent in the practice of industrial hygiene.</li>
+               <li class="- topic/li " xtrc="li:28;169:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Each facility shall institute a RCS medical surveillance program for
+            all employees who are routinely exposed (i.e., 30 days per year) over the occupational
+            (OEL) based on the results from the exposure assessment and the sampling plan.</li>
+               <li class="- topic/li " xtrc="li:29;172:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Each facility shall have an exposure control plan, or its equivalent.
+            An example is shown in Appendix B6 of EHS-06-004. The written plan shall contain the
+            following elements:<ol class="- topic/ol " id="ol_sx3_qrs_4zb" xtrc="ol:6;174:76" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">
+                     <li class="- topic/li " xtrc="li:30;175:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">A description of the workplace tasks that involve exposure to
+                respirable crystalline silica.</li>
+                     <li class="- topic/li " xtrc="li:31;177:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">A description of the engineering controls, work practices, and
+                respiratory protection used to limit employee exposure to respirable crystalline
+                silica for each task.</li>
+                     <li class="- topic/li " xtrc="li:32;180:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">A description of the housekeeping measures used to limit employee
+                exposure to respirable crystalline silica, such as not allowing dry sweeping or the
+                use of compressed air, and the use of dust suppressant and vacuum systems with HEPA
+                filter collection.</li>
+                  </ol>
+               </li>
+               <li class="- topic/li " xtrc="li:33;186:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Regulated areas shall be established wherever exposure to airborne
+            concentrations of RCS is (or can reasonably be expected to be) in excess of the
+            local/regional legal exposure limit, as adjusted for extended shifts. The regulated area
+            must be marked, have limited access, and proper PPE must be worn to enter, which will
+            include proper respiratory protection.</li>
+               <li class="- topic/li " xtrc="li:34;191:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Airborne RCS and accumulations of dust shall be reduced by following
+            good housekeeping practices and reporting leaks/spills to a supervisor. When completing
+            Batch House housekeeping, the following methods shall be employed in the following
+            preferred order:<ol class="- topic/ol " id="ol_bq1_zrs_4zb" xtrc="ol:7;194:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">
+                     <li class="- topic/li " xtrc="li:35;195:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">High-efficiency particulate air filter (HEPA) vacuuming shall be
+                the preferred method and shall be used where practical.<ol class="- topic/ol " id="ol_un2_1ss_4zb" xtrc="ol:8;196:116" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">
+                           <li class="- topic/li " xtrc="li:36;197:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">When central vacuum equipment is used, it should be evaluated
+                    to confirm proper function following the form shown in Appendix B9 (or its
+                    equivalent) shall be completed to evaluate the Batch House equipment
+                    performance.</li>
+                        </ol>
+                     </li>
+                     <li class="- topic/li " xtrc="li:37;203:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">If HEPA vacuuming is not practical, a wet method shall be
+                  used.<ol class="- topic/ol " id="ol_tzt_2ss_4zb" xtrc="ol:9;204:68" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">
+                           <li class="- topic/li " xtrc="li:38;205:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Floor sweep absorbents and other methods shall be applied.
+                    DRY SWEEPING IS PROHIBITED!</li>
+                        </ol>
+                     </li>
+                     <li class="- topic/li " xtrc="li:39;209:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">If the shoveling of material is necessary, respiratory protection
+                and Tyvek (or a regional equivalent) coverall is required to keep dust off of
+                clothing. To reduce potential dusting when shoveling, material shall be placed in a
+                container or in a chute instead of forceful throwing.</li>
+                     <li class="- topic/li " xtrc="li:40;213:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Compressed air shall not be used wherever it could disturb dust
+                (i.e., not to clean or to blow off clothing).</li>
+                  </ol>
+               </li>
+               <li class="- topic/li " xtrc="li:41;217:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">The hierarchy of controls must be followed relative to RCS exposure.
+            Engineering controls must be considered before the use of PPE. The RCS fundamental
+            contains an internal Engineering Design Standard for new batch projects of 25 µg/m3
+            8-hour TWA. <p class="- topic/p " xtrc="p:8;220:47" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Noise exposure in a Batch House is often greater than
+              the applicable occupational exposure limits. Batch House employee are typically
+              included in the site hearing conservation program. The requirements of the Hearing
+              Conservation Program are contained in EHS-02-133.</p>
+               </li>
+               <li class="- topic/li " xtrc="li:42;225:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Each facility shall be complete an assessment and develop a sampling
+            plan to evaluate employees potential exposure to noise in the Batch House and to
+            identify employees for inclusion in the Hearing Conservation Program (HCP). All persons
+            working in areas or with equipment that have noise levels equal to or exceeding 85
+            decibels (dB) as an 8-hour time-weighted average (TWA), or any locally more stringent
+            legal limit, must be included in the HCP.</li>
+               <li class="- topic/li " xtrc="li:43;231:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Employees included in the HCP must receive medical surveillance and
+            audiograms according to the Country Group or locally more stringent requirements. This
+            typically includes initial tests and periodic retests such as annually.</li>
+               <li class="- topic/li " xtrc="li:44;234:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">The hierarchy of controls must be followed when levels exceed 85 dBA
+            or a locally more stringent limit. Engineering controls, followed by administrative
+            controls must be considered before choosing PPE as the last choice. </li>
+               <li class="- topic/li " xtrc="li:45;237:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">When choosing hearing protection devices (HPDs), the site must
+            document that hearing protection is adequate based on the assessed noise levels and the
+            local legal requirements.</li>
+               <li class="- topic/li " xtrc="li:46;240:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Signs must be posted indicating the need for PPE where HPDs are
+            required. Signs must meet local legal requirements.</li>
+               <li class="- topic/li " xtrc="li:47;242:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Employees must receive documented initial and annual noise training.
+            Training shall include the risks of elevated noise exposure and proper use of hearing
+            protection, at a minimum. <p class="- topic/p " xtrc="p:9;244:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Respiratory protection is required in the
+              Batch House when engineering and administrative controls fail to control RCS (and
+              sometimes other contaminants) below occupational exposure limits and sometimes during
+              the completion of specified tasks. The requirements of the Global Respiratory
+              Protection Fundamental is contained in EHS-06-009.</p>
+               </li>
+               <li class="- topic/li " xtrc="li:48;250:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Each site must complete an assessment to determine where respiratory
+            protection is required and select the proper respirators based upon that assessment. The
+            assessment will take into account exposure monitoring that is completed as part of the
+            sites IH assessment and sampling plan.</li>
+               <li class="- topic/li " xtrc="li:49;254:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Before wearing a respirator, employees must receive a medical
+            approval or fit for work certificate signifying the employee can wear a respirator in
+            accordance to EHS-06-009.</li>
+               <li class="- topic/li " xtrc="li:50;257:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Negative pressure respirators (i.e., filtering face piece, half and
+            full face cartridge) respirators require the user to have a documented fit test before
+            initial use and periodically after in accordance to EHS-06-009.</li>
+               <li class="- topic/li " xtrc="li:51;260:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Each site must have a policy in place requiring that nothing
+            (including facial hair) interfere with the seal of a negative pressure respirator. A
+            positive pressure respirator (i.e., PAPR) that does not rely on a facial seal can be
+            worn where compliance cannot be met with the use of a negative pressure respirator.</li>
+               <li class="- topic/li " xtrc="li:52;264:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Respirators must be properly maintained, stored, discarded, and have
+            a documented cartridge change schedule. The cartridge change schedule is based upon the
+            contaminate levels in the work area and indicates when the cartridge should be
+            changed.</li>
+               <li class="- topic/li " xtrc="li:53;268:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">The requirement to wear a respirator must be posted on signs in the
+            work area and/or work area entrance.</li>
+               <li class="- topic/li " xtrc="li:54;270:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Employees must receive annual respiratory protection training that
+            meets local regulatory requirements and the requirements contained in EHS-06-009.<p class="- topic/p " xtrc="p:10;271:116" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Temperature extremes in a the Batch House varies based on the sites
+              location and seasonal changes. Each site must assess the potential temperature
+              extremes and implement actions as necessary in compliance with Heat Related Illness
+              EHS-02-134.</p>
+               </li>
+               <li class="- topic/li " xtrc="li:55;276:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Each site must complete an assessment to identify employees and tasks
+            that put employees at risk for heat stress. The assessment must meet the requirements
+            contained in EHS-02-134 or the local legal requirements if more stringent. </li>
+               <li class="- topic/li " xtrc="li:56;279:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">A written site specific program should be available detailing how the
+            site manages areas or tasks identified at risk during the assessment.</li>
+               <li class="- topic/li " xtrc="li:57;281:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">When areas or tasks are identified at risk, then additional
+            provisions for water consumption and cooling areas must be provided per EHS-02-134.</li>
+               <li class="- topic/li " xtrc="li:58;283:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Medical surveillance must be implemented where there is a local legal
+            requirement.</li>
+               <li class="- topic/li " xtrc="li:59;285:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Documented training must be provided annually for all supervisors of
+            employees and employees who have been identified at risk during the assessment. The
+            training must cover, as a minimum, all of the topics contained in EHS-02-134 and as
+            locally required. <p class="- topic/p " xtrc="p:11;288:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">The Batch House has a number of raw materials and
+              other chemicals available for use with potentials for personal employee exposure and
+              exposure to the environment. Each site must ensure the safe and proper use of
+              hazardous and nonhazardous chemicals and must comply with locally applicable
+              regulations addressing the storage and disposal of these chemicals, and the
+              requirements contained in Chemical Management EHS-02-123.</p>
+               </li>
+               <li class="- topic/li " xtrc="li:60;295:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Each site must have a system in place to identify and review chemical
+            uses for all existing and new chemicals. The assessment must take into account the
+            safety of the chemical, potential exposure to employees, exposure to the environment,
+            proper storage, and proper disposal. The review and assessment process must meet the
+            requirements contained within EHS-02-123 and any local legal requirement.</li>
+               <li class="- topic/li " xtrc="li:61;300:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">The site must have a current list of all chemical substance and a
+            current SDS for each chemical. The list and SDSs must be available to employees.</li>
+               <li class="- topic/li " xtrc="li:62;302:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Chemical containers must have proper labeling which complies with GHS
+            (Global Harmonization System) requirements and/or according to local legal
+            requirements.</li>
+               <li class="- topic/li " xtrc="li:63;305:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Employees must receive annual training relative to the chemicals they
+            work with, the assessments completed, PPE required, storage, disposal, and handling
+            requirements in addition to any local legal training requirements. <p class="- topic/p " xtrc="p:12;307:102" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">The Batch House typically has a number of areas that are frequently and sometime
+              infrequently visited for various tasks and at different lighting levels. Site lighting
+              levels should be in compliance with Illumination OIES-L-001 or local requirements if
+              more stringent.</p>
+               </li>
+               <li class="- topic/li " xtrc="li:64;312:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Each site should review the Global Engineering lighting requirements
+            in Illumination OIES-L-001. A plan should be in place to meet the minimum illumination
+            requirements. A system must be in place to promptly replace faulty lighting fixtures and
+            burnt out bulbs.</li>
+               <li class="- topic/li " xtrc="li:65;316:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Illumination levels shall be reviewed and taken into account during
+            all new installations.<p class="- topic/p " xtrc="p:13;317:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">
+                     <u class="+ topic/ph hi-d/u " xtrc="u:7;318:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Safety</u>
+                  </p>
+               </li>
+               <li class="- topic/li " xtrc="li:66;321:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">All Batch House personnel shall wear personal protection equipment
+            (PPE), including, safety shoes, safety glasses and site specific equipment including,
+            but not limited to head and respiratory protection. </li>
+               <li class="- topic/li " xtrc="li:67;324:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">All plants shall develop machine-specific energy isolation procedures
+            for all applicable energy sources for the existing Batch House equipment and
+            Lockout-Tagout procedures must be followed if maintenance or cleaning is to be
+            performed. When it is not possible to isolate all energy sources, the plant shall use
+            mechanical blocking devices and administrative procedure to ensure all body parts are
+            protected from moving equipment and unexpected startup of equipment. The plants must
+            meet or exceed the requirements in EHS-02-107-F006.</li>
+               <li class="- topic/li " xtrc="li:68;331:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">All machines that currently have guards must have them installed and
+            operational at all times while the equipment is running in normal production operations.
+            Guards that are removed for maintenance or when troubleshooting the equipment must be
+            reinstalled after completion of the maintenance task and before the equipment is
+            returned to normal operations. For any equipment that does not have designed guards,
+            administrative procedures must be visible and clearly understood. The plants must meet
+            or exceed the requirements in EHS-02-122-F002.</li>
+               <li class="- topic/li " xtrc="li:69;338:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">When working at heights or near wall or floor openings.<ol class="- topic/ol " id="ol_ml1_wss_4zb" xtrc="ol:10;338:139" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">
+                     <li class="- topic/li " xtrc="li:70;339:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Risk Assessments must be completed when employees are working in
+                a new area or performing non routine tasks.</li>
+                     <li class="- topic/li " xtrc="li:71;341:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Fall protection devices must be used where the potential exists
+                for an employee to fall at an unprotected height of 4 feet (1.2 meters) or
+                higher.</li>
+                     <li class="- topic/li " xtrc="li:72;344:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Ensure all proper fall protection equipment inspections and
+                training are completed and documented.</li>
+                     <li class="- topic/li " xtrc="li:73;346:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Ensure employees are using approved personal lifting devices tied
+                off at all times.</li>
+                     <li class="- topic/li " xtrc="li:74;348:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Completion of permits as identified by local plant programs.</li>
+                     <li class="- topic/li " xtrc="li:75;349:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">When working at heights, the plants must meet or exceed the
+                requirements in EHS-02-103-F004.</li>
+                     <li class="- topic/li " xtrc="li:76;351:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">If roof access is required, the plants must meet or exceed the
+                requirements in EHS-06-007.</li>
+                  </ol>
+               </li>
+               <li class="- topic/li " xtrc="li:77;355:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">All Hot Work Operations including; Welding, Grinding, Cutting and
+            Torching must meet or exceed the requirements in EHS-108-F002 and include the completion
+            of the Hot Work Permit.</li>
+               <li class="- topic/li " xtrc="li:78;358:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">All plants shall develop and manage a plan to ensure industrial
+            equipment and site required vehicle traffic routes are clearly marked and understood.<ol class="- topic/ol " id="ol_khn_zss_4zb" xtrc="ol:11;359:142" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">
+                     <li class="- topic/li " xtrc="li:79;360:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Ensure the layout of the workspace effectively separate
+                pedestrians, vehicles and powered mobile equipment.</li>
+                     <li class="- topic/li " xtrc="li:80;362:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Keep pedestrians and moving vehicles apart (for example, physical
+                barriers, exclusion zones and safety zones).</li>
+                     <li class="- topic/li " xtrc="li:81;364:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">High visibility personal protective vest or clothing to be worn
+                in areas where powered mobile equipment operate.</li>
+                     <li class="- topic/li " xtrc="li:82;366:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Develop formal site specific training programs for traffic
+                management.</li>
+                     <li class="- topic/li " xtrc="li:83;368:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">The plants must meet or exceed requirements in 02-115-F002.</li>
+                  </ol>
+               </li>
+               <li class="- topic/li " xtrc="li:84;371:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Plant personnel shall have documented training records and a training
+            plan for Batch House safety, which shall be reviewed annually by Human Resources (HR)
+            and the department supervisor/manager.</li>
+               <li class="- topic/li " xtrc="li:85;374:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Safety programs and procedures shall be implemented and practiced for
+            all Batch House personnel that include, but are not limited to, the following:<ol class="- topic/ol " id="ol_z1v_bts_4zb" xtrc="ol:12;375:135" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">
+                     <li class="- topic/li " xtrc="li:86;376:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">No loose clothing, no jewelry, and no hair extending beyond the
+                shoulder. Long hair should be tucked under the helmet/cap, or covered in a bandana. </li>
+                     <li class="- topic/li " xtrc="li:87;378:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">A qualified first aid responder and a first aid kit are located
+                on site and available at all times. Injuries, incidents, and near misses shall be
+                reported in a timely manner.</li>
+                     <li class="- topic/li " xtrc="li:88;381:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Batch House housekeeping program is implemented following the
+                guidelines in Procedure BAT-02-004.</li>
+                  </ol>
+               </li>
+               <li class="- topic/li " xtrc="li:89;385:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_procedure.dita">Plant procedures shall address how contractors and visitors will be
+            informed of, and comply with, the plant’s environmental, health and safety
+            requirements.</li>
+            </ol>
+         </p>
+      </section>
+   </refbody>
+</reference><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\BAT-Space\BAT-02-003\BAT-Space/BAT-02-003?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/BAT-Space/BAT-02-003/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept audience="internal" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1A651BD-BB01-11F0-1075-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;8:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">
+   <title class="- topic/title " xtrc="title:1;9:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">Approval</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;10:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">
+      <author class="- topic/author " xtrc="author:1;11:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;12:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">
+         <created class="- topic/created " date="2025-11-06+05:30" xtrc="created:1;13:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita"/>
+         <revised class="- topic/revised " modified="2025-11-06" xtrc="revised:1;14:42" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;16:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">
+         <audience class="- topic/audience " otherprops="operator,maintenance,safety-engineer" type="role" xtrc="audience:1;17:83" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;18:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">metr-bat-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">batch-house</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">environmental-health-and-safety</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">ehs-system</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">safety-equipment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">risk-assessment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">incident-reporting</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">ppe-inspection</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">training-and-induction</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">emergency-response</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">glass-manufacturing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">workplace-safety</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">regulatory-compliance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">environmental-control</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">hazardous-materials-handling</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;35:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;36:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">metR-BAT-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;37:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Batch House Environmental Health and Safety — Approval" name="title" xtrc="othermeta:1;39:100" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="Approval metadata for environmental, health, and safety controls and acceptance of the batch house EHS procedures." name="shortdesc" xtrc="othermeta:2;40:164" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;41:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;42:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;43:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;44:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;45:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;46:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="ehs-policy;inspection-record;safety-equipment;incident-log;approval-signature" name="entities" xtrc="othermeta:9;47:126" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:glass-production;usecase:governance-and-approval;industry:glassmanufacturing" name="taxonomy" xtrc="othermeta:10;48:132" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="ehs,approval,safety,compliance,environment" name="tags" xtrc="othermeta:11;49:87" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="governance-approval" name="usecase" xtrc="othermeta:12;50:67" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;53:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">
+      <p class="- topic/p " xtrc="p:1;54:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">Sanctioning Representatives of the Global Team<simpletable class="- topic/simpletable " id="simpletable_yyw_j5s_4zb" relcolwidth="1* 1*" xtrc="simpletable:1;56:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">
+            <sthead class="- topic/sthead " xtrc="sthead:1;57:45" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:1;58:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">
+                  <p class="- topic/p " xtrc="p:2;59:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">Region/Discipline</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:2;61:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">
+                  <p class="- topic/p " xtrc="p:3;62:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">Representative</p>
+               </stentry>
+            </sthead>
+            <strow class="- topic/strow " xtrc="strow:1;65:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:3;66:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">
+                  <p class="- topic/p " xtrc="p:4;67:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">Furnace Operations</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:4;69:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">
+                  <p class="- topic/p " xtrc="p:5;70:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">John Collins</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:2;73:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:5;74:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">
+                  <p class="- topic/p " xtrc="p:6;75:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">Plant Systems</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:6;77:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">
+                  <p class="- topic/p " xtrc="p:7;78:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">Richard Albanese</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:3;81:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:7;82:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">
+                  <p class="- topic/p " xtrc="p:8;83:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">Mechanical Systems</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:8;85:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">
+                  <p class="- topic/p " xtrc="p:9;86:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">Andrew Tracey</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:4;89:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:9;90:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">
+                  <p class="- topic/p " xtrc="p:10;91:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">Glass Science</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:10;93:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">
+                  <p class="- topic/p " xtrc="p:11;94:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">Monica Pacheco</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:5;97:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:11;98:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">
+                  <p class="- topic/p " xtrc="p:12;99:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">Global Operations</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:12;101:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">
+                  <p class="- topic/p " xtrc="p:13;102:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_approval.dita">Chris Brenna</p>
+               </stentry>
+            </strow>
+         </simpletable>
+      </p>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\BAT-Space\BAT-02-003\BAT-Space/BAT-02-003?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/BAT-Space/BAT-02-003/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept audience="internal" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1A6C65B-BB01-11F0-4924-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;8:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">
+   <title class="- topic/title " xtrc="title:1;9:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">Revision History</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;10:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">
+      <author class="- topic/author " xtrc="author:1;11:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;12:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">
+         <created class="- topic/created " date="2025-11-06+05:30" xtrc="created:1;13:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita"/>
+         <revised class="- topic/revised " modified="2025-11-06" xtrc="revised:1;14:42" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;16:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">
+         <audience class="- topic/audience " otherprops="operator,maintenance,safety-engineer" type="role" xtrc="audience:1;17:83" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;18:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">metr-bat-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">ehs-revision-history</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">change-log</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">approval-record</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">version-management</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">audit-trail</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">document-review</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">compliance-records</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">quality-assurance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">regulatory-audit</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">glass-manufacturing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">technical-documentation</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">change-control</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">revision-id</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">approval-signature</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;35:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;36:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">metR-BAT-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;37:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Batch House EHS — Revision History" name="title" xtrc="othermeta:1;39:80" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="Chronological record of revisions, approvals and change-control entries for the batch house EHS documentation." name="shortdesc" xtrc="othermeta:2;40:160" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;41:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;42:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;43:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;44:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;45:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;46:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="revision-record;change-log;approval-signature;version-id;audit-entry" name="entities" xtrc="othermeta:9;47:117" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:glass-production;usecase:revision-and-audit;industry:glassmanufacturing" name="taxonomy" xtrc="othermeta:10;48:127" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="revision-history,change-control,audit,versioning,compliance" name="tags" xtrc="othermeta:11;49:104" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="audit-trail" name="usecase" xtrc="othermeta:12;50:59" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;53:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">
+      <p class="- topic/p " xtrc="p:1;54:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">
+         <simpletable class="- topic/simpletable " frame="all" id="table_sm4_pxp_nzb" relcolwidth="1* 1*" xtrc="simpletable:1;58:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">
+            <strow class="- topic/strow " xtrc="strow:1;59:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:1;60:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">2020-09-10</stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:2;61:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">
+                  <p class="- topic/p " xtrc="p:2;62:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">Approved by Chris Brenna, Batch House Fundamentals Lead</p>
+                  <p class="- topic/p " xtrc="p:3;63:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-003/BAT-02-003_revision_history.dita">Original Issue</p>
+               </stentry>
+            </strow>
+         </simpletable>
+      </p>
+   </conbody>
+</concept></concept></dita>

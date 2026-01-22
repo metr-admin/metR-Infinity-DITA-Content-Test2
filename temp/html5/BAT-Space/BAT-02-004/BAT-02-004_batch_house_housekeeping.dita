@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\BAT-Space/BAT-02-004?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/BAT-Space/BAT-02-004/?><?path2rootmap-uri ./?><?path2project ../../?><?path2project-uri ../../?><dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3"><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\BAT-Space\BAT-02-004\BAT-Space/BAT-02-004?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/BAT-Space/BAT-02-004/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1A70AEC-BB01-11F0-1608-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita">Batch House Housekeeping</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita">
+         <created class="- topic/created " date="2025-11-06+05:30" xtrc="created:1;12:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita"/>
+         <revised class="- topic/revised " modified="2025-11-06" xtrc="revised:1;13:42" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita">
+         <audience class="- topic/audience " otherprops="operator,maintenance,safety-engineer" type="role" xtrc="audience:1;16:83" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita">
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;18:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita">metr-bat-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita">batch-house-housekeeping</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita">cleaning-standards</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita">sanitation-procedure</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita">waste-segregation</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita">floor-cleaning</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita">dust-control</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita">spill-management</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita">equipment-wiping</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita">storage-cleanliness</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita">glass-manufacturing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita">facility-maintenance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita">workplace-hygiene</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita">environmental-safety</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita">plant-cleanliness</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;34:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;35:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita">metR-BAT-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;36:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="08-23-2020" name="RevisionDate" xtrc="othermeta:2;24:90" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004.ditamap"/><othermeta class="- topic/othermeta " content="BAT-02-004" name="DocumentNumber" xtrc="othermeta:1;23:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004.ditamap"/><othermeta class="- topic/othermeta " content="Batch House — Housekeeping" name="title" xtrc="othermeta:1;38:72" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita"/>
+         <othermeta class="- topic/othermeta " content="Defines housekeeping standards and cleaning processes for batch house areas to ensure hygiene, safety, and environmental compliance." name="shortdesc" xtrc="othermeta:2;39:182" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;40:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;41:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;42:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;43:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;44:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;45:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita"/>
+         <othermeta class="- topic/othermeta " content="cleaning-schedule;dust-control-system;waste-bins;inspection-form;housekeeping-team" name="entities" xtrc="othermeta:9;46:131" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:glass-production;usecase:facility-hygiene-management;industry:glassmanufacturing" name="taxonomy" xtrc="othermeta:10;47:136" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita"/>
+         <othermeta class="- topic/othermeta " content="housekeeping,cleaning,sanitation,dust-control,inspection" name="tags" xtrc="othermeta:11;48:101" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita"/>
+         <othermeta class="- topic/othermeta " content="facility-hygiene-management" name="usecase" xtrc="othermeta:12;49:75" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;52:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_batch_house_housekeeping.dita"/>
+<?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\BAT-Space\BAT-02-004\BAT-Space/BAT-02-004?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/BAT-Space/BAT-02-004/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1A7394C-BB01-11F0-1383-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita">Purpose</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita">
+         <created class="- topic/created " date="2025-11-06+05:30" xtrc="created:1;12:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita"/>
+         <revised class="- topic/revised " modified="2025-11-06" xtrc="revised:1;13:42" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita">
+         <audience class="- topic/audience " otherprops="operator,maintenance,safety-engineer" type="role" xtrc="audience:1;16:83" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita">
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;18:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita">metr-bat-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita">housekeeping-purpose</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita">facility-cleanliness</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita">hygiene-maintenance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita">workplace-safety</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita">compliance-management</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita">process-consistency</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita">quality-objectives</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita">risk-reduction</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita">regulatory-adherence</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita">glass-manufacturing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita">environmental-safety</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita">quality-assurance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita">plant-safety</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita">production-integrity</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;34:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;35:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita">metR-BAT-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;36:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Batch House Housekeeping — Purpose" name="title" xtrc="othermeta:1;38:80" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="Defines the purpose of housekeeping and cleanliness practices in batch house operations to maintain hygiene, safety, and compliance." name="shortdesc" xtrc="othermeta:2;39:182" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;40:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;41:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;42:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;43:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;44:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;45:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="housekeeping-objective;hygiene-policy;cleanliness-standard;quality-target;compliance-criterion" name="entities" xtrc="othermeta:9;46:143" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:glass-production;usecase:governance-and-purpose;industry:glassmanufacturing" name="taxonomy" xtrc="othermeta:10;47:131" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="purpose,housekeeping,hygiene,quality,compliance" name="tags" xtrc="othermeta:11;48:92" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="purpose-statement" name="usecase" xtrc="othermeta:12;49:65" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;52:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita">
+      <p class="- topic/p " xtrc="p:1;53:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_purpose.dita">To define a procedure that applies to all plants for housekeeping in the Batch House and related areas. </p>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\BAT-Space\BAT-02-004\BAT-Space/BAT-02-004?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/BAT-Space/BAT-02-004/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="r1A7504C-BB01-11F0-1303-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="reference:1;7:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">Reference</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">
+         <created class="- topic/created " date="2025-11-06+05:30" xtrc="created:1;12:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita"/>
+         <revised class="- topic/revised " modified="2025-11-06" xtrc="revised:1;13:42" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">
+         <audience class="- topic/audience " otherprops="operator,maintenance,safety-engineer" type="role" xtrc="audience:1;16:83" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;18:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">metr-bat-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">housekeeping-reference</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">inspection-forms</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">approved-cleaning-agents</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">sanitation-checklist</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">equipment-cleaning-guide</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">waste-management-procedure</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">hygiene-policy</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">training-materials</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">audit-documents</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">glass-manufacturing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">technical-standards</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">maintenance-reference</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">environmental-safety</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">procurement-guidelines</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;34:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;35:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">metR-BAT-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;36:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Batch House Housekeeping — References" name="title" xtrc="othermeta:1;38:83" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="Reference documents and approved cleaning materials related to batch house housekeeping and sanitation practices." name="shortdesc" xtrc="othermeta:2;39:163" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;40:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;41:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;42:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;43:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;44:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;45:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="approved-cleaning-agent;inspection-form;sanitation-checklist;training-guide;audit-document" name="entities" xtrc="othermeta:9;46:139" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:glass-production;usecase:reference-and-specification;industry:glassmanufacturing" name="taxonomy" xtrc="othermeta:10;47:136" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="references,housekeeping,inspection,cleaning,materials" name="tags" xtrc="othermeta:11;48:98" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="reference-list" name="usecase" xtrc="othermeta:12;49:62" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita"/>
+      </metadata>
+   </prolog>
+   <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;52:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">
+      <section class="- topic/section " xtrc="section:1;53:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">
+         <ul class="- topic/ul " id="ul_z5k_jlj_nzb" xtrc="ul:1;54:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">
+            <li class="- topic/li " xtrc="li:1;55:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">BAT-02-003Batch House Environmental, Health and Safety </li>
+            <li class="- topic/li " xtrc="li:2;56:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">BAT-02-010Batch House Personnel Training</li>
+         </ul>
+      </section>
+      <section class="- topic/section " id="section_b2h_klj_nzb" xtrc="section:2;59:66" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">
+         <title class="- topic/title " xtrc="title:2;60:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">Document Classification</title>
+         <ul class="- topic/ul " id="ul_p3c_llj_nzb" xtrc="ul:2;61:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">
+            <li class="- topic/li " xtrc="li:3;62:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">Asset Protection and Stability</li>
+            <li class="- topic/li " xtrc="li:4;63:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">Safety and Environment</li>
+         </ul>
+      </section>
+      <section class="- topic/section " id="section_i1s_llj_nzb" xtrc="section:3;66:66" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">
+         <title class="- topic/title " xtrc="title:3;67:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">Fundamentals</title>
+         <ul class="- topic/ul " id="ul_zfw_mlj_nzb" xtrc="ul:3;68:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">
+            <li class="- topic/li " xtrc="li:5;69:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_reference.dita">FUR-600</li>
+         </ul>
+      </section>
+   </refbody>
+</reference><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\BAT-Space\BAT-02-004\BAT-Space/BAT-02-004?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/BAT-Space/BAT-02-004/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="r1A72255-BB01-11F0-3678-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="reference:1;7:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Procedure</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+         <created class="- topic/created " date="2025-11-06+05:30" xtrc="created:1;12:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita"/>
+         <revised class="- topic/revised " modified="2025-11-06" xtrc="revised:1;13:42" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+         <audience class="- topic/audience " otherprops="operator,maintenance,safety-engineer" type="role" xtrc="audience:1;16:83" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;18:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">metr-bat-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">housekeeping-procedure</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">cleaning-schedule</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">waste-disposal</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">dust-removal</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">spill-cleanup</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">equipment-cleaning</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">record-maintenance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">verification-process</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">inspection-checklist</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">glass-manufacturing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">workplace-hygiene</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">environmental-safety</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">process-control</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">maintenance-activity</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;34:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;35:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">metR-BAT-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;36:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Batch House Housekeeping — Procedure" name="title" xtrc="othermeta:1;38:82" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="Step-by-step housekeeping procedure for batch house operations including cleaning, waste handling, inspection, and documentation." name="shortdesc" xtrc="othermeta:2;39:179" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;40:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;41:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;42:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;43:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;44:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;45:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="housekeeping-procedure;inspection-checklist;waste-disposal-log;cleaning-schedule;maintenance-log" name="entities" xtrc="othermeta:9;46:145" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:glass-production;usecase:procedural-guidance;industry:glassmanufacturing" name="taxonomy" xtrc="othermeta:10;47:128" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="procedure,housekeeping,cleaning,inspection,maintenance" name="tags" xtrc="othermeta:11;48:99" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="procedure" name="usecase" xtrc="othermeta:12;49:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita"/>
+      </metadata>
+   </prolog>
+   <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;52:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+      <section class="- topic/section " xtrc="section:1;53:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+         <ol class="- topic/ol " xtrc="ol:1;54:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+            <li class="- topic/li " xtrc="li:1;55:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Good housekeeping practices and techniques can be broken down into 5 different themes.<ol class="- topic/ol " xtrc="ol:2;55:147" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+                  <li class="- topic/li " xtrc="li:2;56:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Keep the Workplace Clean and Tidy<ol class="- topic/ol " xtrc="ol:3;56:100" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+                        <li class="- topic/li " xtrc="li:3;57:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">It is the responsibility of all who work or have business in the Batch House to maintain a clean and safe work environment and notify the appropriate personnel of damaged or problem equipment. </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:4;60:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Watch Floor Surfaces<ol class="- topic/ol " xtrc="ol:4;60:87" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+                        <li class="- topic/li " xtrc="li:5;61:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Regular inspection for hazards such as floor deterioration, material accumulation and water or oil buildup. </li>
+                        <li class="- topic/li " xtrc="li:6;62:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Wear the proper footwear as defined in Procedure BAT-02-003 Batch House
+                           Environmental, Health and Safety.</li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:7;66:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Check Storage Areas<ol class="- topic/ol " xtrc="ol:5;66:86" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+                        <li class="- topic/li " xtrc="li:8;67:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Regularly clear out storage areas to confirm equipment is still in good working order and is accounted for. Discard broken equipment or expired materials.</li>
+                        <li class="- topic/li " xtrc="li:9;68:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Ensure heavy objects are not stored overhead, or if overhead storage is
+                           required, the objects are secured in place. <fig class="- topic/fig " xtrc="fig:1;69:98" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+                              <image align="center" class="- topic/image " href="media/image1.jpg" placement="break" xtrc="image:1;73:62" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita" dita-ot:image-width="1227" dita-ot:image-height="690" dita-ot:horizontal-dpi="220" dita-ot:vertical-dpi="220"/>
+                           </fig>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:10;78:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Keep Up with Maintenance
+            <ol class="- topic/ol " xtrc="ol:6;79:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+                        <li class="- topic/li " xtrc="li:11;80:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">The Batch House is full of machines and equipment requiring regular maintenance.</li>
+                        <li class="- topic/li " xtrc="li:12;81:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Keep maintenance logs that include, but are not limited to:
+               <ol class="- topic/ol " xtrc="ol:7;82:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+                              <li class="- topic/li " xtrc="li:13;83:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+                  Install date, service performed, service dates.
+               </li>
+                           </ol>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:14;90:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Stay Vigilant
+            <ol class="- topic/ol " xtrc="ol:8;91:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+                        <li class="- topic/li " xtrc="li:15;92:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">When everyone does their part to keep housekeeping in mind, mechanics will be more willing to perform preventative maintenance on equipment that will reduce unexpected down time. Also crew members will be more encouraged to clean small messes when they occur instead of allowing them to turn into large messes. </li>
+                        <li class="- topic/li " xtrc="li:16;93:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Take special care to watch new employees and contractors who are not familiar with the Batch House to ensure they understand the appropriate safety procedures and good housekeeping behaviors. </li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:17;98:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">It the responsibility of all employees working within the Batch House including contractors to maintain a clean and safe work environment at all times.  </li>
+            <li class="- topic/li " xtrc="li:18;99:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">All Batch House personnel shall follow the directives in Procedure BAT-02-003 Batch
+               House Environmental, Health and Safety when performing housekeeping tasks.</li>
+            <li class="- topic/li " xtrc="li:19;101:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Batch House personnel shall be trained in housekeeping tasks according to BAT-02-010
+               Batch House Personnel Training.</li>
+            <li class="- topic/li " xtrc="li:20;103:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Housekeeping and cleaning tasks, responsibilities and techniques will vary by plant and in accordance to local, state and governmental regulations. Housekeeping routines shall include, but not be limited to, the following areas:
+         <ol class="- topic/ol " xtrc="ol:9;104:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+                  <li class="- topic/li " xtrc="li:21;105:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Top of batch house. <fig class="- topic/fig " xtrc="fig:2;105:89" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+                        <image align="center" class="- topic/image " href="media/image2.jpg" placement="break" xtrc="image:2;109:56" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita" dita-ot:image-width="716" dita-ot:image-height="479" dita-ot:horizontal-dpi="220" dita-ot:vertical-dpi="220"/>
+                     </fig>
+                  </li>
+                  <li class="- topic/li " xtrc="li:22;112:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Batch house basement.</li>
+                  <li class="- topic/li " xtrc="li:23;113:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Mixer floor and scales floor. <fig class="- topic/fig " xtrc="fig:3;113:99" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+                        <image align="center" class="- topic/image " href="media/image3.jpg" placement="break" xtrc="image:3;117:56" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita" dita-ot:image-width="768" dita-ot:image-height="1024"/>
+                     </fig>
+                     <fig class="- topic/fig " xtrc="fig:4;119:48" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+                        <image align="center" class="- topic/image " href="media/image4.jpg" placement="break" xtrc="image:4;123:56" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita" dita-ot:image-width="852" dita-ot:image-height="570" dita-ot:horizontal-dpi="220" dita-ot:vertical-dpi="220"/>
+                     </fig>
+                  </li>
+                  <li class="- topic/li " xtrc="li:24;126:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Dumpster area and entire Batch and Furnace yard area outside.</li>
+                  <li class="- topic/li " xtrc="li:25;127:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">All belt conveyors. <fig class="- topic/fig " xtrc="fig:5;127:89" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+                        <image align="center" class="- topic/image " href="media/image5.jpg" placement="break" xtrc="image:5;131:56" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita" dita-ot:image-width="420" dita-ot:image-height="560" dita-ot:horizontal-dpi="96" dita-ot:vertical-dpi="96"/>
+                     </fig>
+                  </li>
+                  <li class="- topic/li " xtrc="li:26;134:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Platforms surrounding all conveyors and elevators. <fig class="- topic/fig " xtrc="fig:6;134:120" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+                        <image align="center" class="- topic/image " href="media/image6.jpg" placement="break" xtrc="image:6;138:56" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita" dita-ot:image-width="364" dita-ot:image-height="479" dita-ot:horizontal-dpi="220" dita-ot:vertical-dpi="220"/>
+                     </fig>
+                  </li>
+                  <li class="- topic/li " xtrc="li:27;141:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Major and minor scale discharge chutes. <fig class="- topic/fig " xtrc="fig:7;141:109" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+                        <image align="center" class="- topic/image " href="media/image7.jpg" placement="break" xtrc="image:7;145:56" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita" dita-ot:image-width="748" dita-ot:image-height="561" dita-ot:horizontal-dpi="96" dita-ot:vertical-dpi="96"/>
+                     </fig>
+                  </li>
+                  <li class="- topic/li " xtrc="li:28;148:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Hot and cold cullet returns. <fig class="- topic/fig " xtrc="fig:8;148:98" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+                        <image align="center" class="- topic/image " href="media/image8.jpg" placement="break" xtrc="image:8;152:56" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita" dita-ot:image-width="420" dita-ot:image-height="560" dita-ot:horizontal-dpi="96" dita-ot:vertical-dpi="96"/>
+                     </fig>
+                     <fig class="- topic/fig " xtrc="fig:9;154:48" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+                        <image align="center" class="- topic/image " href="media/image9.jpg" placement="break" xtrc="image:9;158:56" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita" dita-ot:image-width="420" dita-ot:image-height="560" dita-ot:horizontal-dpi="96" dita-ot:vertical-dpi="96"/>
+                     </fig>
+                  </li>
+                  <li class="- topic/li " xtrc="li:29;161:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Yard around the Batch House. <fig class="- topic/fig " xtrc="fig:10;161:98" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+                        <image align="center" class="- topic/image " href="media/image10.jpg" placement="break" xtrc="image:10;165:56" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita" dita-ot:image-width="1365" dita-ot:image-height="448" dita-ot:horizontal-dpi="96" dita-ot:vertical-dpi="96"/>
+                     </fig>
+                  </li>
+                  <li class="- topic/li " xtrc="li:30;168:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Truck unloading area. <fig class="- topic/fig " xtrc="fig:11;168:91" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+                        <image align="center" class="- topic/image " href="media/image11.jpg" placement="break" xtrc="image:11;172:56" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita" dita-ot:image-width="1036" dita-ot:image-height="694" dita-ot:horizontal-dpi="150" dita-ot:vertical-dpi="150"/>
+                     </fig>
+                  </li>
+                  <li class="- topic/li " xtrc="li:31;175:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Rail unloading area.</li>
+                  <li class="- topic/li " xtrc="li:32;176:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Areas surrounding external cullet bunkers.</li>
+                  <li class="- topic/li " xtrc="li:33;177:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">External cullet building and expanded metal floor.</li>
+                  <li class="- topic/li " xtrc="li:34;178:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Minor raw materials mixing and storage. <fig class="- topic/fig " xtrc="fig:12;178:109" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+                        <image align="center" class="- topic/image " href="media/image12.jpg" placement="break" xtrc="image:12;182:56" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita" dita-ot:image-width="1024" dita-ot:image-height="768"/>
+                     </fig>
+                     <fig class="- topic/fig " xtrc="fig:13;184:48" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">
+                        <image align="center" class="- topic/image " href="media/image13.jpg" placement="break" xtrc="image:13;188:56" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita" dita-ot:image-width="1024" dita-ot:image-height="768"/>
+                     </fig>
+                  </li>
+                  <li class="- topic/li " xtrc="li:35;191:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Scale area and entire recycling center.</li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:36;194:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">If cleaning in the Batch House or unloading area presents a risk of contaminating the batch, cullet, or mixed batch and cullet, the affected material shall be rejected and disposed of properly.</li>
+            <li class="- topic/li " xtrc="li:37;195:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Personnel shall maintain work benches and other work areas in a neat and orderly manner.</li>
+            <li class="- topic/li " xtrc="li:38;196:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Batch House personnel shall follow the Lean 5S process and method for creating and maintaining an organized, clean, and safe high-performance workplace: sort, set in order (simplify), shine (sweep), standardize, and sustain (self-discipline).  </li>
+            <li class="- topic/li " xtrc="li:39;197:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Space Plant Health and Safety representatives shall be responsible for informing and obtaining agreements with any cleaning contractor personnel.</li>
+            <li class="- topic/li " xtrc="li:40;198:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Plant leadership shall review electronic and electrical equipment with the individual(s) or contractor(s) actually doing the cleaning and instruct them regarding the proper cleaning procedures. </li>
+            <li class="- topic/li " xtrc="li:41;199:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_procedure.dita">Do NOT be satisfied with damaged, broken or unsafe equipment/work areas. The examples above show that Batch Houses can look amazing and perform just as well. With vigilance, care and accountability it is possible. Reach out to your subject matter experts with any questions or concerns. </li>
+         </ol>
+      </section>
+   </refbody>
+</reference><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\BAT-Space\BAT-02-004\BAT-Space/BAT-02-004?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/BAT-Space/BAT-02-004/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept audience="internal" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1A6F387-BB01-11F0-1141-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;8:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">
+   <title class="- topic/title " xtrc="title:1;9:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">Approval</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;10:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">
+      <author class="- topic/author " xtrc="author:1;11:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;12:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">
+         <created class="- topic/created " date="2025-11-06+05:30" xtrc="created:1;13:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita"/>
+         <revised class="- topic/revised " modified="2025-11-06" xtrc="revised:1;14:42" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;16:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">
+         <audience class="- topic/audience " otherprops="operator,maintenance,safety-engineer" type="role" xtrc="audience:1;17:83" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;18:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">metr-bat-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">batch-house</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">housekeeping-approval</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">cleaning-schedule</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">inspection-records</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">cleaning-validation</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">maintenance-signoff</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">safety-checklist</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">sanitation-audit</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">compliance-verification</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">glass-manufacturing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">workplace-hygiene</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">plant-safety</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">quality-compliance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">environmental-control</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;35:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;36:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">metR-BAT-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;37:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Batch House Housekeeping — Approval" name="title" xtrc="othermeta:1;39:81" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="Approval documentation for batch house housekeeping procedures, inspections, and sanitation verification." name="shortdesc" xtrc="othermeta:2;40:155" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;41:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;42:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;43:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;44:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;45:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;46:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="housekeeping-plan;inspection-record;sanitation-checklist;approval-form;cleaning-schedule" name="entities" xtrc="othermeta:9;47:137" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:glass-production;usecase:governance-and-approval;industry:glassmanufacturing" name="taxonomy" xtrc="othermeta:10;48:132" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="approval,housekeeping,inspection,sanitation,compliance" name="tags" xtrc="othermeta:11;49:99" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="governance-approval" name="usecase" xtrc="othermeta:12;50:67" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;53:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">
+      <p class="- topic/p " xtrc="p:1;54:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">Sanctioning Representatives of the Global Team<simpletable class="- topic/simpletable " id="table_gfy_jnj_nzb" relcolwidth="1* 1*" xtrc="simpletable:1;56:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">
+            <sthead class="- topic/sthead " xtrc="sthead:1;57:45" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:1;58:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">
+                  <p class="- topic/p " xtrc="p:2;59:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">Region/Discipline</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:2;61:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">
+                  <p class="- topic/p " xtrc="p:3;62:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">Representative</p>
+               </stentry>
+            </sthead>
+            <strow class="- topic/strow " xtrc="strow:1;65:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:3;66:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">
+                  <p class="- topic/p " xtrc="p:4;67:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">Furnace Operations</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:4;69:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">
+                  <p class="- topic/p " xtrc="p:5;70:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">John Collins</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:2;73:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:5;74:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">
+                  <p class="- topic/p " xtrc="p:6;75:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">Plant Systems</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:6;77:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">
+                  <p class="- topic/p " xtrc="p:7;78:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">Richard Albanese</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:3;81:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:7;82:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">
+                  <p class="- topic/p " xtrc="p:8;83:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">Mechanical Systems</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:8;85:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">
+                  <p class="- topic/p " xtrc="p:9;86:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">Andrew Tracey</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:4;89:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:9;90:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">
+                  <p class="- topic/p " xtrc="p:10;91:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">Glass Science</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:10;93:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">
+                  <p class="- topic/p " xtrc="p:11;94:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">Monica Pacheco</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:5;97:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:11;98:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">
+                  <p class="- topic/p " xtrc="p:12;99:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">Global Operations</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:12;101:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">
+                  <p class="- topic/p " xtrc="p:13;102:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_approval.dita">Chris Brenna</p>
+               </stentry>
+            </strow>
+         </simpletable>
+      </p>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\BAT-Space\BAT-02-004\BAT-Space/BAT-02-004?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/BAT-Space/BAT-02-004/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept audience="internal" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1A76644-BB01-11F0-1256-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;8:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">
+   <title class="- topic/title " xtrc="title:1;9:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">Revision History</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;10:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">
+      <author class="- topic/author " xtrc="author:1;11:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;12:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">
+         <created class="- topic/created " date="2025-11-06+05:30" xtrc="created:1;13:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita"/>
+         <revised class="- topic/revised " modified="2025-11-06" xtrc="revised:1;14:42" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;16:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">
+         <audience class="- topic/audience " otherprops="operator,maintenance,safety-engineer" type="role" xtrc="audience:1;17:83" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;18:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">metr-bat-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">housekeeping-revision-history</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">change-log</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">approval-record</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">version-management</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">document-review</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">audit-trail</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">compliance-records</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">quality-assurance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">regulatory-audit</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">glass-manufacturing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">technical-documentation</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">change-control</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">revision-id</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">approval-signature</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;35:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;36:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">metR-BAT-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;37:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Batch House Housekeeping — Revision History" name="title" xtrc="othermeta:1;39:89" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="Chronological record of revisions, approvals, and change-control actions for the batch house housekeeping documentation." name="shortdesc" xtrc="othermeta:2;40:170" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;41:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;42:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;43:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;44:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;45:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;46:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="revision-record;change-log;approval-signature;version-id;audit-entry" name="entities" xtrc="othermeta:9;47:117" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:glass-production;usecase:revision-and-audit;industry:glassmanufacturing" name="taxonomy" xtrc="othermeta:10;48:127" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="revision-history,housekeeping,audit,versioning,compliance" name="tags" xtrc="othermeta:11;49:102" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="audit-trail" name="usecase" xtrc="othermeta:12;50:59" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;53:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">
+      <p class="- topic/p " xtrc="p:1;54:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">
+         <simpletable class="- topic/simpletable " frame="all" id="table_v2k_j4v_mzb" relcolwidth="1* 1*" xtrc="simpletable:1;58:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">
+            <strow class="- topic/strow " xtrc="strow:1;59:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:1;60:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">2020-08-23</stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:2;61:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">
+                  <p class="- topic/p " xtrc="p:2;62:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">Approved by Chris Brenna, Batch House Fundamentals Lead</p>
+                  <p class="- topic/p " xtrc="p:3;63:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-02-004/BAT-02-004_revision_history.dita">Original Issue</p>
+               </stentry>
+            </strow>
+         </simpletable>
+      </p>
+   </conbody>
+</concept></concept></dita>

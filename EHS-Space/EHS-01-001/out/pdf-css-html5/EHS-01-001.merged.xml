@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="m1C7999C-BB01-11F0-1783-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="map:1;7:25" xtrf="file:/D:/metR_AI_Infinity_Project/SPACE/EHS-Space/EHS-01-001/EHS-01-001.ditamap"><oxy:front-page class="- front-page/front-page "><topicmeta xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- map/topicmeta ">
+      <critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="12-30-2015"/>
+      </critdates>
+      <prodinfo class="- topic/prodinfo ">
+         <prodname class="- topic/prodname "/>
+      </prodinfo>
+   </topicmeta><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Global EHS Vision, Mission and Values</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+   <title class="- topic/title ">Global EHS Vision, Mission and Values</title>
+   
+   <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c1C81F67-BB01-11F0-1695-09173F13E4C5"><resourceid appid="c1C81F67-BB01-11F0-1695-09173F13E4C5" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Global EHS Vision, Mission and Values</navtitle><?ditaot gentext?><critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="12-30-2015"/>
+      </critdates><prodinfo class="- topic/prodinfo ">
+         <prodname class="- topic/prodname "/>
+      </prodinfo><othermeta class="- topic/othermeta " content="EHS-01-001" name="DocumentNumber"/><othermeta class="- topic/othermeta " content="12-30-2015" name="RevisionDate"/></topicmeta><topicref class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c1C8771B-BB01-11F0-1957-09173F13E4C5"><resourceid appid="c1C8771B-BB01-11F0-1957-09173F13E4C5" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Vision</navtitle><?ditaot gentext?><critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="12-30-2015"/>
+      </critdates><prodinfo class="- topic/prodinfo ">
+         <prodname class="- topic/prodname "/>
+      </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c1C8359D-BB01-11F0-1402-09173F13E4C5"><resourceid appid="c1C8359D-BB01-11F0-1402-09173F13E4C5" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Mission</navtitle><?ditaot gentext?><critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="12-30-2015"/>
+      </critdates><prodinfo class="- topic/prodinfo ">
+         <prodname class="- topic/prodname "/>
+      </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c1C808F5-BB01-11F0-1891-09173F13E4C5"><resourceid appid="c1C808F5-BB01-11F0-1891-09173F13E4C5" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Five EHS Principles</navtitle><?ditaot gentext?><critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="12-30-2015"/>
+      </critdates><prodinfo class="- topic/prodinfo ">
+         <prodname class="- topic/prodname "/>
+      </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c1C7C7A3-BB01-11F0-3134-09173F13E4C5"><resourceid appid="c1C7C7A3-BB01-11F0-3134-09173F13E4C5" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">All incidents are preventable</navtitle><?ditaot gentext?><critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="12-30-2015"/>
+      </critdates><prodinfo class="- topic/prodinfo ">
+         <prodname class="- topic/prodname "/>
+      </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c1C7F35C-BB01-11F0-1367-09173F13E4C5"><resourceid appid="c1C7F35C-BB01-11F0-1367-09173F13E4C5" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Everyone is responsible</navtitle><?ditaot gentext?><critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="12-30-2015"/>
+      </critdates><prodinfo class="- topic/prodinfo ">
+         <prodname class="- topic/prodname "/>
+      </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c1C88C87-BB01-11F0-5863-09173F13E4C5"><resourceid appid="c1C88C87-BB01-11F0-5863-09173F13E4C5" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">We identify and reduce risk</navtitle><?ditaot gentext?><critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="12-30-2015"/>
+      </critdates><prodinfo class="- topic/prodinfo ">
+         <prodname class="- topic/prodname "/>
+      </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_8" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c1C7B08D-BB01-11F0-2539-09173F13E4C5"><resourceid appid="c1C7B08D-BB01-11F0-2539-09173F13E4C5" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">A proactive no blame approach</navtitle><?ditaot gentext?><critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="12-30-2015"/>
+      </critdates><prodinfo class="- topic/prodinfo ">
+         <prodname class="- topic/prodname "/>
+      </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_9" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c1C84B8B-BB01-11F0-1183-09173F13E4C5"><resourceid appid="c1C84B8B-BB01-11F0-1183-09173F13E4C5" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Never put production ahead of EHS</navtitle><?ditaot gentext?><critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="12-30-2015"/>
+      </critdates><prodinfo class="- topic/prodinfo ">
+         <prodname class="- topic/prodname "/>
+      </prodinfo></topicmeta></topicref><topicref audience="internal" class="- map/topicref " href="#unique_10" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c1C7DD6A-BB01-11F0-5516-09173F13E4C5"><resourceid appid="c1C7DD6A-BB01-11F0-5516-09173F13E4C5" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Approval</navtitle><?ditaot gentext?><critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="12-30-2015"/>
+      </critdates><prodinfo class="- topic/prodinfo ">
+         <prodname class="- topic/prodname "/>
+      </prodinfo></topicmeta></topicref><topicref audience="internal" class="- map/topicref " href="#unique_11" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c1C86140-BB01-11F0-1182-09173F13E4C5"><resourceid appid="c1C86140-BB01-11F0-1182-09173F13E4C5" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Revision History</navtitle><?ditaot gentext?><critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="12-30-2015"/>
+      </critdates><prodinfo class="- topic/prodinfo ">
+         <prodname class="- topic/prodname "/>
+      </prodinfo></topicmeta></topicref></topicref>
+<topicref is-chapter="true" is-index="true" class="- map/topicref "><topicmeta class="- map/topicmeta "><navtitle href="#d153e1453" class="- topic/navtitle ">Index</navtitle></topicmeta></topicref></opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="c1C81F67-BB01-11F0-1695-09173F13E4C5" oid="c1C81F67-BB01-11F0-1695-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us">
+   <title class="- topic/title "><opentopic-index:refID indexid="indexid1771456584" value="metr-ehs-space:" class="- index/refid " id="d153e222"/><opentopic-index:refID indexid="indexid1679578612" value="ehs-governance-tool:" class="- index/refid " id="d153e226"/><opentopic-index:refID indexid="indexid-1237841753" value="performance-metrics-module:" class="- index/refid " id="d153e230"/><opentopic-index:refID indexid="indexid42191827" value="training-and-development-module:" class="- index/refid " id="d153e234"/><opentopic-index:refID indexid="indexid-876012282" value="vision-and-mission-setting:" class="- index/refid " id="d153e238"/><opentopic-index:refID indexid="indexid-1852175590" value="policy-development:" class="- index/refid " id="d153e243"/><opentopic-index:refID indexid="indexid-813041584" value="strategic-planning:" class="- index/refid " id="d153e247"/><opentopic-index:refID indexid="indexid693272877" value="glass-manufacturing:" class="- index/refid " id="d153e251"/><opentopic-index:refID indexid="indexid-1331279760" value="environmental-health-and-safety:" class="- index/refid " id="d153e255"/><opentopic-index:refID indexid="indexid-2084944950" value="regulatory-compliance:" class="- index/refid " id="d153e259"/><ph class="- topic/ph topic/title-wrapper ">Global EHS Vision, Mission and Values</ph></title>
+   <prolog class="- topic/prolog ">
+      <author class="- topic/author ">Suchitra</author>
+      <critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="12-30-2015"/>
+      </critdates>
+      <metadata class="- topic/metadata ">
+         <audience class="- topic/audience " otherprops="executive-leadership,plant-management,safety-and-compliance-officers,hr-and-talent,operations-leads" type="role"/>
+         <keywords class="- topic/keywords ">
+            <opentopic-index:index.entry value="metr-ehs-space" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">metr-ehs-space</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1771456584" value="metr-ehs-space:" class="- index/refid " id="d153e222"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="ehs-governance-tool" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">ehs-governance-tool</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1679578612" value="ehs-governance-tool:" class="- index/refid " id="d153e226"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="performance-metrics-module" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">performance-metrics-module</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1237841753" value="performance-metrics-module:" class="- index/refid " id="d153e230"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="training-and-development-module" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">training-and-development-module</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid42191827" value="training-and-development-module:" class="- index/refid " id="d153e234"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="vision-and-mission-setting" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">vision-and-mission-setting</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-876012282" value="vision-and-mission-setting:" class="- index/refid " id="d153e238"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="policy-development" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">policy-development</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1852175590" value="policy-development:" class="- index/refid " id="d153e243"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="strategic-planning" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">strategic-planning</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-813041584" value="strategic-planning:" class="- index/refid " id="d153e247"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="glass-manufacturing" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">glass-manufacturing</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid693272877" value="glass-manufacturing:" class="- index/refid " id="d153e251"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="environmental-health-and-safety" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">environmental-health-and-safety</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1331279760" value="environmental-health-and-safety:" class="- index/refid " id="d153e255"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="regulatory-compliance" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">regulatory-compliance</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2084944950" value="regulatory-compliance:" class="- index/refid " id="d153e259"/></opentopic-index:index.entry>
+         </keywords>
+         <prodinfo class="- topic/prodinfo ">
+         <prodname class="- topic/prodname "/>
+      </prodinfo><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">metR-EHS-Space</prodname>
+            <platform class="- topic/platform ">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="12-30-2015" name="RevisionDate"/><othermeta class="- topic/othermeta " content="EHS-01-001" name="DocumentNumber"/><othermeta class="- topic/othermeta " content="global ehs vision mission and values" name="title"/>
+         <othermeta class="- topic/othermeta " content="outlines the organisation wide EHS vision mission and values to embed safety into strategic planning and culture" name="shortdesc"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy"/>
+         <othermeta class="- topic/othermeta " content="ehs-policies;performance-indicators;training-programmes;management-review;audit-process" name="entities"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs;usecase:strategy-and-governance;industry:heavy machinery and industrial equipment" name="taxonomy"/>
+         <othermeta class="- topic/othermeta " content="vision,mission,values,strategy,governance" name="tags"/>
+         <othermeta class="- topic/othermeta " content="define-ehs-strategy-and-values" name="usecase"/>
+      </metadata>
+   </prolog>
+   
+   <conbody class="- topic/body  concept/conbody "/>
+<concept class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="c1C8771B-BB01-11F0-1957-09173F13E4C5" oid="c1C8771B-BB01-11F0-1957-09173F13E4C5" specializations="@props/deliveryTarget">
+   <title class="- topic/title "><opentopic-index:refID indexid="indexid1771456584" value="metr-ehs-space:" class="- index/refid " id="d153e330"/><opentopic-index:refID indexid="indexid-1871335597" value="ehs-vision-statement:" class="- index/refid " id="d153e334"/><opentopic-index:refID indexid="indexid761782160" value="culture-change-initiative:" class="- index/refid " id="d153e338"/><opentopic-index:refID indexid="indexid1390310390" value="long-term-target-setting:" class="- index/refid " id="d153e342"/><opentopic-index:refID indexid="indexid1648891990" value="zero-incident-aspiration:" class="- index/refid " id="d153e346"/><opentopic-index:refID indexid="indexid-721919521" value="operational-excellence:" class="- index/refid " id="d153e351"/><ph class="- topic/ph topic/title-wrapper ">Vision</ph></title>
+   <prolog class="- topic/prolog ">
+      <author class="- topic/author ">Suchitra</author>
+      <critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="12-30-2015"/>
+      </critdates>
+      <metadata class="- topic/metadata ">
+         <audience class="- topic/audience " otherprops="executive-leadership,plant-management,safety-and-compliance-officers,operations-leads,all-employees" type="role"/>
+         <keywords class="- topic/keywords ">
+            <opentopic-index:index.entry value="metr-ehs-space" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">metr-ehs-space</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1771456584" value="metr-ehs-space:" class="- index/refid " id="d153e330"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="ehs-vision-statement" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">ehs-vision-statement</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1871335597" value="ehs-vision-statement:" class="- index/refid " id="d153e334"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="culture-change-initiative" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">culture-change-initiative</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid761782160" value="culture-change-initiative:" class="- index/refid " id="d153e338"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="long-term-target-setting" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">long-term-target-setting</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1390310390" value="long-term-target-setting:" class="- index/refid " id="d153e342"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="zero-incident-aspiration" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">zero-incident-aspiration</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1648891990" value="zero-incident-aspiration:" class="- index/refid " id="d153e346"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="operational-excellence" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">operational-excellence</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-721919521" value="operational-excellence:" class="- index/refid " id="d153e351"/></opentopic-index:index.entry>
+         </keywords>
+         <prodinfo class="- topic/prodinfo ">
+         <prodname class="- topic/prodname "/>
+      </prodinfo><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">metR-EHS-Space</prodname>
+            <platform class="- topic/platform ">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="vision" name="title"/>
+         <othermeta class="- topic/othermeta " content="articulates the long term EHS vision to achieve sustained zero incidents and embed safety into the business strategy" name="shortdesc"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy"/>
+         <othermeta class="- topic/othermeta " content="vision-statement;strategic-targets;communication-materials;leadership-messages" name="entities"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs;usecase:vision-and-strategy;industry:heavy machinery and industrial equipment" name="taxonomy"/>
+         <othermeta class="- topic/othermeta " content="vision,strategy,culture" name="tags"/>
+         <othermeta class="- topic/othermeta " content="communicate-long-term-ehs-vision" name="usecase"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody ">
+      <section class="- topic/section " id="unique_2_Connect_42_section_ddk_rqs_4zb" nd:nd-id="section_ddk_rqs_4zb">
+         <title class="- topic/title ">Zero incidents</title>
+         <p class="- topic/p ">
+            <ol class="- topic/ol " id="unique_2_Connect_42_ol_zkf_5qs_4zb" nd:nd-id="ol_zkf_5qs_4zb">
+               <li class="- topic/li ">Space is committed to achieve a global workplace with zero environment,
+                        occupational health or safety incidents.</li>
+               <li class="- topic/li ">EHS incidents include all injuries and environmental non-compliance
+                        issues.</li>
+            </ol>
+         </p>
+      </section>
+   </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="c1C8359D-BB01-11F0-1402-09173F13E4C5" oid="c1C8359D-BB01-11F0-1402-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us">
+   <title class="- topic/title "><opentopic-index:refID indexid="indexid1771456584" value="metr-ehs-space:" class="- index/refid " id="d153e439"/><opentopic-index:refID indexid="indexid277091974" value="mission-definition:" class="- index/refid " id="d153e443"/><opentopic-index:refID indexid="indexid1791621236" value="performance-alignment:" class="- index/refid " id="d153e447"/><opentopic-index:refID indexid="indexid-182821472" value="talent-development:" class="- index/refid " id="d153e451"/><opentopic-index:refID indexid="indexid-623780282" value="plant-safety:" class="- index/refid " id="d153e455"/><opentopic-index:refID indexid="indexid-2084944950" value="regulatory-compliance:" class="- index/refid " id="d153e460"/><ph class="- topic/ph topic/title-wrapper ">Mission</ph></title>
+   <prolog class="- topic/prolog ">
+      <author class="- topic/author ">Suchitra</author>
+      <critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="12-30-2015"/>
+      </critdates>
+      <metadata class="- topic/metadata ">
+         <audience class="- topic/audience " otherprops="executive-leadership,plant-management,safety-officers,operations-leads,hr" type="role"/>
+         <keywords class="- topic/keywords ">
+            <opentopic-index:index.entry value="metr-ehs-space" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">metr-ehs-space</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1771456584" value="metr-ehs-space:" class="- index/refid " id="d153e439"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="mission-definition" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">mission-definition</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid277091974" value="mission-definition:" class="- index/refid " id="d153e443"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="performance-alignment" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">performance-alignment</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1791621236" value="performance-alignment:" class="- index/refid " id="d153e447"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="talent-development" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">talent-development</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-182821472" value="talent-development:" class="- index/refid " id="d153e451"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="plant-safety" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">plant-safety</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-623780282" value="plant-safety:" class="- index/refid " id="d153e455"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="regulatory-compliance" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">regulatory-compliance</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2084944950" value="regulatory-compliance:" class="- index/refid " id="d153e460"/></opentopic-index:index.entry>
+         </keywords>
+         <prodinfo class="- topic/prodinfo ">
+         <prodname class="- topic/prodname "/>
+      </prodinfo><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">metR-EHS-Space</prodname>
+            <platform class="- topic/platform ">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="mission" name="title"/>
+         <othermeta class="- topic/othermeta " content="states the EHS mission emphasising prevention leadership and integration of safety into operations and talent development" name="shortdesc"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy"/>
+         <othermeta class="- topic/othermeta " content="safety-targets;training-programmes;leadership-commitments;performance-metrics" name="entities"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs;usecase:mission-and-objectives;industry:heavy machinery and industrial equipment" name="taxonomy"/>
+         <othermeta class="- topic/othermeta " content="mission,targets,leadership" name="tags"/>
+         <othermeta class="- topic/othermeta " content="define-ehs-mission-and-aligned-targets" name="usecase"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody ">
+      <ol class="- topic/ol ">
+         <li class="- topic/li ">Empower our people and engage our communities to achieve zero incidents. Through leading practices, we implement global, sustainable and innovative collaborative solutions. We enable learning, recognize achievements, and continuously improve.</li>
+         <li class="- topic/li ">We are committed to achieve a zero incident workplace through our people – by providing them with the resources, tools and leadership support to see and solve problems that could lead to an EHS incident. </li>
+         <li class="- topic/li ">We focus on applying leading practices by collaborating with local, regional and national communities across regions, and using internal and external ideas to create sustainable, collaborative, innovative solutions.</li>
+         <li class="- topic/li ">We are committed to being a learning organization; to recognize and reward EHS employees and our partners in the functions and businesses; and to improve our processes and results every day.</li>
+      </ol>
+   </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="c1C808F5-BB01-11F0-1891-09173F13E4C5" oid="c1C808F5-BB01-11F0-1891-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us">
+   <title class="- topic/title "><opentopic-index:refID indexid="indexid1771456584" value="metr-ehs-space:" class="- index/refid " id="d153e545"/><opentopic-index:refID indexid="indexid1712881617" value="hazard-identification:" class="- index/refid " id="d153e549"/><opentopic-index:refID indexid="indexid-396159515" value="risk-reduction:" class="- index/refid " id="d153e553"/><opentopic-index:refID indexid="indexid-1682415218" value="behavioural-change-program:" class="- index/refid " id="d153e557"/><opentopic-index:refID indexid="indexid-916467539" value="operational-safety:" class="- index/refid " id="d153e561"/><opentopic-index:refID indexid="indexid-1766792384" value="workplace-wellbeing:" class="- index/refid " id="d153e566"/><ph class="- topic/ph topic/title-wrapper ">Five EHS Principles</ph></title>
+   <prolog class="- topic/prolog ">
+      <author class="- topic/author ">Suchitra</author>
+      <critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="12-30-2015"/>
+      </critdates>
+      <metadata class="- topic/metadata ">
+         <audience class="- topic/audience " otherprops="safety-and-compliance-officers,plant-management,operations-leads,maintenance-personnel,training-coordinators" type="role"/>
+         <keywords class="- topic/keywords ">
+            <opentopic-index:index.entry value="metr-ehs-space" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">metr-ehs-space</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1771456584" value="metr-ehs-space:" class="- index/refid " id="d153e545"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="hazard-identification" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">hazard-identification</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1712881617" value="hazard-identification:" class="- index/refid " id="d153e549"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="risk-reduction" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">risk-reduction</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-396159515" value="risk-reduction:" class="- index/refid " id="d153e553"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="behavioural-change-program" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">behavioural-change-program</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1682415218" value="behavioural-change-program:" class="- index/refid " id="d153e557"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="operational-safety" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">operational-safety</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-916467539" value="operational-safety:" class="- index/refid " id="d153e561"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="workplace-wellbeing" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">workplace-wellbeing</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1766792384" value="workplace-wellbeing:" class="- index/refid " id="d153e566"/></opentopic-index:index.entry>
+         </keywords>
+         <prodinfo class="- topic/prodinfo ">
+         <prodname class="- topic/prodname "/>
+      </prodinfo><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">metR-EHS-Space</prodname>
+            <platform class="- topic/platform ">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="five ehs principles" name="title"/>
+         <othermeta class="- topic/othermeta " content="presents the five core EHS principles to guide behaviour decision making and risk reduction across the plant" name="shortdesc"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy"/>
+         <othermeta class="- topic/othermeta " content="hazard-register;safety-checklists;engagement-programmes;training-records" name="entities"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs;usecase:principles-and-guidance;industry:heavy machinery and industrial equipment" name="taxonomy"/>
+         <othermeta class="- topic/othermeta " content="principles,ehs-guidance,behaviour" name="tags"/>
+         <othermeta class="- topic/othermeta " content="guide-plant-behaviour-through-core-ehs-principles" name="usecase"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">These principles describe how we will deliver a zero EHS incidents workplace. They drive our culture, strategic planning, EHS processes, talent management, and metrics.</p>
+   </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="c1C7C7A3-BB01-11F0-3134-09173F13E4C5" oid="c1C7C7A3-BB01-11F0-3134-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us">
+   <title class="- topic/title "><opentopic-index:refID indexid="indexid-1731886788" value="incident-management-system:" class="- index/refid " id="d153e639"/><opentopic-index:refID indexid="indexid1771456584" value="metr-ehs-space:" class="- index/refid " id="d153e643"/><opentopic-index:refID indexid="indexid929062454" value="corrective-action-module:" class="- index/refid " id="d153e647"/><opentopic-index:refID indexid="indexid-658847336" value="near-miss-reporting:" class="- index/refid " id="d153e651"/><opentopic-index:refID indexid="indexid-677655153" value="root-cause-analysis:" class="- index/refid " id="d153e655"/><opentopic-index:refID indexid="indexid-373313502" value="continuous-improvement:" class="- index/refid " id="d153e660"/><opentopic-index:refID indexid="indexid-373040994" value="glass-production-lines:" class="- index/refid " id="d153e664"/><opentopic-index:refID indexid="indexid-915501613" value="safety-investigation:" class="- index/refid " id="d153e668"/><opentopic-index:refID indexid="indexid-408901445" value="zero-injury-aspiration:" class="- index/refid " id="d153e672"/><ph class="- topic/ph topic/title-wrapper ">All incidents are preventable</ph></title>
+   <prolog class="- topic/prolog ">
+      <author class="- topic/author ">Suchitra</author>
+      <critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="12-30-2015"/>
+      </critdates>
+      <metadata class="- topic/metadata ">
+         <audience class="- topic/audience " otherprops="safety-and-compliance-officers,plant-management,operations-teams,maintenance-personnel,supervisors" type="role"/>
+         <keywords class="- topic/keywords ">
+            <opentopic-index:index.entry value="incident-management-system" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">incident-management-system</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1731886788" value="incident-management-system:" class="- index/refid " id="d153e639"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="metr-ehs-space" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">metr-ehs-space</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1771456584" value="metr-ehs-space:" class="- index/refid " id="d153e643"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="corrective-action-module" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">corrective-action-module</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid929062454" value="corrective-action-module:" class="- index/refid " id="d153e647"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="near-miss-reporting" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">near-miss-reporting</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-658847336" value="near-miss-reporting:" class="- index/refid " id="d153e651"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="root-cause-analysis" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">root-cause-analysis</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-677655153" value="root-cause-analysis:" class="- index/refid " id="d153e655"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="continuous-improvement" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">continuous-improvement</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-373313502" value="continuous-improvement:" class="- index/refid " id="d153e660"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="glass-production-lines" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">glass-production-lines</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-373040994" value="glass-production-lines:" class="- index/refid " id="d153e664"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="safety-investigation" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">safety-investigation</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-915501613" value="safety-investigation:" class="- index/refid " id="d153e668"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="zero-injury-aspiration" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">zero-injury-aspiration</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-408901445" value="zero-injury-aspiration:" class="- index/refid " id="d153e672"/></opentopic-index:index.entry>
+         </keywords>
+         <prodinfo class="- topic/prodinfo ">
+         <prodname class="- topic/prodname "/>
+      </prodinfo><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">metR-EHS-Space</prodname>
+            <platform class="- topic/platform ">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="all incidents are preventable" name="title"/>
+         <othermeta class="- topic/othermeta " content="sets the principle that incidents and near misses must be reported investigated and prevented through corrective actions and learning" name="shortdesc"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy"/>
+         <othermeta class="- topic/othermeta " content="near-miss-records;investigation-team;corrective-action-register;inspection-checklists" name="entities"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs;usecase:incident-prevention;industry:heavy machinery and industrial equipment" name="taxonomy"/>
+         <othermeta class="- topic/othermeta " content="incident-prevention,near-miss,root-cause" name="tags"/>
+         <othermeta class="- topic/othermeta " content="prevent-incidents-through-reporting-and-investigation" name="usecase"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">All EHS incidents are preventable. We focus on root causes to find solutions to solve current issues and prevent a repeat incident anywhere in the world.</p>
+   </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="c1C7F35C-BB01-11F0-1367-09173F13E4C5" oid="c1C7F35C-BB01-11F0-1367-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us">
+   <title class="- topic/title "><opentopic-index:refID indexid="indexid1771456584" value="metr-ehs-space:" class="- index/refid " id="d153e746"/><opentopic-index:refID indexid="indexid2122652752" value="metr-ehs-framework:" class="- index/refid " id="d153e750"/><opentopic-index:refID indexid="indexid401053491" value="incident-management-tool:" class="- index/refid " id="d153e754"/><opentopic-index:refID indexid="indexid-2071917762" value="safety-performance-dashboard:" class="- index/refid " id="d153e758"/><opentopic-index:refID indexid="indexid-1044363659" value="leadership-accountability:" class="- index/refid " id="d153e762"/><opentopic-index:refID indexid="indexid1450397607" value="incident-reporting:" class="- index/refid " id="d153e767"/><opentopic-index:refID indexid="indexid463888314" value="risk-assessment:" class="- index/refid " id="d153e771"/><opentopic-index:refID indexid="indexid1778711423" value="safety-communication:" class="- index/refid " id="d153e775"/><opentopic-index:refID indexid="indexid693272877" value="glass-manufacturing:" class="- index/refid " id="d153e779"/><opentopic-index:refID indexid="indexid43960684" value="plant-operations:" class="- index/refid " id="d153e783"/><opentopic-index:refID indexid="indexid88003008" value="maintenance-and-mro:" class="- index/refid " id="d153e787"/><opentopic-index:refID indexid="indexid1658867458" value="zero-incident-culture:" class="- index/refid " id="d153e792"/><ph class="- topic/ph topic/title-wrapper ">Everyone is responsible</ph></title>
+   <prolog class="- topic/prolog ">
+      <author class="- topic/author ">Suchitra</author>
+      <critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="12-30-2015"/>
+      </critdates>
+      <metadata class="- topic/metadata ">
+         <audience class="- topic/audience " otherprops="executive-leadership,plant-management,safety-and-compliance-officers,operations-teams,maintenance-personnel" type="role"/>
+         <keywords class="- topic/keywords ">
+            <opentopic-index:index.entry value="metr-ehs-space" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">metr-ehs-space</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1771456584" value="metr-ehs-space:" class="- index/refid " id="d153e746"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="metr-ehs-framework" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">metr-ehs-framework</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2122652752" value="metr-ehs-framework:" class="- index/refid " id="d153e750"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="incident-management-tool" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">incident-management-tool</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid401053491" value="incident-management-tool:" class="- index/refid " id="d153e754"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="safety-performance-dashboard" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">safety-performance-dashboard</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2071917762" value="safety-performance-dashboard:" class="- index/refid " id="d153e758"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="leadership-accountability" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">leadership-accountability</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1044363659" value="leadership-accountability:" class="- index/refid " id="d153e762"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="incident-reporting" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">incident-reporting</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1450397607" value="incident-reporting:" class="- index/refid " id="d153e767"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="risk-assessment" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">risk-assessment</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid463888314" value="risk-assessment:" class="- index/refid " id="d153e771"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="safety-communication" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">safety-communication</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1778711423" value="safety-communication:" class="- index/refid " id="d153e775"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="glass-manufacturing" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">glass-manufacturing</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid693272877" value="glass-manufacturing:" class="- index/refid " id="d153e779"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="plant-operations" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">plant-operations</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid43960684" value="plant-operations:" class="- index/refid " id="d153e783"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="maintenance-and-mro" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">maintenance-and-mro</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid88003008" value="maintenance-and-mro:" class="- index/refid " id="d153e787"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="zero-incident-culture" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">zero-incident-culture</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1658867458" value="zero-incident-culture:" class="- index/refid " id="d153e792"/></opentopic-index:index.entry>
+         </keywords>
+         <prodinfo class="- topic/prodinfo ">
+         <prodname class="- topic/prodname "/>
+      </prodinfo><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">metR-EHS-Space</prodname>
+            <platform class="- topic/platform ">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="everyone is responsible" name="title"/>
+         <othermeta class="- topic/othermeta " content="defines leadership and workforce roles to establish shared accountability for EHS and drive a zero incident culture in glass manufacturing plants" name="shortdesc"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy"/>
+         <othermeta class="- topic/othermeta " content="melting-furnace;conveyor-systems;forklifts;annealing-lehr;maintenance-tools" name="entities"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs;usecase:leadership-accountability;industry:heavy machinery and industrial equipment" name="taxonomy"/>
+         <othermeta class="- topic/othermeta " content="accountability,leadership,safety-culture,roles" name="tags"/>
+         <othermeta class="- topic/othermeta " content="establish-leadership-accountability-for-safety" name="usecase"/>
+      </metadata>
+   </prolog>
+   
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">Preventing EHS incidents is the responsibility of every one of our 21,500 employees. While employees in different roles have different responsibilities, all employees are expected to help us reach zero EHS incidents.</p>
+   </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="c1C88C87-BB01-11F0-5863-09173F13E4C5" oid="c1C88C87-BB01-11F0-5863-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us">
+   <title class="- topic/title "><opentopic-index:refID indexid="indexid1771456584" value="metr-ehs-space:" class="- index/refid " id="d153e865"/><opentopic-index:refID indexid="indexid-2041958891" value="risk-assessment-tool:" class="- index/refid " id="d153e869"/><opentopic-index:refID indexid="indexid1712881617" value="hazard-identification:" class="- index/refid " id="d153e873"/><opentopic-index:refID indexid="indexid-1439057250" value="control-selection:" class="- index/refid " id="d153e877"/><opentopic-index:refID indexid="indexid-2038349772" value="preventive-maintenance:" class="- index/refid " id="d153e881"/><opentopic-index:refID indexid="indexid-645096849" value="glass-production-equipment:" class="- index/refid " id="d153e886"/><ph class="- topic/ph topic/title-wrapper ">We identify and reduce risk</ph></title>
+   <prolog class="- topic/prolog ">
+      <author class="- topic/author ">Suchitra</author>
+      <critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="12-30-2015"/>
+      </critdates>
+      <metadata class="- topic/metadata ">
+         <audience class="- topic/audience " otherprops="safety-officers,maintenance-personnel,industrial-engineers,reliability-engineers,operations-supervisors" type="role"/>
+         <keywords class="- topic/keywords ">
+            <opentopic-index:index.entry value="metr-ehs-space" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">metr-ehs-space</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1771456584" value="metr-ehs-space:" class="- index/refid " id="d153e865"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="risk-assessment-tool" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">risk-assessment-tool</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2041958891" value="risk-assessment-tool:" class="- index/refid " id="d153e869"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="hazard-identification" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">hazard-identification</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1712881617" value="hazard-identification:" class="- index/refid " id="d153e873"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="control-selection" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">control-selection</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1439057250" value="control-selection:" class="- index/refid " id="d153e877"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="preventive-maintenance" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">preventive-maintenance</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2038349772" value="preventive-maintenance:" class="- index/refid " id="d153e881"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="glass-production-equipment" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">glass-production-equipment</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-645096849" value="glass-production-equipment:" class="- index/refid " id="d153e886"/></opentopic-index:index.entry>
+         </keywords>
+         <prodinfo class="- topic/prodinfo ">
+         <prodname class="- topic/prodname "/>
+      </prodinfo><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">metR-EHS-Space</prodname>
+            <platform class="- topic/platform ">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="we identify and reduce risk" name="title"/>
+         <othermeta class="- topic/othermeta " content="describes systematic hazard identification risk assessment and control measures to reduce workplace risk in glass plants" name="shortdesc"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy"/>
+         <othermeta class="- topic/othermeta " content="hazard-register;inspection-checklists;maintenance-work-orders;control-measures" name="entities"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs;usecase:hazard-and-risk-management;industry:heavy machinery and industrial equipment" name="taxonomy"/>
+         <othermeta class="- topic/othermeta " content="risk,assessment,controls,maintenance" name="tags"/>
+         <othermeta class="- topic/othermeta " content="identify-assess-and-reduce-plant-risks" name="usecase"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">EHS incidents start with risk and end in an incident. We work to identify risks or problems before they become an incident, and identify sustainable solutions through risk reduction.</p>
+   </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="c1C7B08D-BB01-11F0-2539-09173F13E4C5" oid="c1C7B08D-BB01-11F0-2539-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us">
+   <title class="- topic/title "><opentopic-index:refID indexid="indexid1771456584" value="metr-ehs-space:" class="- index/refid " id="d153e959"/><opentopic-index:refID indexid="indexid702378771" value="incident-learning-platform:" class="- index/refid " id="d153e963"/><opentopic-index:refID indexid="indexid-765160113" value="anonymous-reporting-module:" class="- index/refid " id="d153e967"/><opentopic-index:refID indexid="indexid1614111330" value="no-blame-investigation:" class="- index/refid " id="d153e971"/><opentopic-index:refID indexid="indexid379118973" value="positive-reinforcement:" class="- index/refid " id="d153e975"/><opentopic-index:refID indexid="indexid1056333726" value="continuous-learning:" class="- index/refid " id="d153e980"/><ph class="- topic/ph topic/title-wrapper ">A proactive no blame approach</ph></title>
+   <prolog class="- topic/prolog ">
+      <author class="- topic/author ">Suchitra</author>
+      <critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="12-30-2015"/>
+      </critdates>
+      <metadata class="- topic/metadata ">
+         <audience class="- topic/audience " otherprops="plant-management,safety-and-compliance-officers,supervisors,hr,operations-teams" type="role"/>
+         <keywords class="- topic/keywords ">
+            <opentopic-index:index.entry value="metr-ehs-space" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">metr-ehs-space</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1771456584" value="metr-ehs-space:" class="- index/refid " id="d153e959"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="incident-learning-platform" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">incident-learning-platform</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid702378771" value="incident-learning-platform:" class="- index/refid " id="d153e963"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="anonymous-reporting-module" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">anonymous-reporting-module</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-765160113" value="anonymous-reporting-module:" class="- index/refid " id="d153e967"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="no-blame-investigation" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">no-blame-investigation</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1614111330" value="no-blame-investigation:" class="- index/refid " id="d153e971"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="positive-reinforcement" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">positive-reinforcement</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid379118973" value="positive-reinforcement:" class="- index/refid " id="d153e975"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="continuous-learning" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">continuous-learning</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1056333726" value="continuous-learning:" class="- index/refid " id="d153e980"/></opentopic-index:index.entry>
+         </keywords>
+         <prodinfo class="- topic/prodinfo ">
+         <prodname class="- topic/prodname "/>
+      </prodinfo><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">metR-EHS-Space</prodname>
+            <platform class="- topic/platform ">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="a proactive no blame approach" name="title"/>
+         <othermeta class="- topic/othermeta " content="promotes a no blame reporting culture that focuses on learning system failures and implementing preventive measures" name="shortdesc"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy"/>
+         <othermeta class="- topic/othermeta " content="reporting-channels;investigation-templates;learning-logs;recognition-programmes" name="entities"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs;usecase:no-blame-and-learning;industry:heavy machinery and industrial equipment" name="taxonomy"/>
+         <othermeta class="- topic/othermeta " content="no-blame,learning,reporting" name="tags"/>
+         <othermeta class="- topic/othermeta " content="enable-no-blame-reporting-and-organisational-learning" name="usecase"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">When there is an incident, leadership and the global EHS team are committed to solve the problem, share the solution globally, and avoid laying blame for the past.</p>
+   </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="c1C84B8B-BB01-11F0-1183-09173F13E4C5" oid="c1C84B8B-BB01-11F0-1183-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us">
+   <title class="- topic/title "><opentopic-index:refID indexid="indexid1771456584" value="metr-ehs-space:" class="- index/refid " id="d153e1053"/><opentopic-index:refID indexid="indexid-1406699246" value="safety-decision-framework:" class="- index/refid " id="d153e1057"/><opentopic-index:refID indexid="indexid897759863" value="stop-work-policy:" class="- index/refid " id="d153e1061"/><opentopic-index:refID indexid="indexid-2081297150" value="escalation-procedures:" class="- index/refid " id="d153e1065"/><opentopic-index:refID indexid="indexid-1973814077" value="safety-over-production:" class="- index/refid " id="d153e1069"/><opentopic-index:refID indexid="indexid-1304159523" value="emergency-response:" class="- index/refid " id="d153e1074"/><ph class="- topic/ph topic/title-wrapper ">Never put production ahead of EHS</ph></title>
+   <prolog class="- topic/prolog ">
+      <author class="- topic/author ">Suchitra</author>
+      <critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="12-30-2015"/>
+      </critdates>
+      <metadata class="- topic/metadata ">
+         <audience class="- topic/audience " otherprops="executive-leadership,plant-management,operations-managers,safety-officers,production-supervisors" type="role"/>
+         <keywords class="- topic/keywords ">
+            <opentopic-index:index.entry value="metr-ehs-space" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">metr-ehs-space</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1771456584" value="metr-ehs-space:" class="- index/refid " id="d153e1053"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="safety-decision-framework" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">safety-decision-framework</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1406699246" value="safety-decision-framework:" class="- index/refid " id="d153e1057"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="stop-work-policy" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">stop-work-policy</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid897759863" value="stop-work-policy:" class="- index/refid " id="d153e1061"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="escalation-procedures" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">escalation-procedures</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2081297150" value="escalation-procedures:" class="- index/refid " id="d153e1065"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="safety-over-production" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">safety-over-production</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1973814077" value="safety-over-production:" class="- index/refid " id="d153e1069"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="emergency-response" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">emergency-response</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1304159523" value="emergency-response:" class="- index/refid " id="d153e1074"/></opentopic-index:index.entry>
+         </keywords>
+         <prodinfo class="- topic/prodinfo ">
+         <prodname class="- topic/prodname "/>
+      </prodinfo><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">metR-EHS-Space</prodname>
+            <platform class="- topic/platform ">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="never put production ahead of ehs" name="title"/>
+         <othermeta class="- topic/othermeta " content="establishes the principle that safety decisions override production pressure and defines stop work and escalation procedures" name="shortdesc"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy"/>
+         <othermeta class="- topic/othermeta " content="stop-work-authority;escalation-matrix;shutdown-procedures;safety-checks" name="entities"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs;usecase:safety-over-production;industry:heavy machinery and industrial equipment" name="taxonomy"/>
+         <othermeta class="- topic/othermeta " content="stop-work,safety-first,escalation" name="tags"/>
+         <othermeta class="- topic/othermeta " content="prioritise-safety-over-production-decisions" name="usecase"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">Employees often must make decisions that could risk an EHS incident in order to meet business needs. Space leadership is committed to create a culture where these situations are openly discussed, where alternative actions are assessed, and where economic considerations do not automatically come before EHS.</p>
+   </conbody>
+</concept><concept audience="internal internal" topicrefclass="- map/topicref " class="- topic/topic concept/concept " id="unique_10" nd:nd-id="c1C7DD6A-BB01-11F0-5516-09173F13E4C5" oid="c1C7DD6A-BB01-11F0-5516-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us">
+   <title class="- topic/title "><opentopic-index:refID indexid="indexid1771456584" value="metr-ehs-space:" class="- index/refid " id="d153e1147"/><opentopic-index:refID indexid="indexid462334665" value="document-control-system:" class="- index/refid " id="d153e1151"/><opentopic-index:refID indexid="indexid1170256209" value="approval-workflow:" class="- index/refid " id="d153e1155"/><opentopic-index:refID indexid="indexid-1019306030" value="version-control:" class="- index/refid " id="d153e1159"/><opentopic-index:refID indexid="indexid-1920917544" value="revision-history:" class="- index/refid " id="d153e1163"/><opentopic-index:refID indexid="indexid-1677814916" value="policy-approval:" class="- index/refid " id="d153e1168"/><opentopic-index:refID indexid="indexid-406375427" value="ehs-documentation:" class="- index/refid " id="d153e1172"/><ph class="- topic/ph topic/title-wrapper ">Approval</ph></title>
+   <prolog class="- topic/prolog ">
+      <author class="- topic/author ">Suchitra</author>
+      <critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="12-30-2015"/>
+      </critdates>
+      <metadata class="- topic/metadata ">
+         <audience class="- topic/audience " otherprops="executive-leadership,plant-management,safety-and-compliance-officers,document-control,quality-assurance" type="role"/>
+         <keywords class="- topic/keywords ">
+            <opentopic-index:index.entry value="metr-ehs-space" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">metr-ehs-space</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1771456584" value="metr-ehs-space:" class="- index/refid " id="d153e1147"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="document-control-system" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">document-control-system</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid462334665" value="document-control-system:" class="- index/refid " id="d153e1151"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="approval-workflow" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">approval-workflow</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1170256209" value="approval-workflow:" class="- index/refid " id="d153e1155"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="version-control" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">version-control</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1019306030" value="version-control:" class="- index/refid " id="d153e1159"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="revision-history" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">revision-history</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1920917544" value="revision-history:" class="- index/refid " id="d153e1163"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="policy-approval" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">policy-approval</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1677814916" value="policy-approval:" class="- index/refid " id="d153e1168"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="ehs-documentation" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">ehs-documentation</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-406375427" value="ehs-documentation:" class="- index/refid " id="d153e1172"/></opentopic-index:index.entry>
+         </keywords>
+         <prodinfo class="- topic/prodinfo ">
+         <prodname class="- topic/prodname "/>
+      </prodinfo><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">metR-EHS-Space</prodname>
+            <platform class="- topic/platform ">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="approval" name="title"/>
+         <othermeta class="- topic/othermeta " content="defines the approval workflow signoff roles and version control requirements for EHS documents" name="shortdesc"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy"/>
+         <othermeta class="- topic/othermeta " content="approval-matrix;signature-roles;version-records;distribution-list" name="entities"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs;usecase:document-governance;industry:heavy machinery and industrial equipment" name="taxonomy"/>
+         <othermeta class="- topic/othermeta " content="approval,version-control,document-governance" name="tags"/>
+         <othermeta class="- topic/othermeta " content="formalise-document-approval-and-versioning" name="usecase"/>
+      </metadata>
+   </prolog>
+   
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">Sanctioning Representatives of the Global Team<table class="- topic/table " id="unique_10_Connect_42_table_sbs_2ps_4zb" nd:nd-id="table_sbs_2ps_4zb">
+            <tgroup class="- topic/tgroup " cols="2">
+               <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="24.46%" xtrc="colspec:1;49:82" xtrf="file:/D:/metR_AI_Infinity_Project/SPACE/EHS-Space/EHS-01-001/EHS-01-001_approval.dita" style="width:24.46%;"/>
+               <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="65.7%" xtrc="colspec:2;50:81" xtrf="file:/D:/metR_AI_Infinity_Project/SPACE/EHS-Space/EHS-01-001/EHS-01-001_approval.dita" style="width:65.7%;"/>
+               <thead class="- topic/thead ">
+                  <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">
+                        <p class="- topic/p ">Region</p>
+                     </entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">
+                        <p class="- topic/p ">Representative</p>
+                     </entry></row>
+               </thead>
+               <tbody class="- topic/tbody ">
+                  <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">
+                        <p class="- topic/p ">Asia Pacific</p>
+                     </entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">
+                        <p class="- topic/p ">Steve Bourke</p>
+                     </entry></row>
+                  <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">
+                        <p class="- topic/p ">Europe</p>
+                     </entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">
+                        <p class="- topic/p ">Tim Neal</p>
+                     </entry></row>
+                  <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">
+                        <p class="- topic/p ">Latin America</p>
+                     </entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">
+                        <p class="- topic/p ">Isabela Malpighi</p>
+                     </entry></row>
+                  <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">
+                        <p class="- topic/p ">North America</p>
+                     </entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">
+                        <p class="- topic/p ">Ken Smigielski</p>
+                     </entry></row>
+                  <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6">
+                        <p class="- topic/p ">Global Operations</p>
+                     </entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6">
+                        <p class="- topic/p ">Jim Joyce, V P</p>
+                     </entry></row>
+               </tbody>
+            </tgroup>
+         </table>
+      </p>
+   </conbody>
+</concept><concept audience="internal internal" topicrefclass="- map/topicref " class="- topic/topic concept/concept " id="unique_11" nd:nd-id="c1C86140-BB01-11F0-1182-09173F13E4C5" oid="c1C86140-BB01-11F0-1182-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us">
+   <title class="- topic/title "><opentopic-index:refID indexid="indexid1771456584" value="metr-ehs-space:" class="- index/refid " id="d153e1351"/><opentopic-index:refID indexid="indexid-226268827" value="revision-management:" class="- index/refid " id="d153e1355"/><opentopic-index:refID indexid="indexid1730731002" value="change-control:" class="- index/refid " id="d153e1359"/><opentopic-index:refID indexid="indexid1344541873" value="document-audit:" class="- index/refid " id="d153e1363"/><opentopic-index:refID indexid="indexid1461006013" value="policy-revisions:" class="- index/refid " id="d153e1367"/><opentopic-index:refID indexid="indexid-593794134" value="compliance-records:" class="- index/refid " id="d153e1372"/><ph class="- topic/ph topic/title-wrapper ">Revision History</ph></title>
+   <prolog class="- topic/prolog ">
+      <author class="- topic/author ">Suchitra</author>
+      <critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="12-30-2015"/>
+      </critdates>
+      <metadata class="- topic/metadata ">
+         <audience class="- topic/audience " otherprops="document-control,quality-assurance,plant-management,safety-officers,records-management" type="role"/>
+         <keywords class="- topic/keywords ">
+            <opentopic-index:index.entry value="metr-ehs-space" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">metr-ehs-space</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1771456584" value="metr-ehs-space:" class="- index/refid " id="d153e1351"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="revision-management" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">revision-management</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-226268827" value="revision-management:" class="- index/refid " id="d153e1355"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="change-control" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">change-control</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1730731002" value="change-control:" class="- index/refid " id="d153e1359"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="document-audit" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">document-audit</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1344541873" value="document-audit:" class="- index/refid " id="d153e1363"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="policy-revisions" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">policy-revisions</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1461006013" value="policy-revisions:" class="- index/refid " id="d153e1367"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="compliance-records" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">compliance-records</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-593794134" value="compliance-records:" class="- index/refid " id="d153e1372"/></opentopic-index:index.entry>
+         </keywords>
+         <prodinfo class="- topic/prodinfo ">
+         <prodname class="- topic/prodname "/>
+      </prodinfo><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">metR-EHS-Space</prodname>
+            <platform class="- topic/platform ">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="revision history" name="title"/>
+         <othermeta class="- topic/othermeta " content="records changes approvals and version history for EHS documents to ensure traceability and audit readiness" name="shortdesc"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy"/>
+         <othermeta class="- topic/othermeta " content="version-records;change-requests;approval-logs;archive-locations" name="entities"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs;usecase:revision-tracking;industry:heavy machinery and industrial equipment" name="taxonomy"/>
+         <othermeta class="- topic/othermeta " content="revision,history,traceability" name="tags"/>
+         <othermeta class="- topic/othermeta " content="maintain-document-version-history-and-audit-trail" name="usecase"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">
+         <table class="- topic/table " id="unique_11_Connect_42_table_rhj_gps_4zb" nd:nd-id="table_rhj_gps_4zb">
+            <tgroup class="- topic/tgroup " cols="2">
+               <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="45.08%" xtrc="colspec:1;48:82" xtrf="file:/D:/metR_AI_Infinity_Project/SPACE/EHS-Space/EHS-01-001/EHS-01-001_revision_history.dita" style="width:45.08%;"/>
+               <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="45.08%" xtrc="colspec:2;49:82" xtrf="file:/D:/metR_AI_Infinity_Project/SPACE/EHS-Space/EHS-01-001/EHS-01-001_revision_history.dita" style="width:45.08%;"/>
+               <tbody class="- topic/tbody ">
+                  <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">
+                        <p class="- topic/p ">2015-12-30</p>
+                     </entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">
+                        <p class="- topic/p ">Approved by Jim Joyce, V P</p>
+                        <p class="- topic/p ">Original Issue</p>
+                     </entry></row>
+               </tbody>
+            </tgroup>
+         </table>
+      </p>
+   </conbody>
+</concept></concept><opentopic-index:index.groups class="- index/groups " id="d153e1453"><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">A</opentopic-index:label><opentopic-index:index.entry value="anonymous-reporting-module" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-765160113">anonymous-reporting-module</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-765160113" value="anonymous-reporting-module:" class="- index/refid "><oxy:index-link href="#d153e967" class="- index/link ">
+          [d153e967]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="approval-workflow" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1170256209">approval-workflow</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1170256209" value="approval-workflow:" class="- index/refid "><oxy:index-link href="#d153e1155" class="- index/link ">
+          [d153e1155]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">B</opentopic-index:label><opentopic-index:index.entry value="behavioural-change-program" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1682415218">behavioural-change-program</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1682415218" value="behavioural-change-program:" class="- index/refid "><oxy:index-link href="#d153e557" class="- index/link ">
+          [d153e557]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">C</opentopic-index:label><opentopic-index:index.entry value="change-control" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1730731002">change-control</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1730731002" value="change-control:" class="- index/refid "><oxy:index-link href="#d153e1359" class="- index/link ">
+          [d153e1359]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="compliance-records" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-593794134">compliance-records</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-593794134" value="compliance-records:" class="- index/refid "><oxy:index-link href="#d153e1372" class="- index/link ">
+          [d153e1372]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="continuous-improvement" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-373313502">continuous-improvement</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-373313502" value="continuous-improvement:" class="- index/refid "><oxy:index-link href="#d153e660" class="- index/link ">
+          [d153e660]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="continuous-learning" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1056333726">continuous-learning</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1056333726" value="continuous-learning:" class="- index/refid "><oxy:index-link href="#d153e980" class="- index/link ">
+          [d153e980]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="control-selection" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1439057250">control-selection</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1439057250" value="control-selection:" class="- index/refid "><oxy:index-link href="#d153e877" class="- index/link ">
+          [d153e877]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="corrective-action-module" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid929062454">corrective-action-module</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid929062454" value="corrective-action-module:" class="- index/refid "><oxy:index-link href="#d153e647" class="- index/link ">
+          [d153e647]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="culture-change-initiative" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid761782160">culture-change-initiative</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid761782160" value="culture-change-initiative:" class="- index/refid "><oxy:index-link href="#d153e338" class="- index/link ">
+          [d153e338]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">D</opentopic-index:label><opentopic-index:index.entry value="document-audit" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1344541873">document-audit</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1344541873" value="document-audit:" class="- index/refid "><oxy:index-link href="#d153e1363" class="- index/link ">
+          [d153e1363]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="document-control-system" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid462334665">document-control-system</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid462334665" value="document-control-system:" class="- index/refid "><oxy:index-link href="#d153e1151" class="- index/link ">
+          [d153e1151]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">E</opentopic-index:label><opentopic-index:index.entry value="ehs-documentation" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-406375427">ehs-documentation</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-406375427" value="ehs-documentation:" class="- index/refid "><oxy:index-link href="#d153e1172" class="- index/link ">
+          [d153e1172]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="ehs-governance-tool" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1679578612">ehs-governance-tool</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1679578612" value="ehs-governance-tool:" class="- index/refid "><oxy:index-link href="#d153e226" class="- index/link ">
+          [d153e226]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="ehs-vision-statement" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1871335597">ehs-vision-statement</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1871335597" value="ehs-vision-statement:" class="- index/refid "><oxy:index-link href="#d153e334" class="- index/link ">
+          [d153e334]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="emergency-response" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1304159523">emergency-response</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1304159523" value="emergency-response:" class="- index/refid "><oxy:index-link href="#d153e1074" class="- index/link ">
+          [d153e1074]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="environmental-health-and-safety" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1331279760">environmental-health-and-safety</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1331279760" value="environmental-health-and-safety:" class="- index/refid "><oxy:index-link href="#d153e255" class="- index/link ">
+          [d153e255]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="escalation-procedures" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-2081297150">escalation-procedures</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2081297150" value="escalation-procedures:" class="- index/refid "><oxy:index-link href="#d153e1065" class="- index/link ">
+          [d153e1065]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">G</opentopic-index:label><opentopic-index:index.entry value="glass-manufacturing" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid693272877">glass-manufacturing</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid693272877" value="glass-manufacturing:" class="- index/refid "><oxy:index-link href="#d153e251" class="- index/link ">
+          [d153e251]
+        </oxy:index-link><oxy:index-link href="#d153e779" class="- index/link ">
+          [d153e779]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="glass-production-equipment" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-645096849">glass-production-equipment</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-645096849" value="glass-production-equipment:" class="- index/refid "><oxy:index-link href="#d153e886" class="- index/link ">
+          [d153e886]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="glass-production-lines" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-373040994">glass-production-lines</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-373040994" value="glass-production-lines:" class="- index/refid "><oxy:index-link href="#d153e664" class="- index/link ">
+          [d153e664]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">H</opentopic-index:label><opentopic-index:index.entry value="hazard-identification" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1712881617">hazard-identification</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1712881617" value="hazard-identification:" class="- index/refid "><oxy:index-link href="#d153e549" class="- index/link ">
+          [d153e549]
+        </oxy:index-link><oxy:index-link href="#d153e873" class="- index/link ">
+          [d153e873]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">I</opentopic-index:label><opentopic-index:index.entry value="incident-learning-platform" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid702378771">incident-learning-platform</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid702378771" value="incident-learning-platform:" class="- index/refid "><oxy:index-link href="#d153e963" class="- index/link ">
+          [d153e963]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="incident-management-system" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1731886788">incident-management-system</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1731886788" value="incident-management-system:" class="- index/refid "><oxy:index-link href="#d153e639" class="- index/link ">
+          [d153e639]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="incident-management-tool" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid401053491">incident-management-tool</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid401053491" value="incident-management-tool:" class="- index/refid "><oxy:index-link href="#d153e754" class="- index/link ">
+          [d153e754]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="incident-reporting" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1450397607">incident-reporting</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1450397607" value="incident-reporting:" class="- index/refid "><oxy:index-link href="#d153e767" class="- index/link ">
+          [d153e767]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">L</opentopic-index:label><opentopic-index:index.entry value="leadership-accountability" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1044363659">leadership-accountability</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1044363659" value="leadership-accountability:" class="- index/refid "><oxy:index-link href="#d153e762" class="- index/link ">
+          [d153e762]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="long-term-target-setting" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1390310390">long-term-target-setting</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1390310390" value="long-term-target-setting:" class="- index/refid "><oxy:index-link href="#d153e342" class="- index/link ">
+          [d153e342]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">M</opentopic-index:label><opentopic-index:index.entry value="maintenance-and-mro" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid88003008">maintenance-and-mro</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid88003008" value="maintenance-and-mro:" class="- index/refid "><oxy:index-link href="#d153e787" class="- index/link ">
+          [d153e787]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="metr-ehs-framework" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid2122652752">metr-ehs-framework</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2122652752" value="metr-ehs-framework:" class="- index/refid "><oxy:index-link href="#d153e750" class="- index/link ">
+          [d153e750]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="metr-ehs-space" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1771456584">metr-ehs-space</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1771456584" value="metr-ehs-space:" class="- index/refid "><oxy:index-link href="#d153e222" class="- index/link ">
+          [d153e222]
+        </oxy:index-link><oxy:index-link href="#d153e330" class="- index/link ">
+          [d153e330]
+        </oxy:index-link><oxy:index-link href="#d153e439" class="- index/link ">
+          [d153e439]
+        </oxy:index-link><oxy:index-link href="#d153e545" class="- index/link ">
+          [d153e545]
+        </oxy:index-link><oxy:index-link href="#d153e643" class="- index/link ">
+          [d153e643]
+        </oxy:index-link><oxy:index-link href="#d153e746" class="- index/link ">
+          [d153e746]
+        </oxy:index-link><oxy:index-link href="#d153e865" class="- index/link ">
+          [d153e865]
+        </oxy:index-link><oxy:index-link href="#d153e959" class="- index/link ">
+          [d153e959]
+        </oxy:index-link><oxy:index-link href="#d153e1053" class="- index/link ">
+          [d153e1053]
+        </oxy:index-link><oxy:index-link href="#d153e1147" class="- index/link ">
+          [d153e1147]
+        </oxy:index-link><oxy:index-link href="#d153e1351" class="- index/link ">
+          [d153e1351]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="mission-definition" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid277091974">mission-definition</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid277091974" value="mission-definition:" class="- index/refid "><oxy:index-link href="#d153e443" class="- index/link ">
+          [d153e443]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">N</opentopic-index:label><opentopic-index:index.entry value="near-miss-reporting" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-658847336">near-miss-reporting</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-658847336" value="near-miss-reporting:" class="- index/refid "><oxy:index-link href="#d153e651" class="- index/link ">
+          [d153e651]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="no-blame-investigation" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1614111330">no-blame-investigation</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1614111330" value="no-blame-investigation:" class="- index/refid "><oxy:index-link href="#d153e971" class="- index/link ">
+          [d153e971]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">O</opentopic-index:label><opentopic-index:index.entry value="operational-excellence" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-721919521">operational-excellence</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-721919521" value="operational-excellence:" class="- index/refid "><oxy:index-link href="#d153e351" class="- index/link ">
+          [d153e351]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="operational-safety" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-916467539">operational-safety</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-916467539" value="operational-safety:" class="- index/refid "><oxy:index-link href="#d153e561" class="- index/link ">
+          [d153e561]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">P</opentopic-index:label><opentopic-index:index.entry value="performance-alignment" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1791621236">performance-alignment</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1791621236" value="performance-alignment:" class="- index/refid "><oxy:index-link href="#d153e447" class="- index/link ">
+          [d153e447]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="performance-metrics-module" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1237841753">performance-metrics-module</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1237841753" value="performance-metrics-module:" class="- index/refid "><oxy:index-link href="#d153e230" class="- index/link ">
+          [d153e230]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="plant-operations" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid43960684">plant-operations</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid43960684" value="plant-operations:" class="- index/refid "><oxy:index-link href="#d153e783" class="- index/link ">
+          [d153e783]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="plant-safety" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-623780282">plant-safety</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-623780282" value="plant-safety:" class="- index/refid "><oxy:index-link href="#d153e455" class="- index/link ">
+          [d153e455]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="policy-approval" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1677814916">policy-approval</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1677814916" value="policy-approval:" class="- index/refid "><oxy:index-link href="#d153e1168" class="- index/link ">
+          [d153e1168]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="policy-development" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1852175590">policy-development</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1852175590" value="policy-development:" class="- index/refid "><oxy:index-link href="#d153e243" class="- index/link ">
+          [d153e243]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="policy-revisions" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1461006013">policy-revisions</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1461006013" value="policy-revisions:" class="- index/refid "><oxy:index-link href="#d153e1367" class="- index/link ">
+          [d153e1367]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="positive-reinforcement" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid379118973">positive-reinforcement</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid379118973" value="positive-reinforcement:" class="- index/refid "><oxy:index-link href="#d153e975" class="- index/link ">
+          [d153e975]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="preventive-maintenance" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-2038349772">preventive-maintenance</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2038349772" value="preventive-maintenance:" class="- index/refid "><oxy:index-link href="#d153e881" class="- index/link ">
+          [d153e881]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">R</opentopic-index:label><opentopic-index:index.entry value="regulatory-compliance" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-2084944950">regulatory-compliance</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2084944950" value="regulatory-compliance:" class="- index/refid "><oxy:index-link href="#d153e259" class="- index/link ">
+          [d153e259]
+        </oxy:index-link><oxy:index-link href="#d153e460" class="- index/link ">
+          [d153e460]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="revision-history" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1920917544">revision-history</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1920917544" value="revision-history:" class="- index/refid "><oxy:index-link href="#d153e1163" class="- index/link ">
+          [d153e1163]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="revision-management" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-226268827">revision-management</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-226268827" value="revision-management:" class="- index/refid "><oxy:index-link href="#d153e1355" class="- index/link ">
+          [d153e1355]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="risk-assessment" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid463888314">risk-assessment</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid463888314" value="risk-assessment:" class="- index/refid "><oxy:index-link href="#d153e771" class="- index/link ">
+          [d153e771]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="risk-assessment-tool" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-2041958891">risk-assessment-tool</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2041958891" value="risk-assessment-tool:" class="- index/refid "><oxy:index-link href="#d153e869" class="- index/link ">
+          [d153e869]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="risk-reduction" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-396159515">risk-reduction</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-396159515" value="risk-reduction:" class="- index/refid "><oxy:index-link href="#d153e553" class="- index/link ">
+          [d153e553]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="root-cause-analysis" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-677655153">root-cause-analysis</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-677655153" value="root-cause-analysis:" class="- index/refid "><oxy:index-link href="#d153e655" class="- index/link ">
+          [d153e655]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">S</opentopic-index:label><opentopic-index:index.entry value="safety-communication" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1778711423">safety-communication</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1778711423" value="safety-communication:" class="- index/refid "><oxy:index-link href="#d153e775" class="- index/link ">
+          [d153e775]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="safety-decision-framework" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1406699246">safety-decision-framework</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1406699246" value="safety-decision-framework:" class="- index/refid "><oxy:index-link href="#d153e1057" class="- index/link ">
+          [d153e1057]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="safety-investigation" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-915501613">safety-investigation</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-915501613" value="safety-investigation:" class="- index/refid "><oxy:index-link href="#d153e668" class="- index/link ">
+          [d153e668]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="safety-over-production" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1973814077">safety-over-production</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1973814077" value="safety-over-production:" class="- index/refid "><oxy:index-link href="#d153e1069" class="- index/link ">
+          [d153e1069]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="safety-performance-dashboard" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-2071917762">safety-performance-dashboard</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2071917762" value="safety-performance-dashboard:" class="- index/refid "><oxy:index-link href="#d153e758" class="- index/link ">
+          [d153e758]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="stop-work-policy" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid897759863">stop-work-policy</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid897759863" value="stop-work-policy:" class="- index/refid "><oxy:index-link href="#d153e1061" class="- index/link ">
+          [d153e1061]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="strategic-planning" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-813041584">strategic-planning</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-813041584" value="strategic-planning:" class="- index/refid "><oxy:index-link href="#d153e247" class="- index/link ">
+          [d153e247]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">T</opentopic-index:label><opentopic-index:index.entry value="talent-development" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-182821472">talent-development</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-182821472" value="talent-development:" class="- index/refid "><oxy:index-link href="#d153e451" class="- index/link ">
+          [d153e451]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="training-and-development-module" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid42191827">training-and-development-module</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid42191827" value="training-and-development-module:" class="- index/refid "><oxy:index-link href="#d153e234" class="- index/link ">
+          [d153e234]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">V</opentopic-index:label><opentopic-index:index.entry value="version-control" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1019306030">version-control</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1019306030" value="version-control:" class="- index/refid "><oxy:index-link href="#d153e1159" class="- index/link ">
+          [d153e1159]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="vision-and-mission-setting" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-876012282">vision-and-mission-setting</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-876012282" value="vision-and-mission-setting:" class="- index/refid "><oxy:index-link href="#d153e238" class="- index/link ">
+          [d153e238]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">W</opentopic-index:label><opentopic-index:index.entry value="workplace-wellbeing" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1766792384">workplace-wellbeing</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1766792384" value="workplace-wellbeing:" class="- index/refid "><oxy:index-link href="#d153e566" class="- index/link ">
+          [d153e566]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">Z</opentopic-index:label><opentopic-index:index.entry value="zero-incident-aspiration" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1648891990">zero-incident-aspiration</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1648891990" value="zero-incident-aspiration:" class="- index/refid "><oxy:index-link href="#d153e346" class="- index/link ">
+          [d153e346]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="zero-incident-culture" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1658867458">zero-incident-culture</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1658867458" value="zero-incident-culture:" class="- index/refid "><oxy:index-link href="#d153e792" class="- index/link ">
+          [d153e792]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="zero-injury-aspiration" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-408901445">zero-injury-aspiration</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-408901445" value="zero-injury-aspiration:" class="- index/refid "><oxy:index-link href="#d153e672" class="- index/link ">
+          [d153e672]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group></opentopic-index:index.groups></map>

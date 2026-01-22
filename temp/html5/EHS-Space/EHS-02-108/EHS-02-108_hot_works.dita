@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space/EHS-02-108?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-02-108/?><?path2rootmap-uri ./?><?path2project ../../?><?path2project-uri ../../?><dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3"><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-02-108\EHS-Space/EHS-02-108?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-02-108/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1D895BF-BB01-11F0-1168-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita">Hot Works</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita">
+         <created class="- topic/created " date="2025-12-02T13:52:00+05:30" xtrc="created:1;12:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T13:52:00+05:30" xtrc="revised:1;13:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita">
+         <audience class="- topic/audience " otherprops="maintenance-personnel,contractors,ehs-professionals,fire-safety-officers,supervisors" type="role" xtrc="audience:1;16:131" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita">metr-ehs-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita">welding-equipment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita">cutting-torches</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita">thermal-tools</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita">fire-suppression</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita">hot-works-permit</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita">fire-watch</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita">hot-work-risk-assessment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita">isolation-controls</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita">post work-verification</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita">production-areas</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita">glass-manufacturing-plant</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita">maintenance-activities</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita">fire-risk-management</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita">mro-procedures</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;37:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;38:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="10-04-2017" name="RevisionDate" xtrc="othermeta:2;21:90" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108.ditamap"/><othermeta class="- topic/othermeta " content="EHS-02-108" name="DocumentNumber" xtrc="othermeta:1;20:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108.ditamap"/><othermeta class="- topic/othermeta " content="hot works controls and requirements" name="title" xtrc="othermeta:1;41:81" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita"/>
+         <othermeta class="- topic/othermeta " content="controls requirements and responsibilities for conducting hot works safely" name="shortdesc" xtrc="othermeta:2;42:124" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;43:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;44:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;45:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;46:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;47:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;48:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita"/>
+         <othermeta class="- topic/othermeta " content="hot-work permit;fire-watch;tools;supervisor;work-area" name="entities" xtrc="othermeta:9;49:102" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs/usecase:hot works controls;industry:glass manufacturing heavy machinery and industrial equipment" name="taxonomy" xtrc="othermeta:10;50:156" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita"/>
+         <othermeta class="- topic/othermeta " content="hot works,fire watch,permit,controls" name="tags" xtrc="othermeta:11;51:81" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita"/>
+         <othermeta class="- topic/othermeta " content="ensure safe hot works and prevent fire incidents" name="usecase" xtrc="othermeta:12;52:96" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita"/>
+      </metadata>
+   </prolog>
+   
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;56:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_hot_works.dita"/>
+<?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-02-108\EHS-Space/EHS-02-108?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-02-108/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1D8C50B-BB01-11F0-1101-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita">Purpose</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita">
+         <created class="- topic/created " date="2025-12-02T13:52:00+05:30" xtrc="created:1;12:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T13:52:00+05:30" xtrc="revised:1;13:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita">
+         <audience class="- topic/audience " otherprops="ehs-professionals,plant-management,operations-teams,maintenance-personnel,safety-officers" type="role" xtrc="audience:1;16:136" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita">metr-ehs-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita">hot-works-management</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita">permit-to-work-system</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita">fire-safety-equipment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita">hot-work-tools</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita">purpose-statement</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita">hot-works-permit-process</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita">risk-assessment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita">controls-and-mitigation</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita">emergency-preparedness</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita">glass-manufacturing-plant</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita">production-areas</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita">maintenance-activities</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita">fire-risk-management</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita">mro-operations</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;37:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;38:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="purpose of hot works procedure" name="title" xtrc="othermeta:1;41:76" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="explains objectives and safety rationale for controlling hot works in the plant" name="shortdesc" xtrc="othermeta:2;42:129" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;43:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;44:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;45:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;46:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;47:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;48:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="hot-work;permit;fire-watch;tools;work-area" name="entities" xtrc="othermeta:9;49:91" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs/usecase:hot works purpose;industry:glass manufacturing heavy machinery and industrial equipment" name="taxonomy" xtrc="othermeta:10;50:155" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="hot works,purpose,fire risk,controls" name="tags" xtrc="othermeta:11;51:81" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="define objectives to manage fire risks during hot works" name="usecase" xtrc="othermeta:12;52:103" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita"/>
+      </metadata>
+   </prolog>
+   
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;56:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita">
+      <p class="- topic/p " xtrc="p:1;57:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_purpose.dita">To establish a process for the protection from hazards associated with Hot Works including burning, welding, using fire- or spark-producing tools, or that produces a source of ignition.</p>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-02-108\EHS-Space/EHS-02-108?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-02-108/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1D86676-BB01-11F0-5436-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita">Application</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita">
+         <created class="- topic/created " date="2025-12-02T13:52:00+05:30" xtrc="created:1;12:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T13:52:00+05:30" xtrc="revised:1;13:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita">
+         <audience class="- topic/audience " otherprops="maintenance-personnel,operations-teams,ehs-professionals,plant-supervisors,contractors" type="role" xtrc="audience:1;16:133" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita">metr-ehs-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita">hot-work-permit-system</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita">fire-safety-equipment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita">welding-tools</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita">cutting-tools</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita">application-guidance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita">permit-issuance-process</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita">contractor-management</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita">pre work-inspection</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita">control-measures</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita">plant-maintenance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita">production-areas</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita">mro-operations</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita">fire-risk-areas</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita">glass-manufacturing-environment</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;37:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;38:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="application of hot works procedure" name="title" xtrc="othermeta:1;41:80" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita"/>
+         <othermeta class="- topic/othermeta " content="guidance on when and how the hot works procedure must be applied across plant activities" name="shortdesc" xtrc="othermeta:2;42:138" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;43:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;44:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;45:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;46:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;47:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;48:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita"/>
+         <othermeta class="- topic/othermeta " content="contractor;permit;work-area;fire-watch;equipment" name="entities" xtrc="othermeta:9;49:97" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs/usecase:application guidance;industry:glass manufacturing heavy machinery and industrial equipment" name="taxonomy" xtrc="othermeta:10;50:158" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita"/>
+         <othermeta class="- topic/othermeta " content="application,hot works,contractor controls,permit to work" name="tags" xtrc="othermeta:11;51:101" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita"/>
+         <othermeta class="- topic/othermeta " content="explain practical application of the hot works controls" name="usecase" xtrc="othermeta:12;52:103" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita"/>
+      </metadata>
+   </prolog>
+   
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;56:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita">
+      <p class="- topic/p " xtrc="p:1;57:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_application.dita">This procedure applies to all Space employees, contractors, and all operations including manufacturing facilities, technical centers, offices, and administrative buildings where work activities expose employees to the dangers of hazards associated with flames and sparks during non-routine operation, maintenance, or repair.</p>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-02-108\EHS-Space/EHS-02-108?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-02-108/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="r1D8DC3F-BB01-11F0-8494-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="reference:1;7:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">Reference</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">
+         <created class="- topic/created " date="2025-12-02T13:52:00+05:30" xtrc="created:1;12:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T13:52:00+05:30" xtrc="revised:1;13:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">
+         <audience class="- topic/audience " otherprops="ehs-professionals,maintenance-leads,operations-teams,training-coordinators,contract-managers" type="role" xtrc="audience:1;16:139" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">metr-ehs-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">fire-safety-standards</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">hot-work-standards</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">manufacturer-guidance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">regulatory-guidance</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">reference-list</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">inspection-criteria</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">training-guidance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">operational-standards</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">permit-templates</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">glass-manufacturing-compliance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">plant-standards</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">fire-risk-management</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">maintenance-procedures</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">mro-activities</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;37:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;38:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="references for hot works procedure" name="title" xtrc="othermeta:1;41:80" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="standards codes and manuals referenced by the hot works procedure" name="shortdesc" xtrc="othermeta:2;42:115" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;43:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;44:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;45:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;46:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;47:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;48:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="standards;codes;manuals;templates;inspection checklists" name="entities" xtrc="othermeta:9;49:104" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs/usecase:reference materials;industry:glass manufacturing heavy machinery and industrial equipment" name="taxonomy" xtrc="othermeta:10;50:157" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="references,standards,hot works,fire safety" name="tags" xtrc="othermeta:11;51:87" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="provide source documents and standards for hot works compliance" name="usecase" xtrc="othermeta:12;52:111" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita"/>
+      </metadata>
+   </prolog>
+   
+   <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;56:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">
+      <section class="- topic/section " xtrc="section:1;57:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">
+         <ul class="- topic/ul " id="ul_ahn_fp1_pzb" xtrc="ul:1;58:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">
+            <li class="- topic/li " xtrc="li:1;59:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">EHS-02-108-F Hot Works Permit, or “FM Global Hot Work Permit”</li>
+            <li class="- topic/li " xtrc="li:2;60:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">EHS-02-102 Confined Space Entry</li>
+            <li class="- topic/li " xtrc="li:3;61:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_reference.dita">EHS-02-107 Lockout Tagout Tryout</li>
+         </ul>
+      </section>
+   </refbody>
+</reference><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-02-108\EHS-Space/EHS-02-108?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-02-108/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1D90BD4-BB01-11F0-1441-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita">Scope </title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita">
+         <created class="- topic/created " date="2025-12-02T13:52:00+05:30" xtrc="created:1;12:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T13:52:00+05:30" xtrc="revised:1;13:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita">
+         <audience class="- topic/audience " otherprops="plant-management,ehs-professionals,operations-teams,maintenance-personnel,production-supervisors" type="role" xtrc="audience:1;16:143" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita">metr-ehs-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita">hot-work-zones</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita">work-permit-system</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita">fire-safety-equipment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita">tool-sets</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita">scope-definition</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita">applicability-criteria</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita">exclusions-and-limits</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita">roles-and-responsibilities</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita">operational-boundaries</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita">glass-manufacturing-plant</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita">production-areas</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita">maintenance-activities</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita">plant-safety-areas</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita">mro-environment</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;37:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;38:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="scope for hot works" name="title" xtrc="othermeta:1;41:65" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="defines where and to whom the hot works procedure applies within the facility" name="shortdesc" xtrc="othermeta:2;42:127" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;43:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;44:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;45:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;46:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;47:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;48:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="work-area;permit;equipment;supervisor;hot-work-zone" name="entities" xtrc="othermeta:9;49:100" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs/usecase:scope definition;industry:glass manufacturing heavy machinery and industrial equipment" name="taxonomy" xtrc="othermeta:10;50:154" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="scope,hot works,applicability,exclusions" name="tags" xtrc="othermeta:11;51:85" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="clarify coverage and exclusions for hot works controls" name="usecase" xtrc="othermeta:12;52:102" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita"/>
+      </metadata>
+   </prolog>
+   
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;56:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita">
+      <p class="- topic/p " xtrc="p:1;57:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_scope.dita">This procedure, based on Policy EHS-01-108 Life Saving Protocol- Hot Works, establishes requirements for performing Hot Work operations at Space facilities. </p>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-02-108\EHS-Space/EHS-02-108?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-02-108/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="r1D8AD6B-BB01-11F0-1878-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="reference:1;7:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Procedure</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+         <created class="- topic/created " date="2025-12-02T13:52:00+05:30" xtrc="created:1;12:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T13:52:00+05:30" xtrc="revised:1;13:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+         <audience class="- topic/audience " otherprops="maintenance-personnel,operations-teams,ehs-professionals,fire-safety-officers,supervisors" type="role" xtrc="audience:1;16:136" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">metr-ehs-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">hot-work-tools</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">welding-equipment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">cutting-torches</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">fire-suppression-kits</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">hot-works-permit</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">pre work-risk-assessment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">fire-watch-requirements</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">permit-issuance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">post work-inspection</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">plant-maintenance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">production-safety</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">fire-safety-management</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">glass-manufacturing-environment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">mro-procedures</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;37:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;38:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="hot works procedure" name="title" xtrc="othermeta:1;41:65" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="procedural controls for performing hot works safely including permits fire watch and inspections" name="shortdesc" xtrc="othermeta:2;42:146" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;43:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;44:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;45:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;46:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;47:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;48:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="permit;fire-watch;welding-equipment;supervisor;inspection" name="entities" xtrc="othermeta:9;49:106" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs/usecase:hot works control;industry:glass manufacturing heavy machinery and industrial equipment" name="taxonomy" xtrc="othermeta:10;50:155" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="hot works,permit,fire watch,inspection checklist" name="tags" xtrc="othermeta:11;51:93" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="control hot works to prevent fire and ensure compliance" name="usecase" xtrc="othermeta:12;52:103" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita"/>
+      </metadata>
+   </prolog>
+   
+   <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;56:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+      <section class="- topic/section " xtrc="section:1;57:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+         <ol class="- topic/ol " xtrc="ol:1;58:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+            <li class="- topic/li " xtrc="li:1;59:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Personnel Responsibilities<ol class="- topic/ol " xtrc="ol:2;59:87" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+                  <li class="- topic/li " xtrc="li:2;60:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Hot Work Supervisors<ol class="- topic/ol " xtrc="ol:3;60:87" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+                        <li class="- topic/li " xtrc="li:3;61:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">The hot work supervisor shall have the authority and responsibility to authorize and manage assigned hot work activities as well as alter or stop hot work activities that constitute unmanaged risk or can impact the safety of Space personnel, property, or the environment</li>
+                        <li class="- topic/li " xtrc="li:4;62:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Supervisor responsibilities shall include:
+                     <ol class="- topic/ol " xtrc="ol:4;63:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+                              <li class="- topic/li " xtrc="li:5;64:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+                           Establish permissible areas for hot work. 
+                        </li>
+                              <li class="- topic/li " xtrc="li:6;67:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Ensure individuals involved in hot work operations are: 
+                        <ol class="- topic/ol " xtrc="ol:5;68:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+                                    <li class="- topic/li " xtrc="li:7;69:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Familiar with Space's Hot Work Safety Program</li>
+                                    <li class="- topic/li " xtrc="li:8;70:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Trained in the safe operation of their equipment and processes, are aware of the risks involved, and understand emergency procedures in the event of a fire.</li>
+                                 </ol>
+                              </li>
+                              <li class="- topic/li " xtrc="li:9;73:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Ensure only approved apparatus are used (i.e., torches, manifolds, regulators, and pressure reducing valves).</li>
+                              <li class="- topic/li " xtrc="li:10;74:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Determine if site-specific flammable materials, hazardous processes, or other potential fire hazards are present or likely to be present in the work location.</li>
+                              <li class="- topic/li " xtrc="li:11;75:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Ensure combustibles are protected from ignition by the following means:
+                        <ol class="- topic/ol " xtrc="ol:6;76:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+                                    <li class="- topic/li " xtrc="li:12;77:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Determine if hot work measures are legitimately needed or if alternative modifications or repairs can be used.
+                              </li>
+                                    <li class="- topic/li " xtrc="li:13;79:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Move the work to a safer location free from combustibles.
+                              <ol class="- topic/ol " xtrc="ol:7;80:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+                                          <li class="- topic/li " xtrc="li:14;81:67" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">If the work cannot be moved, ensure combustibles are placed at a safe distance or are properly shielded, covered, or protected against ignition sources.</li>
+                                       </ol>
+                                    </li>
+                                    <li class="- topic/li " xtrc="li:15;84:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Schedule work so operations that could expose flammables or combustibles to ignition do not occur during hot work operations.</li>
+                                    <li class="- topic/li " xtrc="li:16;85:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Do not start hot work if any of these conditions cannot be met.</li>
+                                 </ol>
+                              </li>
+                              <li class="- topic/li " xtrc="li:17;88:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Ensure that fire protection and extinguishing equipment are properly rated and readily available.</li>
+                              <li class="- topic/li " xtrc="li:18;89:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Ensure that adequate ventilation is provided to prevent accumulation of smoke and fumes.</li>
+                              <li class="- topic/li " xtrc="li:19;90:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Ensure that a hot work fire watch is posted when necessary (See <xref class="- topic/xref " href="EHS-02-108_hot_works.dita#r1D8AD6B-BB01-11F0-1878-09173F13E4C5/li_xwc_rp1_pzb" xtrc="xref:1;90:207" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita" type="li"><?ditaot usertext?>Hot Work Fire Watch
+                                    Personnel</xref> below).</li>
+                              <li class="- topic/li " xtrc="li:20;92:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Conduct a final inspection of work areas where a hot work fire watch is not required to confirm safe operational conditions are returned and in place.</li>
+                           </ol>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " id="li_xwc_rp1_pzb" xtrc="li:21;97:63" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Hot Work Fire Watch Personnel<ol class="- topic/ol " id="ol_axc_rp1_pzb" xtrc="ol:8;97:136" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+                        <li class="- topic/li " xtrc="li:22;98:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">A "hot work fire watch" is an individual posted to observe the hot work
+                           and monitor conditions to ensure that a fire or explosion does not occur.
+                           The hot work fire watch is authorized to stop any unsafe operation or
+                           activity.</li>
+                        <li class="- topic/li " xtrc="li:23;102:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">A hot work fire watch shall be posted at the site when hot work is
+                           performed in a location where a fire might develop, or where the
+                           following conditions exist: <ol class="- topic/ol " id="ol_bxc_rp1_pzb" xtrc="ol:9;104:100" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+                              <li class="- topic/li " xtrc="li:24;105:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Combustible materials in building construction or contents are
+                                 closer than 11 meters (35 feet) or as specified in local
+                                 legislation to the point of hot work. </li>
+                              <li class="- topic/li " xtrc="li:25;108:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Combustible materials are more than 11 meters (35 feet) or as
+                                 specified in local legislation away but are easily ignited by
+                                 sparks.</li>
+                              <li class="- topic/li " xtrc="li:26;111:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Wall or floor openings are within 11 meters (35 feet) or as
+                                 specified in local legislation and expose combustible materials in
+                                 adjacent areas, including combustible materials concealed in walls
+                                 or floors.</li>
+                              <li class="- topic/li " xtrc="li:27;115:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Combustible materials are adjacent to the opposite side of
+                                 partitions, walls, ceilings, or roofs and are likely to be
+                                 ignited.</li>
+                           </ol>  </li>
+                        <li class="- topic/li " xtrc="li:28;119:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Duties and responsibilities for hot work fire watch personnel include:
+                              <ol class="- topic/ol " id="ol_cxc_rp1_pzb" xtrc="ol:10;120:75" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+                              <li class="- topic/li " xtrc="li:29;121:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Watch for fires, smoldering material, or other signs of
+                                 combustion. </li>
+                              <li class="- topic/li " xtrc="li:30;123:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Be aware of the inherent hazards of the work site and hot
+                                 work.</li>
+                              <li class="- topic/li " xtrc="li:31;125:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Ensure that safe conditions are maintained during hot work
+                                 operations. Stop the hot work if unsafe conditions develop.</li>
+                              <li class="- topic/li " xtrc="li:32;127:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Have appropriate fire extinguishing equipment and, where
+                                 practical, a charged small hose readily available and be trained in
+                                 its use.</li>
+                              <li class="- topic/li " xtrc="li:33;130:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Be familiar with the facilities and procedures for initiating an
+                                 emergency response.</li>
+                              <li class="- topic/li " xtrc="li:34;132:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Extinguish fires only within the capacity of available equipment.
+                                 If the fire is beyond the capacity of the equipment and personnel
+                                 training, commence site specific fire emergency procedures.</li>
+                              <li class="- topic/li " xtrc="li:35;135:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Maintain hot work fire watch duties during break periods.</li>
+                              <li class="- topic/li " xtrc="li:36;136:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Continue a hot work fire watch for at least 1 hour after
+                                 completion of hot work to detect and extinguish smoldering
+                                 fires.</li>
+                           </ol>
+                        </li>
+                        <li class="- topic/li " xtrc="li:37;141:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">More than one hot work fire watch is required if combustible materials
+                           that could be ignited by hot work operations cannot be directly observed
+                           by a single fire watch (e.g., in adjacent rooms or subsequent floors
+                           where hot work is performed on a common wall).</li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:38;147:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Management <ol class="- topic/ol " xtrc="ol:11;147:78" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+                        <li class="- topic/li " xtrc="li:39;148:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Management shall be responsible for ensuring that this procedure and local fire regulations are followed.</li>
+                        <li class="- topic/li " xtrc="li:40;149:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Management shall provide training for all employees whose tasks include heat, spark or flame producing operations, develop and monitor effective hot work procedures, and provide safe equipment for hot work.</li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:41;152:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Hot Work Operator<ol class="- topic/ol " xtrc="ol:12;152:84" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+                        <li class="- topic/li " xtrc="li:42;153:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">An operator can be an Space employee, Contractor, Sub-Contractor, or Temporary Employee that is designated to perform hot work.
+                     <ol class="- topic/ol " xtrc="ol:13;154:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+                              <li class="- topic/li " xtrc="li:43;155:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Operators shall: Handle hot work equipment safely and performing work so as not to impact the safety of personnel, property, or the environment.
+                        </li>
+                              <li class="- topic/li " xtrc="li:44;157:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Obtain a Hot Work Permit before hot work begins.</li>
+                              <li class="- topic/li " xtrc="li:45;158:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Stop hot work operations if unsafe conditions develop.</li>
+                              <li class="- topic/li " xtrc="li:46;159:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Notify the supervisor for situation reassessment in the event of suspected unsafe conditions or concerns expressed by affected persons.</li>
+                              <li class="- topic/li " xtrc="li:47;160:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Protect Space personnel from welding arcs and fumes</li>
+                           </ol>
+                        </li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:48;167:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">In addition, Contractors, Sub-Contractors, and Temporary Employees shall provide the name of their supervisor. </li>
+            <li class="- topic/li " xtrc="li:49;168:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Hot Work Areas<ol class="- topic/ol " xtrc="ol:14;168:75" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+                  <li class="- topic/li " xtrc="li:50;169:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Hot Work operations shall only be performed in designated areas or permit-required areas.<ol class="- topic/ol " xtrc="ol:15;169:156" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+                        <li class="- topic/li " xtrc="li:51;170:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Designated areas are free of combustible and flammable contents and are segregated from adjacent areas (e.g., a maintenance shop or a detached outside location constructed of noncombustible or fire-resistive materials). Designated areas do not require a permit, but do require that all hot work safety precautions be taken.</li>
+                        <li class="- topic/li " xtrc="li:52;171:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">A permit-required area is an area made fire-safe by removing or protecting combustibles from ignition sources.</li>
+                        <li class="- topic/li " xtrc="li:53;172:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Hot Work shall not be performed in:
+                     <ol class="- topic/ol " xtrc="ol:16;173:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+                              <li class="- topic/li " xtrc="li:54;174:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+                           Buildings with fire sprinklers if the fire protection system is impaired.
+                           
+                        </li>
+                              <li class="- topic/li " xtrc="li:55;178:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Areas where explosive or potentially explosive atmospheres are present (e.g., on drums or tanks previously containing solvents or other combustible or flammable materials, high or low pressure gas lines, etc.).</li>
+                              <li class="- topic/li " xtrc="li:56;179:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Areas with an accumulation of combustible dusts (e.g. wood or paper) where explosive atmospheres can develop.</li>
+                           </ol>
+                        </li>
+                        <li class="- topic/li " xtrc="li:57;182:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Confined Spaces – Hot work operations in confined spaces require additional safeguards. Specifically address safeguards in the designated work area or in the Confined Space policy.</li>
+                        <li class="- topic/li " xtrc="li:58;183:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Lockout Tagout Tryout – Hot work on or near building systems and piping may require additional safeguards. Specifically address safeguards in the designated work area or in the Lockout Tagout Tryout policy. </li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:59;188:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Hot Work Permit<ol class="- topic/ol " xtrc="ol:17;188:76" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+                  <li class="- topic/li " xtrc="li:60;189:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">A Hot Works Permit shall be completed according to EHS-02-108-F Hot Works Permit Form, or equivalent (e.g., FM Global Hot Work Permit), before any Hot Work begins.<ol class="- topic/ol " xtrc="ol:18;189:230" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+                        <li class="- topic/li " xtrc="li:61;190:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Hot Work permits shall not be issued in the office. The permit issue must be done at the work area to make sure all requirements are followed and the environment has not been changed (e.g., a temporary stored oil barrel).</li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:62;195:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Before Hot Work Begins<ol class="- topic/ol " xtrc="ol:19;195:83" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+                  <li class="- topic/li " xtrc="li:63;196:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Ensure that equipment to be used (e.g., welding equipment, shields, personal protective equipment, fire extinguishers, etc.) is in satisfactory operating condition and good repair.</li>
+                  <li class="- topic/li " xtrc="li:64;197:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Ensure that floors are swept clean in the immediate area, especially if there is a potential for the presence of combustible materials such as paper or dusts.</li>
+                  <li class="- topic/li " xtrc="li:65;198:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Ensure that combustible floors (except wood on concrete) are keptwet, covered
+                     with damp sand, or protected by noncombustible or fire-retardant shields,
+                     blankets, pads, and/or curtains.<note class="- topic/note " id="note_tvt_lq1_pzb" xtrc="note:1;200:104" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+                        <p class="- topic/p " xtrc="p:1;201:47" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+                           <i class="+ topic/ph hi-d/i " xtrc="i:1;202:58" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Where floors have been wet down, personnel operating arc welding or
+                              cutting equipment must be properly grounded and equipped with spark
+                              arrestors protected from possible shock or flash burns.</i>
+                        </p>
+                     </note>
+                  </li>
+                  <li class="- topic/li " xtrc="li:66;208:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Ensure that combustible materials have been moved to at least 11 meters (35 feet), or according to local legislation, away from Hot Work operations. If relocation is impractical, protect combustibles with fire-retardant covers, shields, blankets, or curtains. Edges of covers at the floor must be tight to prevent sparks from going under them, including where several covers overlap when protecting a large pile.</li>
+                  <li class="- topic/li " xtrc="li:67;209:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Ensure that openings or cracks in walls, floors, or ducts within 11 meters (35 feet) of the site have been covered with fire-retardant or noncombustible material to prevent the passage of sparks to adjacent areas.</li>
+                  <li class="- topic/li " xtrc="li:68;210:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Ensure that fire-retardant shields or guards have been provided to prevent ignition if hot work is done near walls, partitions, ceilings, or roofs of combustible construction.</li>
+                  <li class="- topic/li " xtrc="li:69;211:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Ensure that precautions have been taken to prevent ignition of combustibles on the other side of walls, partitions, ceilings, or roofs where hot work will be performed by relocating them. If it's impractical to relocate combustibles, post a hot work fire watch on the opposite side from the work.<ol class="- topic/ol " xtrc="ol:20;211:363" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+                        <li class="- topic/li " xtrc="li:70;212:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Do not attempt hot work on a partition, wall, ceiling, or roof that has a combustible covering or insulation, or on walls or partitions of combustible sandwich-type panel construction.</li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:71;215:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Ensure that there is an emergency plan, which includes fire evacuation plans and procedures, developed for the facility.</li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:72;218:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">Hot Work Closeout<ol class="- topic/ol " xtrc="ol:21;218:78" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">
+                  <li class="- topic/li " xtrc="li:73;219:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">A hot work fire watch shall be maintained for at least one (1) hour after completion of hot work operations to detect and extinguish smoldering fires.</li>
+                  <li class="- topic/li " xtrc="li:74;220:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">The supervisor or qualified designee will monitor the hot work area for up to an additional three (3) hours after the one (1) hour fire watch.</li>
+                  <li class="- topic/li " xtrc="li:75;221:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">The supervisor or qualified designee will inspect the job site thirty (30) minutes after completion of hot work and close out the Hot Work Permit with the time and date of the final check.</li>
+                  <li class="- topic/li " xtrc="li:76;222:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_procedure.dita">The Hot Work Permit shall be kept for one (1) year following completion of the project.</li>
+               </ol>
+            </li>
+         </ol>
+      </section>
+   </refbody>
+</reference><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-02-108\EHS-Space/EHS-02-108?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-02-108/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept audience="internal" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1D87E21-BB01-11F0-1137-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;8:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">
+   <title class="- topic/title " xtrc="title:1;9:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">Approval</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;10:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">
+      <author class="- topic/author " xtrc="author:1;11:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;12:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">
+         <created class="- topic/created " date="2025-12-02T13:52:00+05:30" xtrc="created:1;13:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T13:52:00+05:30" xtrc="revised:1;14:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;16:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">
+         <audience class="- topic/audience " otherprops="executive-leadership,plant-management,ehs-professionals,safety-compliance-officers,operations-managers" type="role" xtrc="audience:1;17:149" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;18:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">metr-ehs-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">approval-record</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">policy-endorsement</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">document-signoff</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">approval-workflow</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">approval-process</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">management-signoff</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">competency-verification</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">document-control</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">record-retention</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">ehs-governance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">plant-compliance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">operational-accountability</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">leadership-responsibility</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;36:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">safety-culture</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;38:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;40:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="approval for hot works procedure" name="title" xtrc="othermeta:1;42:78" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="approval metadata and signoff for hot works related procedures" name="shortdesc" xtrc="othermeta:2;43:112" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;44:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;45:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;46:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;47:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;48:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;49:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="approver;document;signoff;date;role" name="entities" xtrc="othermeta:9;50:84" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs/usecase:approval workflow;industry:glass manufacturing heavy machinery and industrial equipment" name="taxonomy" xtrc="othermeta:10;51:155" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="approval,hot work,signoff,governance" name="tags" xtrc="othermeta:11;52:81" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="capture approvals for hot works policy and procedures" name="usecase" xtrc="othermeta:12;53:101" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita"/>
+      </metadata>
+   </prolog>
+   
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;57:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">
+      <p class="- topic/p " xtrc="p:1;58:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">Sanctioning Representatives of the Global Team<simpletable class="- topic/simpletable " id="simpletable_ktz_5q1_pzb" relcolwidth="1* 1*" xtrc="simpletable:1;60:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">
+            <sthead class="- topic/sthead " xtrc="sthead:1;61:45" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:1;62:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">
+                  <p class="- topic/p " xtrc="p:2;63:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">Region</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:2;65:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">
+                  <p class="- topic/p " xtrc="p:3;66:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">Representative</p>
+               </stentry>
+            </sthead>
+            <strow class="- topic/strow " xtrc="strow:1;69:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:3;70:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">
+                  <p class="- topic/p " xtrc="p:4;71:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">Asia Pacific</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:4;73:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">
+                  <p class="- topic/p " xtrc="p:5;74:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">Steve Bourke</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:2;77:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:5;78:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">
+                  <p class="- topic/p " xtrc="p:6;79:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">Europe</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:6;81:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">
+                  <p class="- topic/p " xtrc="p:7;82:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">Tim Neal</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:3;85:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:7;86:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">
+                  <p class="- topic/p " xtrc="p:8;87:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">Latin America</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:8;89:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">
+                  <p class="- topic/p " xtrc="p:9;90:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">Isabela Malpighi</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:4;93:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:9;94:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">
+                  <p class="- topic/p " xtrc="p:10;95:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">North America</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:10;97:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">
+                  <p class="- topic/p " xtrc="p:11;98:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">Ken Smigielski</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:5;101:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:11;102:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">
+                  <p class="- topic/p " xtrc="p:12;103:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">Global Technology </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:12;105:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">
+                  <p class="- topic/p " xtrc="p:13;106:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_approval.dita">Joseph St. John </p>
+               </stentry>
+            </strow>
+         </simpletable>
+      </p>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-02-108\EHS-Space/EHS-02-108?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-02-108/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept audience="internal" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1D8F3BC-BB01-11F0-1591-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;8:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">
+   <title class="- topic/title " xtrc="title:1;9:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">Revision History</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;10:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">
+      <author class="- topic/author " xtrc="author:1;11:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;12:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">
+         <created class="- topic/created " date="2025-12-02T13:52:00+05:30" xtrc="created:1;13:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T13:52:00+05:30" xtrc="revised:1;14:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;16:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">
+         <audience class="- topic/audience " otherprops="document-control,ehs-professionals,plant-management,operations-teams,maintenance-leads" type="role" xtrc="audience:1;17:133" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;18:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">metr-ehs-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">revision-history</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">version-log</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">change-records</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">document-control</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">change-management</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">revision-approval</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">record-keeping</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">audit-readiness</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">update-process</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">hot-works-procedure</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">ehs-governance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">plant-compliance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">operational-history</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;36:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">mro-documentation</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;38:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;40:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="revision history for hot works procedure" name="title" xtrc="othermeta:1;42:86" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="log of revisions approvals and dates for the hot works topic" name="shortdesc" xtrc="othermeta:2;43:110" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;44:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;45:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;46:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;47:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;48:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;49:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="revision;author;approver;date;change summary" name="entities" xtrc="othermeta:9;50:93" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs/usecase:revision tracking;industry:glass manufacturing heavy machinery and industrial equipment" name="taxonomy" xtrc="othermeta:10;51:155" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="revision history,version control,change log" name="tags" xtrc="othermeta:11;52:88" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="retain revision metadata and approval records for audit" name="usecase" xtrc="othermeta:12;53:103" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita"/>
+      </metadata>
+   </prolog>
+   
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;57:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">
+      <p class="- topic/p " xtrc="p:1;58:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">
+         <simpletable class="- topic/simpletable " frame="all" id="table_fkk_rk3_nzb" relcolwidth="1* 1*" xtrc="simpletable:1;62:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">
+            <strow class="- topic/strow " xtrc="strow:1;63:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:1;64:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">2015-12-30</stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:2;65:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">
+                  <p class="- topic/p " xtrc="p:2;66:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">Approved by Jim Joyce, V P</p>
+                  <p class="- topic/p " xtrc="p:3;67:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">Original Issue</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:2;70:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:3;71:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">2017-10-04</stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:4;72:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">
+                  <p class="- topic/p " xtrc="p:4;73:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">Approved by Joe St. John, GT EHS Manager</p>
+                  <p class="- topic/p " xtrc="p:5;74:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">Updated with the following changes:</p>
+                  <p class="- topic/p " xtrc="p:6;75:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">Added references to Confined Space and Lockout Tagout</p>
+                  <p class="- topic/p " xtrc="p:7;76:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-108/EHS-02-108_revision_history.dita">Moved section regarding contractors to contractor safety procedure</p>
+               </stentry>
+            </strow>
+         </simpletable>
+      </p>
+   </conbody>
+</concept></concept></dita>

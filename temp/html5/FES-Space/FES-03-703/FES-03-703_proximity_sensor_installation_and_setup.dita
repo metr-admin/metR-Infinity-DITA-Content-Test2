@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\FES-Space/FES-03-703?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/FES-Space/FES-03-703/?><?path2rootmap-uri ./?><?path2project ../../?><?path2project-uri ../../?><dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3"><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\FES-Space\FES-03-703\FES-Space/FES-03-703?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/FES-Space/FES-03-703/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c216B76D-BB02-11F0-2316-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">Proximity Sensor Installation and Setup</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">
+         <created class="- topic/created " date="2025-11-11+05:30" xtrc="created:1;12:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita"/>
+         <revised class="- topic/revised " modified="2025-11-11+05:30" xtrc="revised:1;13:48" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">
+         <audience class="- topic/audience " otherprops="production,maintenance,quality,safety,engineering,management" type="role" xtrc="audience:1;16:107" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">metR-fes-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">ois-03261</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">proximity-sensor-assembly</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">sensor-mounting-bracket</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">m12-shielded-connector</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">signal-conditioning-module</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">servo-gob-distributor</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">feeder-mechanism</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">mounting-adjustment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">sensor-gap-measurement</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">alignment-jig-usage</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">rotational-synchronization</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">plc-input-wiring</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">sync-pulse-verification</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">debounce-and-threshold-tuning</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:16;36:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">final-operational-check</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:17;39:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">shear-cut-timing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:18;40:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">gob-detection</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:19;41:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">glass-forming-line</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:20;42:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">in-situ-calibration</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:21;43:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">shop-floor-acceptance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:22;44:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">production-startup-checklist</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:23;45:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">maintenance-readiness</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:24;46:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">equipment-performance-accuracy</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;48:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;49:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">metR-FES-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;50:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="05-09-2022" name="RevisionDate" xtrc="othermeta:2;21:90" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703.ditamap"/><othermeta class="- topic/othermeta " content="FES-03-703" name="DocumentNumber" xtrc="othermeta:1;20:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703.ditamap"/><othermeta class="- topic/othermeta " content="Proximity Sensor — Installation and Setup" name="title" xtrc="othermeta:1;52:87" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita"/>
+         <othermeta class="- topic/othermeta " content="Work instruction for mounting, aligning, wiring, configuring and verifying the OIS-03261 proximity sensor to achieve accurate gob/shear synchronization on Servo Gob Distributor feeder mechanisms." name="shortdesc" xtrc="othermeta:2;53:245" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;54:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;55:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;56:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;57:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;58:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;59:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita"/>
+         <othermeta class="- topic/othermeta " content="OIS-03261 proximity sensor;sensor bracket;alignment jig;M12 connector;signal conditioner;PLC digital input;servo encoder;feeder mechanism;shear assembly" name="entities" xtrc="othermeta:9;60:201" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:industrial-automation;usecase:proximity-sensor-installation;industry:glass-manufacturing" name="taxonomy" xtrc="othermeta:10;61:144" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita"/>
+         <othermeta class="- topic/othermeta " content="proximity-sensor,installation,alignment,signal-configuration,gob-synchronization,shear-timing,plc-wiring" name="tags" xtrc="othermeta:11;62:149" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita"/>
+         <othermeta class="- topic/othermeta " content="Provide a machine-retrievable work instruction for precise installation, alignment, wiring and verification of the proximity sensor (OIS-03261) for gob/shear synchronization" name="usecase" xtrc="othermeta:12;63:221" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;66:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_proximity_sensor_installation_and_setup.dita"/>
+<?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\FES-Space\FES-03-703\FES-Space/FES-03-703?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/FES-Space/FES-03-703/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c216D035-BB02-11F0-6275-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">Purpose and Application</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">
+         <created class="- topic/created " date="2025-11-11+05:30" xtrc="created:1;12:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita"/>
+         <revised class="- topic/revised " modified="2025-11-11+05:30" xtrc="revised:1;13:48" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">
+         <audience class="- topic/audience " otherprops="production,maintenance,quality,safety,engineering,management" type="role" xtrc="audience:1;16:107" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">metR-fes-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">proximity-sensor-assembly</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">servo-gob-distributor</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">feeder-mechanism</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">sensor-bracket</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">gob-shear-detection-system</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">signal-interface-cable</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">sensor-positioning</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">mechanical-alignment-procedure</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">signal-calibration</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">rotational-synchronization</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">operational-verification</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">installation-guideline</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">sensor-orientation-check</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;37:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">glass-forming-line</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:16;38:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">feeder-drive-system</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:17;39:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">industrial-automation</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:18;40:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">space-manufacturing-facility</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:19;41:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">machine-synchronization</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:20;42:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">equipment-performance-accuracy</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;44:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;45:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">metR-FES-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;46:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Purpose and Application" name="title" xtrc="othermeta:1;48:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita"/>
+         <othermeta class="- topic/othermeta " content="Defines the purpose and application of installing the OIS-03261 proximity sensor on the feeder mechanism to synchronize the Servo Gob Distributor and shear cut timing." name="shortdesc" xtrc="othermeta:2;49:217" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;50:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;51:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;52:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;53:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;54:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;55:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita"/>
+         <othermeta class="- topic/othermeta " content="OIS-03261 proximity sensor;servo gob distributor;feeder drive system;shear synchronization assembly" name="entities" xtrc="othermeta:9;56:148" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:industrial-automation;usecase:sensor-alignment;industry:glass-manufacturing" name="taxonomy" xtrc="othermeta:10;57:131" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita"/>
+         <othermeta class="- topic/othermeta " content="proximity-sensor,feeder-mechanism,servo-gob-control,alignment-procedure,shear-detection,signal-calibration" name="tags" xtrc="othermeta:11;58:151" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita"/>
+         <othermeta class="- topic/othermeta " content="Define purpose and operational scope of proximity sensor setup in gob feeder systems" name="usecase" xtrc="othermeta:12;59:132" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;62:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">
+      <section class="- topic/section " id="section_knn_3kg_rzb" xtrc="section:1;63:66" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">
+         <title class="- topic/title " xtrc="title:2;64:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">Purpose</title>
+         <p class="- topic/p " xtrc="p:1;65:32" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">To define a work instruction for the installation and setup of a proximity sensor
+            (OIS-03261). The sensor must be properly aligned on the feeder mechanism so that the
+            system can accurately detect the relationship between the shear cut and the rotation of
+            the Servo Gob Distributor.</p>
+      </section>
+      <section class="- topic/section " id="section_kzs_3kg_rzb" xtrc="section:2;70:66" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">
+         <title class="- topic/title " xtrc="title:3;71:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">Application</title>
+         <p class="- topic/p " xtrc="p:2;72:32" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_purpose_and_application.dita">This work instruction applies to Space manufacturing facilities, and is required on all
+            Servo Gob Distributor installations with mechanical feeder mechanisms.</p>
+      </section>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\FES-Space\FES-03-703\FES-Space/FES-03-703?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/FES-Space/FES-03-703/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c217333C-BB02-11F0-1945-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">Safety</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">
+         <created class="- topic/created " date="2025-11-11+05:30" xtrc="created:1;12:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita"/>
+         <revised class="- topic/revised " modified="2025-11-11+05:30" xtrc="revised:1;13:48" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">
+         <audience class="- topic/audience " otherprops="production,maintenance,quality,safety,engineering,management" type="role" xtrc="audience:1;16:107" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">metR-fes-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">ois-03261-sensor</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">control-panel</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">signal-cable-harness</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">servo-drive</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">power-isolation</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">lockout-tagout-procedure</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">electrical-grounding</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">mechanical-restraint</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">personal-protective-equipment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">sensor-safety-validation</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">industrial-safety</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">glass-production-facility</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;36:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">maintenance-safety</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;37:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">electrical-hazard-control</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:16;38:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">work-environment-safety</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;40:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;41:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">metR-FES-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;42:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Safety" name="title" xtrc="othermeta:1;44:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="Describes safety practices for handling electrical and mechanical systems during proximity sensor installation on the Servo Gob Distributor." name="shortdesc" xtrc="othermeta:2;45:190" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;46:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;47:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;48:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;49:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;50:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;51:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="electrical circuits;control cabinet;servo drive;proximity sensor assembly" name="entities" xtrc="othermeta:9;52:122" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:industrial-safety;usecase:equipment-installation-safety;industry:glass-manufacturing" name="taxonomy" xtrc="othermeta:10;53:140" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="lockout-tagout,grounding,safety-barriers,electrical-protection,mechanical-restraint" name="tags" xtrc="othermeta:11;54:128" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="Ensure worker safety during installation, alignment, and electrical setup of proximity sensor systems" name="usecase" xtrc="othermeta:12;55:149" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;58:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">
+      <p class="- topic/p " xtrc="p:1;59:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">Observe Space standard safety requirements and procedures defined by the Global Environmental
+         Health , andamp; Safety (EH, andamp;S) organization, as well as all applicable local, regional, and
+         national requirements. Safety equipment and instructions specific to the completion of this
+         work instruction are detailed in the <xref class="- topic/xref " href="FES-03-703_proximity_sensor_installation_and_setup.dita#r2169F6F-BB02-11F0-1354-09173F13E4C5" xtrc="xref:1;62:111" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita" type="reference"><?ditaot usertext?>Instructions</xref> Section.<simpletable class="- topic/simpletable " id="table_nhr_4kg_rzb" relcolwidth="1* 1* 1*" xtrc="simpletable:1;64:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">
+            <strow class="- topic/strow " xtrc="strow:1;65:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:1;66:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">
+                  <p class="- topic/p " xtrc="p:2;67:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">
+                     <fig class="- topic/fig " id="fig_ohr_4kg_rzb" xtrc="fig:1;68:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">
+                        <title class="- topic/title " xtrc="title:2;69:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">Danger</title>
+                        <image align="center" class="- topic/image " href="media/image1.jpg" id="image_phr_4kg_rzb" placement="break" xtrc="image:1;74:56" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita" dita-ot:image-width="160" dita-ot:image-height="139" dita-ot:horizontal-dpi="96" dita-ot:vertical-dpi="96"/>
+                     </fig>
+                  </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:2;78:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">
+                  <p class="- topic/p " xtrc="p:3;79:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">
+                     <fig class="- topic/fig " id="fig_qhr_4kg_rzb" xtrc="fig:2;80:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">
+                        <title class="- topic/title " xtrc="title:3;81:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">Electricity</title>
+                        <image align="center" class="- topic/image " href="media/image2.jpg" id="image_rhr_4kg_rzb" placement="break" xtrc="image:2;86:56" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita" dita-ot:image-width="147" dita-ot:image-height="147" dita-ot:horizontal-dpi="220" dita-ot:vertical-dpi="220"/>
+                     </fig>
+                  </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:3;90:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">
+                  <p class="- topic/p " xtrc="p:4;91:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">
+                     <fig class="- topic/fig " id="fig_shr_4kg_rzb" xtrc="fig:3;92:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">
+                        <title class="- topic/title " xtrc="title:4;93:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita">Hot Surface</title>
+                        <image align="center" class="- topic/image " href="media/image3.jpg" id="image_thr_4kg_rzb" placement="break" xtrc="image:3;98:56" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_safety.dita" dita-ot:image-width="147" dita-ot:image-height="147" dita-ot:horizontal-dpi="220" dita-ot:vertical-dpi="220"/>
+                     </fig>
+                  </p>
+               </stentry>
+            </strow>
+         </simpletable>
+      </p>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\FES-Space\FES-03-703\FES-Space/FES-03-703?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/FES-Space/FES-03-703/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="r2169F6F-BB02-11F0-1354-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="reference:1;7:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">Instructions</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">
+         <created class="- topic/created " date="2025-11-11+05:30" xtrc="created:1;12:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita"/>
+         <revised class="- topic/revised " modified="2025-11-11+05:30" xtrc="revised:1;13:48" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">
+         <audience class="- topic/audience " otherprops="production,maintenance,quality,safety,engineering,management" type="role" xtrc="audience:1;16:107" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">ois-03261-installation</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">feeder-bracket-mount</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">servo-encoder-sync</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">signal-conditioning-module</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">plc-digital-input</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">m12-shielded-cable</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">alignment-jig-usage</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">stepwise-mounting-sequence</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">sensor-orientation-adjustment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">gap-setting-procedure</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">sync-pulse-verification</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">trigger-threshold-configuration</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">debounce-parameter-tuning</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">final-operational-check</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;37:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">shear-cut-synchronization</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:16;38:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">gob-timing-verification</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:17;39:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">production-startup-checklist</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:18;40:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">line-acceptance-criteria</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:19;41:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">in-situ-calibration</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:20;42:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">on-machine-verification</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;44:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;45:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">metR-FES-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;46:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Instructions" name="title" xtrc="othermeta:1;48:58" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita"/>
+         <othermeta class="- topic/othermeta " content="Step-by-step work instruction for mounting, aligning, wiring, configuring and verifying the OIS-03261 proximity sensor for gob/shear synchronization." name="shortdesc" xtrc="othermeta:2;49:199" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;50:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;51:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;52:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;53:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;54:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;55:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita"/>
+         <othermeta class="- topic/othermeta " content="mounting hardware;alignment procedure;plc inputs;signal parameters;debounce settings;test checklist" name="entities" xtrc="othermeta:9;56:148" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:industrial-procedures;usecase:sensor-installation;industry:glass-manufacturing" name="taxonomy" xtrc="othermeta:10;57:134" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita"/>
+         <othermeta class="- topic/othermeta " content="step-by-step,instruction,alignment-procedure,signal-configuration,verification-checks" name="tags" xtrc="othermeta:11;58:130" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita"/>
+         <othermeta class="- topic/othermeta " content="Provide precise installation and verification steps to ensure correct sensor alignment and timing" name="usecase" xtrc="othermeta:12;59:145" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita"/>
+      </metadata>
+   </prolog>
+   <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;62:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">
+      <section class="- topic/section " xtrc="section:1;63:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">
+         <ol class="- topic/ol " xtrc="ol:1;64:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">
+            <li class="- topic/li " xtrc="li:1;65:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">Before starting the work instruction activity, perform the following steps:<ol class="- topic/ol " xtrc="ol:2;65:136" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">
+                  <li class="- topic/li " xtrc="li:2;66:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">Do not begin these tasks without confirmation that personnel directly involved have completed the required training associated with the work instruction activity and have reviewed this document.</li>
+                  <li class="- topic/li " xtrc="li:3;67:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">Gather necessary tools and equipment as identified below in the Equipment Section</li>
+                  <li class="- topic/li " xtrc="li:4;68:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">Wear and use additional Personal Protective Equipment (PPE) and safety equipment required for this specific work instruction. </li>
+                  <li class="- topic/li " xtrc="li:5;69:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">Obey all applicable safety requirements and procedures.</li>
+                  <li class="- topic/li " xtrc="li:6;70:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">Follow all Lockout/Tagout procedures when work instruction activity requires isolating energy in the designated area. Verify energy is isolated before starting work.</li>
+               </ol>
+            </li>
+            <li class="- topic/li " id="li_dmt_zkg_rzb" xtrc="li:7;73:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">For a Servo Gob Distributor with a mechanical feeder mechanism and
+               a mechanical shear mechanism, perform the following steps: <note class="- topic/note " id="note_emt_zkg_rzb" xtrc="note:1;74:125" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">
+                  <p class="- topic/p " xtrc="p:1;75:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">If the Servo Gob Distributor has a mechanical feeder mechanism and a Servo
+                     Parallel Shears mechanism, use Section <xref class="- topic/xref " href="FES-03-703_proximity_sensor_installation_and_setup.dita#r2169F6F-BB02-11F0-1354-09173F13E4C5/li_apx_5kg_rzb" xtrc="xref:1;76:149" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita" type="li"><?ditaot usertext?>3.3</xref>
+                  </p>
+               </note>
+               <ol class="- topic/ol " id="ol_fmt_zkg_rzb" xtrc="ol:3;79:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">
+                  <li class="- topic/li " xtrc="li:8;80:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">Mount the target, sensor, and bracket on the feeder mechanism. Refer to
+                     drawing OIS-03261</li>
+                  <li class="- topic/li " id="li_a31_xkg_rzb" xtrc="li:9;82:63" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">Rotate the feeder mechanism until the "0" degree line of
+                     the shear cam is directly perpendicular to the lever arm cam follower
+                     roller.</li>
+                  <li class="- topic/li " id="li_egk_xkg_rzb" xtrc="li:10;85:63" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">Rotate the target around the shear cam shaft in the
+                     direction of normal rotation until the sensor senses the target, and the red
+                     LED just starts to turn on.</li>
+                  <li class="- topic/li " xtrc="li:11;88:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">Verify that the cam and cam follower did not move from its proper relationship
+                     while rotating the target. <ol class="- topic/ol " id="ol_gmt_zkg_rzb" xtrc="ol:4;89:93" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">
+                        <li class="- topic/li " xtrc="li:12;90:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">If movement occurred, repeat steps <xref class="- topic/xref " href="FES-03-703_proximity_sensor_installation_and_setup.dita#r2169F6F-BB02-11F0-1354-09173F13E4C5/li_a31_xkg_rzb" xtrc="xref:2;90:172" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita" type="li"><?ditaot usertext?>2</xref> and <xref class="- topic/xref " href="FES-03-703_proximity_sensor_installation_and_setup.dita#r2169F6F-BB02-11F0-1354-09173F13E4C5/li_egk_xkg_rzb" xtrc="xref:3;90:273" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita" type="li"><?ditaot usertext?>3</xref>.</li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:13;93:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">When everything is in the proper position, tighten down the target.</li>
+               </ol>
+            </li>
+            <li class="- topic/li " id="li_apx_5kg_rzb" xtrc="li:14;96:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">For a Servo Gob Distributor with a mechanical feeder mechanism and
+               a Servo Parallel Shears mechanism, perform the following steps: <note class="- topic/note " id="note_dpx_5kg_rzb" xtrc="note:2;97:130" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">
+                  <p class="- topic/p " xtrc="p:2;98:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">If the Servo Gob Distributor has a mechanical feeder mechanism and a mechanical
+                     shear mechanism, use Section <xref class="- topic/xref " href="FES-03-703_proximity_sensor_installation_and_setup.dita#r2169F6F-BB02-11F0-1354-09173F13E4C5/li_dmt_zkg_rzb" xtrc="xref:4;99:139" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita" type="li"><?ditaot usertext?>3.2</xref>.
+                  </p>
+               </note>
+               <ol class="- topic/ol " id="ol_epx_5kg_rzb" xtrc="ol:5;102:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">
+                  <li class="- topic/li " xtrc="li:15;103:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">Mount the target, sensor, and bracket on the feeder mechanism. Refer to
+                     drawing OIS-03261.</li>
+                  <li class="- topic/li " xtrc="li:16;105:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">Display the Motor/Resolver Test Menu for the Servo Parallel Shears. <ol class="- topic/ol " id="ol_fpx_5kg_rzb" xtrc="ol:6;105:155" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">
+                        <li class="- topic/li " xtrc="li:17;106:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">At the Main Operator Display Station, select the Servo Parallel Shears
+                           Main Menu.</li>
+                        <li class="- topic/li " xtrc="li:18;108:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">Press the<uicontrol class="+ topic/ph ui-d/uicontrol " xtrc="uicontrol:1;108:104" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita"> UTILITY MENU</uicontrol> button. The Utility Menu
+                           will appear.</li>
+                        <li class="- topic/li " xtrc="li:19;110:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">Select the FIELD I/O TEST menu in the Utility Menu. Then, press the
+                              <uicontrol class="+ topic/ph ui-d/uicontrol " xtrc="uicontrol:2;111:77" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">ENTER</uicontrol> button. The Field I/O Test Menu will
+                           appear.</li>
+                        <li class="- topic/li " xtrc="li:20;113:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">Press the <uicontrol class="+ topic/ph ui-d/uicontrol " xtrc="uicontrol:3;113:105" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">MOTOR , andamp; RESOLVER</uicontrol> button. The
+                           Motor/Resolver Test Menu will appear</li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " id="li_x2d_2lg_rzb" xtrc="li:21;117:63" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">Rotate the feeder mechanism until the master resolver
+                     reads 180 degrees on the Motor/Resolver Test Menu for the Servo Parallel
+                     Shears.</li>
+                  <li class="- topic/li " id="li_zhg_2lg_rzb" xtrc="li:22;120:63" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">Rotate the target around the shear cam shaft in the
+                     direction of normal rotation until the sensor senses the target, and the red
+                     LED just starts to turn on.</li>
+                  <li class="- topic/li " xtrc="li:23;123:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">Verify that the master resolver still shows 180 degrees on the Menu screen.
+                        <ol class="- topic/ol " id="ol_gpx_5kg_rzb" xtrc="ol:7;124:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">
+                        <li class="- topic/li " xtrc="li:24;125:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">If movement occurred, repeat steps <xref class="- topic/xref " href="FES-03-703_proximity_sensor_installation_and_setup.dita#r2169F6F-BB02-11F0-1354-09173F13E4C5/li_x2d_2lg_rzb" xtrc="xref:5;125:172" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita" type="li"><?ditaot usertext?>3</xref> and <xref class="- topic/xref " href="FES-03-703_proximity_sensor_installation_and_setup.dita#r2169F6F-BB02-11F0-1354-09173F13E4C5/li_zhg_2lg_rzb" xtrc="xref:6;125:273" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita" type="li"><?ditaot usertext?>4</xref>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:25;129:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">When everything is in the proper position, tighten down the target.</li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:26;132:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">Upon completion of tasks, perform the following steps:
+         <ol class="- topic/ol " xtrc="ol:8;133:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">
+                  <li class="- topic/li " xtrc="li:27;134:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">After the designated work area is confirmed clear and personnel are aware of the pending restart, follow all Lockout/Tagout procedures to restart energy supplied to the designated area. Verify energy is active.</li>
+                  <li class="- topic/li " xtrc="li:28;135:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">Notify appropriate personnel that the work instruction activity has been completed.</li>
+                  <li class="- topic/li " xtrc="li:29;136:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">Record and report findings and results</li>
+                  <li class="- topic/li " xtrc="li:30;137:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_instructions.dita">Follow appropriate instructions for notification of findings and results relating to specifications, targets and/or reaction limits.</li>
+               </ol>
+            </li>
+         </ol>
+      </section>
+   </refbody>
+</reference><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\FES-Space\FES-03-703\FES-Space/FES-03-703?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/FES-Space/FES-03-703/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c217015C-BB02-11F0-5436-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita">Required Training</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita">
+         <created class="- topic/created " date="2025-11-11+05:30" xtrc="created:1;12:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita"/>
+         <revised class="- topic/revised " modified="2025-11-11+05:30" xtrc="revised:1;13:48" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita">
+         <audience class="- topic/audience " otherprops="production,maintenance,quality,safety,engineering,management" type="role" xtrc="audience:1;16:107" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita">metR-fes-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita">proximity-sensor</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita">servo-gob-control-system</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita">alignment-jig</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita">diagnostic-software</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita">installation-toolkit</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita">technician-certification</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita">alignment-training</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita">electrical-safety-training</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita">sensor-verification</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita">signal-testing-procedure</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita">hands-on-demonstration</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita">glass-forming-equipment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;36:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita">operator-competency</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;37:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita">machine-maintenance-readiness</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:16;38:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita">industrial-skill-development</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:17;39:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita">installation-proficiency</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;41:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;42:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita">metR-FES-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;43:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Required Training" name="title" xtrc="othermeta:1;45:63" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita"/>
+         <othermeta class="- topic/othermeta " content="Specifies the necessary training and skill levels required for personnel performing installation, alignment, and calibration of proximity sensors." name="shortdesc" xtrc="othermeta:2;46:196" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;47:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;48:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;49:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;50:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;51:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;52:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita"/>
+         <othermeta class="- topic/othermeta " content="technicians;supervisors;training module;diagnostic equipment" name="entities" xtrc="othermeta:9;53:109" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:industrial-training;usecase:installation-competency;industry:glass-manufacturing" name="taxonomy" xtrc="othermeta:10;54:136" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita"/>
+         <othermeta class="- topic/othermeta " content="alignment-training,safety-certification,signal-verification,installation-competency" name="tags" xtrc="othermeta:11;55:128" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita"/>
+         <othermeta class="- topic/othermeta " content="Define competency and safety training requirements for proximity sensor setup" name="usecase" xtrc="othermeta:12;56:125" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;59:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita">
+      <p class="- topic/p " xtrc="p:1;60:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_required_training.dita">Before performing this work instruction, applicable personnel must be trained by an authorized trainer on the required training contents listed in this document.</p>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\FES-Space\FES-03-703\FES-Space/FES-03-703?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/FES-Space/FES-03-703/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="r216E8DA-BB02-11F0-1467-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="reference:1;7:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">References</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">
+         <created class="- topic/created " date="2025-11-11+05:30" xtrc="created:1;12:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita"/>
+         <revised class="- topic/revised " modified="2025-11-11+05:30" xtrc="revised:1;13:48" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">
+         <audience class="- topic/audience " otherprops="production,maintenance,quality,safety,engineering,management" type="role" xtrc="audience:1;16:107" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">ois-03261-datasheet</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">sensor-manufacturer-manual</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">servo-gob-distributor-manual</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">plc-i-o-wiring-guide</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">m12-connector-specification</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">electrical-wiring-standards</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">calibration-procedure-reference</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">test-and-verification-guidelines</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">maintenance-schedule-reference</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">safety-standards-reference</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">installation-best-practices</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">manufacturer-part-number</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">supplier-contact-info</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;36:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">industry-standards</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;37:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">glass-manufacturing-guidelines</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:16;38:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">shop-floor-documentation</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;40:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;41:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">metR-FES-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;42:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="References" name="title" xtrc="othermeta:1;44:56" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita"/>
+         <othermeta class="- topic/othermeta " content="Reference list: datasheets, supplier manuals, wiring standards and test guidance relevant to proximity sensor installation and verification." name="shortdesc" xtrc="othermeta:2;45:190" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;46:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;47:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;48:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;49:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;50:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;51:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita"/>
+         <othermeta class="- topic/othermeta " content="datasheets;supplier manuals;technical-standards;wiring-guides;part-numbers" name="entities" xtrc="othermeta:9;52:123" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:technical-references;usecase:installation-reference;industry:glass-manufacturing" name="taxonomy" xtrc="othermeta:10;53:136" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita"/>
+         <othermeta class="- topic/othermeta " content="datasheet,manuals,wiring-standards,manufacturer-guides,reference-docs" name="tags" xtrc="othermeta:11;54:114" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita"/>
+         <othermeta class="- topic/othermeta " content="Provide authoritative technical references supporting installation, wiring, and test procedures" name="usecase" xtrc="othermeta:12;55:143" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita"/>
+      </metadata>
+   </prolog>
+   <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;58:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">
+      <section class="- topic/section " id="section_em4_3lg_rzb" xtrc="section:1;59:66" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">
+         <title class="- topic/title " xtrc="title:2;60:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">Document Classification</title>
+         <ul class="- topic/ul " id="ul_yxv_3lg_rzb" xtrc="ul:1;61:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">
+            <li class="- topic/li " xtrc="li:1;62:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">Asset Protection and Stability</li>
+            <li class="- topic/li " xtrc="li:2;63:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_references.dita">Safety and Environment</li>
+         </ul>
+      </section>
+   </refbody>
+</reference><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\FES-Space\FES-03-703\FES-Space/FES-03-703?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/FES-Space/FES-03-703/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept audience="internal" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c21687F8-BB02-11F0-8723-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;8:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">
+   <title class="- topic/title " xtrc="title:1;9:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">Approval</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;10:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">
+      <author class="- topic/author " xtrc="author:1;11:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;12:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">
+         <created class="- topic/created " date="2025-11-11+05:30" xtrc="created:1;13:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita"/>
+         <revised class="- topic/revised " modified="2025-11-11+05:30" xtrc="revised:1;14:48" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;16:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">
+         <audience class="- topic/audience " otherprops="production,maintenance,quality,safety,engineering,management" type="role" xtrc="audience:1;17:107" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;18:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">metR-fes-space-approval</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">document-signoff</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">technical-approval</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">quality-acceptance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">safety-approval</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">signoff-process</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">approval-matrix</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">authorisation-flow</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">final-acceptance-test</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">release-to-production</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">management-approval</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">engineering-authority</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;36:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">quality-compliance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;37:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">safety-compliance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;38:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">operational-release</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;40:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;41:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">metR-FES-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;42:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Approval" name="title" xtrc="othermeta:1;44:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="Approval metadata, roles and signoff records required to authorise the proximity sensor installation and operational release." name="shortdesc" xtrc="othermeta:2;45:175" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;46:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;47:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;48:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;49:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;50:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;51:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="approvers;signoff-dates;approval-comments;release-notes" name="entities" xtrc="othermeta:9;52:104" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:document-approval;usecase:release-governance;industry:glass-manufacturing" name="taxonomy" xtrc="othermeta:10;53:129" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="approval,signoff,release-to-production,quality-acceptance,management-authorization" name="tags" xtrc="othermeta:11;54:127" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="Record approvals and authorisations needed to release and implement the sensor installation procedure" name="usecase" xtrc="othermeta:12;55:149" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;58:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">
+      <p class="- topic/p " xtrc="p:1;59:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">
+         <simpletable class="- topic/simpletable " id="table_a12_mlg_rzb" relcolwidth="3* 5*" xtrc="simpletable:1;62:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">
+            <strow class="- topic/strow " xtrc="strow:1;63:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:1;64:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">
+                  <p class="- topic/p " xtrc="p:2;65:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:1;66:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">Region</b>
+                  </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:2;69:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">
+                  <p class="- topic/p " xtrc="p:3;70:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:2;71:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">Representative</b>
+                  </p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:2;75:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:3;76:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">
+                  <p class="- topic/p " xtrc="p:4;77:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">Asia Pacific</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:4;79:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">
+                  <p class="- topic/p " xtrc="p:5;80:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">John Pillen</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:3;83:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:5;84:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">
+                  <p class="- topic/p " xtrc="p:6;85:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">Europe</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:6;87:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">
+                  <p class="- topic/p " xtrc="p:7;88:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">Jean-Pierre Locato, Marco Marchelli, Ruud Bormans, Rafal Szkoda</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:4;91:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:7;92:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">
+                  <p class="- topic/p " xtrc="p:8;93:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">Americas South</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:8;95:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">
+                  <p class="- topic/p " xtrc="p:9;96:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">Paul Arriz</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:5;99:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:9;100:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">
+                  <p class="- topic/p " xtrc="p:10;101:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">Americas North</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:10;103:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">
+                  <p class="- topic/p " xtrc="p:11;104:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">Daniel Devries</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:6;107:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:11;108:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">
+                  <p class="- topic/p " xtrc="p:12;109:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">Global Operations</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:12;111:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">
+                  <p class="- topic/p " xtrc="p:13;112:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_approval.dita">Juan Ishiguro, Franklin Barrios</p>
+               </stentry>
+            </strow>
+         </simpletable>
+      </p>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\FES-Space\FES-03-703\FES-Space/FES-03-703?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/FES-Space/FES-03-703/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept audience="internal" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c21719AA-BB02-11F0-3798-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;8:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">
+   <title class="- topic/title " xtrc="title:1;9:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">Revision History</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;10:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">
+      <author class="- topic/author " xtrc="author:1;11:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;12:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">
+         <created class="- topic/created " date="2025-11-11+05:30" xtrc="created:1;13:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita"/>
+         <revised class="- topic/revised " modified="2025-11-11+05:30" xtrc="revised:1;14:48" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;16:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">
+         <audience class="- topic/audience " otherprops="production,maintenance,quality,safety,engineering,management" type="role" xtrc="audience:1;17:107" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;18:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">metR-fes-space-document</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">proximity-sensor-document</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">revision-log</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">document-control</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">version-history</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">change-request-recording</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">revision-approval-flow</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">modified-content-summary</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">authoring-and-review</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">effective-date-tracking</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">document-governance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">quality-audit-trace</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;36:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">configuration-management</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;37:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">regulatory-records</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;38:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">retention-policy-compliance</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;40:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;41:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">metR-FES-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;42:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Revision History" name="title" xtrc="othermeta:1;44:62" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="Tracks revisions, authors, descriptions of changes, and effective dates for the proximity sensor installation documentation." name="shortdesc" xtrc="othermeta:2;45:174" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;46:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;47:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;48:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;49:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;50:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;51:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="revision entries;authors;approvers;effective-dates;change-descriptions" name="entities" xtrc="othermeta:9;52:119" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:document-management;usecase:revision-tracking;industry:glass-manufacturing" name="taxonomy" xtrc="othermeta:10;53:130" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="revision-history,version-control,change-log,document-governance" name="tags" xtrc="othermeta:11;54:108" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="Maintain auditable revision records for document control and quality traceability" name="usecase" xtrc="othermeta:12;55:129" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;58:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">
+      <p class="- topic/p " xtrc="p:1;59:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">
+         <simpletable class="- topic/simpletable " id="table_gvv_mqg_rzb" relcolwidth="1* 1*" xtrc="simpletable:1;62:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">
+            <strow class="- topic/strow " xtrc="strow:1;63:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:1;64:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">2020-02-21</stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:2;65:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">
+                  <p class="- topic/p " xtrc="p:2;66:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">Approved by Juan Ishiguro, IS Machines Discipline Leader</p>
+                  <p class="- topic/p " xtrc="p:3;67:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">Original Issue</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:2;70:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:3;71:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">2022-05-09</stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:4;72:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">
+                  <p class="- topic/p " xtrc="p:4;73:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">Approved by Franklin Barrios, Global Leader FES Network.</p>
+                  <p class="- topic/p " xtrc="p:5;74:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-703/FES-03-703_revision_history.dita">Moved to GMF Site as FES-03-703</p>
+               </stentry>
+            </strow>
+         </simpletable>
+      </p>
+   </conbody>
+</concept></concept></dita>

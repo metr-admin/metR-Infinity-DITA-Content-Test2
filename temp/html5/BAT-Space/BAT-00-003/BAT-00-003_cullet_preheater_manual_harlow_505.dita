@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\BAT-Space/BAT-00-003?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/BAT-Space/BAT-00-003/?><?path2rootmap-uri ./?><?path2project ../../?><?path2project-uri ../../?><dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3"><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\BAT-Space\BAT-00-003\BAT-Space/BAT-00-003?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/BAT-Space/BAT-00-003/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1A4B993-BB01-11F0-1360-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual_harlow_505.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual_harlow_505.dita">Cullet Preheater Manual-Harlow 505</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:36" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual_harlow_505.dita">
+      <author class="- topic/author " xtrc="author:1;10:39" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual_harlow_505.dita">Metapercept</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:45" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual_harlow_505.dita">
+         <created class="- topic/created " date="2025-11-05+05:30" xtrc="created:1;12:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual_harlow_505.dita"/>
+         <revised class="- topic/revised " modified="2025-05-05" xtrc="revised:1;13:67" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual_harlow_505.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual_harlow_505.dita">
+         <audience class="- topic/audience " platform="web" product="metR-BAT-Space" type="role" xtrc="audience:1;19:47" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual_harlow_505.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;20:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual_harlow_505.dita">
+            <keyword class="- topic/keyword " xtrc="keyword:1;21:48" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual_harlow_505.dita"/>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;22:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual_harlow_505.dita"/>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;23:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual_harlow_505.dita"/>
+         </keywords>
+         <othermeta class="- topic/othermeta " content="10-21-2019" name="RevisionDate" xtrc="othermeta:2;24:90" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003.ditamap"/><othermeta class="- topic/othermeta " content="BAT-00-003" name="DocumentNumber" xtrc="othermeta:1;23:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003.ditamap"/><othermeta class="- topic/othermeta " content="" name="title" xtrc="othermeta:1;25:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual_harlow_505.dita"/>
+         <othermeta class="- topic/othermeta " content="" name="shortdesc" xtrc="othermeta:2;26:77" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual_harlow_505.dita"/>
+      </metadata>
+      <resourceid appid="" appname="" class="- topic/resourceid " id="" ux-source-priority="topic-and-map" xtrc="resourceid:1;32:48" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual_harlow_505.dita"/>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;34:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual_harlow_505.dita"/>
+<?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\BAT-Space\BAT-00-003\BAT-Space/BAT-00-003?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/BAT-Space/BAT-00-003/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1A4A1CC-BB01-11F0-6675-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Cullet Preheater Manual-Harlow 505</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+         <created class="- topic/created " date="2025-11-06+05:30" xtrc="created:1;12:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+         <revised class="- topic/revised " modified="2025-11-06" xtrc="revised:1;13:42" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+         <audience class="- topic/audience " otherprops="operator,maintenance,safety-engineer" type="role" xtrc="audience:1;16:83" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">metr-bat-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">cullet-preheater</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">preheater-shell</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">heat-exchanger-module</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">control-panel</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">startup-procedure</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">operational-settings</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">temperature-calibration</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">routine-maintenance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">fault-diagnosis</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">glass-manufacturing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">cullet-processing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">production-line-operation</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">industrial-automation</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">plant-maintenance</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;37:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;38:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">metR-BAT-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Cullet Preheater — Operation Maintenance Manual Harlow 505" name="title" xtrc="othermeta:1;41:104" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+         <othermeta class="- topic/othermeta " content="Comprehensive operation and maintenance procedures for the Harlow 505 cullet preheater, including startup/shutdown, calibration, routine checks, and safety instructions." name="shortdesc" xtrc="othermeta:2;42:219" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+         <othermeta class="- topic/othermeta " content="en-US" name="language" xtrc="othermeta:3;43:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;44:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;45:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;46:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;47:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;48:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+         <othermeta class="- topic/othermeta " content="cullet-preheater;harlow-505;burner;heat-exchanger;control-panel;temperature-sensor;conveyor;maintenance-checklist;safety-interlock" name="entities" xtrc="othermeta:9;49:179" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:glass-production;usecase:operation-maintenance;industry:glassmanufacturing" name="taxonomy" xtrc="othermeta:10;50:130" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+         <othermeta class="- topic/othermeta " content="operation,maintenance,cullet-preheater,harlow-505,safety" name="tags" xtrc="othermeta:11;51:101" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+         <othermeta class="- topic/othermeta " content="operation-manual" name="usecase" xtrc="othermeta:12;52:64" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;55:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+      <p class="- topic/p " xtrc="p:1;56:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+         <fig class="- topic/fig " id="fig_sx3_r4j_nzb" xtrc="fig:1;57:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+            <image align="center" class="- topic/image " href="media/image1.jpg" id="image_tx3_r4j_nzb" placement="break" xtrc="image:1;62:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita" dita-ot:image-width="778" dita-ot:image-height="774" dita-ot:horizontal-dpi="96" dita-ot:vertical-dpi="96"/>
+         </fig>
+         <simpletable class="- topic/simpletable " id="simpletable_h4w_pp3_nzb" relcolwidth="1* 1*" xtrc="simpletable:1;66:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+            <sthead class="- topic/sthead " xtrc="sthead:1;67:45" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:1;68:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:2;69:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Section</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:2;71:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:3;72:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Title</p>
+               </stentry>
+            </sthead>
+            <strow class="- topic/strow " xtrc="strow:1;75:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:3;76:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:4;77:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:1;78:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Introduction</b>
+                  </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:4;81:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:5;82:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:2;85:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:5;86:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:6;87:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:6;89:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:7;90:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">CPH - Table of Contents</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:3;93:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:7;94:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:8;95:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:2;96:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Safety</b>
+                  </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:8;99:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:9;100:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:4;103:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:9;104:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:10;105:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:10;107:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:11;108:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">FUR-02-001 Furnace Safety</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:5;111:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:11;112:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:12;113:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:12;115:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:13;116:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Cullet Preheater System - CE User Manual (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:6;119:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:13;120:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:14;121:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:3;122:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Installation</b>
+                  </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:14;125:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:15;126:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:7;129:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:15;130:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:16;131:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:16;133:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:17;134:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Installation Tasks Harlow</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:8;137:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:17;138:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:18;139:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:18;141:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:19;142:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">35939-00-211 Cullet Preheater Assembly Lift</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:9;145:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:19;146:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:20;147:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:20;149:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:21;150:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">35939-00-01-rev17 PFD</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:10;153:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:21;154:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:22;155:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:22;157:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:23;158:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">35939-00-100 3D</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:11;161:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:23;162:51" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+               <stentry class="- topic/stentry " xtrc="stentry:24;163:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:24;164:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">B043683-Lahti Screw Conveyor Installation</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:12;167:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:25;168:51" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+               <stentry class="- topic/stentry " xtrc="stentry:26;169:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:25;170:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">B044034-Lahti Load Cell Installation</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:13;173:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:27;174:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:26;175:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:28;177:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:27;178:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:4;179:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">As Built Drawings</b>
+                  </p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:14;183:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:29;184:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:28;185:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:30;187:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:29;188:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> 35939-00-100.pdf</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:15;191:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:31;192:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:30;193:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:32;195:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:31;196:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> 35939-00-100.dxf</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:16;199:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:33;200:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:32;201:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:5;202:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Controls</b>
+                  </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:34;205:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:33;206:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:17;209:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:35;210:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:34;211:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:36;213:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:35;214:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">CPH Control Loop Flowchart – Harlow 505</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:18;217:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:37;218:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:36;219:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:38;221:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:37;222:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">CPH DFC Plus HMI and Touch Panel Operator's Manual - v2.0.0 (available in
+                     Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:19;226:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:39;227:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:38;228:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:40;230:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:39;231:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">BAT-07-031 Cullet Preheater Controls Cross Reference</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:20;234:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:41;235:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:40;236:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:6;237:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Commissioning/Startup</b>
+                  </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:42;240:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:41;241:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:21;244:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:43;245:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:42;246:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:44;248:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:43;249:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">BAT-02-030-F 001 Cullet Preheater Cold Commissioning Checklist</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:22;252:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:45;253:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:44;254:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:46;256:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:45;257:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">BAT-03-022 Cullet Preheater Hot Restart - v6.1</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:23;260:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:47;261:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:46;262:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:48;264:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:47;265:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">BAT-03-023 Cullet Preheater Cold Startup - v6.1</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:24;268:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:49;269:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:48;270:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:50;272:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:49;273:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">BAT-03-024 Cullet Preheater Fast Shutdown - v6.1</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:25;276:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:51;277:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:50;278:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:52;280:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:51;281:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">BAT-03-025 Cullet Preheater Slow Shutdown - v6.1</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:26;284:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:53;285:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:52;286:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:7;287:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Operations</b>
+                  </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:54;290:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:53;291:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:27;294:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:55;295:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:54;296:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:56;298:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:55;299:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">BAT-02-030 Cullet Preheater Operation</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:28;302:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:57;303:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:56;304:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:58;306:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:57;307:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">BAT-04-031 Cullet Preheater Operation and Maintenance Manual - v6.1</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:29;310:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:59;311:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:58;312:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:60;314:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:59;315:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">BAT-07-030 Cullet Preheater Operation Conditions</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:30;318:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:61;319:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:60;320:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:8;321:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Maintenance and Troubleshooting</b>
+                  </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:62;324:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:61;325:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:31;328:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:63;329:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:62;330:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:64;332:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:63;333:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">BAT-02-040 Cullet Preheater Maintenance</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:32;336:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:65;337:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:64;338:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:66;340:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:65;341:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">BAT-03-009 Cullet Preheater Cleaning</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:33;344:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:67;345:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:66;346:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:68;348:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:67;349:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">BAT-07-040 Cullet Preheater Maintenance Conditions</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:34;352:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:69;353:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:68;354:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:70;356:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:69;357:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:9;358:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">CPH Lower Cone Drawings</b>
+                  </p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:35;362:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:71;363:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:70;364:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:72;366:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:71;367:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> 35939L-01-04.pdf</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:36;370:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:73;371:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:72;372:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:74;374:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:73;375:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> 35939L-01-04-01.pdf</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:37;378:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:75;379:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:74;380:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:76;382:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:75;383:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> 35939L-01-04-02.pdf</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:38;386:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:77;387:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:76;388:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:78;390:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:77;391:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> 35939L-01-04-03.pdf</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:39;394:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:79;395:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:78;396:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:80;398:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:79;399:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> 35939L-01-04-04.pdf</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:40;402:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:81;403:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:80;404:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:82;406:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:81;407:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> 35939L-01-04_1.dxf</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:41;410:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:83;411:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:82;412:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:84;414:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:83;415:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> 35939L-01-04-01__1.dxf</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:42;418:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:85;419:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:84;420:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:86;422:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:85;423:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> 35939L-01-04-02__1.dxf</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:43;426:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:87;427:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:86;428:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:88;430:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:87;431:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> 35939L-01-04-03__1.dxf</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:44;434:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:89;435:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:88;436:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:90;438:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:89;439:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> 35939L-01-04-04__1.dxf</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:45;442:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:91;443:51" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+               <stentry class="- topic/stentry " xtrc="stentry:92;444:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:90;445:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> 35939R-01-04.pdf</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:46;448:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:93;449:51" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+               <stentry class="- topic/stentry " xtrc="stentry:94;450:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:91;451:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> 35939R-01-04-01.pdf</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:47;454:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:95;455:51" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+               <stentry class="- topic/stentry " xtrc="stentry:96;456:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:92;457:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> 35939R-01-04-02.pdf</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:48;460:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:97;461:51" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+               <stentry class="- topic/stentry " xtrc="stentry:98;462:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:93;463:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> 35939R-01-04-03.pdf</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:49;466:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:99;467:51" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+               <stentry class="- topic/stentry " xtrc="stentry:100;468:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:94;469:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> 35939R-01-04-04.pdf</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:50;472:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:101;473:51" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+               <stentry class="- topic/stentry " xtrc="stentry:102;474:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:95;475:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> 35939R-01-04_1.dxf</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:51;478:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:103;479:51" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+               <stentry class="- topic/stentry " xtrc="stentry:104;480:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:96;481:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> 35939R-01-04-01__1.dxf</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:52;484:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:105;485:51" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+               <stentry class="- topic/stentry " xtrc="stentry:106;486:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:97;487:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> 35939R-01-04-02__1.dxf</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:53;490:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:107;491:51" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+               <stentry class="- topic/stentry " xtrc="stentry:108;492:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:98;493:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> 35939R-01-04-03__1.dxf</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:54;496:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:109;497:51" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+               <stentry class="- topic/stentry " xtrc="stentry:110;498:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:99;499:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> 35939R-01-04-04__1.dxf</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:55;502:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:111;503:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:100;504:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:112;506:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:101;507:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:10;508:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Wear Plate Drawings</b>
+                  </p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:56;512:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:113;513:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:102;514:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:114;516:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:103;517:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> 35939L-08-06.pdf</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:57;520:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:115;521:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:104;522:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:116;524:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:105;525:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> 35939L-08-06__1.dxf</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:58;528:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:117;529:51" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+               <stentry class="- topic/stentry " xtrc="stentry:118;530:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:106;531:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> 35939R-08-06.pdf</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:59;534:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:119;535:51" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+               <stentry class="- topic/stentry " xtrc="stentry:120;536:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:107;537:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> 35939R-08-06__1.dxf</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:60;540:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:121;541:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:108;542:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:11;543:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Manufacturer's Materials</b>
+                  </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:122;546:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:109;547:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:61;550:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:123;551:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:110;552:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:124;554:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:111;555:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:12;556:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Actuator</b>
+                  </p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:62;560:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:125;561:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:112;562:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:126;564:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:113;565:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Beck Instruction Manual (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:63;568:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:127;569:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:114;570:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:128;572:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:115;573:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Beck EC Declaration of Conformity (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:64;576:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:129;577:51" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+               <stentry class="- topic/stentry " xtrc="stentry:130;578:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:116;579:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Beck Drive Wiring Diagram-230V (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:65;582:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:131;583:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:117;584:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:132;586:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:118;587:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:13;588:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Airlock</b>
+                  </p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:66;592:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:133;593:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:119;594:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:134;596:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:120;597:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Fansider DVCM and DVCP (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:67;600:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:135;601:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:121;602:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:136;604:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:122;605:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Fansider Double-Clip Valves Use, Maintenance and Spare Parts (available in
+                     Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:68;609:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:137;610:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:123;611:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:138;613:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:124;614:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:14;615:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Conveyors</b>
+                  </p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:69;619:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:139;620:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:125;621:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:140;623:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:126;624:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Lahti SF-L07 Screw Conveyor Drawing (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:70;627:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:141;628:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:127;629:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:142;631:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:128;632:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Lahti SF-R07 Screw Conveyor Drawing (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:71;635:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:143;636:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:129;637:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:144;639:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:130;640:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Lahti SF-L46 Screw Conveyor Drawing (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:72;643:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:145;644:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:131;645:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:146;647:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:132;648:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Lahti SF-R46 Screw Conveyor Drawing (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:73;651:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:147;652:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:133;653:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:148;655:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:134;656:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Siemens SIMOGEAR Gearbox Operating Instructions 032013 (available in
+                     Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:74;660:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:149;661:51" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+               <stentry class="- topic/stentry " xtrc="stentry:150;662:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:135;663:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Siemens SIMOGEAR Gearbox Motor Operating Instructions 062012 (available in
+                     Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:75;667:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:151;668:51" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+               <stentry class="- topic/stentry " xtrc="stentry:152;669:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:136;670:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Lahti SF-07 Inductive Proximity Sensor (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:76;673:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:153;674:51" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+               <stentry class="- topic/stentry " xtrc="stentry:154;675:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:137;676:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Lahti Screw Conveyor Manual (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:77;679:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:155;680:51" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+               <stentry class="- topic/stentry " xtrc="stentry:156;681:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:138;682:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Lahti Screw Conveyor Lubrication (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:78;685:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:157;686:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:139;687:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:158;689:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:140;690:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:15;691:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Electrical</b>
+                  </p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:79;695:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:159;696:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:141;697:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:160;699:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:142;700:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Acrotecna Field Termination Board (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:80;703:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:161;704:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:143;705:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:162;707:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:144;708:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Acrotecna Composite Drawing (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:81;711:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:163;712:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:145;713:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:164;715:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:146;716:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Acrotecna PCB 3D Print (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:82;719:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:165;720:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:147;721:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:166;723:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:148;724:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Acrotecna Analog Input Terminal (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:83;727:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:167;728:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:149;729:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:168;731:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:150;732:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Ekium Cable List-v5.0 (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:84;735:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:169;736:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:151;737:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:170;739:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:152;740:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Ekium Certificate of Conformity CPH Panels (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:85;743:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:171;744:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:153;745:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:172;747:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:154;748:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Ekium Electrical Diagram CPHCAB1_v7.7 (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:86;751:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:173;752:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:155;753:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:174;755:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:156;756:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Ekium Electrical Diagram CPHCAB2_v3.8 (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:87;759:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:175;760:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:157;761:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:176;763:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:158;764:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Ekium Loop Diagram CPH-v2.0 (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:88;767:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:177;768:51" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+               <stentry class="- topic/stentry " xtrc="stentry:178;769:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:159;770:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Ekium Maintenance User Manual-Harlow 505 (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:89;773:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:179;774:51" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+               <stentry class="- topic/stentry " xtrc="stentry:180;775:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:160;776:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Acrotecna AT1304 Auto Manual Station User Manual (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:90;779:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:181;780:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:161;781:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:182;783:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:162;784:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:16;785:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Fans</b>
+                  </p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:91;789:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:183;790:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:163;791:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:184;793:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:164;794:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Falk Steelflex Grid Coupling Installation Manual (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:92;797:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:185;798:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:165;799:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:186;801:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:166;802:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">FA-02 EC Declaration of Conformity (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:93;805:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:187;806:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:167;807:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:188;809:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:168;810:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">FA-02 Fan Data Sheet (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:94;813:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:189;814:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:169;815:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:190;817:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:170;818:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">FA-02 Fan Drawing (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:95;821:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:191;822:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:171;823:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:192;825:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:172;826:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">FA-11 EC Declaration of Conformity (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:96;829:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:193;830:51" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+               <stentry class="- topic/stentry " xtrc="stentry:194;831:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:173;832:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">FA-11 Fan Data Sheet (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:97;835:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:195;836:51" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+               <stentry class="- topic/stentry " xtrc="stentry:196;837:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:174;838:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">FA-11 Fan Drawing (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:98;841:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:197;842:51" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+               <stentry class="- topic/stentry " xtrc="stentry:198;843:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:175;844:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">FA-12 EC Declaration of Conformity (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:99;847:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:199;848:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:176;849:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:200;851:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:177;852:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">FA-12 Fan Data Sheet (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:100;855:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:201;856:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:178;857:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:202;859:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:179;860:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">FA-12 Fan Drawing (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:101;863:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:203;864:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:180;865:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:204;867:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:181;868:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Siemens Motor Compact Operating Instructions (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:102;871:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:205;872:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:182;873:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:206;875:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:183;876:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Twin City Fan Operation Manual BC_SW-rev1 (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:103;879:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:207;880:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:184;881:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:208;883:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:185;884:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Twin City Fan Operation manual RBO INDUS-rev1 (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:104;887:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:209;888:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:186;889:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:210;891:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:187;892:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Electro-Sensors Pulser Wrap Data Sheet (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:105;895:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:211;896:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:188;897:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:212;899:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:189;900:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Electro-Sensors Speed Switch EC Declaration of Conformity (available in
+                     Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:106;904:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:213;905:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:190;906:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:214;908:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:191;909:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Electro-Sensors Speed Switch Data Sheet (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:107;912:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:215;913:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:192;914:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:216;916:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:193;917:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Electro-Sensors Speed Switch Operation Manual (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:108;920:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:217;921:51" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+               <stentry class="- topic/stentry " xtrc="stentry:218;922:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:194;923:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:17;924:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Inverters</b>
+                  </p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:109;928:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:219;929:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:195;930:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:220;932:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:196;933:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">ABB ACS355 Drive User's Manual (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:110;936:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:221;937:51" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+               <stentry class="- topic/stentry " xtrc="stentry:222;938:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:197;939:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">ABB ACS355 Drive EU Declaration of Conformity (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:111;942:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:223;943:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:198;944:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:224;946:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:199;947:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:18;948:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Isolator</b>
+                  </p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:112;952:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:225;953:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:200;954:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:226;956:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:201;957:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Dekomte Drawing-Fabric Expansion Joint (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:113;960:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:227;961:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:202;962:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:228;964:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:203;965:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:19;966:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Level Indicators</b>
+                  </p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:114;970:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:229;971:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:204;972:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:230;974:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:205;975:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">VEGAPULS 68 Radar Sensor Operating Instructions (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:115;978:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:231;979:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:206;980:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:232;982:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:207;983:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Automation Products Low Temp Information (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:116;986:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:233;987:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:208;988:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:234;990:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:209;991:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Automation Products Hi Temp Information(available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:117;994:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:235;995:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:210;996:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:236;998:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:211;999:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">VEGAPULS 67 Radar Sensor Operating Instructions (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:118;1002:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:237;1003:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:212;1004:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:238;1006:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:213;1007:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">VEGAPULS 60 Series Declaration of Conformity (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:119;1010:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:239;1011:51" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+               <stentry class="- topic/stentry " xtrc="stentry:240;1012:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:214;1013:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:20;1014:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Load Cell</b>
+                  </p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:120;1018:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:241;1019:51" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"/>
+               <stentry class="- topic/stentry " xtrc="stentry:242;1020:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:215;1021:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Lahti RC2 Load Cell Manual (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:121;1024:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:243;1025:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:216;1026:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:244;1028:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:217;1029:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Lahti WA951+ Batch Controller Data Sheet (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:122;1032:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:245;1033:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:218;1034:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:246;1036:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:219;1037:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:21;1038:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Pressure Transmitter</b>
+                  </p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:123;1042:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:247;1043:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:220;1044:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:248;1046:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:221;1047:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Endress Hauser Pressure Transmitter Technical Information (available in
+                     Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:124;1051:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:249;1052:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:222;1053:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:250;1055:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:223;1056:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Endress Hauser PMD75 EC Declaration of Conformity (available in Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:125;1059:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:251;1060:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:224;1061:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:252;1063:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:225;1064:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:22;1065:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Thermocouple</b>
+                  </p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:126;1069:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:253;1070:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:226;1071:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:254;1073:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:227;1074:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Endress Hauser TC10 Thermocouple Technical Information (available in
+                     Windchill)</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:127;1078:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:255;1079:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:228;1080:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita"> </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:256;1082:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">
+                  <p class="- topic/p " xtrc="p:229;1083:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_cullet_preheater_manual-harlow_505.dita">Proteis TC K C15-170 Thermocouple Technical Specifications (available in
+                     Windchill)</p>
+               </stentry>
+            </strow>
+         </simpletable>
+      </p>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\BAT-Space\BAT-00-003\BAT-Space/BAT-00-003?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/BAT-Space/BAT-00-003/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="r1A4D29A-BB01-11F0-2005-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="reference:1;7:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_references.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_references.dita">References</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:36" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_references.dita">
+      <author class="- topic/author " xtrc="author:1;10:39" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_references.dita">Metapercept</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:45" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_references.dita">
+         <created class="- topic/created " date="2025-11-05+05:30" xtrc="created:1;12:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_references.dita"/>
+         <revised class="- topic/revised " modified="2025-05-05" xtrc="revised:1;13:67" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_references.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_references.dita">
+         <audience class="- topic/audience " platform="web" product="metR-BAT-Space" type="role" xtrc="audience:1;19:47" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_references.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;20:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_references.dita">
+            <keyword class="- topic/keyword " xtrc="keyword:1;21:48" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_references.dita"/>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;22:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_references.dita"/>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;23:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_references.dita"/>
+         </keywords>
+         <othermeta class="- topic/othermeta " content="" name="title" xtrc="othermeta:1;25:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_references.dita"/>
+         <othermeta class="- topic/othermeta " content="" name="shortdesc" xtrc="othermeta:2;26:77" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_references.dita"/>
+      </metadata>
+      <resourceid appid="" appname="" class="- topic/resourceid " id="" ux-source-priority="topic-and-map" xtrc="resourceid:1;32:48" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_references.dita"/>
+   </prolog>
+   <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;34:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_references.dita">
+      <section class="- topic/section " id="section_z3h_fq3_nzb" xtrc="section:1;35:66" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_references.dita">
+         <title class="- topic/title " xtrc="title:2;36:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_references.dita">Document Classification</title>
+         <ul class="- topic/ul " id="ul_lc2_hq3_nzb" xtrc="ul:1;37:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_references.dita">
+            <li class="- topic/li " xtrc="li:1;38:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_references.dita">Asset Protection and Stability</li>
+         </ul>
+      </section>
+      <section class="- topic/section " id="section_nxy_hq3_nzb" xtrc="section:2;41:66" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_references.dita">
+         <title class="- topic/title " xtrc="title:3;42:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_references.dita">Fundamentals</title>
+         <ul class="- topic/ul " id="ul_osf_jq3_nzb" xtrc="ul:2;43:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_references.dita">
+            <li class="- topic/li " xtrc="li:2;44:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_references.dita">N/A</li>
+         </ul>
+      </section>
+   </refbody>
+</reference><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\BAT-Space\BAT-00-003\BAT-Space/BAT-00-003?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/BAT-Space/BAT-00-003/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept audience="internal" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1A48AB1-BB01-11F0-2091-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;8:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">
+   <title class="- topic/title " xtrc="title:1;9:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">Approval</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;10:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">
+      <author class="- topic/author " xtrc="author:1;11:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;12:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">
+         <created class="- topic/created " date="2025-11-06+05:30" xtrc="created:1;13:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita"/>
+         <revised class="- topic/revised " modified="2025-11-06" xtrc="revised:1;14:42" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;16:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">
+         <audience class="- topic/audience " otherprops="operator,maintenance,safety-engineer" type="role" xtrc="audience:1;17:83" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;18:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">metr-bat-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">cullet-preheater</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">preheater-control-panel</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">preheater-burner-assembly</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">preheater-conveyor-system</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">startup-procedure</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">shutdown-procedure</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">temperature-calibration</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">inspection-and-maintenance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">safety-interlock-check</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">glass-manufacturing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">cullet-processing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">production-line-operation</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">plant-safety-compliance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;36:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">energy-efficiency</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;38:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">metR-BAT-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;40:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Cullet Preheater — Approval" name="title" xtrc="othermeta:1;42:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="Approval and governance metadata for the cullet preheater documentation and operational acceptance." name="shortdesc" xtrc="othermeta:2;43:149" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;44:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;45:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;46:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;47:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;48:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;49:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="cullet-preheater;preheater-control-panel;burner-assembly;temperature-sensor;conveyor-system;inspection-checklist;approval-signature" name="entities" xtrc="othermeta:9;50:180" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:glass-production;usecase:governance-and-approval;industry:glassmanufacturing" name="taxonomy" xtrc="othermeta:10;51:132" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="cullet-preheater,approval,governance,operational-acceptance,safety-compliance" name="tags" xtrc="othermeta:11;52:122" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="governance-approval" name="usecase" xtrc="othermeta:12;53:67" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;56:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">
+      <p class="- topic/p " xtrc="p:1;57:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">Sanctioning Representatives of the Global Team<simpletable class="- topic/simpletable " id="simpletable_ggs_nq3_nzb" relcolwidth="1* 1*" xtrc="simpletable:1;59:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">
+            <sthead class="- topic/sthead " xtrc="sthead:1;60:45" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:1;61:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">
+                  <p class="- topic/p " xtrc="p:2;62:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">Title</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:2;64:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">
+                  <p class="- topic/p " xtrc="p:3;65:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">Representative</p>
+               </stentry>
+            </sthead>
+            <strow class="- topic/strow " xtrc="strow:1;68:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:3;69:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">
+                  <p class="- topic/p " xtrc="p:4;70:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">Global Operations</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:4;72:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">
+                  <p class="- topic/p " xtrc="p:5;73:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_approval.dita">Benjamin Brown</p>
+               </stentry>
+            </strow>
+         </simpletable>
+      </p>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\BAT-Space\BAT-00-003\BAT-Space/BAT-00-003?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/BAT-Space/BAT-00-003/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept audience="internal" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1A4EC11-BB01-11F0-1162-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;8:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">
+   <title class="- topic/title " xtrc="title:1;9:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">Revision History</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;10:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">
+      <author class="- topic/author " xtrc="author:1;11:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;12:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">
+         <created class="- topic/created " date="2025-11-06+05:30" xtrc="created:1;13:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita"/>
+         <revised class="- topic/revised " modified="2025-11-06" xtrc="revised:1;14:42" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;16:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">
+         <audience class="- topic/audience " otherprops="operator,maintenance,safety-engineer" type="role" xtrc="audience:1;17:83" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;18:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">metr-bat-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">cullet-preheater</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">revision-history</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">document-change-log</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">release-notes</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">change-control</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">version-management</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">approval-workflow</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">audit-trail</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">document-review</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">glass-manufacturing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">technical-documentation</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">compliance-records</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">quality-assurance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;36:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">regulatory-audit</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;38:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">metR-BAT-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;40:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Cullet Preheater — Revision History" name="title" xtrc="othermeta:1;42:81" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="Chronological record of revisions, approvals, and change-control actions for the cullet preheater documentation set." name="shortdesc" xtrc="othermeta:2;43:166" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;44:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;45:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;46:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;47:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;48:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;49:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="revision-record;change-log;approval-signature;version-id;change-request;audit-entry" name="entities" xtrc="othermeta:9;50:132" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:glass-production;usecase:revision-and-audit;industry:glassmanufacturing" name="taxonomy" xtrc="othermeta:10;51:127" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="revision-history,change-control,audit,versioning,compliance" name="tags" xtrc="othermeta:11;52:104" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="audit-trail" name="usecase" xtrc="othermeta:12;53:59" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;56:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">
+      <p class="- topic/p " xtrc="p:1;57:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">
+         <simpletable class="- topic/simpletable " frame="all" id="table_wdy_pr5_fzb" relcolwidth="1* 1*" xtrc="simpletable:1;61:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">
+            <strow class="- topic/strow " xtrc="strow:1;62:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:1;63:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">2017-08-30</stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:2;64:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">
+                  <p class="- topic/p " xtrc="p:2;65:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">Approved by John Jenkinson, Mechanical Systems Discipline Leader</p>
+                  <p class="- topic/p " xtrc="p:3;66:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">Original Issue</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:2;69:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:3;70:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">2019-10-21</stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:4;71:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">
+                  <p class="- topic/p " xtrc="p:4;72:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">Approved by Benjamin Brown, Mechanical Systems Discipline LeaderUpdated with the
+              following changes:</p>
+                  <p class="- topic/p " xtrc="p:5;74:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-003/BAT-00-003_revision_history.dita">The reference codes regarding -06 documents were deleted and changed to “(available
+              in Windchill)” because these documents were retired from Book Space.</p>
+               </stentry>
+            </strow>
+         </simpletable>
+      </p>
+   </conbody>
+</concept></concept></dita>

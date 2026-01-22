@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="m1F76B3C-BB01-11F0-2101-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="map:1;7:25" xtrf="file:/D:/metR_AI_Infinity_Project/SPACE/FES-Space/FES-02-100/FES-02-100.ditamap"><oxy:front-page class="- front-page/front-page "><topicmeta xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- map/topicmeta ">
+      <critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="05-09-2022"/>
+      </critdates>
+   </topicmeta><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">FSC and PRS Support Escalation Procedure</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+   <title class="- topic/title ">FSC and PRS Support Escalation Procedure</title>
+   
+   <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c1F7E2C0-BB01-11F0-1710-09173F13E4C5"><resourceid appid="c1F7E2C0-BB01-11F0-1710-09173F13E4C5" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">FSC and PRS Support Escalation Procedure</navtitle><?ditaot gentext?><critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="05-09-2022"/>
+      </critdates><othermeta class="- topic/othermeta " content="FES-02-100" name="DocumentNumber"/><othermeta class="- topic/othermeta " content="05-09-2022" name="RevisionDate"/></topicmeta><topicref class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c1F80FAB-BB01-11F0-8705-09173F13E4C5"><resourceid appid="c1F80FAB-BB01-11F0-8705-09173F13E4C5" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Purpose</navtitle><?ditaot gentext?><critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="05-09-2022"/>
+      </critdates></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c1F79B62-BB01-11F0-1636-09173F13E4C5"><resourceid appid="c1F79B62-BB01-11F0-1636-09173F13E4C5" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Application</navtitle><?ditaot gentext?><critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="05-09-2022"/>
+      </critdates></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="r1F826A6-BB01-11F0-1329-09173F13E4C5"><resourceid appid="r1F826A6-BB01-11F0-1329-09173F13E4C5" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">References</navtitle><?ditaot gentext?><critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="05-09-2022"/>
+      </critdates></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c1F7CB71-BB01-11F0-1120-09173F13E4C5"><resourceid appid="c1F7CB71-BB01-11F0-1120-09173F13E4C5" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Definitions</navtitle><?ditaot gentext?><critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="05-09-2022"/>
+      </critdates></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="r1F7F95D-BB01-11F0-2493-09173F13E4C5"><resourceid appid="r1F7F95D-BB01-11F0-2493-09173F13E4C5" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Procedure</navtitle><?ditaot gentext?><critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="05-09-2022"/>
+      </critdates></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c1F782BE-BB01-11F0-1460-09173F13E4C5"><resourceid appid="c1F782BE-BB01-11F0-1460-09173F13E4C5" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Appendix – Flowchart showing the support escalation procedure for FSC and PRS.</navtitle><?ditaot gentext?><critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="05-09-2022"/>
+      </critdates></topicmeta></topicref><topicref audience="internal" class="- map/topicref " href="#unique_8" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c1F7B2D9-BB01-11F0-5672-09173F13E4C5"><resourceid appid="c1F7B2D9-BB01-11F0-5672-09173F13E4C5" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Collaboration</navtitle><?ditaot gentext?><critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="05-09-2022"/>
+      </critdates></topicmeta></topicref><topicref audience="internal" class="- map/topicref " href="#unique_9" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c1F83D42-BB01-11F0-1804-09173F13E4C5"><resourceid appid="c1F83D42-BB01-11F0-1804-09173F13E4C5" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Revision History</navtitle><?ditaot gentext?><critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="05-09-2022"/>
+      </critdates></topicmeta></topicref></topicref>
+<topicref is-chapter="true" is-index="true" class="- map/topicref "><topicmeta class="- map/topicmeta "><navtitle href="#d145e1567" class="- topic/navtitle ">Index</navtitle></topicmeta></topicref></opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="c1F7E2C0-BB01-11F0-1710-09173F13E4C5" oid="c1F7E2C0-BB01-11F0-1710-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us">
+   <title class="- topic/title "><opentopic-index:refID indexid="indexid1717636292" value="metR-FES-Space:" class="- index/refid " id="d145e149"/><opentopic-index:refID indexid="indexid-1495987054" value="fsc-prs-escalation:" class="- index/refid " id="d145e153"/><opentopic-index:refID indexid="indexid-730191845" value="fes-02-100:" class="- index/refid " id="d145e157"/><opentopic-index:refID indexid="indexid1477753671" value="support-escalation:" class="- index/refid " id="d145e161"/><opentopic-index:refID indexid="indexid1974549784" value="handover-protocol:" class="- index/refid " id="d145e165"/><opentopic-index:refID indexid="indexid355165059" value="escalation-criteria:" class="- index/refid " id="d145e170"/><opentopic-index:refID indexid="indexid-1386783932" value="escalation-paths:" class="- index/refid " id="d145e174"/><opentopic-index:refID indexid="indexid514958187" value="communication-protocol:" class="- index/refid " id="d145e178"/><opentopic-index:refID indexid="indexid1630565918" value="response-sla:" class="- index/refid " id="d145e182"/><opentopic-index:refID indexid="indexid1584172139" value="follow-up-and-closure:" class="- index/refid " id="d145e186"/><opentopic-index:refID indexid="indexid1999182700" value="on-field-support:" class="- index/refid " id="d145e190"/><opentopic-index:refID indexid="indexid-219945398" value="product-incident:" class="- index/refid " id="d145e195"/><opentopic-index:refID indexid="indexid-743622026" value="service-level-management:" class="- index/refid " id="d145e199"/><opentopic-index:refID indexid="indexid-1670986473" value="cross-functional-handoff:" class="- index/refid " id="d145e203"/><opentopic-index:refID indexid="indexid326266368" value="customer-impact-assessment:" class="- index/refid " id="d145e207"/><ph class="- topic/ph topic/title-wrapper ">FSC and PRS Support Escalation Procedure</ph></title>
+   <prolog class="- topic/prolog ">
+      <author class="- topic/author ">Suchitra</author>
+      <critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="05-09-2022"/>
+      </critdates>
+      <metadata class="- topic/metadata ">
+         <audience class="- topic/audience " otherprops="production,maintenance,engineering,safety" type="role"/>
+         <keywords class="- topic/keywords ">
+            <opentopic-index:index.entry value="metR-FES-Space" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">metR-FES-Space</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1717636292" value="metR-FES-Space:" class="- index/refid " id="d145e149"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="fsc-prs-escalation" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">fsc-prs-escalation</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1495987054" value="fsc-prs-escalation:" class="- index/refid " id="d145e153"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="fes-02-100" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">fes-02-100</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-730191845" value="fes-02-100:" class="- index/refid " id="d145e157"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="support-escalation" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">support-escalation</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1477753671" value="support-escalation:" class="- index/refid " id="d145e161"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="handover-protocol" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">handover-protocol</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1974549784" value="handover-protocol:" class="- index/refid " id="d145e165"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="escalation-criteria" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">escalation-criteria</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid355165059" value="escalation-criteria:" class="- index/refid " id="d145e170"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="escalation-paths" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">escalation-paths</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1386783932" value="escalation-paths:" class="- index/refid " id="d145e174"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="communication-protocol" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">communication-protocol</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid514958187" value="communication-protocol:" class="- index/refid " id="d145e178"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="response-sla" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">response-sla</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1630565918" value="response-sla:" class="- index/refid " id="d145e182"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="follow-up-and-closure" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">follow-up-and-closure</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1584172139" value="follow-up-and-closure:" class="- index/refid " id="d145e186"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="on-field-support" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">on-field-support</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1999182700" value="on-field-support:" class="- index/refid " id="d145e190"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="product-incident" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">product-incident</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-219945398" value="product-incident:" class="- index/refid " id="d145e195"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="service-level-management" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">service-level-management</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-743622026" value="service-level-management:" class="- index/refid " id="d145e199"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="cross-functional-handoff" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">cross-functional-handoff</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1670986473" value="cross-functional-handoff:" class="- index/refid " id="d145e203"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="customer-impact-assessment" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">customer-impact-assessment</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid326266368" value="customer-impact-assessment:" class="- index/refid " id="d145e207"/></opentopic-index:index.entry>
+         </keywords>
+         <prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">metR-FES-Space</prodname>
+            <platform class="- topic/platform ">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="05-09-2022" name="RevisionDate"/><othermeta class="- topic/othermeta " content="FES-02-100" name="DocumentNumber"/><othermeta class="- topic/othermeta " content="FES-02-100 — FSC and PRS Support Escalation Procedure" name="title"/>
+         <othermeta class="- topic/othermeta " content="Detailed FSC ↔ PRS escalation procedure including criteria, escalation paths, responsibilities, and SLAs." name="shortdesc"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy"/>
+         <othermeta class="- topic/othermeta " content="FSC;PRS;escalation-criteria;sla;escalation-path" name="entities"/>
+         <othermeta class="- topic/othermeta " content="domain:operations;usecase:escalation-handbook;industry:glass-manufacturing" name="taxonomy"/>
+         <othermeta class="- topic/othermeta " content="fsc,prs,escalation,sla,handover" name="tags"/>
+         <othermeta class="- topic/othermeta " content="procedure" name="usecase"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody "/>
+<concept class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="c1F80FAB-BB01-11F0-8705-09173F13E4C5" oid="c1F80FAB-BB01-11F0-8705-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us">
+   <title class="- topic/title "><opentopic-index:refID indexid="indexid1717636292" value="metR-FES-Space:" class="- index/refid " id="d145e274"/><opentopic-index:refID indexid="indexid-730191845" value="fes-02-100:" class="- index/refid " id="d145e278"/><opentopic-index:refID indexid="indexid1477753671" value="support-escalation:" class="- index/refid " id="d145e282"/><opentopic-index:refID indexid="indexid1635285182" value="fsc-procedure:" class="- index/refid " id="d145e286"/><opentopic-index:refID indexid="indexid-1061574557" value="prs-procedure:" class="- index/refid " id="d145e290"/><opentopic-index:refID indexid="indexid795041763" value="escalation-process:" class="- index/refid " id="d145e295"/><opentopic-index:refID indexid="indexid1448624847" value="incident-routing:" class="- index/refid " id="d145e299"/><opentopic-index:refID indexid="indexid-176730664" value="support-handoff:" class="- index/refid " id="d145e303"/><opentopic-index:refID indexid="indexid-1229711047" value="triage-and-escalate:" class="- index/refid " id="d145e307"/><opentopic-index:refID indexid="indexid-232218119" value="notification-workflow:" class="- index/refid " id="d145e311"/><opentopic-index:refID indexid="indexid-2127921426" value="field-support-centre:" class="- index/refid " id="d145e315"/><opentopic-index:refID indexid="indexid1152208233" value="product-support:" class="- index/refid " id="d145e320"/><opentopic-index:refID indexid="indexid-743622026" value="service-level-management:" class="- index/refid " id="d145e324"/><opentopic-index:refID indexid="indexid-1445478115" value="operational-governance:" class="- index/refid " id="d145e328"/><opentopic-index:refID indexid="indexid1319938425" value="on-call-procedures:" class="- index/refid " id="d145e332"/><ph class="- topic/ph topic/title-wrapper ">Purpose</ph></title>
+   <prolog class="- topic/prolog ">
+      <author class="- topic/author ">Suchitra</author>
+      <critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="05-09-2022"/>
+      </critdates>
+      <metadata class="- topic/metadata ">
+         <audience class="- topic/audience " otherprops="production,management,quality" type="role"/>
+         <keywords class="- topic/keywords ">
+            <opentopic-index:index.entry value="metR-FES-Space" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">metR-FES-Space</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1717636292" value="metR-FES-Space:" class="- index/refid " id="d145e274"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="fes-02-100" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">fes-02-100</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-730191845" value="fes-02-100:" class="- index/refid " id="d145e278"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="support-escalation" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">support-escalation</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1477753671" value="support-escalation:" class="- index/refid " id="d145e282"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="fsc-procedure" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">fsc-procedure</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1635285182" value="fsc-procedure:" class="- index/refid " id="d145e286"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="prs-procedure" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">prs-procedure</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1061574557" value="prs-procedure:" class="- index/refid " id="d145e290"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="escalation-process" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">escalation-process</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid795041763" value="escalation-process:" class="- index/refid " id="d145e295"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="incident-routing" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">incident-routing</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1448624847" value="incident-routing:" class="- index/refid " id="d145e299"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="support-handoff" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">support-handoff</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-176730664" value="support-handoff:" class="- index/refid " id="d145e303"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="triage-and-escalate" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">triage-and-escalate</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1229711047" value="triage-and-escalate:" class="- index/refid " id="d145e307"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="notification-workflow" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">notification-workflow</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-232218119" value="notification-workflow:" class="- index/refid " id="d145e311"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="field-support-centre" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">field-support-centre</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2127921426" value="field-support-centre:" class="- index/refid " id="d145e315"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="product-support" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">product-support</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1152208233" value="product-support:" class="- index/refid " id="d145e320"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="service-level-management" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">service-level-management</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-743622026" value="service-level-management:" class="- index/refid " id="d145e324"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="operational-governance" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">operational-governance</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1445478115" value="operational-governance:" class="- index/refid " id="d145e328"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="on-call-procedures" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">on-call-procedures</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1319938425" value="on-call-procedures:" class="- index/refid " id="d145e332"/></opentopic-index:index.entry>
+         </keywords>
+         <prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">metR-FES-Space</prodname>
+            <platform class="- topic/platform ">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="FES-02-100 — Purpose" name="title"/>
+         <othermeta class="- topic/othermeta " content="Defines the purpose and scope of the FSC/PRS support escalation procedure: why escalation exists and its objectives." name="shortdesc"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy"/>
+         <othermeta class="- topic/othermeta " content="FSC;PRS;support-escalation;incident;service-level" name="entities"/>
+         <othermeta class="- topic/othermeta " content="domain:operations;usecase:escalation-procedure;industry:glass-manufacturing" name="taxonomy"/>
+         <othermeta class="- topic/othermeta " content="escalation,support,procedure,triage,fsc,prs" name="tags"/>
+         <othermeta class="- topic/othermeta " content="procedure" name="usecase"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody ">
+      <ol class="- topic/ol ">
+         <li class="- topic/li ">To define a process to Space plants to assess system issues for FSC and PRS.</li>
+         <li class="- topic/li ">To define a process for Space plants to escalate technical support for FSC and PRS<b class="+ topic/ph hi-d/b ">
+               when </b>
+            <b class="+ topic/ph hi-d/b ">needed</b>
+         </li>
+      </ol>
+   </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="c1F79B62-BB01-11F0-1636-09173F13E4C5" oid="c1F79B62-BB01-11F0-1636-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us">
+   <title class="- topic/title "><opentopic-index:refID indexid="indexid1717636292" value="metR-FES-Space:" class="- index/refid " id="d145e413"/><opentopic-index:refID indexid="indexid-730191845" value="fes-02-100:" class="- index/refid " id="d145e417"/><opentopic-index:refID indexid="indexid-713599101" value="application-scope:" class="- index/refid " id="d145e421"/><opentopic-index:refID indexid="indexid-85244907" value="applicability:" class="- index/refid " id="d145e425"/><opentopic-index:refID indexid="indexid1980122962" value="coverage:" class="- index/refid " id="d145e429"/><opentopic-index:refID indexid="indexid1636821328" value="scope-determination:" class="- index/refid " id="d145e434"/><opentopic-index:refID indexid="indexid1992684587" value="applicability-rules:" class="- index/refid " id="d145e438"/><opentopic-index:refID indexid="indexid1636798581" value="exclusions:" class="- index/refid " id="d145e442"/><opentopic-index:refID indexid="indexid389931255" value="role-responsibilities:" class="- index/refid " id="d145e446"/><opentopic-index:refID indexid="indexid-634552969" value="operational-boundaries:" class="- index/refid " id="d145e450"/><opentopic-index:refID indexid="indexid-814277179" value="support-environment:" class="- index/refid " id="d145e454"/><opentopic-index:refID indexid="indexid2004109088" value="regional-operations:" class="- index/refid " id="d145e459"/><opentopic-index:refID indexid="indexid1296409102" value="product-variants:" class="- index/refid " id="d145e463"/><opentopic-index:refID indexid="indexid772091699" value="service-lines:" class="- index/refid " id="d145e467"/><opentopic-index:refID indexid="indexid-527310203" value="escalation-eligibility:" class="- index/refid " id="d145e471"/><ph class="- topic/ph topic/title-wrapper ">Application</ph></title>
+   <prolog class="- topic/prolog ">
+      <author class="- topic/author ">Suchitra</author>
+      <critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="05-09-2022"/>
+      </critdates>
+      <metadata class="- topic/metadata ">
+         <audience class="- topic/audience " otherprops="management,production,engineering" type="role"/>
+         <keywords class="- topic/keywords ">
+            <opentopic-index:index.entry value="metR-FES-Space" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">metR-FES-Space</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1717636292" value="metR-FES-Space:" class="- index/refid " id="d145e413"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="fes-02-100" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">fes-02-100</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-730191845" value="fes-02-100:" class="- index/refid " id="d145e417"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="application-scope" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">application-scope</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-713599101" value="application-scope:" class="- index/refid " id="d145e421"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="applicability" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">applicability</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-85244907" value="applicability:" class="- index/refid " id="d145e425"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="coverage" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">coverage</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1980122962" value="coverage:" class="- index/refid " id="d145e429"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="scope-determination" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">scope-determination</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1636821328" value="scope-determination:" class="- index/refid " id="d145e434"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="applicability-rules" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">applicability-rules</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1992684587" value="applicability-rules:" class="- index/refid " id="d145e438"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="exclusions" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">exclusions</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1636798581" value="exclusions:" class="- index/refid " id="d145e442"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="role-responsibilities" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">role-responsibilities</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid389931255" value="role-responsibilities:" class="- index/refid " id="d145e446"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="operational-boundaries" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">operational-boundaries</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-634552969" value="operational-boundaries:" class="- index/refid " id="d145e450"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="support-environment" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">support-environment</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-814277179" value="support-environment:" class="- index/refid " id="d145e454"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="regional-operations" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">regional-operations</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2004109088" value="regional-operations:" class="- index/refid " id="d145e459"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="product-variants" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">product-variants</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1296409102" value="product-variants:" class="- index/refid " id="d145e463"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="service-lines" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">service-lines</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid772091699" value="service-lines:" class="- index/refid " id="d145e467"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="escalation-eligibility" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">escalation-eligibility</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-527310203" value="escalation-eligibility:" class="- index/refid " id="d145e471"/></opentopic-index:index.entry>
+         </keywords>
+         <prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">metR-FES-Space</prodname>
+            <platform class="- topic/platform ">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="FES-02-100 — Application" name="title"/>
+         <othermeta class="- topic/othermeta " content="Specifies the scope, applicability and boundaries of the FSC/PRS escalation procedure including roles and exclusions." name="shortdesc"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy"/>
+         <othermeta class="- topic/othermeta " content="scope;application;role;exclusion;service-line" name="entities"/>
+         <othermeta class="- topic/othermeta " content="domain:operations;usecase:scope-definition;industry:glass-manufacturing" name="taxonomy"/>
+         <othermeta class="- topic/othermeta " content="scope,application,coverage,roles" name="tags"/>
+         <othermeta class="- topic/othermeta " content="guideline" name="usecase"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody ">
+      <ol class="- topic/ol ">
+         <li class="- topic/li ">This process applies to all Space plants that have FSC and PRS technology. Licensee plants should contact their Space Global Technical Assistance Account Manager. </li>
+         <li class="- topic/li ">FSC and PRS are High Risk Systems obsolescence ranked – Unsupportable systems. The reason is that most (if not all) spare parts are not available for those systems. Plants must rely on in-house inventories, and because of the age of this equipment, in-house spare parts should not be considered a reliable solution.</li>
+      </ol>
+   </conbody>
+</concept><reference class="- topic/topic       reference/reference " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="r1F826A6-BB01-11F0-1329-09173F13E4C5" oid="r1F826A6-BB01-11F0-1329-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us">
+   <title class="- topic/title "><opentopic-index:refID indexid="indexid1717636292" value="metR-FES-Space:" class="- index/refid " id="d145e546"/><opentopic-index:refID indexid="indexid-730191845" value="fes-02-100:" class="- index/refid " id="d145e550"/><opentopic-index:refID indexid="indexid-16210254" value="references:" class="- index/refid " id="d145e554"/><opentopic-index:refID indexid="indexid126758939" value="normative-docs:" class="- index/refid " id="d145e558"/><opentopic-index:refID indexid="indexid-279646824" value="related-procedures:" class="- index/refid " id="d145e562"/><opentopic-index:refID indexid="indexid-1384154890" value="citation-list:" class="- index/refid " id="d145e567"/><opentopic-index:refID indexid="indexid-1883251407" value="source-tracking:" class="- index/refid " id="d145e571"/><opentopic-index:refID indexid="indexid-1115797138" value="reference-mapping:" class="- index/refid " id="d145e575"/><opentopic-index:refID indexid="indexid1648680083" value="document-links:" class="- index/refid " id="d145e579"/><opentopic-index:refID indexid="indexid1605849591" value="external-resources:" class="- index/refid " id="d145e583"/><opentopic-index:refID indexid="indexid592143365" value="documentation-governance:" class="- index/refid " id="d145e587"/><opentopic-index:refID indexid="indexid2043086573" value="regulatory-guidance:" class="- index/refid " id="d145e592"/><opentopic-index:refID indexid="indexid909719335" value="operational-handbook:" class="- index/refid " id="d145e596"/><opentopic-index:refID indexid="indexid-1285457542" value="knowledge-base:" class="- index/refid " id="d145e600"/><opentopic-index:refID indexid="indexid-1459926157" value="support-resources:" class="- index/refid " id="d145e604"/><ph class="- topic/ph topic/title-wrapper ">References</ph></title>
+   <prolog class="- topic/prolog ">
+      <author class="- topic/author ">Suchitra</author>
+      <critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="05-09-2022"/>
+      </critdates>
+      <metadata class="- topic/metadata ">
+         <audience class="- topic/audience " otherprops="engineering,quality,management" type="role"/>
+         <keywords class="- topic/keywords ">
+            <opentopic-index:index.entry value="metR-FES-Space" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">metR-FES-Space</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1717636292" value="metR-FES-Space:" class="- index/refid " id="d145e546"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="fes-02-100" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">fes-02-100</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-730191845" value="fes-02-100:" class="- index/refid " id="d145e550"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="references" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">references</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-16210254" value="references:" class="- index/refid " id="d145e554"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="normative-docs" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">normative-docs</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid126758939" value="normative-docs:" class="- index/refid " id="d145e558"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="related-procedures" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">related-procedures</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-279646824" value="related-procedures:" class="- index/refid " id="d145e562"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="citation-list" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">citation-list</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1384154890" value="citation-list:" class="- index/refid " id="d145e567"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="source-tracking" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">source-tracking</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1883251407" value="source-tracking:" class="- index/refid " id="d145e571"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="reference-mapping" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">reference-mapping</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1115797138" value="reference-mapping:" class="- index/refid " id="d145e575"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="document-links" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">document-links</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1648680083" value="document-links:" class="- index/refid " id="d145e579"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="external-resources" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">external-resources</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1605849591" value="external-resources:" class="- index/refid " id="d145e583"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="documentation-governance" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">documentation-governance</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid592143365" value="documentation-governance:" class="- index/refid " id="d145e587"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="regulatory-guidance" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">regulatory-guidance</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2043086573" value="regulatory-guidance:" class="- index/refid " id="d145e592"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="operational-handbook" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">operational-handbook</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid909719335" value="operational-handbook:" class="- index/refid " id="d145e596"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="knowledge-base" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">knowledge-base</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1285457542" value="knowledge-base:" class="- index/refid " id="d145e600"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="support-resources" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">support-resources</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1459926157" value="support-resources:" class="- index/refid " id="d145e604"/></opentopic-index:index.entry>
+         </keywords>
+         <prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">metR-FES-Space</prodname>
+            <platform class="- topic/platform ">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="FES-02-100 — References" name="title"/>
+         <othermeta class="- topic/othermeta " content="List of normative and informative references for the FSC/PRS escalation procedure." name="shortdesc"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy"/>
+         <othermeta class="- topic/othermeta " content="reference;standard;guideline;procedure" name="entities"/>
+         <othermeta class="- topic/othermeta " content="domain:operations;usecase:references;industry:glass-manufacturing" name="taxonomy"/>
+         <othermeta class="- topic/othermeta " content="references,bibliography,normative" name="tags"/>
+         <othermeta class="- topic/othermeta " content="reference" name="usecase"/>
+      </metadata>
+   </prolog>
+   <refbody class="- topic/body        reference/refbody ">
+      <section class="- topic/section ">
+         <ul class="- topic/ul " id="unique_4_Connect_42_ul_f2f_qzp_pzb" nd:nd-id="ul_f2f_qzp_pzb">
+            <li class="- topic/li ">Forming Electronic Work Instructions are available on Book Space (GMF SharePoint Site) under
+        Forming Electronics (FES).</li>
+         </ul>
+      </section>
+      <section class="- topic/section " id="unique_4_Connect_42_section_ayw_rzp_pzb" nd:nd-id="section_ayw_rzp_pzb">
+         <title class="- topic/title ">Document Classification</title>
+         <ul class="- topic/ul " id="unique_4_Connect_42_ul_w15_szp_pzb" nd:nd-id="ul_w15_szp_pzb">
+            <li class="- topic/li ">Asset Protection and Stability</li>
+         </ul>
+      </section>
+   </refbody>
+</reference><concept class="- topic/topic concept/concept " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="c1F7CB71-BB01-11F0-1120-09173F13E4C5" oid="c1F7CB71-BB01-11F0-1120-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us">
+   <title class="- topic/title "><opentopic-index:refID indexid="indexid1717636292" value="metR-FES-Space:" class="- index/refid " id="d145e691"/><opentopic-index:refID indexid="indexid-730191845" value="fes-02-100:" class="- index/refid " id="d145e695"/><opentopic-index:refID indexid="indexid101792442" value="definitions:" class="- index/refid " id="d145e699"/><opentopic-index:refID indexid="indexid890960348" value="glossary:" class="- index/refid " id="d145e703"/><opentopic-index:refID indexid="indexid-1399070427" value="support-terminology:" class="- index/refid " id="d145e707"/><opentopic-index:refID indexid="indexid1207206228" value="term-standardization:" class="- index/refid " id="d145e712"/><opentopic-index:refID indexid="indexid-1435460506" value="definition-mapping:" class="- index/refid " id="d145e716"/><opentopic-index:refID indexid="indexid148885826" value="nomenclature-governance:" class="- index/refid " id="d145e720"/><opentopic-index:refID indexid="indexid1593402869" value="ontology-alignment:" class="- index/refid " id="d145e724"/><opentopic-index:refID indexid="indexid-1432404837" value="metadata-normalization:" class="- index/refid " id="d145e728"/><opentopic-index:refID indexid="indexid882079952" value="support-operations:" class="- index/refid " id="d145e732"/><opentopic-index:refID indexid="indexid2143355199" value="service-management:" class="- index/refid " id="d145e737"/><opentopic-index:refID indexid="indexid-1745427817" value="documentation-standards:" class="- index/refid " id="d145e741"/><opentopic-index:refID indexid="indexid-833274488" value="knowledge-management:" class="- index/refid " id="d145e745"/><opentopic-index:refID indexid="indexid-34039929" value="cross-team-communication:" class="- index/refid " id="d145e749"/><ph class="- topic/ph topic/title-wrapper ">Definitions</ph></title>
+   <prolog class="- topic/prolog ">
+      <author class="- topic/author ">Suchitra</author>
+      <critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="05-09-2022"/>
+      </critdates>
+      <metadata class="- topic/metadata ">
+         <audience class="- topic/audience " otherprops="engineering,quality,production" type="role"/>
+         <keywords class="- topic/keywords ">
+            <opentopic-index:index.entry value="metR-FES-Space" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">metR-FES-Space</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1717636292" value="metR-FES-Space:" class="- index/refid " id="d145e691"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="fes-02-100" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">fes-02-100</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-730191845" value="fes-02-100:" class="- index/refid " id="d145e695"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="definitions" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">definitions</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid101792442" value="definitions:" class="- index/refid " id="d145e699"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="glossary" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">glossary</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid890960348" value="glossary:" class="- index/refid " id="d145e703"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="support-terminology" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">support-terminology</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1399070427" value="support-terminology:" class="- index/refid " id="d145e707"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="term-standardization" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">term-standardization</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1207206228" value="term-standardization:" class="- index/refid " id="d145e712"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="definition-mapping" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">definition-mapping</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1435460506" value="definition-mapping:" class="- index/refid " id="d145e716"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="nomenclature-governance" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">nomenclature-governance</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid148885826" value="nomenclature-governance:" class="- index/refid " id="d145e720"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="ontology-alignment" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">ontology-alignment</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1593402869" value="ontology-alignment:" class="- index/refid " id="d145e724"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="metadata-normalization" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">metadata-normalization</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1432404837" value="metadata-normalization:" class="- index/refid " id="d145e728"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="support-operations" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">support-operations</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid882079952" value="support-operations:" class="- index/refid " id="d145e732"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="service-management" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">service-management</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2143355199" value="service-management:" class="- index/refid " id="d145e737"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="documentation-standards" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">documentation-standards</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1745427817" value="documentation-standards:" class="- index/refid " id="d145e741"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="knowledge-management" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">knowledge-management</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-833274488" value="knowledge-management:" class="- index/refid " id="d145e745"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="cross-team-communication" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">cross-team-communication</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-34039929" value="cross-team-communication:" class="- index/refid " id="d145e749"/></opentopic-index:index.entry>
+         </keywords>
+         <prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">metR-FES-Space</prodname>
+            <platform class="- topic/platform ">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="FES-02-100 — Definitions" name="title"/>
+         <othermeta class="- topic/othermeta " content="Provides definitions and glossary for terms used in the FSC/PRS support escalation procedure." name="shortdesc"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy"/>
+         <othermeta class="- topic/othermeta " content="FSC;PRS;escalation;incident;ticket;sla" name="entities"/>
+         <othermeta class="- topic/othermeta " content="domain:operations;usecase:glossary;industry:glass-manufacturing" name="taxonomy"/>
+         <othermeta class="- topic/othermeta " content="definitions,glossary,terminology,standards" name="tags"/>
+         <othermeta class="- topic/othermeta " content="reference" name="usecase"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody ">
+      <dl class="- topic/dl " id="unique_5_Connect_42_dl_rln_rlw_pzb" nd:nd-id="dl_rln_rlw_pzb">
+         <dlentry class="- topic/dlentry ">
+            <dt class="- topic/dt ">FSC: Forming Supervisory Computer</dt>
+            <dd class="- topic/dd ">This is the main computer server for the forming electronic system for the Space IS
+          Machines</dd>
+         </dlentry>
+         <dlentry class="- topic/dlentry ">
+            <dt class="- topic/dt ">PRS: Production Recording System</dt>
+            <dd class="- topic/dd ">This server is the one that consolidates the information from the cold end from Space
+          inspection machines and losses</dd>
+         </dlentry>
+      </dl>
+   </conbody>
+</concept><reference class="- topic/topic       reference/reference " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="r1F7F95D-BB01-11F0-2493-09173F13E4C5" oid="r1F7F95D-BB01-11F0-2493-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us">
+   <title class="- topic/title "><opentopic-index:refID indexid="indexid1717636292" value="metR-FES-Space:" class="- index/refid " id="d145e837"/><opentopic-index:refID indexid="indexid-730191845" value="fes-02-100:" class="- index/refid " id="d145e841"/><opentopic-index:refID indexid="indexid-482780673" value="escalation-procedure:" class="- index/refid " id="d145e845"/><opentopic-index:refID indexid="indexid-153859107" value="support-workflow:" class="- index/refid " id="d145e849"/><opentopic-index:refID indexid="indexid-2009646116" value="incident-management:" class="- index/refid " id="d145e853"/><opentopic-index:refID indexid="indexid-339458009" value="identify-incident:" class="- index/refid " id="d145e858"/><opentopic-index:refID indexid="indexid1512093108" value="assess-severity:" class="- index/refid " id="d145e862"/><opentopic-index:refID indexid="indexid-379312837" value="escalate-to-fsc:" class="- index/refid " id="d145e866"/><opentopic-index:refID indexid="indexid-1788914771" value="notify-prs:" class="- index/refid " id="d145e870"/><opentopic-index:refID indexid="indexid1916650073" value="close-and-validate:" class="- index/refid " id="d145e874"/><opentopic-index:refID indexid="indexid-985475650" value="field-support:" class="- index/refid " id="d145e878"/><opentopic-index:refID indexid="indexid1152208233" value="product-support:" class="- index/refid " id="d145e883"/><opentopic-index:refID indexid="indexid-2025461372" value="on-call-escalation:" class="- index/refid " id="d145e887"/><opentopic-index:refID indexid="indexid975651506" value="service-continuity:" class="- index/refid " id="d145e891"/><opentopic-index:refID indexid="indexid-1360654139" value="customer-impact:" class="- index/refid " id="d145e895"/><ph class="- topic/ph topic/title-wrapper ">Procedure</ph></title>
+   <prolog class="- topic/prolog ">
+      <author class="- topic/author ">Suchitra</author>
+      <critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="05-09-2022"/>
+      </critdates>
+      <metadata class="- topic/metadata ">
+         <audience class="- topic/audience " otherprops="production,maintenance,safety" type="role"/>
+         <keywords class="- topic/keywords ">
+            <opentopic-index:index.entry value="metR-FES-Space" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">metR-FES-Space</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1717636292" value="metR-FES-Space:" class="- index/refid " id="d145e837"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="fes-02-100" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">fes-02-100</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-730191845" value="fes-02-100:" class="- index/refid " id="d145e841"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="escalation-procedure" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">escalation-procedure</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-482780673" value="escalation-procedure:" class="- index/refid " id="d145e845"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="support-workflow" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">support-workflow</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-153859107" value="support-workflow:" class="- index/refid " id="d145e849"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="incident-management" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">incident-management</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2009646116" value="incident-management:" class="- index/refid " id="d145e853"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="identify-incident" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">identify-incident</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-339458009" value="identify-incident:" class="- index/refid " id="d145e858"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="assess-severity" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">assess-severity</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1512093108" value="assess-severity:" class="- index/refid " id="d145e862"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="escalate-to-fsc" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">escalate-to-fsc</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-379312837" value="escalate-to-fsc:" class="- index/refid " id="d145e866"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="notify-prs" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">notify-prs</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1788914771" value="notify-prs:" class="- index/refid " id="d145e870"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="close-and-validate" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">close-and-validate</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1916650073" value="close-and-validate:" class="- index/refid " id="d145e874"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="field-support" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">field-support</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-985475650" value="field-support:" class="- index/refid " id="d145e878"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="product-support" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">product-support</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1152208233" value="product-support:" class="- index/refid " id="d145e883"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="on-call-escalation" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">on-call-escalation</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2025461372" value="on-call-escalation:" class="- index/refid " id="d145e887"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="service-continuity" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">service-continuity</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid975651506" value="service-continuity:" class="- index/refid " id="d145e891"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="customer-impact" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">customer-impact</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1360654139" value="customer-impact:" class="- index/refid " id="d145e895"/></opentopic-index:index.entry>
+         </keywords>
+         <prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">metR-FES-Space</prodname>
+            <platform class="- topic/platform ">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="FES-02-100 — Procedure" name="title"/>
+         <othermeta class="- topic/othermeta " content="Step-by-step procedure for logging, triaging, and escalating incidents between FSC and PRS, including notification and closure steps." name="shortdesc"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy"/>
+         <othermeta class="- topic/othermeta " content="incident;ticket;fsc;prs;triage;escalation-point" name="entities"/>
+         <othermeta class="- topic/othermeta " content="domain:operations;usecase:escalation-procedure;industry:glass-manufacturing" name="taxonomy"/>
+         <othermeta class="- topic/othermeta " content="procedure,triage,escalation,incident-management" name="tags"/>
+         <othermeta class="- topic/othermeta " content="procedure" name="usecase"/>
+      </metadata>
+   </prolog>
+   <refbody class="- topic/body        reference/refbody ">
+      <section class="- topic/section ">
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">System (PRS or FSC) issue has been assessed and reference material is used by PNL to go over first tier of the troubleshooting. </li>
+            <li class="- topic/li ">PNL uses the Manufacturing DB to initiate escalation process and involves Discipline Network Leader.</li>
+            <li class="- topic/li ">DNL takes and maintains ownership of the incident, verifies all technical review done by the plant. Updates the incident information, as needed.</li>
+            <li class="- topic/li ">DNL works with Global Network / other DNLs to brainstorm the issue.</li>
+            <li class="- topic/li ">DNL coordinates technical reviews with GNL and R&amp;D until achieving final resolution.</li>
+            <li class="- topic/li ">DNL clearly explains the resolution and closes the service request.</li>
+            <li class="- topic/li ">A visual representation of this process can be found in the flowchart in the <xref class="- topic/xref " href="#unique_7" type="concept"><?ditaot usertext?>Appendix</xref>
+            </li>
+         </ol>
+      </section>
+   </refbody>
+</reference><concept class="- topic/topic concept/concept " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="c1F782BE-BB01-11F0-1460-09173F13E4C5" oid="c1F782BE-BB01-11F0-1460-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us">
+   <title class="- topic/title "><opentopic-index:refID indexid="indexid1717636292" value="metR-FES-Space:" class="- index/refid " id="d145e993"/><opentopic-index:refID indexid="indexid-730191845" value="fes-02-100:" class="- index/refid " id="d145e997"/><opentopic-index:refID indexid="indexid-41775870" value="escalation-flowchart:" class="- index/refid " id="d145e1001"/><opentopic-index:refID indexid="indexid774943860" value="visual-procedure:" class="- index/refid " id="d145e1005"/><opentopic-index:refID indexid="indexid-620646066" value="appendix-flowchart:" class="- index/refid " id="d145e1009"/><opentopic-index:refID indexid="indexid1715838854" value="flow-diagram:" class="- index/refid " id="d145e1014"/><opentopic-index:refID indexid="indexid261928646" value="decision-points:" class="- index/refid " id="d145e1018"/><opentopic-index:refID indexid="indexid1674580660" value="process-visualization:" class="- index/refid " id="d145e1022"/><opentopic-index:refID indexid="indexid1705794264" value="step-sequence:" class="- index/refid " id="d145e1026"/><opentopic-index:refID indexid="indexid1047694526" value="swimlane-handover:" class="- index/refid " id="d145e1030"/><opentopic-index:refID indexid="indexid882079952" value="support-operations:" class="- index/refid " id="d145e1034"/><opentopic-index:refID indexid="indexid-2115476800" value="training-material:" class="- index/refid " id="d145e1039"/><opentopic-index:refID indexid="indexid-1921618543" value="user-reference:" class="- index/refid " id="d145e1043"/><opentopic-index:refID indexid="indexid-1263708693" value="incident-lifecycle:" class="- index/refid " id="d145e1047"/><opentopic-index:refID indexid="indexid-1224841305" value="operational-guidance:" class="- index/refid " id="d145e1051"/><ph class="- topic/ph topic/title-wrapper ">Appendix – Flowchart showing the support escalation procedure for FSC and PRS.</ph></title>
+   <prolog class="- topic/prolog ">
+      <author class="- topic/author ">Suchitra</author>
+      <critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="05-09-2022"/>
+      </critdates>
+      <metadata class="- topic/metadata ">
+         <audience class="- topic/audience " otherprops="production,maintenance,safety" type="role"/>
+         <keywords class="- topic/keywords ">
+            <opentopic-index:index.entry value="metR-FES-Space" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">metR-FES-Space</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1717636292" value="metR-FES-Space:" class="- index/refid " id="d145e993"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="fes-02-100" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">fes-02-100</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-730191845" value="fes-02-100:" class="- index/refid " id="d145e997"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="escalation-flowchart" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">escalation-flowchart</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-41775870" value="escalation-flowchart:" class="- index/refid " id="d145e1001"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="visual-procedure" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">visual-procedure</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid774943860" value="visual-procedure:" class="- index/refid " id="d145e1005"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="appendix-flowchart" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">appendix-flowchart</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-620646066" value="appendix-flowchart:" class="- index/refid " id="d145e1009"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="flow-diagram" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">flow-diagram</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1715838854" value="flow-diagram:" class="- index/refid " id="d145e1014"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="decision-points" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">decision-points</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid261928646" value="decision-points:" class="- index/refid " id="d145e1018"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="process-visualization" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">process-visualization</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1674580660" value="process-visualization:" class="- index/refid " id="d145e1022"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="step-sequence" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">step-sequence</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1705794264" value="step-sequence:" class="- index/refid " id="d145e1026"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="swimlane-handover" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">swimlane-handover</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1047694526" value="swimlane-handover:" class="- index/refid " id="d145e1030"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="support-operations" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">support-operations</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid882079952" value="support-operations:" class="- index/refid " id="d145e1034"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="training-material" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">training-material</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2115476800" value="training-material:" class="- index/refid " id="d145e1039"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="user-reference" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">user-reference</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1921618543" value="user-reference:" class="- index/refid " id="d145e1043"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="incident-lifecycle" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">incident-lifecycle</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1263708693" value="incident-lifecycle:" class="- index/refid " id="d145e1047"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="operational-guidance" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">operational-guidance</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1224841305" value="operational-guidance:" class="- index/refid " id="d145e1051"/></opentopic-index:index.entry>
+         </keywords>
+         <prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">metR-FES-Space</prodname>
+            <platform class="- topic/platform ">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="FES-02-100 — Appendix: Flowchart" name="title"/>
+         <othermeta class="- topic/othermeta " content="Diagrammatic flowchart illustrating the FSC ↔ PRS support escalation steps, decision points and handovers." name="shortdesc"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy"/>
+         <othermeta class="- topic/othermeta " content="flowchart;decision-node;fsc;prs;escalation" name="entities"/>
+         <othermeta class="- topic/othermeta " content="domain:operations;usecase:visualization;industry:glass-manufacturing" name="taxonomy"/>
+         <othermeta class="- topic/othermeta " content="flowchart,diagram,procedure,visual" name="tags"/>
+         <othermeta class="- topic/othermeta " content="reference" name="usecase"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">
+         <fig class="- topic/fig " id="unique_7_Connect_42_fig_wpd_qmw_pzb" nd:nd-id="fig_wpd_qmw_pzb"><image align="center" class="- topic/image " dita-ot:image-width="629" dita-ot:image-height="581" href="file:/D:/metR_AI_Infinity_Project/SPACE/FES-Space/FES-02-100/media/image1.jpg" id="unique_7_Connect_42_image_xpd_qmw_pzb" nd:nd-id="image_xpd_qmw_pzb" placement="break"/></fig>
+      </p>
+   </conbody>
+</concept><concept audience="internal internal" topicrefclass="- map/topicref " class="- topic/topic concept/concept " id="unique_8" nd:nd-id="c1F7B2D9-BB01-11F0-5672-09173F13E4C5" oid="c1F7B2D9-BB01-11F0-5672-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us">
+   <title class="- topic/title "><opentopic-index:refID indexid="indexid1717636292" value="metR-FES-Space:" class="- index/refid " id="d145e1125"/><opentopic-index:refID indexid="indexid-730191845" value="fes-02-100:" class="- index/refid " id="d145e1129"/><opentopic-index:refID indexid="indexid-1907397745" value="collaboration-guidelines:" class="- index/refid " id="d145e1133"/><opentopic-index:refID indexid="indexid-1101927429" value="communication-standards:" class="- index/refid " id="d145e1137"/><opentopic-index:refID indexid="indexid2109670964" value="stakeholder-engagement:" class="- index/refid " id="d145e1141"/><opentopic-index:refID indexid="indexid-34039929" value="cross-team-communication:" class="- index/refid " id="d145e1146"/><opentopic-index:refID indexid="indexid129037517" value="escalation-collaboration:" class="- index/refid " id="d145e1150"/><opentopic-index:refID indexid="indexid-1607958961" value="meeting-and-handover:" class="- index/refid " id="d145e1154"/><opentopic-index:refID indexid="indexid-167528828" value="shared-responsibility:" class="- index/refid " id="d145e1158"/><opentopic-index:refID indexid="indexid2012646176" value="knowledge-transfer:" class="- index/refid " id="d145e1162"/><opentopic-index:refID indexid="indexid882079952" value="support-operations:" class="- index/refid " id="d145e1166"/><opentopic-index:refID indexid="indexid-923931218" value="service-delivery:" class="- index/refid " id="d145e1171"/><opentopic-index:refID indexid="indexid1852986268" value="incident-handover:" class="- index/refid " id="d145e1175"/><opentopic-index:refID indexid="indexid729498575" value="team-coordination:" class="- index/refid " id="d145e1179"/><opentopic-index:refID indexid="indexid2048894873" value="record-keeping:" class="- index/refid " id="d145e1183"/><ph class="- topic/ph topic/title-wrapper ">Collaboration</ph></title>
+   <prolog class="- topic/prolog ">
+      <author class="- topic/author ">Suchitra</author>
+      <critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="05-09-2022"/>
+      </critdates>
+      <metadata class="- topic/metadata ">
+         <audience class="- topic/audience " otherprops="management,production,engineering" type="role"/>
+         <keywords class="- topic/keywords ">
+            <opentopic-index:index.entry value="metR-FES-Space" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">metR-FES-Space</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1717636292" value="metR-FES-Space:" class="- index/refid " id="d145e1125"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="fes-02-100" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">fes-02-100</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-730191845" value="fes-02-100:" class="- index/refid " id="d145e1129"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="collaboration-guidelines" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">collaboration-guidelines</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1907397745" value="collaboration-guidelines:" class="- index/refid " id="d145e1133"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="communication-standards" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">communication-standards</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1101927429" value="communication-standards:" class="- index/refid " id="d145e1137"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="stakeholder-engagement" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">stakeholder-engagement</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2109670964" value="stakeholder-engagement:" class="- index/refid " id="d145e1141"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="cross-team-communication" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">cross-team-communication</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-34039929" value="cross-team-communication:" class="- index/refid " id="d145e1146"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="escalation-collaboration" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">escalation-collaboration</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid129037517" value="escalation-collaboration:" class="- index/refid " id="d145e1150"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="meeting-and-handover" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">meeting-and-handover</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1607958961" value="meeting-and-handover:" class="- index/refid " id="d145e1154"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="shared-responsibility" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">shared-responsibility</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-167528828" value="shared-responsibility:" class="- index/refid " id="d145e1158"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="knowledge-transfer" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">knowledge-transfer</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2012646176" value="knowledge-transfer:" class="- index/refid " id="d145e1162"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="support-operations" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">support-operations</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid882079952" value="support-operations:" class="- index/refid " id="d145e1166"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="service-delivery" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">service-delivery</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-923931218" value="service-delivery:" class="- index/refid " id="d145e1171"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="incident-handover" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">incident-handover</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1852986268" value="incident-handover:" class="- index/refid " id="d145e1175"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="team-coordination" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">team-coordination</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid729498575" value="team-coordination:" class="- index/refid " id="d145e1179"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="record-keeping" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">record-keeping</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2048894873" value="record-keeping:" class="- index/refid " id="d145e1183"/></opentopic-index:index.entry>
+         </keywords>
+         <prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">metR-FES-Space</prodname>
+            <platform class="- topic/platform ">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="FES-02-100 — Collaboration" name="title"/>
+         <othermeta class="- topic/othermeta " content="Guidelines for collaboration, handovers, and stakeholder communication between FSC, PRS and associated teams." name="shortdesc"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy"/>
+         <othermeta class="- topic/othermeta " content="collaboration-protocol;fsc;prs;stakeholder;handover" name="entities"/>
+         <othermeta class="- topic/othermeta " content="domain:operations;usecase:collaboration-guidelines;industry:glass-manufacturing" name="taxonomy"/>
+         <othermeta class="- topic/othermeta " content="collaboration,handover,communication,stakeholders" name="tags"/>
+         <othermeta class="- topic/othermeta " content="guideline" name="usecase"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">
+         <simpletable class="- topic/simpletable " id="unique_8_Connect_42_table_z2m_smw_pzb" nd:nd-id="table_z2m_smw_pzb" relcolwidth="1* 1* 1*">
+            <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1">
+                  <p class="- topic/p ">
+                     <b class="+ topic/ph hi-d/b ">Country Group</b>
+                  </p>
+               </stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1">
+                  <p class="- topic/p ">
+                     <b class="+ topic/ph hi-d/b ">Role</b>
+                  </p>
+               </stentry><stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="1">
+                  <p class="- topic/p ">
+                     <b class="+ topic/ph hi-d/b ">Name</b>
+                  </p>
+               </stentry></strow>
+            <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="2">
+                  <p class="- topic/p ">Americas North</p>
+               </stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="2">
+                  <p class="- topic/p ">Forming Electronics Specialist</p>
+               </stentry><stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="2">
+                  <p class="- topic/p ">Dan Knuckles</p>
+               </stentry></strow>
+            <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="3">
+                  <p class="- topic/p ">Europe</p>
+               </stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="3">
+                  <p class="- topic/p ">Forming Electronics Leader</p>
+               </stentry><stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="3">
+                  <p class="- topic/p ">Remko Beckers</p>
+               </stentry></strow>
+            <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="4">
+                  <p class="- topic/p ">Central Europe</p>
+               </stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="4">
+                  <p class="- topic/p ">Regional Leader Forming Electronics</p>
+               </stentry><stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="4">
+                  <p class="- topic/p ">Ruud Bormans</p>
+               </stentry></strow>
+            <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="5">
+                  <p class="- topic/p ">France - Spain</p>
+               </stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="5">
+                  <p class="- topic/p ">Jean-Pierre Locato</p>
+               </stentry><stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="5">
+                  <p class="- topic/p ">Jean-Pierre Locato</p>
+               </stentry></strow>
+            <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="6">
+                  <p class="- topic/p ">Latin America</p>
+               </stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="6">
+                  <p class="- topic/p ">IS Machine Leader</p>
+               </stentry><stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="6">
+                  <p class="- topic/p ">Miguel Morales</p>
+               </stentry></strow>
+            <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="7">
+                  <p class="- topic/p ">Engineering - Forming</p>
+               </stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="7">
+                  <p class="- topic/p ">Associate Engineer</p>
+               </stentry><stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="7">
+                  <p class="- topic/p ">Jose Gonzalez</p>
+               </stentry></strow>
+            <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="8">
+                  <p class="- topic/p ">Global</p>
+               </stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="8">
+                  <p class="- topic/p ">Global Forming Electronics Leader</p>
+               </stentry><stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="8">
+                  <p class="- topic/p ">Franklin Barrios</p>
+               </stentry></strow>
+         </simpletable>
+      </p>
+   </conbody>
+</concept><concept audience="internal internal" topicrefclass="- map/topicref " class="- topic/topic concept/concept " id="unique_9" nd:nd-id="c1F83D42-BB01-11F0-1804-09173F13E4C5" oid="c1F83D42-BB01-11F0-1804-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us">
+   <title class="- topic/title "><opentopic-index:refID indexid="indexid1717636292" value="metR-FES-Space:" class="- index/refid " id="d145e1433"/><opentopic-index:refID indexid="indexid-730191845" value="fes-02-100:" class="- index/refid " id="d145e1437"/><opentopic-index:refID indexid="indexid-1920917544" value="revision-history:" class="- index/refid " id="d145e1441"/><opentopic-index:refID indexid="indexid-1700880013" value="change-log:" class="- index/refid " id="d145e1445"/><opentopic-index:refID indexid="indexid1344541873" value="document-audit:" class="- index/refid " id="d145e1449"/><opentopic-index:refID indexid="indexid-1019306030" value="version-control:" class="- index/refid " id="d145e1454"/><opentopic-index:refID indexid="indexid876195258" value="change-management:" class="- index/refid " id="d145e1458"/><opentopic-index:refID indexid="indexid140763777" value="authoring-approval:" class="- index/refid " id="d145e1462"/><opentopic-index:refID indexid="indexid-672889815" value="review-cycle:" class="- index/refid " id="d145e1466"/><opentopic-index:refID indexid="indexid731321565" value="doc-signoff:" class="- index/refid " id="d145e1470"/><opentopic-index:refID indexid="indexid-88422170" value="document-governance:" class="- index/refid " id="d145e1474"/><opentopic-index:refID indexid="indexid1017651811" value="compliance-traceability:" class="- index/refid " id="d145e1479"/><opentopic-index:refID indexid="indexid1585324326" value="audit-trail:" class="- index/refid " id="d145e1483"/><opentopic-index:refID indexid="indexid-391418485" value="knowledge-retention:" class="- index/refid " id="d145e1487"/><opentopic-index:refID indexid="indexid-910215725" value="operational-records:" class="- index/refid " id="d145e1491"/><ph class="- topic/ph topic/title-wrapper ">Revision History</ph></title>
+   <prolog class="- topic/prolog ">
+      <author class="- topic/author ">Suchitra</author>
+      <critdates class="- topic/critdates ">
+         <revised class="- topic/revised " modified="05-09-2022"/>
+      </critdates>
+      <metadata class="- topic/metadata ">
+         <audience class="- topic/audience " otherprops="management,quality,engineering" type="role"/>
+         <keywords class="- topic/keywords ">
+            <opentopic-index:index.entry value="metR-FES-Space" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">metR-FES-Space</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1717636292" value="metR-FES-Space:" class="- index/refid " id="d145e1433"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="fes-02-100" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">fes-02-100</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-730191845" value="fes-02-100:" class="- index/refid " id="d145e1437"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="revision-history" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">revision-history</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1920917544" value="revision-history:" class="- index/refid " id="d145e1441"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="change-log" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">change-log</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1700880013" value="change-log:" class="- index/refid " id="d145e1445"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="document-audit" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">document-audit</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1344541873" value="document-audit:" class="- index/refid " id="d145e1449"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="version-control" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">version-control</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1019306030" value="version-control:" class="- index/refid " id="d145e1454"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="change-management" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">change-management</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid876195258" value="change-management:" class="- index/refid " id="d145e1458"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="authoring-approval" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">authoring-approval</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid140763777" value="authoring-approval:" class="- index/refid " id="d145e1462"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="review-cycle" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">review-cycle</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-672889815" value="review-cycle:" class="- index/refid " id="d145e1466"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="doc-signoff" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">doc-signoff</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid731321565" value="doc-signoff:" class="- index/refid " id="d145e1470"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="document-governance" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">document-governance</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-88422170" value="document-governance:" class="- index/refid " id="d145e1474"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="compliance-traceability" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">compliance-traceability</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1017651811" value="compliance-traceability:" class="- index/refid " id="d145e1479"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="audit-trail" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">audit-trail</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1585324326" value="audit-trail:" class="- index/refid " id="d145e1483"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="knowledge-retention" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">knowledge-retention</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-391418485" value="knowledge-retention:" class="- index/refid " id="d145e1487"/></opentopic-index:index.entry>
+            <opentopic-index:index.entry value="operational-records" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">operational-records</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-910215725" value="operational-records:" class="- index/refid " id="d145e1491"/></opentopic-index:index.entry>
+         </keywords>
+         <prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">metR-FES-Space</prodname>
+            <platform class="- topic/platform ">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="FES-02-100 — Revision history" name="title"/>
+         <othermeta class="- topic/othermeta " content="Revision log and version history for the FES-02-100 procedure and related topics." name="shortdesc"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy"/>
+         <othermeta class="- topic/othermeta " content="revision;version;author;change-summary" name="entities"/>
+         <othermeta class="- topic/othermeta " content="domain:governance;usecase:revision-history;industry:glass-manufacturing" name="taxonomy"/>
+         <othermeta class="- topic/othermeta " content="revision,history,version,change-log" name="tags"/>
+         <othermeta class="- topic/othermeta " content="audit" name="usecase"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">
+         <simpletable class="- topic/simpletable " id="unique_9_Connect_42_table_vmd_wmw_pzb" nd:nd-id="table_vmd_wmw_pzb" relcolwidth="1* 1*">
+            <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1">2017-09-20</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1">
+                  <p class="- topic/p ">Originally Released as Process Control SOP-17-009</p>
+               </stentry></strow>
+            <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="2">2022-05-09</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="2">
+                  <p class="- topic/p ">Approved by Franklin Barrios, Global Leader FES Network.</p>
+                  <p class="- topic/p ">Moved to GMF Site as FES-02-100</p>
+               </stentry></strow>
+         </simpletable>
+      </p>
+   </conbody>
+</concept></concept><opentopic-index:index.groups class="- index/groups " id="d145e1567"><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">A</opentopic-index:label><opentopic-index:index.entry value="appendix-flowchart" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-620646066">appendix-flowchart</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-620646066" value="appendix-flowchart:" class="- index/refid "><oxy:index-link href="#d145e1009" class="- index/link ">
+          [d145e1009]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="applicability" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-85244907">applicability</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-85244907" value="applicability:" class="- index/refid "><oxy:index-link href="#d145e425" class="- index/link ">
+          [d145e425]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="applicability-rules" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1992684587">applicability-rules</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1992684587" value="applicability-rules:" class="- index/refid "><oxy:index-link href="#d145e438" class="- index/link ">
+          [d145e438]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="application-scope" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-713599101">application-scope</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-713599101" value="application-scope:" class="- index/refid "><oxy:index-link href="#d145e421" class="- index/link ">
+          [d145e421]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="assess-severity" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1512093108">assess-severity</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1512093108" value="assess-severity:" class="- index/refid "><oxy:index-link href="#d145e862" class="- index/link ">
+          [d145e862]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="audit-trail" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1585324326">audit-trail</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1585324326" value="audit-trail:" class="- index/refid "><oxy:index-link href="#d145e1483" class="- index/link ">
+          [d145e1483]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="authoring-approval" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid140763777">authoring-approval</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid140763777" value="authoring-approval:" class="- index/refid "><oxy:index-link href="#d145e1462" class="- index/link ">
+          [d145e1462]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">C</opentopic-index:label><opentopic-index:index.entry value="change-log" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1700880013">change-log</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1700880013" value="change-log:" class="- index/refid "><oxy:index-link href="#d145e1445" class="- index/link ">
+          [d145e1445]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="change-management" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid876195258">change-management</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid876195258" value="change-management:" class="- index/refid "><oxy:index-link href="#d145e1458" class="- index/link ">
+          [d145e1458]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="citation-list" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1384154890">citation-list</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1384154890" value="citation-list:" class="- index/refid "><oxy:index-link href="#d145e567" class="- index/link ">
+          [d145e567]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="close-and-validate" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1916650073">close-and-validate</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1916650073" value="close-and-validate:" class="- index/refid "><oxy:index-link href="#d145e874" class="- index/link ">
+          [d145e874]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="collaboration-guidelines" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1907397745">collaboration-guidelines</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1907397745" value="collaboration-guidelines:" class="- index/refid "><oxy:index-link href="#d145e1133" class="- index/link ">
+          [d145e1133]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="communication-protocol" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid514958187">communication-protocol</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid514958187" value="communication-protocol:" class="- index/refid "><oxy:index-link href="#d145e178" class="- index/link ">
+          [d145e178]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="communication-standards" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1101927429">communication-standards</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1101927429" value="communication-standards:" class="- index/refid "><oxy:index-link href="#d145e1137" class="- index/link ">
+          [d145e1137]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="compliance-traceability" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1017651811">compliance-traceability</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1017651811" value="compliance-traceability:" class="- index/refid "><oxy:index-link href="#d145e1479" class="- index/link ">
+          [d145e1479]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="coverage" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1980122962">coverage</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1980122962" value="coverage:" class="- index/refid "><oxy:index-link href="#d145e429" class="- index/link ">
+          [d145e429]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="cross-functional-handoff" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1670986473">cross-functional-handoff</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1670986473" value="cross-functional-handoff:" class="- index/refid "><oxy:index-link href="#d145e203" class="- index/link ">
+          [d145e203]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="cross-team-communication" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-34039929">cross-team-communication</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-34039929" value="cross-team-communication:" class="- index/refid "><oxy:index-link href="#d145e749" class="- index/link ">
+          [d145e749]
+        </oxy:index-link><oxy:index-link href="#d145e1146" class="- index/link ">
+          [d145e1146]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="customer-impact" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1360654139">customer-impact</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1360654139" value="customer-impact:" class="- index/refid "><oxy:index-link href="#d145e895" class="- index/link ">
+          [d145e895]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="customer-impact-assessment" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid326266368">customer-impact-assessment</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid326266368" value="customer-impact-assessment:" class="- index/refid "><oxy:index-link href="#d145e207" class="- index/link ">
+          [d145e207]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">D</opentopic-index:label><opentopic-index:index.entry value="decision-points" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid261928646">decision-points</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid261928646" value="decision-points:" class="- index/refid "><oxy:index-link href="#d145e1018" class="- index/link ">
+          [d145e1018]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="definition-mapping" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1435460506">definition-mapping</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1435460506" value="definition-mapping:" class="- index/refid "><oxy:index-link href="#d145e716" class="- index/link ">
+          [d145e716]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="definitions" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid101792442">definitions</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid101792442" value="definitions:" class="- index/refid "><oxy:index-link href="#d145e699" class="- index/link ">
+          [d145e699]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="doc-signoff" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid731321565">doc-signoff</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid731321565" value="doc-signoff:" class="- index/refid "><oxy:index-link href="#d145e1470" class="- index/link ">
+          [d145e1470]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="document-audit" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1344541873">document-audit</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1344541873" value="document-audit:" class="- index/refid "><oxy:index-link href="#d145e1449" class="- index/link ">
+          [d145e1449]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="document-governance" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-88422170">document-governance</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-88422170" value="document-governance:" class="- index/refid "><oxy:index-link href="#d145e1474" class="- index/link ">
+          [d145e1474]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="document-links" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1648680083">document-links</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1648680083" value="document-links:" class="- index/refid "><oxy:index-link href="#d145e579" class="- index/link ">
+          [d145e579]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="documentation-governance" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid592143365">documentation-governance</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid592143365" value="documentation-governance:" class="- index/refid "><oxy:index-link href="#d145e587" class="- index/link ">
+          [d145e587]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="documentation-standards" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1745427817">documentation-standards</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1745427817" value="documentation-standards:" class="- index/refid "><oxy:index-link href="#d145e741" class="- index/link ">
+          [d145e741]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">E</opentopic-index:label><opentopic-index:index.entry value="escalate-to-fsc" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-379312837">escalate-to-fsc</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-379312837" value="escalate-to-fsc:" class="- index/refid "><oxy:index-link href="#d145e866" class="- index/link ">
+          [d145e866]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="escalation-collaboration" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid129037517">escalation-collaboration</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid129037517" value="escalation-collaboration:" class="- index/refid "><oxy:index-link href="#d145e1150" class="- index/link ">
+          [d145e1150]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="escalation-criteria" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid355165059">escalation-criteria</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid355165059" value="escalation-criteria:" class="- index/refid "><oxy:index-link href="#d145e170" class="- index/link ">
+          [d145e170]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="escalation-eligibility" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-527310203">escalation-eligibility</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-527310203" value="escalation-eligibility:" class="- index/refid "><oxy:index-link href="#d145e471" class="- index/link ">
+          [d145e471]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="escalation-flowchart" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-41775870">escalation-flowchart</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-41775870" value="escalation-flowchart:" class="- index/refid "><oxy:index-link href="#d145e1001" class="- index/link ">
+          [d145e1001]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="escalation-paths" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1386783932">escalation-paths</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1386783932" value="escalation-paths:" class="- index/refid "><oxy:index-link href="#d145e174" class="- index/link ">
+          [d145e174]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="escalation-procedure" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-482780673">escalation-procedure</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-482780673" value="escalation-procedure:" class="- index/refid "><oxy:index-link href="#d145e845" class="- index/link ">
+          [d145e845]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="escalation-process" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid795041763">escalation-process</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid795041763" value="escalation-process:" class="- index/refid "><oxy:index-link href="#d145e295" class="- index/link ">
+          [d145e295]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="exclusions" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1636798581">exclusions</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1636798581" value="exclusions:" class="- index/refid "><oxy:index-link href="#d145e442" class="- index/link ">
+          [d145e442]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="external-resources" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1605849591">external-resources</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1605849591" value="external-resources:" class="- index/refid "><oxy:index-link href="#d145e583" class="- index/link ">
+          [d145e583]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">F</opentopic-index:label><opentopic-index:index.entry value="fes-02-100" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-730191845">fes-02-100</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-730191845" value="fes-02-100:" class="- index/refid "><oxy:index-link href="#d145e157" class="- index/link ">
+          [d145e157]
+        </oxy:index-link><oxy:index-link href="#d145e278" class="- index/link ">
+          [d145e278]
+        </oxy:index-link><oxy:index-link href="#d145e417" class="- index/link ">
+          [d145e417]
+        </oxy:index-link><oxy:index-link href="#d145e550" class="- index/link ">
+          [d145e550]
+        </oxy:index-link><oxy:index-link href="#d145e695" class="- index/link ">
+          [d145e695]
+        </oxy:index-link><oxy:index-link href="#d145e841" class="- index/link ">
+          [d145e841]
+        </oxy:index-link><oxy:index-link href="#d145e997" class="- index/link ">
+          [d145e997]
+        </oxy:index-link><oxy:index-link href="#d145e1129" class="- index/link ">
+          [d145e1129]
+        </oxy:index-link><oxy:index-link href="#d145e1437" class="- index/link ">
+          [d145e1437]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="field-support" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-985475650">field-support</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-985475650" value="field-support:" class="- index/refid "><oxy:index-link href="#d145e878" class="- index/link ">
+          [d145e878]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="field-support-centre" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-2127921426">field-support-centre</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2127921426" value="field-support-centre:" class="- index/refid "><oxy:index-link href="#d145e315" class="- index/link ">
+          [d145e315]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="flow-diagram" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1715838854">flow-diagram</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1715838854" value="flow-diagram:" class="- index/refid "><oxy:index-link href="#d145e1014" class="- index/link ">
+          [d145e1014]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="follow-up-and-closure" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1584172139">follow-up-and-closure</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1584172139" value="follow-up-and-closure:" class="- index/refid "><oxy:index-link href="#d145e186" class="- index/link ">
+          [d145e186]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="fsc-procedure" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1635285182">fsc-procedure</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1635285182" value="fsc-procedure:" class="- index/refid "><oxy:index-link href="#d145e286" class="- index/link ">
+          [d145e286]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="fsc-prs-escalation" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1495987054">fsc-prs-escalation</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1495987054" value="fsc-prs-escalation:" class="- index/refid "><oxy:index-link href="#d145e153" class="- index/link ">
+          [d145e153]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">G</opentopic-index:label><opentopic-index:index.entry value="glossary" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid890960348">glossary</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid890960348" value="glossary:" class="- index/refid "><oxy:index-link href="#d145e703" class="- index/link ">
+          [d145e703]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">H</opentopic-index:label><opentopic-index:index.entry value="handover-protocol" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1974549784">handover-protocol</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1974549784" value="handover-protocol:" class="- index/refid "><oxy:index-link href="#d145e165" class="- index/link ">
+          [d145e165]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">I</opentopic-index:label><opentopic-index:index.entry value="identify-incident" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-339458009">identify-incident</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-339458009" value="identify-incident:" class="- index/refid "><oxy:index-link href="#d145e858" class="- index/link ">
+          [d145e858]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="incident-handover" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1852986268">incident-handover</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1852986268" value="incident-handover:" class="- index/refid "><oxy:index-link href="#d145e1175" class="- index/link ">
+          [d145e1175]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="incident-lifecycle" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1263708693">incident-lifecycle</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1263708693" value="incident-lifecycle:" class="- index/refid "><oxy:index-link href="#d145e1047" class="- index/link ">
+          [d145e1047]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="incident-management" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-2009646116">incident-management</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2009646116" value="incident-management:" class="- index/refid "><oxy:index-link href="#d145e853" class="- index/link ">
+          [d145e853]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="incident-routing" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1448624847">incident-routing</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1448624847" value="incident-routing:" class="- index/refid "><oxy:index-link href="#d145e299" class="- index/link ">
+          [d145e299]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">K</opentopic-index:label><opentopic-index:index.entry value="knowledge-base" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1285457542">knowledge-base</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1285457542" value="knowledge-base:" class="- index/refid "><oxy:index-link href="#d145e600" class="- index/link ">
+          [d145e600]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="knowledge-management" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-833274488">knowledge-management</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-833274488" value="knowledge-management:" class="- index/refid "><oxy:index-link href="#d145e745" class="- index/link ">
+          [d145e745]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="knowledge-retention" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-391418485">knowledge-retention</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-391418485" value="knowledge-retention:" class="- index/refid "><oxy:index-link href="#d145e1487" class="- index/link ">
+          [d145e1487]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="knowledge-transfer" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid2012646176">knowledge-transfer</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2012646176" value="knowledge-transfer:" class="- index/refid "><oxy:index-link href="#d145e1162" class="- index/link ">
+          [d145e1162]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">M</opentopic-index:label><opentopic-index:index.entry value="meeting-and-handover" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1607958961">meeting-and-handover</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1607958961" value="meeting-and-handover:" class="- index/refid "><oxy:index-link href="#d145e1154" class="- index/link ">
+          [d145e1154]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="metadata-normalization" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1432404837">metadata-normalization</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1432404837" value="metadata-normalization:" class="- index/refid "><oxy:index-link href="#d145e728" class="- index/link ">
+          [d145e728]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="metR-FES-Space" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1717636292">metR-FES-Space</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1717636292" value="metR-FES-Space:" class="- index/refid "><oxy:index-link href="#d145e149" class="- index/link ">
+          [d145e149]
+        </oxy:index-link><oxy:index-link href="#d145e274" class="- index/link ">
+          [d145e274]
+        </oxy:index-link><oxy:index-link href="#d145e413" class="- index/link ">
+          [d145e413]
+        </oxy:index-link><oxy:index-link href="#d145e546" class="- index/link ">
+          [d145e546]
+        </oxy:index-link><oxy:index-link href="#d145e691" class="- index/link ">
+          [d145e691]
+        </oxy:index-link><oxy:index-link href="#d145e837" class="- index/link ">
+          [d145e837]
+        </oxy:index-link><oxy:index-link href="#d145e993" class="- index/link ">
+          [d145e993]
+        </oxy:index-link><oxy:index-link href="#d145e1125" class="- index/link ">
+          [d145e1125]
+        </oxy:index-link><oxy:index-link href="#d145e1433" class="- index/link ">
+          [d145e1433]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">N</opentopic-index:label><opentopic-index:index.entry value="nomenclature-governance" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid148885826">nomenclature-governance</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid148885826" value="nomenclature-governance:" class="- index/refid "><oxy:index-link href="#d145e720" class="- index/link ">
+          [d145e720]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="normative-docs" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid126758939">normative-docs</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid126758939" value="normative-docs:" class="- index/refid "><oxy:index-link href="#d145e558" class="- index/link ">
+          [d145e558]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="notification-workflow" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-232218119">notification-workflow</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-232218119" value="notification-workflow:" class="- index/refid "><oxy:index-link href="#d145e311" class="- index/link ">
+          [d145e311]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="notify-prs" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1788914771">notify-prs</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1788914771" value="notify-prs:" class="- index/refid "><oxy:index-link href="#d145e870" class="- index/link ">
+          [d145e870]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">O</opentopic-index:label><opentopic-index:index.entry value="on-call-escalation" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-2025461372">on-call-escalation</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2025461372" value="on-call-escalation:" class="- index/refid "><oxy:index-link href="#d145e887" class="- index/link ">
+          [d145e887]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="on-call-procedures" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1319938425">on-call-procedures</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1319938425" value="on-call-procedures:" class="- index/refid "><oxy:index-link href="#d145e332" class="- index/link ">
+          [d145e332]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="on-field-support" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1999182700">on-field-support</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1999182700" value="on-field-support:" class="- index/refid "><oxy:index-link href="#d145e190" class="- index/link ">
+          [d145e190]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="ontology-alignment" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1593402869">ontology-alignment</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1593402869" value="ontology-alignment:" class="- index/refid "><oxy:index-link href="#d145e724" class="- index/link ">
+          [d145e724]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="operational-boundaries" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-634552969">operational-boundaries</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-634552969" value="operational-boundaries:" class="- index/refid "><oxy:index-link href="#d145e450" class="- index/link ">
+          [d145e450]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="operational-governance" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1445478115">operational-governance</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1445478115" value="operational-governance:" class="- index/refid "><oxy:index-link href="#d145e328" class="- index/link ">
+          [d145e328]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="operational-guidance" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1224841305">operational-guidance</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1224841305" value="operational-guidance:" class="- index/refid "><oxy:index-link href="#d145e1051" class="- index/link ">
+          [d145e1051]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="operational-handbook" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid909719335">operational-handbook</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid909719335" value="operational-handbook:" class="- index/refid "><oxy:index-link href="#d145e596" class="- index/link ">
+          [d145e596]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="operational-records" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-910215725">operational-records</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-910215725" value="operational-records:" class="- index/refid "><oxy:index-link href="#d145e1491" class="- index/link ">
+          [d145e1491]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">P</opentopic-index:label><opentopic-index:index.entry value="process-visualization" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1674580660">process-visualization</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1674580660" value="process-visualization:" class="- index/refid "><oxy:index-link href="#d145e1022" class="- index/link ">
+          [d145e1022]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="product-incident" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-219945398">product-incident</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-219945398" value="product-incident:" class="- index/refid "><oxy:index-link href="#d145e195" class="- index/link ">
+          [d145e195]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="product-support" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1152208233">product-support</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1152208233" value="product-support:" class="- index/refid "><oxy:index-link href="#d145e320" class="- index/link ">
+          [d145e320]
+        </oxy:index-link><oxy:index-link href="#d145e883" class="- index/link ">
+          [d145e883]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="product-variants" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1296409102">product-variants</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1296409102" value="product-variants:" class="- index/refid "><oxy:index-link href="#d145e463" class="- index/link ">
+          [d145e463]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="prs-procedure" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1061574557">prs-procedure</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1061574557" value="prs-procedure:" class="- index/refid "><oxy:index-link href="#d145e290" class="- index/link ">
+          [d145e290]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">R</opentopic-index:label><opentopic-index:index.entry value="record-keeping" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid2048894873">record-keeping</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2048894873" value="record-keeping:" class="- index/refid "><oxy:index-link href="#d145e1183" class="- index/link ">
+          [d145e1183]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="reference-mapping" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1115797138">reference-mapping</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1115797138" value="reference-mapping:" class="- index/refid "><oxy:index-link href="#d145e575" class="- index/link ">
+          [d145e575]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="references" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-16210254">references</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-16210254" value="references:" class="- index/refid "><oxy:index-link href="#d145e554" class="- index/link ">
+          [d145e554]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="regional-operations" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid2004109088">regional-operations</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2004109088" value="regional-operations:" class="- index/refid "><oxy:index-link href="#d145e459" class="- index/link ">
+          [d145e459]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="regulatory-guidance" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid2043086573">regulatory-guidance</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2043086573" value="regulatory-guidance:" class="- index/refid "><oxy:index-link href="#d145e592" class="- index/link ">
+          [d145e592]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="related-procedures" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-279646824">related-procedures</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-279646824" value="related-procedures:" class="- index/refid "><oxy:index-link href="#d145e562" class="- index/link ">
+          [d145e562]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="response-sla" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1630565918">response-sla</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1630565918" value="response-sla:" class="- index/refid "><oxy:index-link href="#d145e182" class="- index/link ">
+          [d145e182]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="review-cycle" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-672889815">review-cycle</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-672889815" value="review-cycle:" class="- index/refid "><oxy:index-link href="#d145e1466" class="- index/link ">
+          [d145e1466]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="revision-history" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1920917544">revision-history</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1920917544" value="revision-history:" class="- index/refid "><oxy:index-link href="#d145e1441" class="- index/link ">
+          [d145e1441]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="role-responsibilities" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid389931255">role-responsibilities</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid389931255" value="role-responsibilities:" class="- index/refid "><oxy:index-link href="#d145e446" class="- index/link ">
+          [d145e446]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">S</opentopic-index:label><opentopic-index:index.entry value="scope-determination" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1636821328">scope-determination</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1636821328" value="scope-determination:" class="- index/refid "><oxy:index-link href="#d145e434" class="- index/link ">
+          [d145e434]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="service-continuity" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid975651506">service-continuity</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid975651506" value="service-continuity:" class="- index/refid "><oxy:index-link href="#d145e891" class="- index/link ">
+          [d145e891]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="service-delivery" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-923931218">service-delivery</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-923931218" value="service-delivery:" class="- index/refid "><oxy:index-link href="#d145e1171" class="- index/link ">
+          [d145e1171]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="service-level-management" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-743622026">service-level-management</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-743622026" value="service-level-management:" class="- index/refid "><oxy:index-link href="#d145e199" class="- index/link ">
+          [d145e199]
+        </oxy:index-link><oxy:index-link href="#d145e324" class="- index/link ">
+          [d145e324]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="service-lines" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid772091699">service-lines</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid772091699" value="service-lines:" class="- index/refid "><oxy:index-link href="#d145e467" class="- index/link ">
+          [d145e467]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="service-management" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid2143355199">service-management</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2143355199" value="service-management:" class="- index/refid "><oxy:index-link href="#d145e737" class="- index/link ">
+          [d145e737]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="shared-responsibility" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-167528828">shared-responsibility</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-167528828" value="shared-responsibility:" class="- index/refid "><oxy:index-link href="#d145e1158" class="- index/link ">
+          [d145e1158]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="source-tracking" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1883251407">source-tracking</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1883251407" value="source-tracking:" class="- index/refid "><oxy:index-link href="#d145e571" class="- index/link ">
+          [d145e571]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="stakeholder-engagement" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid2109670964">stakeholder-engagement</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2109670964" value="stakeholder-engagement:" class="- index/refid "><oxy:index-link href="#d145e1141" class="- index/link ">
+          [d145e1141]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="step-sequence" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1705794264">step-sequence</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1705794264" value="step-sequence:" class="- index/refid "><oxy:index-link href="#d145e1026" class="- index/link ">
+          [d145e1026]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="support-environment" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-814277179">support-environment</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-814277179" value="support-environment:" class="- index/refid "><oxy:index-link href="#d145e454" class="- index/link ">
+          [d145e454]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="support-escalation" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1477753671">support-escalation</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1477753671" value="support-escalation:" class="- index/refid "><oxy:index-link href="#d145e161" class="- index/link ">
+          [d145e161]
+        </oxy:index-link><oxy:index-link href="#d145e282" class="- index/link ">
+          [d145e282]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="support-handoff" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-176730664">support-handoff</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-176730664" value="support-handoff:" class="- index/refid "><oxy:index-link href="#d145e303" class="- index/link ">
+          [d145e303]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="support-operations" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid882079952">support-operations</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid882079952" value="support-operations:" class="- index/refid "><oxy:index-link href="#d145e732" class="- index/link ">
+          [d145e732]
+        </oxy:index-link><oxy:index-link href="#d145e1034" class="- index/link ">
+          [d145e1034]
+        </oxy:index-link><oxy:index-link href="#d145e1166" class="- index/link ">
+          [d145e1166]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="support-resources" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1459926157">support-resources</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1459926157" value="support-resources:" class="- index/refid "><oxy:index-link href="#d145e604" class="- index/link ">
+          [d145e604]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="support-terminology" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1399070427">support-terminology</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1399070427" value="support-terminology:" class="- index/refid "><oxy:index-link href="#d145e707" class="- index/link ">
+          [d145e707]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="support-workflow" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-153859107">support-workflow</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-153859107" value="support-workflow:" class="- index/refid "><oxy:index-link href="#d145e849" class="- index/link ">
+          [d145e849]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="swimlane-handover" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1047694526">swimlane-handover</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1047694526" value="swimlane-handover:" class="- index/refid "><oxy:index-link href="#d145e1030" class="- index/link ">
+          [d145e1030]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">T</opentopic-index:label><opentopic-index:index.entry value="team-coordination" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid729498575">team-coordination</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid729498575" value="team-coordination:" class="- index/refid "><oxy:index-link href="#d145e1179" class="- index/link ">
+          [d145e1179]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="term-standardization" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1207206228">term-standardization</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1207206228" value="term-standardization:" class="- index/refid "><oxy:index-link href="#d145e712" class="- index/link ">
+          [d145e712]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="training-material" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-2115476800">training-material</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2115476800" value="training-material:" class="- index/refid "><oxy:index-link href="#d145e1039" class="- index/link ">
+          [d145e1039]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="triage-and-escalate" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1229711047">triage-and-escalate</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1229711047" value="triage-and-escalate:" class="- index/refid "><oxy:index-link href="#d145e307" class="- index/link ">
+          [d145e307]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">U</opentopic-index:label><opentopic-index:index.entry value="user-reference" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1921618543">user-reference</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1921618543" value="user-reference:" class="- index/refid "><oxy:index-link href="#d145e1043" class="- index/link ">
+          [d145e1043]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">V</opentopic-index:label><opentopic-index:index.entry value="version-control" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1019306030">version-control</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1019306030" value="version-control:" class="- index/refid "><oxy:index-link href="#d145e1454" class="- index/link ">
+          [d145e1454]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="visual-procedure" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid774943860">visual-procedure</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid774943860" value="visual-procedure:" class="- index/refid "><oxy:index-link href="#d145e1005" class="- index/link ">
+          [d145e1005]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group></opentopic-index:index.groups></map>

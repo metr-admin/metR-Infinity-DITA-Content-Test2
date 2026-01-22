@@ -55,7 +55,7 @@
          <simpletable relcolwidth="1* 1* 1*"
                       id="table_jg5_zpw_pzb"
                       class="- topic/simpletable ">
-            <strow class="- topic/strow ">
+            <sthead>
                <stentry class="- topic/stentry ">
                   <p class="- topic/p ">
                      <b class="+ topic/ph hi-d/b ">Country Group</b>
@@ -71,7 +71,7 @@
                      <b class="+ topic/ph hi-d/b ">Name</b>
                   </p>
                </stentry>
-            </strow>
+            </sthead>
             <strow class="- topic/strow ">
                <stentry class="- topic/stentry ">
                   <p class="- topic/p ">Americas North</p>

@@ -14,23 +14,16 @@
          <prodname class="- topic/prodname "/>
       </prodinfo>
    </topicmeta>
-   <topicref href="BAT-00-003_cullet_preheater_manual_harlow_505.dita"
-             chunk="to-content"
-             class="- map/topicref ">
-      <topicmeta class="- map/topicmeta ">
-         <othermeta name="DocumentNumber"
-                    content="BAT-00-003"
-                    class="- topic/othermeta "/>
-         <othermeta name="RevisionDate" content="10-21-2019" class="- topic/othermeta "/>
-      </topicmeta>
-      <topicref href="BAT-00-003_cullet_preheater_manual-harlow_505.dita"
-                class="- map/topicref "/>
+   <topicref href="BAT-00-003_cullet_preheater_manual-harlow_505.dita"
+      chunk="to-content"
+      class="- map/topicref ">
       <topicref href="BAT-00-003_references.dita" class="- map/topicref "/>
       <topicref href="BAT-00-003_approval.dita"
-                audience="internal"
-                class="- map/topicref "/>
+         audience="internal"
+         class="- map/topicref "/>
       <topicref href="BAT-00-003_revision_history.dita"
-                audience="internal"
-                class="- map/topicref "/>
+         audience="internal"
+         class="- map/topicref "/>
    </topicref>
+   
 </map>

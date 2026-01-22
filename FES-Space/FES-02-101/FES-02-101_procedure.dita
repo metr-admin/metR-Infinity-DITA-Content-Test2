@@ -106,11 +106,11 @@
                               <tgroup cols="2" class="- topic/tgroup ">
                                  <colspec colname="c1" colwidth="30%" class="- topic/colspec "/>
                                  <colspec colname="c2" colwidth="70%" class="- topic/colspec "/>
-                                 <tbody class="- topic/tbody ">
+                                 <thead>
                                     <row class="- topic/row ">
                                        <entry namest="c1" nameend="c2" class="- topic/entry ">
-                                          <p class="- topic/p ">Global Service Desk Contact Information (24-hour
-                                             support for production issues)</p>
+                                          <p class="- topic/p ">Global Service Desk Contact
+                                             Information (24-hour support for production issues)</p>
                                        </entry>
                                     </row>
                                     <row class="- topic/row ">
@@ -120,9 +120,12 @@
                                           </p>
                                        </entry>
                                        <entry class="- topic/entry ">
-                                          <p class="- topic/p ">Inside Space call extension 44444</p>
+                                          <p class="- topic/p ">Inside Space call extension
+                                             44444</p>
                                        </entry>
                                     </row>
+                                 </thead>
+                                 <tbody class="- topic/tbody ">
                                     <row class="- topic/row ">
                                        <entry class="- topic/entry ">
                                           <p class="- topic/p ">Colombia</p>

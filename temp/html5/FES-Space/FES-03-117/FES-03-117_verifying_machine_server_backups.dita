@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\FES-Space/FES-03-117?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/FES-Space/FES-03-117/?><?path2rootmap-uri ./?><?path2project ../../?><?path2project-uri ../../?><dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3"><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\FES-Space\FES-03-117\FES-Space/FES-03-117?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/FES-Space/FES-03-117/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c2095C2E-BB02-11F0-9405-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita">Verifying Machine Server Backups</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita">
+         <created class="- topic/created " date="2025-11-10+05:30" xtrc="created:1;12:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita"/>
+         <revised class="- topic/revised " modified="2025-11-10+05:30" xtrc="revised:1;13:48" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita">
+         <audience class="- topic/audience " otherprops="production,maintenance,engineering,quality,management" type="role" xtrc="audience:1;16:100" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita">metR-fes-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita">machine-server</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita">scs-0237-gr223</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita">backup-utility</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita">system-software</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita">backup-verification</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita">server-validation</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita">data-integrity-check</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita">backup-scheduling</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita">machine-server-maintenance</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita">glass-manufacturing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita">industrial-automation</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita">production-environment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;36:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita">server-reliability</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;37:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita">system-recovery-procedure</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;39:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;40:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita">metR-FES-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;41:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="07-05-2022" name="RevisionDate" xtrc="othermeta:2;21:90" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117.ditamap"/><othermeta class="- topic/othermeta " content="FES-03-117" name="DocumentNumber" xtrc="othermeta:1;20:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117.ditamap"/><othermeta class="- topic/othermeta " content="Verifying Machine Server Backups" name="title" xtrc="othermeta:1;43:78" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita"/>
+         <othermeta class="- topic/othermeta " content="This procedure explains how to verify that Machine Server backups are properly occurring when using SWSet 223 (SCS-0237-GR223) or higher." name="shortdesc" xtrc="othermeta:2;44:187" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;45:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;46:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;47:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;48:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;49:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;50:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita"/>
+         <othermeta class="- topic/othermeta " content="machine-server;backup-system;scs-0237-gr223;data-storage;system-software" name="entities" xtrc="othermeta:9;51:121" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:industrial-engineering;usecase:server-backup-verification;industry:glass-manufacturing" name="taxonomy" xtrc="othermeta:10;52:142" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita"/>
+         <othermeta class="- topic/othermeta " content="backup-verification, machine-server, system-integrity, production-maintenance, swset-223" name="tags" xtrc="othermeta:11;53:133" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita"/>
+         <othermeta class="- topic/othermeta " content="verify-machine-server-backup-process" name="usecase" xtrc="othermeta:12;54:84" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;57:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_verifying_machine_server_backups.dita"/>
+<?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\FES-Space\FES-03-117\FES-Space/FES-03-117?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/FES-Space/FES-03-117/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c208E49D-BB02-11F0-3475-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita">Purpose</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita">
+         <created class="- topic/created " date="2025-11-10+05:30" xtrc="created:1;12:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita"/>
+         <revised class="- topic/revised " modified="2025-11-10+05:30" xtrc="revised:1;13:48" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita">
+         <audience class="- topic/audience " otherprops="production,engineering,quality,maintenance,management" type="role" xtrc="audience:1;16:100" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita">metr-fes-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita">machine-server</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita">production-line-system</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita">backup-utility</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita">system-software</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita">backup-verification</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita">machine-server-validation</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita">system-monitoring</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita">configuration-management</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita">data-consistency-check</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita">glass-manufacturing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita">industrial-engineering</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita">server-backup-process</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;36:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita">production-environment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;37:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita">process-reliability</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;39:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;40:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita">metR-FES-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;41:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Purpose" name="title" xtrc="othermeta:1;43:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="Defines the objective of verifying machine server backups to ensure consistent data protection across production systems." name="shortdesc" xtrc="othermeta:2;44:171" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;45:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;46:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;47:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;48:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;49:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;50:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="machine-server;production-line;backup-system;server-monitoring;system-software" name="entities" xtrc="othermeta:9;51:127" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:industrial-engineering;usecase:define-backup-verification-purpose;industry:glass-manufacturing" name="taxonomy" xtrc="othermeta:10;52:150" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="machine-server, backup-verification, production-systems, process-purpose, fes-space" name="tags" xtrc="othermeta:11;53:128" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="describe-verification-objective" name="usecase" xtrc="othermeta:12;54:79" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;57:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita">
+      <p class="- topic/p " xtrc="p:1;58:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_purpose.dita">This document describes how to verify that Machine Server backups are properly occurring.
+         It assumes that SWSet 223 (SCS-0237-GR223) or greater is being used.</p>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\FES-Space\FES-03-117\FES-Space/FES-03-117?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/FES-Space/FES-03-117/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c20884DA-BB02-11F0-1598-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita">Application</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita">
+         <created class="- topic/created " date="2025-11-10+05:30" xtrc="created:1;12:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita"/>
+         <revised class="- topic/revised " modified="2025-11-10+05:30" xtrc="revised:1;13:48" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita">
+         <audience class="- topic/audience " otherprops="maintenance,engineering,production,quality,it-support" type="role" xtrc="audience:1;16:100" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita">metR-fes-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita">machine-server</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita">backup-agent</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita">restore-utility</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita">logging-service</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita">backup-verification-process</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita">apply-restore-test</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita">log-review</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita">scheduled-backup-check</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita">configuration-validation</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita">production-environment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita">glass-manufacturing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita">system-reliability</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;36:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita">data-protection</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;37:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita">operational-testing</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;39:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;40:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita">metR-FES-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;41:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Application" name="title" xtrc="othermeta:1;43:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita"/>
+         <othermeta class="- topic/othermeta " content="Describes where and how the backup verification steps are applied on machine servers and related applications." name="shortdesc" xtrc="othermeta:2;44:160" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;45:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;46:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;47:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;48:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;49:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;50:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita"/>
+         <othermeta class="- topic/othermeta " content="backup-agent;restore-utility;log-service;machine-server;application-stack" name="entities" xtrc="othermeta:9;51:122" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:industrial-engineering;usecase:apply-backup-verification;industry:glass-manufacturing" name="taxonomy" xtrc="othermeta:10;52:141" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita"/>
+         <othermeta class="- topic/othermeta " content="application, backup-verification, restore-testing, logs, production" name="tags" xtrc="othermeta:11;53:112" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita"/>
+         <othermeta class="- topic/othermeta " content="apply-verification-steps-on-servers-and-applications" name="usecase" xtrc="othermeta:12;54:100" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;57:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita">
+      <p class="- topic/p " xtrc="p:1;58:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_application.dita">This work instruction applies to all Space Plants that have FSC and Space IS Machines.</p>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\FES-Space\FES-03-117\FES-Space/FES-03-117?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/FES-Space/FES-03-117/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c2092C3C-BB02-11F0-1327-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita">Safety</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita">
+         <created class="- topic/created " date="2025-11-10+05:30" xtrc="created:1;12:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita"/>
+         <revised class="- topic/revised " modified="2025-11-10+05:30" xtrc="revised:1;13:48" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita">
+         <audience class="- topic/audience " otherprops="safety,maintenance,engineering,production,quality" type="role" xtrc="audience:1;16:96" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita">metr-fes-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita">machine-server</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita">backup-system</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita">electrical-control-unit</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita">data-storage-system</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita">safety-precautions</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita">backup-procedure</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita">server-inspection</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita">electrical-safety-check</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita">emergency-shutdown</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita">glass-manufacturing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita">machine-operation</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita">industrial-safety</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;36:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita">equipment-handling</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;37:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita">server-maintenance</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;39:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;40:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita">metR-FES-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;41:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Safety" name="title" xtrc="othermeta:1;43:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="Outlines the safety precautions and protective measures to follow while verifying or restoring machine server backups." name="shortdesc" xtrc="othermeta:2;44:168" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;45:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;46:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;47:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;48:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;49:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;50:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="machine-server;backup-system;control-unit;power-supply;operator" name="entities" xtrc="othermeta:9;51:112" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:industrial-engineering;usecase:apply-safety-during-backup-verification;industry:glass-manufacturing" name="taxonomy" xtrc="othermeta:10;52:155" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="safety, backup-verification, server-maintenance, electrical-checks, fes-space" name="tags" xtrc="othermeta:11;53:122" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="apply-safety-guidelines-during-verification" name="usecase" xtrc="othermeta:12;54:91" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;57:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita">
+      <p class="- topic/p " xtrc="p:1;58:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_safety.dita">Follow all plant safety requirements.</p>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\FES-Space\FES-03-117\FES-Space/FES-03-117?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/FES-Space/FES-03-117/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="r208CC81-BB02-11F0-8283-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="reference:1;7:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">Procedure</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:36" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+      <author class="- topic/author " xtrc="author:1;10:39" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">Metapercept</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:45" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+         <created class="- topic/created " date="2025-11-05+05:30" xtrc="created:1;12:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita"/>
+         <revised class="- topic/revised " modified="2025-05-05" xtrc="revised:1;13:67" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+         <audience class="- topic/audience " platform="web" product="metR-FES-Space" type="role" xtrc="audience:1;19:47" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;20:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+            <keyword class="- topic/keyword " xtrc="keyword:1;21:48" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita"/>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;22:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita"/>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;23:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita"/>
+         </keywords>
+         <othermeta class="- topic/othermeta " content="" name="title" xtrc="othermeta:1;25:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="" name="shortdesc" xtrc="othermeta:2;26:77" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita"/>
+      </metadata>
+      <resourceid appid="" appname="" class="- topic/resourceid " id="" ux-source-priority="topic-and-map" xtrc="resourceid:1;32:48" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita"/>
+   </prolog>
+   <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;34:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+      <section class="- topic/section " xtrc="section:1;35:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+         <ol class="- topic/ol " xtrc="ol:1;36:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+            <li class="- topic/li " xtrc="li:1;37:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">On the backup Machine Server, log off the <b class="+ topic/ph hi-d/b " xtrc="b:1;37:109" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">obop</b> account (using the sequence Start-, andgt;Shutdown-, andgt;Log Off).</li>
+            <li class="- topic/li " xtrc="li:2;38:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">Log onto the backup Machine Server using the administrator account (password: <b class="+ topic/ph hi-d/b " xtrc="b:2;38:145" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">scsgolden</b>).</li>
+            <li class="- topic/li " xtrc="li:3;39:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">Right-click the <uicontrol class="+ topic/ph ui-d/uicontrol " xtrc="uicontrol:1;39:99" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">My Computer</uicontrol> icon, and select
+               <b class="+ topic/ph hi-d/b " xtrc="b:3;40:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">explore</b>.</li>
+            <li class="- topic/li " xtrc="li:4;41:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">Navigate to the C:\SpaceApps\Backups\, andlt;server
+               name, andgt;directory, where , andlt;server name, andgt; is the name of the Machine Server backup
+               to be verified.</li>
+            <li class="- topic/li " xtrc="li:5;44:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">In this directory, confirm the presence of a file named <b class="+ topic/ph hi-d/b " xtrc="b:4;44:123" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">backup.zip</b>. It should
+               have the current (today’s) date in the Date Modified column, with a time of
+               approximately 1:00AM (see Figure <xref class="- topic/xref " href="FES-03-117_verifying_machine_server_backups.dita#r208CC81-BB02-11F0-8283-09173F13E4C5/fig_izw_d3z_qzb" xtrc="xref:1;46:138" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita" type="fig"><?ditaot usertext?>1</xref>). <fig class="- topic/fig " id="fig_izw_d3z_qzb" xtrc="fig:1;46:196" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+                  <title class="- topic/title " xtrc="title:2;47:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">Figure 1: Restore Machine Server Utility</title>
+                  <image align="center" class="- topic/image " href="media/image1.jpg" id="image_kzw_d3z_qzb" placement="break" xtrc="image:1;52:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita" dita-ot:image-width="501" dita-ot:image-height="197" dita-ot:horizontal-dpi="96" dita-ot:vertical-dpi="96"/>
+               </fig>
+            </li>
+            <li class="- topic/li " xtrc="li:6;55:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">Double-click the <uicontrol class="+ topic/ph ui-d/uicontrol " xtrc="uicontrol:2;55:100" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">backup.zip</uicontrol> file.</li>
+            <li class="- topic/li " xtrc="li:7;56:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">Open the temp directory in the backup.zip file (see Figure <xref class="- topic/xref " href="FES-03-117_verifying_machine_server_backups.dita#r208CC81-BB02-11F0-8283-09173F13E4C5/fig_kg1_g3z_qzb" xtrc="xref:2;56:185" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita" type="fig"><?ditaot usertext?>2</xref>). <fig class="- topic/fig " id="fig_kg1_g3z_qzb" xtrc="fig:2;56:243" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+                  <title class="- topic/title " xtrc="title:3;57:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">Figure 2: Temp Directory Contents</title>
+                  <image align="center" class="- topic/image " href="media/image2.jpg" id="image_lg1_g3z_qzb" placement="break" xtrc="image:2;62:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita" dita-ot:image-width="566" dita-ot:image-height="289" dita-ot:horizontal-dpi="96" dita-ot:vertical-dpi="96"/>
+               </fig>
+            </li>
+            <li class="- topic/li " xtrc="li:8;65:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">Verify that the following files are present:<ol class="- topic/ol " xtrc="ol:2;65:105" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+                  <li class="- topic/li " xtrc="li:9;66:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:5;67:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">eso1</b> (directory).<ol class="- topic/ol " xtrc="ol:3;67:97" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+                        <li class="- topic/li " xtrc="li:10;68:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">Empty directory</li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:11;73:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+               <b class="+ topic/ph hi-d/b " xtrc="b:6;74:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">eso2</b> (directory).<ol class="- topic/ol " xtrc="ol:4;74:91" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+                  <li class="- topic/li " xtrc="li:12;75:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">Empty directory.</li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:13;78:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+               <b class="+ topic/ph hi-d/b " xtrc="b:7;79:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">esov1</b> (directory).<ol class="- topic/ol " xtrc="ol:5;79:92" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+                  <li class="- topic/li " xtrc="li:14;80:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">Profiles for the ESO.</li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:15;83:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+               <b class="+ topic/ph hi-d/b " xtrc="b:8;84:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">esov2</b> (directory).<ol class="- topic/ol " xtrc="ol:6;84:92" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+                  <li class="- topic/li " xtrc="li:16;85:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">Empty directory.</li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:17;88:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+               <b class="+ topic/ph hi-d/b " xtrc="b:9;89:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">ldr1</b> (directory).<ol class="- topic/ol " xtrc="ol:7;89:91" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+                  <li class="- topic/li " xtrc="li:18;90:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">Profiles for the lehr loader.</li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:19;93:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+               <b class="+ topic/ph hi-d/b " xtrc="b:10;94:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">ldr2</b> (directory).<ol class="- topic/ol " xtrc="ol:8;94:91" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+                  <li class="- topic/li " xtrc="li:20;95:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">Empty directory</li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:21;98:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+               <b class="+ topic/ph hi-d/b " xtrc="b:11;99:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">ndl1</b> (directory).<ol class="- topic/ol " xtrc="ol:9;99:91" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+                  <li class="- topic/li " xtrc="li:22;100:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">Profiles for the needles.</li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:23;103:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+               <b class="+ topic/ph hi-d/b " xtrc="b:12;104:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">ndl2</b> (directory).<ol class="- topic/ol " xtrc="ol:10;104:91" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+                  <li class="- topic/li " xtrc="li:24;105:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">Empty directory.</li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:25;108:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+               <b class="+ topic/ph hi-d/b " xtrc="b:13;109:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">BackupFiles.bat</b>.</li>
+            <li class="- topic/li " xtrc="li:26;110:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+               <b class="+ topic/ph hi-d/b " xtrc="b:14;111:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">BAK.tkn</b>.</li>
+            <li class="- topic/li " xtrc="li:27;112:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+               <b class="+ topic/ph hi-d/b " xtrc="b:15;113:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">CS3.ini</b>.</li>
+            <li class="- topic/li " xtrc="li:28;114:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">CS3_1xx.DAT.<ol class="- topic/ol " xtrc="ol:11;114:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+                  <li class="- topic/li " xtrc="li:29;115:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">The xx indicates the section’s IP address.</li>
+                  <li class="- topic/li " xtrc="li:30;116:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">These files exist for COM-SOC 3 lines only.</li>
+                  <li class="- topic/li " xtrc="li:31;117:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">These are the primary backup for the current running timing on the forming Machine.  They should have a modified time between 12:40AM and 1AM of the current day.</li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:32;120:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">CS3_1xx.BAK.<ol class="- topic/ol " xtrc="ol:12;120:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">
+                  <li class="- topic/li " xtrc="li:33;121:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">The xx indicates the section’s IP address.</li>
+                  <li class="- topic/li " xtrc="li:34;122:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">This files exist for OSI/EICOM lines only.</li>
+                  <li class="- topic/li " xtrc="li:35;123:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">These are the secondary backup for the current running timing on the forming Machine.  They should have a modified time between 12:40AM and 1:00 AM of the current day.</li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:36;126:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">DEVICE.tkn.</li>
+            <li class="- topic/li " xtrc="li:37;127:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_procedure.dita">Machine_Configuration.txt</li>
+         </ol>
+      </section>
+   </refbody>
+</reference><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\FES-Space\FES-03-117\FES-Space/FES-03-117?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/FES-Space/FES-03-117/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c2094436-BB02-11F0-1213-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">SOP Used In</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">
+         <created class="- topic/created " date="2025-11-10+05:30" xtrc="created:1;12:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita"/>
+         <revised class="- topic/revised " modified="2025-11-10+05:30" xtrc="revised:1;13:48" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">
+         <audience class="- topic/audience " otherprops="production,maintenance,quality,engineering,safety" type="role" xtrc="audience:1;16:96" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">metR-fes-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">machine-server</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">standard-operating-procedure</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">backup-process</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">operational-sop</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">sop-application</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">procedure-reference</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">process-integration</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">task-mapping</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">operational-compliance</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">glass-manufacturing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">production-operations</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">maintenance-routines</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;36:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">quality-procedures</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;37:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">safety-procedures</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;39:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;40:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">metR-FES-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;41:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="SOP Used In" name="title" xtrc="othermeta:1;43:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita"/>
+         <othermeta class="- topic/othermeta " content="Lists processes, areas and procedures in which this backup verification SOP is applied within production and maintenance operations." name="shortdesc" xtrc="othermeta:2;44:182" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;45:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;46:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;47:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;48:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;49:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;50:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita"/>
+         <othermeta class="- topic/othermeta " content="sop-list;production-processes;maintenance-procedures;quality-checks;safety-areas" name="entities" xtrc="othermeta:9;51:129" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:industrial-engineering;usecase:map-sop-to-processes;industry:glass-manufacturing" name="taxonomy" xtrc="othermeta:10;52:136" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita"/>
+         <othermeta class="- topic/othermeta " content="sop, used-in, process-mapping, operational-sop, backup-verification" name="tags" xtrc="othermeta:11;53:112" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita"/>
+         <othermeta class="- topic/othermeta " content="identify-sop-application-areas" name="usecase" xtrc="othermeta:12;54:78" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;57:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">
+      <ol class="- topic/ol " xtrc="ol:1;58:31" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">
+         <li class="- topic/li " xtrc="li:1;59:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">SOP-06-004-B Activating a Backup Machine Server</li>
+         <li class="- topic/li " xtrc="li:2;60:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">SOP-16-009 Configuring MDMS Backups</li>
+         <li class="- topic/li " xtrc="li:3;61:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_sop_used_in.dita">SOP-16-010 Manual MDMS Backup</li>
+      </ol>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\FES-Space\FES-03-117\FES-Space/FES-03-117?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/FES-Space/FES-03-117/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c208B463-BB02-11F0-3984-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita">Equipment</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita">
+         <created class="- topic/created " date="2025-11-10+05:30" xtrc="created:1;12:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita"/>
+         <revised class="- topic/revised " modified="2025-11-10+05:30" xtrc="revised:1;13:48" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita">
+         <audience class="- topic/audience " otherprops="maintenance,engineering,production,quality,safety" type="role" xtrc="audience:1;16:96" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita">metr-fes-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita">machine-server</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita">backup-hardware</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita">storage-device</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita">network-interface</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita">equipment-setup</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita">hardware-inspection</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita">backup-validation</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita">system-connection-check</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita">preventive-maintenance</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita">glass-manufacturing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita">industrial-automation</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita">server-backup-procedure</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;36:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita">maintenance-environment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;37:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita">production-operations</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;39:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;40:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita">metR-FES-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;41:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Equipment" name="title" xtrc="othermeta:1;43:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita"/>
+         <othermeta class="- topic/othermeta " content="Lists and describes the tools, hardware, and equipment required to verify machine server backups effectively." name="shortdesc" xtrc="othermeta:2;44:159" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;45:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;46:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;47:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;48:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;49:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;50:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita"/>
+         <othermeta class="- topic/othermeta " content="server-hardware;network-device;storage-unit;backup-tool;machine-console" name="entities" xtrc="othermeta:9;51:120" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:industrial-engineering;usecase:equip-backup-verification;industry:glass-manufacturing" name="taxonomy" xtrc="othermeta:10;52:141" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita"/>
+         <othermeta class="- topic/othermeta " content="equipment, backup-tools, server-maintenance, verification, industrial-hardware" name="tags" xtrc="othermeta:11;53:123" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita"/>
+         <othermeta class="- topic/othermeta " content="identify-required-equipment-for-backup-verification" name="usecase" xtrc="othermeta:12;54:99" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;57:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita">
+      <p class="- topic/p " xtrc="p:1;58:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_equipment.dita">Space Forming Machine Server Backup System</p>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\FES-Space\FES-03-117\FES-Space/FES-03-117?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/FES-Space/FES-03-117/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="r208FC61-BB02-11F0-5180-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="reference:1;7:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">References</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">
+         <created class="- topic/created " date="2025-11-10+05:30" xtrc="created:1;12:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita"/>
+         <revised class="- topic/revised " modified="2025-11-10+05:30" xtrc="revised:1;13:48" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">
+         <audience class="- topic/audience " otherprops="maintenance,engineering,quality,documentation,it-support" type="role" xtrc="audience:1;16:103" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">metR-fes-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">machine-server</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">swset-223</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">scs-0237-gr223</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">backup-utility-manual</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">verification-guidelines</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">restore-procedure-docs</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">operational-standards</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">configuration-references</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">support-guides</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">glass-manufacturing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">industry-standards</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">production-operations</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;36:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">maintenance-procedures</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;37:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">technical-references</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;39:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;40:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">metR-FES-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;41:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="References" name="title" xtrc="othermeta:1;43:56" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita"/>
+         <othermeta class="- topic/othermeta " content="Lists standards, software set references and documentation used to support machine server backup verification (including SWSet 223/SCS-0237-GR223)." name="shortdesc" xtrc="othermeta:2;44:198" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;45:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;46:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;47:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;48:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;49:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;50:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita"/>
+         <othermeta class="- topic/othermeta " content="swset-223;scs-0237-gr223;vendor-manuals;support-docs;knowledge-base" name="entities" xtrc="othermeta:9;51:116" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:industrial-engineering;usecase:reference-materials-for-backup-verification;industry:glass-manufacturing" name="taxonomy" xtrc="othermeta:10;52:159" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita"/>
+         <othermeta class="- topic/othermeta " content="references, swset-223, scs-0237-gr223, manuals, standards" name="tags" xtrc="othermeta:11;53:102" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita"/>
+         <othermeta class="- topic/othermeta " content="provide-supporting-references-and-standards" name="usecase" xtrc="othermeta:12;54:91" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita"/>
+      </metadata>
+   </prolog>
+   <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;57:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">
+      <section class="- topic/section " id="section_x22_1jz_qzb" xtrc="section:1;58:66" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">
+         <title class="- topic/title " xtrc="title:2;59:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">Document Classification</title>
+         <ul class="- topic/ul " id="ul_gyx_1jz_qzb" xtrc="ul:1;60:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">
+            <li class="- topic/li " xtrc="li:1;61:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">Asset Protection and Stability</li>
+            <li class="- topic/li " xtrc="li:2;62:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_references.dita">Organization and Training</li>
+         </ul>
+      </section>
+   </refbody>
+</reference><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\FES-Space\FES-03-117\FES-Space/FES-03-117?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/FES-Space/FES-03-117/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept audience="internal" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c2089C3F-BB02-11F0-1737-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;8:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+   <title class="- topic/title " xtrc="title:1;9:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">Collaboration</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;10:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+      <author class="- topic/author " xtrc="author:1;11:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;12:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+         <created class="- topic/created " date="2025-11-10+05:30" xtrc="created:1;13:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita"/>
+         <revised class="- topic/revised " modified="2025-11-10+05:30" xtrc="revised:1;14:48" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;16:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+         <audience class="- topic/audience " otherprops="production,maintenance,engineering,quality,management" type="role" xtrc="audience:1;17:100" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;18:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">metR-fes-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">machine-server</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">backup-system</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">support-tools</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">monitoring-console</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">cross-team-collaboration</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">escalation-procedure</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">handover-process</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">incident-communication</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">backup-coordination</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">glass-manufacturing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">production-operations</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;36:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">maintenance-window</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;37:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">service-level-agreement</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;38:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">operational-governance</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;40:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;41:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">metR-FES-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;42:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Collaboration" name="title" xtrc="othermeta:1;44:59" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita"/>
+         <othermeta class="- topic/othermeta " content="Defines roles, responsibilities and handover steps for teams to coordinate machine server backup verification." name="shortdesc" xtrc="othermeta:2;45:160" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;46:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;47:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;48:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;49:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;50:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;51:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita"/>
+         <othermeta class="- topic/othermeta " content="production-team;maintenance-team;it-support;escalation-matrix;backup-system" name="entities" xtrc="othermeta:9;52:124" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:industrial-engineering;usecase:team-collaboration-for-backup-verification;industry:glass-manufacturing" name="taxonomy" xtrc="othermeta:10;53:158" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita"/>
+         <othermeta class="- topic/othermeta " content="collaboration, handover, escalation, backup-coordination, roles" name="tags" xtrc="othermeta:11;54:108" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita"/>
+         <othermeta class="- topic/othermeta " content="coordinate-teams-for-backup-verification" name="usecase" xtrc="othermeta:12;55:88" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;58:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+      <p class="- topic/p " xtrc="p:1;59:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+         <simpletable class="- topic/simpletable " id="table_fcv_djz_qzb" relcolwidth="1* 1* 1*" xtrc="simpletable:1;62:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+            <strow class="- topic/strow " xtrc="strow:1;63:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:1;64:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+                  <p class="- topic/p " xtrc="p:2;65:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:1;66:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">Country Group</b>
+                  </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:2;69:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+                  <p class="- topic/p " xtrc="p:3;70:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:2;71:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">Role</b>
+                  </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:3;74:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+                  <p class="- topic/p " xtrc="p:4;75:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:3;76:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">Name</b>
+                  </p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:2;80:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:4;81:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+                  <p class="- topic/p " xtrc="p:5;82:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">Americas North</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:5;84:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+                  <p class="- topic/p " xtrc="p:6;85:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">Forming Electronics Specialist</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:6;87:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+                  <p class="- topic/p " xtrc="p:7;88:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">Dan Knuckles</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:3;91:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:7;92:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+                  <p class="- topic/p " xtrc="p:8;93:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">Europe</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:8;95:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+                  <p class="- topic/p " xtrc="p:9;96:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">Forming Electronics Leader</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:9;98:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+                  <p class="- topic/p " xtrc="p:10;99:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">Remko Beckers</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:4;102:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:10;103:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+                  <p class="- topic/p " xtrc="p:11;104:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">Central Europe</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:11;106:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+                  <p class="- topic/p " xtrc="p:12;107:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">Regional Leader Forming Electronics</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:12;109:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+                  <p class="- topic/p " xtrc="p:13;110:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">Ruud Bormans</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:5;113:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:13;114:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+                  <p class="- topic/p " xtrc="p:14;115:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">France - Spain</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:14;117:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+                  <p class="- topic/p " xtrc="p:15;118:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">Jean-Pierre Locato</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:15;120:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+                  <p class="- topic/p " xtrc="p:16;121:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">Jean-Pierre Locato</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:6;124:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:16;125:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+                  <p class="- topic/p " xtrc="p:17;126:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">Latin America</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:17;128:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+                  <p class="- topic/p " xtrc="p:18;129:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">IS Machine Leader</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:18;131:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+                  <p class="- topic/p " xtrc="p:19;132:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">Miguel Morales</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:7;135:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:19;136:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+                  <p class="- topic/p " xtrc="p:20;137:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">Engineering - Forming</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:20;139:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+                  <p class="- topic/p " xtrc="p:21;140:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">Associate Engineer</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:21;142:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+                  <p class="- topic/p " xtrc="p:22;143:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">Jose Gonzalez</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:8;146:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:22;147:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+                  <p class="- topic/p " xtrc="p:23;148:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">Global</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:23;150:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+                  <p class="- topic/p " xtrc="p:24;151:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">Global Forming Electronics Leader</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:24;153:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">
+                  <p class="- topic/p " xtrc="p:25;154:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_collaboration.dita">Franklin Barrios</p>
+               </stentry>
+            </strow>
+         </simpletable>
+      </p>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\FES-Space\FES-03-117\FES-Space/FES-03-117?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/FES-Space/FES-03-117/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept audience="internal" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c2091437-BB02-11F0-3444-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;8:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">
+   <title class="- topic/title " xtrc="title:1;9:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">Revision History</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;10:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">
+      <author class="- topic/author " xtrc="author:1;11:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;12:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">
+         <created class="- topic/created " date="2025-11-10+05:30" xtrc="created:1;13:44" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita"/>
+         <revised class="- topic/revised " modified="2025-11-10+05:30" xtrc="revised:1;14:48" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;16:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">
+         <audience class="- topic/audience " otherprops="documentation,quality,management,engineering" type="role" xtrc="audience:1;17:91" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;18:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">metR-fes-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">machine-server</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">document-history</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">change-log</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">version-record</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">revision-tracking</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">change-management</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">document-approval</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">release-notes</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">update-procedure</indexterm>
+            
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">glass-manufacturing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">operational-governance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;36:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">quality-assurance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;37:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">compliance-record</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;38:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">archive-management</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;40:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;41:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">metR-FES-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;42:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Revision History" name="title" xtrc="othermeta:1;44:62" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="Records changes, version updates and approval details for the backup verification procedure documentation." name="shortdesc" xtrc="othermeta:2;45:156" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;46:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;47:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;48:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;49:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;50:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;51:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="revision-entries;approver;version-id;change-summary;approval-date" name="entities" xtrc="othermeta:9;52:114" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:industrial-engineering;usecase:document-revision-tracking;industry:glass-manufacturing" name="taxonomy" xtrc="othermeta:10;53:142" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="revision-history, versioning, approvals, change-log, document-control" name="tags" xtrc="othermeta:11;54:114" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="track-document-changes-and-approvals" name="usecase" xtrc="othermeta:12;55:84" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;58:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">
+      <p class="- topic/p " xtrc="p:1;59:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">
+         <simpletable class="- topic/simpletable " id="table_g43_gjz_qzb" relcolwidth="1* 1*" xtrc="simpletable:1;62:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">
+            <strow class="- topic/strow " xtrc="strow:1;63:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:1;64:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">2016-12-01</stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:2;65:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">
+                  <p class="- topic/p " xtrc="p:2;66:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">Originally Released as Process Control SOP-16-008</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:2;69:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:3;70:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">2022-07-05</stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:4;71:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">
+                  <p class="- topic/p " xtrc="p:3;72:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">Approved by Franklin Barrios, Global Leader FES Network</p>
+                  <p class="- topic/p " xtrc="p:4;73:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/FES-Space/FES-03-117/FES-03-117_revision_history.dita">Moved to GMF Site as FES-03-117</p>
+               </stentry>
+            </strow>
+         </simpletable>
+      </p>
+   </conbody>
+</concept></concept></dita>

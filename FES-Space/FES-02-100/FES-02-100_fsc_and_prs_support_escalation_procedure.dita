@@ -35,8 +35,8 @@
             <prodname>metR-FES-Space</prodname>
             <platform>web</platform>
          </prodinfo>
-         <othermeta name="title" content="FES-02-100 — FSC and PRS Support Escalation Procedure"/>
-         <othermeta name="shortdesc" content="Detailed FSC ↔ PRS escalation procedure including criteria, escalation paths, responsibilities, and SLAs."/>
+         <othermeta name="title" content="FES-02-100 - FSC and PRS Support Escalation Procedure"/>
+         <othermeta name="shortdesc" content="Detailed FSC - PRS escalation procedure including criteria, escalation paths, responsibilities, and SLAs."/>
          <othermeta name="language" content="en-GB"/>
          <othermeta name="version" content="1.0.0"/>
          <othermeta name="docStage" content="approved"/>

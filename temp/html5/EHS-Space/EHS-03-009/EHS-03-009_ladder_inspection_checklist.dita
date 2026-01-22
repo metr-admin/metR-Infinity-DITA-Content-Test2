@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space/EHS-03-009?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-03-009/?><?path2rootmap-uri ./?><?path2project ../../?><?path2project-uri ../../?><dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3"><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-03-009\EHS-Space/EHS-03-009?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-03-009/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1E5F22A-BB01-11F0-7471-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita">Ladder Inspection Checklist</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita">
+         <created class="- topic/created " date="2025-12-02T18:00:00+05:30" xtrc="created:1;12:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T18:00:00+05:30" xtrc="revised:1;13:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita">
+         <audience class="- topic/audience " otherprops="maintenance-personnel,machine-operators,safety-and-compliance-officers,plant-supervisors,industrial-engineers" type="role" xtrc="audience:1;16:156" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita">ladder-inspection-checklist</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita">inspection-form-template</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita">mobile-inspection-tool</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita">inspection-kpi-dashboard</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita">inspection-logbook</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita">pre-use-check</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita">periodic-inspection</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita">defect-tagging</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita">condition-assessment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita">corrective-action-logging</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita">work-at-height-safety</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita">plant-maintenance-procedures</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita">mro-inspection-practices</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita">operator-preflight-check</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita">regulatory-inspection-standards</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;37:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;38:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="04-20-2016" name="RevisionDate" xtrc="othermeta:2;21:90" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009.ditamap"/><othermeta class="- topic/othermeta " content="EHS-03-009" name="DocumentNumber" xtrc="othermeta:1;20:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009.ditamap"/><othermeta class="- topic/othermeta " content="Ladder inspection checklist" name="title" xtrc="othermeta:1;41:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita"/>
+         <othermeta class="- topic/othermeta " content="A structured checklist for pre-use and periodic ladder inspections including defect identification and corrective action logging." name="shortdesc" xtrc="othermeta:2;42:179" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;43:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;44:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;45:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;46:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;47:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;48:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita"/>
+         <othermeta class="- topic/othermeta " content="ladders;inspection-items;tagout-labels;defect-tags;corrective-work-orders" name="entities" xtrc="othermeta:9;49:122" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs/usecase:inspection-and-maintenance/industry:glass manufacturing heavy machinery and industrial equipment" name="taxonomy" xtrc="othermeta:10;50:164" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita"/>
+         <othermeta class="- topic/othermeta " content="inspection,checklist,ladder,maintenance" name="tags" xtrc="othermeta:11;51:84" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita"/>
+         <othermeta class="- topic/othermeta " content="perform-pre-use-and-periodic-ladder-inspections" name="usecase" xtrc="othermeta:12;52:95" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita"/>
+      </metadata>
+   </prolog>
+   
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;56:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_ladder_inspection_checklist.dita"/>
+<?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-03-009\EHS-Space/EHS-03-009?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-03-009/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1E60CC1-BB01-11F0-7116-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">Purpose and Application</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">
+         <created class="- topic/created " date="2025-12-02T18:00:00+05:30" xtrc="created:1;12:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T18:00:00+05:30" xtrc="revised:1;13:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">
+         <audience class="- topic/audience " otherprops="plant-management,safety-and-compliance-officers,industrial-engineers,operations-teams,maintenance-personnel" type="role" xtrc="audience:1;16:154" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">ehs-policy-document</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">ladder-safety-guideline</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">operational-safety-framework</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">procedure-template</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">ehs-governance-tool</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">purpose-and-application</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">scope-definition</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">role-responsibility-matrix</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">implementation-guidance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">exception-management</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">glass-manufacturing-operations</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">heavy-equipment-safety</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">plant-mro-practices</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">workforce-safety-expectations</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">leadership-accountability-framework</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;37:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;38:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Purpose and application" name="title" xtrc="othermeta:1;41:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita"/>
+         <othermeta class="- topic/othermeta " content="Explains the purpose, scope and intended audience of the ladder inspection procedure and how it applies across plant operations." name="shortdesc" xtrc="othermeta:2;42:178" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;43:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;44:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;45:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;46:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;47:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;48:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita"/>
+         <othermeta class="- topic/othermeta " content="procedures;scope-statements;responsibility-roles;work-areas;inspection-criteria" name="entities" xtrc="othermeta:9;49:128" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs/usecase:policy-and-scope/industry:glass manufacturing heavy machinery and industrial equipment" name="taxonomy" xtrc="othermeta:10;50:154" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita"/>
+         <othermeta class="- topic/othermeta " content="purpose,scope,application,roles" name="tags" xtrc="othermeta:11;51:76" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita"/>
+         <othermeta class="- topic/othermeta " content="define-purpose-and-scope-for-ladder-inspections" name="usecase" xtrc="othermeta:12;52:95" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita"/>
+      </metadata>
+   </prolog>
+   
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;56:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">
+      <section class="- topic/section " id="section_ed4_zpv_pzb" xtrc="section:1;57:66" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">
+         <title class="- topic/title " xtrc="title:2;58:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">Purpose</title>
+         <p class="- topic/p " xtrc="p:1;59:32" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">To define a work instruction for the inspection of portable and fixed ladders on a
+            semi-annual basis.</p>
+         <p class="- topic/p " xtrc="p:2;61:32" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">On a semi-annual basis all ladders (portable and fixed) shall be inspected by a
+            qualified person, ladder user, or designated/authorized person.</p>
+      </section>
+      <section class="- topic/section " id="section_xsx_1qv_pzb" xtrc="section:2;64:66" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">
+         <title class="- topic/title " xtrc="title:3;65:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">Application</title>
+         <p class="- topic/p " xtrc="p:3;66:32" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_purpose_and_application.dita">This procedure applies to all Space employees, contractors and visitors, and all
+            operations including manufacturing facilities, laboratories, R&amp;D facilities,
+            technical centers, offices, and administrative buildings where ladders and portable
+            stairs are used.</p>
+      </section>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-03-009\EHS-Space/EHS-03-009?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-03-009/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1E65381-BB01-11F0-1628-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">Safety</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">
+         <created class="- topic/created " date="2025-12-02T18:00:00+05:30" xtrc="created:1;12:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T18:00:00+05:30" xtrc="revised:1;13:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">
+         <audience class="- topic/audience " otherprops="machine-operators,maintenance-personnel,safety-and-compliance-officers,plant-management,health-officers" type="role" xtrc="audience:1;16:150" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">ehs-safety-guideline</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">personal-protective-equipment-guide</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">fall-protection-procedures</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">hazard-assessment-tool</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">safe-work-practice</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">risk-assessment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">hazard-identification</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">incident-reporting</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">control-measures</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">emergency-response</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">work-at-height-risk</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">plant-safety-standards</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">maintenance-safety-practices</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">occupational-health</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">zero-incident-initiative</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;37:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;38:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Safety" name="title" xtrc="othermeta:1;41:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="Safety requirements, PPE, risk controls and emergency response measures for ladder use and related maintenance tasks." name="shortdesc" xtrc="othermeta:2;42:167" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;43:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;44:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;45:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;46:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;47:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;48:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="ppe;ladders;hazard-controls;emergency-equipment;first-aid-kits" name="entities" xtrc="othermeta:9;49:111" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs/usecase:safety-controls-and-ppe/industry:glass manufacturing heavy machinery and industrial equipment" name="taxonomy" xtrc="othermeta:10;50:161" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="safety,ppe,risk-control,emergency" name="tags" xtrc="othermeta:11;51:78" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita"/>
+         <othermeta class="- topic/othermeta " content="specify-safety-requirements-and-controls" name="usecase" xtrc="othermeta:12;52:88" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita"/>
+      </metadata>
+   </prolog>
+   
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;56:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">
+      <p class="- topic/p " xtrc="p:1;57:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">Observe Space standard safety requirements and procedures defined by the Global Environmental
+         Health &amp; Safety (EH&amp;S) organization, as well as all applicable local, regional, and
+         national requirements. Safety equipment and instructions specific to the completion of this
+         work instruction are detailed in the <xref class="- topic/xref " href="EHS-03-009_ladder_inspection_checklist.dita#r1E5D7D0-BB01-11F0-1124-09173F13E4C5" xtrc="xref:1;60:111" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita" type="reference"><?ditaot usertext?>Instructions</xref> Section.<simpletable class="- topic/simpletable " id="simpletable_v3l_qqv_pzb" relcolwidth="1* 1* 1* 1* 1*" xtrc="simpletable:1;62:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">
+            <strow class="- topic/strow " xtrc="strow:1;63:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:1;64:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">
+                  <p class="- topic/p " xtrc="p:2;65:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">
+                     <fig class="- topic/fig " id="fig_w3l_qqv_pzb" xtrc="fig:1;66:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">
+                        <title class="- topic/title " xtrc="title:2;67:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">Danger</title>
+                        <image align="center" class="- topic/image " href="media/image1.jpg" id="image_x3l_qqv_pzb" placement="break" xtrc="image:1;72:56" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita" dita-ot:image-width="160" dita-ot:image-height="139" dita-ot:horizontal-dpi="96" dita-ot:vertical-dpi="96"/>
+                     </fig>
+                  </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:2;76:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">
+                  <p class="- topic/p " xtrc="p:3;77:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">
+                     <fig class="- topic/fig " id="fig_y3l_qqv_pzb" xtrc="fig:2;78:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">
+                        <title class="- topic/title " xtrc="title:3;79:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">Slip</title>
+                        <image align="center" class="- topic/image " href="media/image2.jpg" id="image_z3l_qqv_pzb" placement="break" xtrc="image:2;84:56" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita" dita-ot:image-width="146" dita-ot:image-height="146" dita-ot:horizontal-dpi="220" dita-ot:vertical-dpi="220"/>
+                     </fig>
+                  </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:3;88:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">
+                  <p class="- topic/p " xtrc="p:4;89:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">
+                     <fig class="- topic/fig " id="fig_ajl_qqv_pzb" xtrc="fig:3;90:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">
+                        <title class="- topic/title " xtrc="title:4;91:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">Trip</title>
+                        <image align="center" class="- topic/image " href="media/image3.jpg" id="image_bjl_qqv_pzb" placement="break" xtrc="image:3;96:56" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita" dita-ot:image-width="147" dita-ot:image-height="147" dita-ot:horizontal-dpi="220" dita-ot:vertical-dpi="220"/>
+                     </fig>
+                  </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:4;100:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">
+                  <p class="- topic/p " xtrc="p:5;101:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">
+                     <fig class="- topic/fig " id="fig_cjl_qqv_pzb" xtrc="fig:4;102:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">
+                        <title class="- topic/title " xtrc="title:5;103:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">Drop</title>
+                        <image align="center" class="- topic/image " href="media/image4.jpg" id="image_djl_qqv_pzb" placement="break" xtrc="image:4;108:56" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita" dita-ot:image-width="147" dita-ot:image-height="147" dita-ot:horizontal-dpi="220" dita-ot:vertical-dpi="220"/>
+                     </fig>
+                  </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:5;112:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">
+                  <p class="- topic/p " xtrc="p:6;113:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">
+                     <fig class="- topic/fig " id="fig_ejl_qqv_pzb" xtrc="fig:5;114:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">
+                        <title class="- topic/title " xtrc="title:6;115:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita">Bump Hazard</title>
+                        <image align="center" class="- topic/image " href="media/image5.jpg" id="image_fjl_qqv_pzb" placement="break" xtrc="image:5;120:56" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_safety.dita" dita-ot:image-width="147" dita-ot:image-height="147" dita-ot:horizontal-dpi="220" dita-ot:vertical-dpi="220"/>
+                     </fig>
+                  </p>
+               </stentry>
+            </strow>
+         </simpletable>
+      </p>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-03-009\EHS-Space/EHS-03-009?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-03-009/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="r1E5D7D0-BB01-11F0-1124-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="reference:1;7:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Instructions</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+         <created class="- topic/created " date="2025-12-02T18:00:00+05:30" xtrc="created:1;12:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T18:00:00+05:30" xtrc="revised:1;13:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+         <audience class="- topic/audience " otherprops="machine-operators,maintenance-personnel,safety-and-compliance-officers,supervisors,industrial-engineers" type="role" xtrc="audience:1;16:150" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">inspection-instructions</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">work-at-height-procedure</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">mobile-inspection-guidance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">maintenance-workflow</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">ehs-operational-checklist</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">step-by-step-instructions</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">pre-use-inspection</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">safe-use-procedures</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">defect-reporting</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">escalation-procedure</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">plant-floor-operations</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">equipment-maintenance-routine</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">worker-safety-practices</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">mro-operational-guidance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">incident-prevention</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;37:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;38:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Instructions" name="title" xtrc="othermeta:1;41:58" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita"/>
+         <othermeta class="- topic/othermeta " content="Detailed stepwise instructions for performing ladder inspections, identifying defects and initiating corrective actions." name="shortdesc" xtrc="othermeta:2;42:170" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;43:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;44:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;45:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;46:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;47:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;48:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita"/>
+         <othermeta class="- topic/othermeta " content="inspection-steps;defect-categories;report-forms;work-permit;corrective-actions" name="entities" xtrc="othermeta:9;49:127" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs/usecase:operational-instructions/industry:glass manufacturing heavy machinery and industrial equipment" name="taxonomy" xtrc="othermeta:10;50:162" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita"/>
+         <othermeta class="- topic/othermeta " content="instructions,steps,defects,reporting" name="tags" xtrc="othermeta:11;51:81" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita"/>
+         <othermeta class="- topic/othermeta " content="guide-operators-and-maintainers-through-inspection-steps" name="usecase" xtrc="othermeta:12;52:104" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita"/>
+      </metadata>
+   </prolog>
+   
+   <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;56:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+      <section class="- topic/section " xtrc="section:1;57:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+         <ol class="- topic/ol " xtrc="ol:1;58:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+            <li class="- topic/li " xtrc="li:1;59:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">The following visual checks shall be made on portable and fixed ladders:<ol class="- topic/ol " xtrc="ol:2;59:133" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+                  <li class="- topic/li " xtrc="li:2;60:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Inspect each portable and fixed ladder for the following:<ol class="- topic/ol " xtrc="ol:3;60:124" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+                        <li class="- topic/li " xtrc="li:3;61:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Broken or loose members.</li>
+                        <li class="- topic/li " xtrc="li:4;62:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">All joints between steps and side rails are tight. </li>
+                        <li class="- topic/li " xtrc="li:5;63:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">All hardware and fittings securely attached.</li>
+                        <li class="- topic/li " xtrc="li:6;64:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">All moveable parts operate freely without binding or undue play.</li>
+                        <li class="- topic/li " xtrc="li:7;65:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Side rail dents, bends or excessively dented rungs.</li>
+                        <li class="- topic/li " xtrc="li:8;66:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Fiberglass ladders shall be check for splinters and cracks.</li>
+                        <li class="- topic/li " xtrc="li:9;67:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Other faults. <fig class="- topic/fig " xtrc="fig:1;67:89" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+                              <image align="center" class="- topic/image " href="media/image6.jpg" placement="break" xtrc="image:1;71:62" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita" dita-ot:image-width="241" dita-ot:image-height="160" dita-ot:horizontal-dpi="96" dita-ot:vertical-dpi="96"/>
+                           </fig>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:10;76:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Check that all rivets are in good condition:
+            <ol class="- topic/ol " xtrc="ol:4;77:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+                        <li class="- topic/li " xtrc="li:11;78:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Free from rust.</li>
+                        <li class="- topic/li " xtrc="li:12;79:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Not loose.</li>
+                        <li class="- topic/li " xtrc="li:13;80:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Check for missing rivet heads.</li>
+                        <li class="- topic/li " xtrc="li:14;81:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">All shafts are intact.
+                  <ol class="- topic/ol " xtrc="ol:5;82:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+                              <li class="- topic/li " xtrc="li:15;83:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+                                 <i class="+ topic/ph hi-d/i " xtrc="i:1;84:64" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">The image in the right hand column shows an intact rivet head but the shaft has cut through.
+                                    </i>
+                                 <fig class="- topic/fig " id="fig_jsc_xqv_pzb" xtrc="fig:2;86:81" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+                                    <image align="center" class="- topic/image " href="media/image15.jpg" id="image_ksc_xqv_pzb" placement="break" xtrc="image:2;91:68" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita" dita-ot:image-width="218" dita-ot:image-height="158" dita-ot:horizontal-dpi="96" dita-ot:vertical-dpi="96"/>
+                                 </fig>
+                              </li>
+                           </ol>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:16;98:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Non-slip feet are present and not cracked. <fig class="- topic/fig " xtrc="fig:3;98:112" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+                        <image align="center" class="- topic/image " href="media/image7.jpg" placement="break" xtrc="image:3;102:56" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita" dita-ot:image-width="260" dita-ot:image-height="138" dita-ot:horizontal-dpi="96" dita-ot:vertical-dpi="96"/>
+                     </fig>
+                  </li>
+                  <li class="- topic/li " xtrc="li:17;105:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Check that all rungs are unpainted and free of grease and oil.
+            <ol class="- topic/ol " xtrc="ol:6;106:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+                        <li class="- topic/li " xtrc="li:18;107:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Paint or other coatings on ladders may prevent defects from being visible during inspection.</li>
+                        <li class="- topic/li " xtrc="li:19;108:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Steps, rungs, cleats, broken side rails and all other sections of the ladder shall be kept free of dirt, grease and oil.</li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:20;111:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Rungs spaced one foot apart.
+            <ol class="- topic/ol " xtrc="ol:7;112:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+                        <li class="- topic/li " xtrc="li:21;113:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">All rungs shall have a minimum diameter of three-fourths inch for metal ladders.</li>
+                        <li class="- topic/li " xtrc="li:22;114:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">The distance between rungs, cleats, and steps shall not exceed 300 mm (12 inch)
+                           and shall be uniform throughout the length of the ladder. <fig class="- topic/fig " xtrc="fig:4;115:112" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+                              <image align="center" class="- topic/image " href="media/image8.jpg" placement="break" xtrc="image:4;119:62" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita" dita-ot:image-width="99" dita-ot:image-height="130" dita-ot:horizontal-dpi="96" dita-ot:vertical-dpi="96"/>
+                           </fig>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:23;124:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Side rails a minimum of 300 mm (12 inch). <fig class="- topic/fig " xtrc="fig:5;124:111" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+                        <image align="center" class="- topic/image " href="media/image9.jpg" placement="break" xtrc="image:5;128:56" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita" dita-ot:image-width="96" dita-ot:image-height="127" dita-ot:horizontal-dpi="96" dita-ot:vertical-dpi="96"/>
+                     </fig>
+                  </li>
+                  <li class="- topic/li " xtrc="li:24;131:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Extension ladder rope in good condition and have all of the following:
+            <ol class="- topic/ol " xtrc="ol:8;132:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+                        <li class="- topic/li " xtrc="li:25;133:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Polymer end caps</li>
+                        <li class="- topic/li " xtrc="li:26;134:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">External guides at top of base section</li>
+                        <li class="- topic/li " xtrc="li:27;135:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Heavy duty pulley and rope</li>
+                        <li class="- topic/li " xtrc="li:28;136:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Full length interlocking side rails</li>
+                        <li class="- topic/li " xtrc="li:29;137:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Slip-resistant D-rungs</li>
+                        <li class="- topic/li " xtrc="li:30;138:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Aluminum locks</li>
+                        <li class="- topic/li " xtrc="li:31;139:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Heavy cast aluminum shoe assembly</li>
+                        <li class="- topic/li " xtrc="li:32;140:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Rope meets manufacturer’s spec <fig class="- topic/fig " xtrc="fig:6;140:106" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+                              <image align="center" class="- topic/image " href="media/image10.jpg" placement="break" xtrc="image:6;144:62" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita" dita-ot:image-width="189" dita-ot:image-height="322" dita-ot:horizontal-dpi="96" dita-ot:vertical-dpi="96"/>
+                           </fig>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:33;149:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Extension ladders not separated
+            <ol class="- topic/ol " xtrc="ol:9;150:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+                        <li class="- topic/li " xtrc="li:34;151:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Tie-Off</li>
+                        <li class="- topic/li " xtrc="li:35;152:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Fly (Upper Section)</li>
+                        <li class="- topic/li " xtrc="li:36;153:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Extension Lock</li>
+                        <li class="- topic/li " xtrc="li:37;154:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Base (Lower Section)</li>
+                        <li class="- topic/li " xtrc="li:38;155:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Non-Slip Feet <fig class="- topic/fig " xtrc="fig:7;155:89" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+                              <image align="center" class="- topic/image " href="media/image11.jpg" placement="break" xtrc="image:7;159:62" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita" dita-ot:image-width="145" dita-ot:image-height="280" dita-ot:horizontal-dpi="96" dita-ot:vertical-dpi="96"/>
+                           </fig>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:39;164:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Spreader arms not bent or broken
+            <ol class="- topic/ol " xtrc="ol:10;165:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+                        <li class="- topic/li " xtrc="li:40;166:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">A metal spreader or locking device of sufficient size and strength to securely
+                           hold the front and back sections in the open position shall be a
+                           component of each stepladder. The spreader shall have all sharp points or
+                           edges covered or removed to protect the user. <fig class="- topic/fig " xtrc="fig:8;169:100" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+                              <image align="center" class="- topic/image " href="media/image12.jpg" placement="break" xtrc="image:8;173:62" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita" dita-ot:image-width="182" dita-ot:image-height="156" dita-ot:horizontal-dpi="96" dita-ot:vertical-dpi="96"/>
+                           </fig>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:41;178:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Maximum length of ladder (measured by side rail) shall not be more than:
+            <ol class="- topic/ol " xtrc="ol:11;179:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+                        <li class="- topic/li " xtrc="li:42;180:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Step ladder – 20’</li>
+                        <li class="- topic/li " xtrc="li:43;181:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Single ladder – 30’ </li>
+                        <li class="- topic/li " xtrc="li:44;182:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Extension ladder (2-piece) – 50’</li>
+                        <li class="- topic/li " xtrc="li:45;183:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Extension ladder (3+ pieces) – 60’</li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:46;186:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Fixed ladders are secured to the structure
+            <ol class="- topic/ol " xtrc="ol:12;187:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+                        <li class="- topic/li " xtrc="li:47;188:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">The preferred pitch of fixed ladders shall fall within the range of 75 degrees and 90 degrees with the horizontal.</li>
+                        <li class="- topic/li " xtrc="li:48;189:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Fixed ladders shall be considered as substandard if they are installed within the substandard pitch range of 60 and 75 degrees with the horizontal. Substandard fixed ladders are permitted only where it is found necessary to meet conditions of installation.</li>
+                        <li class="- topic/li " xtrc="li:49;190:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Ladders having a pitch in excess of 90 degrees with the horizontal are
+                           prohibited. <fig class="- topic/fig " xtrc="fig:9;191:66" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+                              <image align="center" class="- topic/image " href="media/image13.jpg" placement="break" xtrc="image:9;195:62" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita" dita-ot:image-width="132" dita-ot:image-height="153" dita-ot:horizontal-dpi="96" dita-ot:vertical-dpi="96"/>
+                           </fig>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:50;200:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Cages are undamaged on fixed ladders requiring them
+            <ol class="- topic/ol " xtrc="ol:13;201:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+                        <li class="- topic/li " xtrc="li:51;202:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Cages shall be provided on ladders of more than 6 meters (20 feet) to a maximum unbroken length of 9 meters (30 feet).</li>
+                        <li class="- topic/li " xtrc="li:52;203:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Cages shall extend a minimum of 1 meter (42 inches) above the top of the landing, unless other acceptable protection is provided.</li>
+                        <li class="- topic/li " xtrc="li:53;204:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Cages shall extend down the ladder to a point not less than 2 meters (7 feet) nor more than 2.5 meters (8 feet) above the base of the ladder, with bottom flared not less than 100 mm (4 inches), or portion of cage opposite ladder shall be carried to the base.</li>
+                        <li class="- topic/li " xtrc="li:54;205:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Cages shall not be less than 690 mm (27 inches) in width.</li>
+                        <li class="- topic/li " xtrc="li:55;206:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Insides of cage are clear of projections.</li>
+                        <li class="- topic/li " xtrc="li:56;207:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">Vertical bars are located at a maximum spacing of 40 degrees around the
+                           circumference of the cage. <fig class="- topic/fig " xtrc="fig:10;208:81" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita">
+                              <image align="center" class="- topic/image " href="media/image14.jpg" placement="break" xtrc="image:10;212:62" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_instructions.dita" dita-ot:image-width="243" dita-ot:image-height="287" dita-ot:horizontal-dpi="96" dita-ot:vertical-dpi="96"/>
+                           </fig>
+                        </li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+      </section>
+   </refbody>
+</reference><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-03-009\EHS-Space/EHS-03-009?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-03-009/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1E62477-BB01-11F0-1542-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita">Required Training</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita">
+         <created class="- topic/created " date="2025-12-02T18:00:00+05:30" xtrc="created:1;12:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T18:00:00+05:30" xtrc="revised:1;13:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita">
+         <audience class="- topic/audience " otherprops="machine-operators,maintenance-personnel,safety-and-compliance-officers,plant-management,training-coordinators" type="role" xtrc="audience:1;16:156" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita">metr-training-module</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita">ehs-learning-management</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita">ladder-safety-course</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita">skill-certification-tool</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita">training-records-system</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita">required-training</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita">competency-assessment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita">training-enrolment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita">refresher-training</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita">training-compliance-tracking</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita">glass-plant-workforce-training</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita">mro-skill-development</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita">operational-safety-skills</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita">zero-incident-learning</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita">regulatory-training-requirements</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;37:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;38:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Required training" name="title" xtrc="othermeta:1;41:63" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita"/>
+         <othermeta class="- topic/othermeta " content="Lists mandatory training and competency requirements for personnel performing ladder inspections and related EHS activities." name="shortdesc" xtrc="othermeta:2;42:174" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;43:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;44:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;45:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;46:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;47:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;48:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita"/>
+         <othermeta class="- topic/othermeta " content="training-courses;certificates;training-records;competency-matrices;instructors" name="entities" xtrc="othermeta:9;49:127" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs/usecase:training-and-competency/industry:glass manufacturing heavy machinery and industrial equipment" name="taxonomy" xtrc="othermeta:10;50:161" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita"/>
+         <othermeta class="- topic/othermeta " content="training,competency,certification,refresher" name="tags" xtrc="othermeta:11;51:88" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita"/>
+         <othermeta class="- topic/othermeta " content="define-and-track-required-ehs-training" name="usecase" xtrc="othermeta:12;52:86" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita"/>
+      </metadata>
+   </prolog>
+   
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;56:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita">
+      <p class="- topic/p " xtrc="p:1;57:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_required_training.dita">Before performing this work instruction, applicable personnel must be trained by an authorized trainer on the required training contents listed in this document.</p>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-03-009\EHS-Space/EHS-03-009?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-03-009/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept audience="internal" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1E5BF36-BB01-11F0-4167-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;8:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">
+   <title class="- topic/title " xtrc="title:1;9:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">Approval</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;10:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">
+      <author class="- topic/author " xtrc="author:1;11:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;12:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">
+         <created class="- topic/created " date="2025-12-02T18:00:00+05:30" xtrc="created:1;13:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T18:00:00+05:30" xtrc="revised:1;14:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;16:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">
+         <audience class="- topic/audience " otherprops="machine-operators,maintenance-personnel,industrial-engineers,reliability-engineers,safety-and-compliance-officers,plant-management" type="role" xtrc="audience:1;17:177" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;18:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">metr-ehs-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">ladder-inspection-app</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">ehs-recording-system</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">equipment-inspection-tool</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">compliance-management-module</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">approval-workflow</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">document-signoff</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">change-control</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">record-retention</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">management-review</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">glass-manufacturing-ehs</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">plant-safety-governance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">regulatory-compliance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">zero-incident-culture</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;36:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">leadership-accountability</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;38:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;40:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Approval" name="title" xtrc="othermeta:1;42:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="Defines approval authorities and signoff workflow for EHS documents and inspections relevant to ladder inspection and plant safety." name="shortdesc" xtrc="othermeta:2;43:181" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;44:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;45:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;46:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;47:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;48:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;49:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="ladders;inspection-forms;approval-signatures;ehs-policies;inspection-logs" name="entities" xtrc="othermeta:9;50:122" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs/usecase:document-approval/industry:glass manufacturing heavy machinery and industrial equipment" name="taxonomy" xtrc="othermeta:10;51:155" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="approval,signoff,inspection-records,compliance" name="tags" xtrc="othermeta:11;52:91" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="establish-approval-and-signoff-process-for-inspections" name="usecase" xtrc="othermeta:12;53:102" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita"/>
+      </metadata>
+   </prolog>
+   
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;57:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">
+      <p class="- topic/p " xtrc="p:1;58:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">Sanctioning Representatives of the Global Team<simpletable class="- topic/simpletable " id="simpletable_ztp_zrv_pzb" relcolwidth="1* 1*" xtrc="simpletable:1;60:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">
+            <sthead class="- topic/sthead " xtrc="sthead:1;61:45" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:1;62:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">
+                  <p class="- topic/p " xtrc="p:2;63:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">Region</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:2;65:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">
+                  <p class="- topic/p " xtrc="p:3;66:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">Representative</p>
+               </stentry>
+            </sthead>
+            <strow class="- topic/strow " xtrc="strow:1;69:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:3;70:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">
+                  <p class="- topic/p " xtrc="p:4;71:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">Asia Pacific</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:4;73:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">
+                  <p class="- topic/p " xtrc="p:5;74:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">Steve Bourke</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:2;77:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:5;78:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">
+                  <p class="- topic/p " xtrc="p:6;79:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">Europe</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:6;81:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">
+                  <p class="- topic/p " xtrc="p:7;82:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">Tim Neal</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:3;85:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:7;86:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">
+                  <p class="- topic/p " xtrc="p:8;87:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">Latin America</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:8;89:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">
+                  <p class="- topic/p " xtrc="p:9;90:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">Isabela Malpighi</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:4;93:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:9;94:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">
+                  <p class="- topic/p " xtrc="p:10;95:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">North America</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:10;97:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">
+                  <p class="- topic/p " xtrc="p:11;98:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">Ken Smigielski</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:5;101:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:11;102:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">
+                  <p class="- topic/p " xtrc="p:12;103:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">Global Operations</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:12;105:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">
+                  <p class="- topic/p " xtrc="p:13;106:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_approval.dita">Jim Joyce, V P</p>
+               </stentry>
+            </strow>
+         </simpletable>
+      </p>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-03-009\EHS-Space/EHS-03-009?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-03-009/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept audience="internal" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1E63BE0-BB01-11F0-5912-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;8:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">
+   <title class="- topic/title " xtrc="title:1;9:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">Revision History</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;10:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">
+      <author class="- topic/author " xtrc="author:1;11:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;12:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">
+         <created class="- topic/created " date="2025-12-02T18:00:00+05:30" xtrc="created:1;13:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T18:00:00+05:30" xtrc="revised:1;14:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;16:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">
+         <audience class="- topic/audience " otherprops="plant-management,document-control,quality-assurance,safety-and-compliance-officers,administration" type="role" xtrc="audience:1;17:144" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;18:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">revision-history</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">document-versioning</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">change-log</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">document-control-system</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">ehs-document-repository</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">version-control</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">revision-log-entry</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">change-approvals</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">document-release</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">archival-process</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">compliance-audit-traceability</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">quality-management</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">regulatory-review</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">record-retention-policy</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;36:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">operational-governance</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;38:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;40:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Revision history" name="title" xtrc="othermeta:1;42:62" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="Tracks document revisions, version numbers, dates and approval references for the ladder inspection procedure and related EHS documents." name="shortdesc" xtrc="othermeta:2;43:186" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;44:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;45:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;46:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;47:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;48:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;49:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="revision-entries;version-numbers;approvers;change-descriptions;release-dates" name="entities" xtrc="othermeta:9;50:125" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs/usecase:document-governance/industry:glass manufacturing heavy machinery and industrial equipment" name="taxonomy" xtrc="othermeta:10;51:157" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="revision,version,history,change-log" name="tags" xtrc="othermeta:11;52:80" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="maintain-auditable-document-revision-history" name="usecase" xtrc="othermeta:12;53:92" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita"/>
+      </metadata>
+   </prolog>
+   
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;57:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">
+      <p class="- topic/p " xtrc="p:1;58:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">
+         <simpletable class="- topic/simpletable " id="simpletable_tfw_dsv_pzb" relcolwidth="1* 1*" xtrc="simpletable:1;61:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">
+            <strow class="- topic/strow " xtrc="strow:1;62:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:1;63:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">2016-04-20</stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:2;64:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">
+                  <p class="- topic/p " xtrc="p:2;65:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">Approved by Jim Joyce, EHS V P</p>
+                  <p class="- topic/p " xtrc="p:3;66:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-03-009/EHS-03-009_revision_history.dita">Original Issue</p>
+               </stentry>
+            </strow>
+         </simpletable>
+      </p>
+   </conbody>
+</concept></concept></dita>

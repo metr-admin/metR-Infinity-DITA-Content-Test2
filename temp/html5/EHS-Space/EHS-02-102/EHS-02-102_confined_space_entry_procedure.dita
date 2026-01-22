@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space/EHS-02-102?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-02-102/?><?path2rootmap-uri ./?><?path2project ../../?><?path2project-uri ../../?><dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3"><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-02-102\EHS-Space/EHS-02-102?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-02-102/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1D2E5A0-BB01-11F0-5898-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita">Confined Space Entry Procedure</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita">
+         <created class="- topic/created " date="2025-12-02T13:06:00+05:30" xtrc="created:1;12:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T13:06:00+05:30" xtrc="revised:1;13:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita">
+         <audience class="- topic/audience " otherprops="machine-operators,maintenance-personnel,industrial-engineers,reliability-engineers,safety-and-compliance-officers,management" type="role" xtrc="audience:1;16:171" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita">metr-ehs-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita">confined-space-monitoring-system</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita">gas-detection-equipment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita">permit-to-work-system</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita">personal-protective-equipment</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita">entry-permit-procedure</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita">atmospheric-testing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita">isolation-and-lockout</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita">rescue-readiness</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita">entry-supervision</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita">glass-manufacturing-plant</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita">material-handling-equipment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita">maintenance-and-mro</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita">hazard-identification</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita">zero-incident-culture</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;37:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;38:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="01-06-2016" name="RevisionDate" xtrc="othermeta:2;24:90" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102.ditamap"/><othermeta class="- topic/othermeta " content="EHS-02-102" name="DocumentNumber" xtrc="othermeta:1;23:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102.ditamap"/><othermeta class="- topic/othermeta " content="Confined space entry procedure" name="title" xtrc="othermeta:1;41:76" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="Procedure for safe entry into confined spaces including permits atmospheric testing isolation rescue readiness and supervision" name="shortdesc" xtrc="othermeta:2;42:176" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;43:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;44:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;45:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;46:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;47:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;48:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="confined space;gas detector;lockout tagout devices;rescue harness;entry permit;entry attendant" name="entities" xtrc="othermeta:9;49:143" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs;usecase:confined-space-entry;industry:glass manufacturing heavy-machinery-and-industrial-equipment" name="taxonomy" xtrc="othermeta:10;50:158" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="confined-space,permit-to-work,gas-testing,rescue,lockout-tagout" name="tags" xtrc="othermeta:11;51:108" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="Provide step by step safe entry procedure for confined spaces to ensure compliance and reduce incidents" name="usecase" xtrc="othermeta:12;52:151" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita"/>
+      </metadata>
+   </prolog>
+   
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;56:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_confined_space_entry_procedure.dita"/>
+<?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-02-102\EHS-Space/EHS-02-102?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-02-102/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1D32C4D-BB01-11F0-7494-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita">Purpose</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita">
+         <created class="- topic/created " date="2025-12-02T13:06:00+05:30" xtrc="created:1;12:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T13:06:00+05:30" xtrc="revised:1;13:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita">
+         <audience class="- topic/audience " otherprops="executive-leadership,plant-management,safety-and-compliance-officers,operations-teams,maintenance-personnel" type="role" xtrc="audience:1;16:154" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita">metr-ehs-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita">safety-policy</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita">incident-prevention-framework</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita">training-program</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita">compliance-checklist</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita">purpose-and-objectives</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita">risk-reduction</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita">leadership-accountability</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita">performance-metrics</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita">continuous-improvement</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita">zero-incident-aim</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita">plant-safety-culture</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita">ehs-strategy</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita">maintenance-and-mro-context</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita">operational-excellence</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;37:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;38:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Purpose of confined space procedure" name="title" xtrc="othermeta:1;41:81" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="Explains the purpose objectives and intended outcomes of the confined space program including leadership accountability and performance metrics" name="shortdesc" xtrc="othermeta:2;42:193" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;43:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;44:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;45:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;46:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;47:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;48:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="objective statements;measurable metrics;leadership roles;training goals;compliance criteria" name="entities" xtrc="othermeta:9;49:140" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs;usecase:purpose-and-objective;industry:glass manufacturing heavy-machinery-and-industrial-equipment" name="taxonomy" xtrc="othermeta:10;50:159" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="purpose,objectives,leadership,performance,zero-incident" name="tags" xtrc="othermeta:11;51:100" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="State the intent and measurable goals of the confined space safety program" name="usecase" xtrc="othermeta:12;52:122" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita"/>
+      </metadata>
+   </prolog>
+   
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;56:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita">
+      <p class="- topic/p " xtrc="p:1;57:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_purpose.dita">The purpose of this procedure is to protect personnel by establishing a system for identifying confined spaces, evaluating the potential hazards associated with these spaces and developing safe entry procedures. This establishes the minimum requirements to ensure the safe entry and work within all confined spaces.</p>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-02-102\EHS-Space/EHS-02-102?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-02-102/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="r1D343B6-BB01-11F0-1827-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="reference:1;7:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">Reference</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">
+         <created class="- topic/created " date="2025-12-02T13:06:00+05:30" xtrc="created:1;12:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T13:06:00+05:30" xtrc="revised:1;13:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">
+         <audience class="- topic/audience " otherprops="safety-and-compliance-officers,document-control,operations-teams,maintenance-personnel" type="role" xtrc="audience:1;16:133" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">metr-ehs-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">reference-standards</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">legislation-guidance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">equipment-manuals</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">training-materials</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">reference-list</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">standards-alignment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">documents-and-forms</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">regulatory-references</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">technical-guidance</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">compliance-audit</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">plant-operations</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">maintenance-schedules</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">training-and-certification</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">health-and-safety-resources</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;37:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;38:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="References for confined space procedure" name="title" xtrc="othermeta:1;41:85" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="List of standards legislation manuals and training resources referenced by the confined space procedure" name="shortdesc" xtrc="othermeta:2;42:153" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;43:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;44:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;45:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;46:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;47:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;48:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="standards;legislation;equipment manual;training module;form templates" name="entities" xtrc="othermeta:9;49:118" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs;usecase:references-and-standards;industry:glass manufacturing heavy-machinery-and-industrial-equipment" name="taxonomy" xtrc="othermeta:10;50:162" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="references,standards,legislation,manuals,training" name="tags" xtrc="othermeta:11;51:94" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="Provide authoritative references for compliance and technical guidance" name="usecase" xtrc="othermeta:12;52:118" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita"/>
+      </metadata>
+   </prolog>
+   
+   <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;56:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">
+      <section class="- topic/section " xtrc="section:1;57:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">
+         <ul class="- topic/ul " id="ul_c3q_dj5_4zb" xtrc="ul:1;58:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">
+            <li class="- topic/li " xtrc="li:1;59:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">EHS-02-102-F 001 Confined Space Determination and Classification </li>
+            <li class="- topic/li " xtrc="li:2;60:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">EHS-02-102-F 002 Confined Space Entry Permit </li>
+            <li class="- topic/li " xtrc="li:3;61:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">EHS-02-102-F 003 Confined Space Inventory Log </li>
+            <li class="- topic/li " xtrc="li:4;62:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">EHS-03-004 Confined Space Determination and Classification </li>
+            <li class="- topic/li " xtrc="li:5;63:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_reference.dita">EHS-03-001-F Job Hazard Analysis and PPE Assessment</li>
+         </ul>
+      </section>
+   </refbody>
+</reference><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-02-102\EHS-Space/EHS-02-102?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-02-102/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1D2CF38-BB01-11F0-1060-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita">Application</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita">
+         <created class="- topic/created " date="2025-12-02T13:06:00+05:30" xtrc="created:1;12:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T13:06:00+05:30" xtrc="revised:1;13:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita">
+         <audience class="- topic/audience " otherprops="operations-teams,maintenance-personnel,contractors,safety-and-compliance-officers,plant-management" type="role" xtrc="audience:1;16:145" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita">metr-ehs-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita">permit-management-module</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita">entry-equipment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita">rescue-equipment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita">environmental-monitoring-tools</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita">application-of-procedure</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita">permit-request-process</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita">contractor-onboarding</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita">competency-verification</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita">work-planning</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita">production-maintenance-window</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita">shutdown-activities</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita">mro-tasks</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita">plant-safety-management</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita">regulatory-audits</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;37:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;38:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Application guidance for confined space procedure" name="title" xtrc="othermeta:1;41:95" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita"/>
+         <othermeta class="- topic/othermeta " content="Explains how and when to apply the confined space procedure including permit requests contractor onboarding and competency checks" name="shortdesc" xtrc="othermeta:2;42:179" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;43:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;44:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;45:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;46:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;47:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;48:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita"/>
+         <othermeta class="- topic/othermeta " content="permit request;contractor record;competency matrix;work plan;rescue team" name="entities" xtrc="othermeta:9;49:121" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs;usecase:application-and-guidance;industry:glass manufacturing heavy-machinery-and-industrial-equipment" name="taxonomy" xtrc="othermeta:10;50:162" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita"/>
+         <othermeta class="- topic/othermeta " content="application,permit,contractor,competency,work-planning" name="tags" xtrc="othermeta:11;51:99" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita"/>
+         <othermeta class="- topic/othermeta " content="Provide practical guidance on applying the confined space procedure across plant activities" name="usecase" xtrc="othermeta:12;52:139" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita"/>
+      </metadata>
+   </prolog>
+   
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;56:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita">
+      <p class="- topic/p " xtrc="p:1;57:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_application.dita">This procedure applies to all Space employees, contractors and visitors, and all operations including manufacturing facilities, technical centers, offices, and administrative buildings where confined space entry is required.</p>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-02-102\EHS-Space/EHS-02-102?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-02-102/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1D387F8-BB01-11F0-3189-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita">Scope</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita">
+         <created class="- topic/created " date="2025-12-02T13:06:00+05:30" xtrc="created:1;12:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T13:06:00+05:30" xtrc="revised:1;13:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita">
+         <audience class="- topic/audience " otherprops="executive-leadership,plant-management,operations-teams,safety-and-compliance-officers,maintenance-personnel" type="role" xtrc="audience:1;16:154" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita">metr-ehs-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita">confined-space-register</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita">ppe-catalogue</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita">monitoring-equipment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita">training-resources</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita">scope-definition</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita">applicability-criteria</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita">roles-and-responsibilities</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita">exclusions-and-boundaries</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita">compliance-requirements</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita">plant-maintenance-activities</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita">production-line-intervention</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita">contractor-works</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita">mro-processes</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita">health-and-safety-governance</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;37:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;38:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Scope of confined space procedure" name="title" xtrc="othermeta:1;41:79" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="Defines the scope applicability roles responsibilities and exclusions for confined space activity control" name="shortdesc" xtrc="othermeta:2;42:155" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;43:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;44:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;45:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;46:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;47:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;48:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="confined space list;contractors;maintenance schedule;supervisor;entry permit" name="entities" xtrc="othermeta:9;49:125" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs;usecase:scope-and-applicability;industry:glass manufacturing heavy-machinery-and-industrial-equipment" name="taxonomy" xtrc="othermeta:10;50:161" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="scope,applicability,roles,responsibilities,exclusions" name="tags" xtrc="othermeta:11;51:98" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="Clarify where and to whom the confined space procedure applies" name="usecase" xtrc="othermeta:12;52:110" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita"/>
+      </metadata>
+   </prolog>
+   
+   
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;57:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita">
+      <section class="- topic/section " xtrc="section:1;58:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita">
+         <p class="- topic/p " xtrc="p:1;59:32" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_scope.dita">This procedure, based on Policy EHS-01-102-Life Saving Protocol-Confined Spaces, establishes requirements for the control of risks associated with confined spaces in the workplace, the identification of confined spaces, their hazards, and the process for entry.</p>
+      </section>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-02-102\EHS-Space/EHS-02-102?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-02-102/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1D2FCD5-BB01-11F0-8248-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita">Introduction</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita">
+         <created class="- topic/created " date="2025-12-02T13:06:00+05:30" xtrc="created:1;12:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T13:06:00+05:30" xtrc="revised:1;13:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita">
+         <audience class="- topic/audience " otherprops="executive-leadership,plant-management,safety-and-compliance-officers,operations-teams,maintenance-personnel" type="role" xtrc="audience:1;16:154" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita">metr-ehs-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita">safety-framework</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita">training-management-system</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita">permit-management-tool</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita">equipment-inventory</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita">introduction-and-scope</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita">leadership-accountability</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita">training-and-competency</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita">continuous-improvement</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita">risk-management</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita">glass-manufacturing-operations</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita">plant-safety-culture</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita">shop-floor-maintenance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita">fleet-and-materials-handling</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita">environmental-health-and-safety</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;37:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;38:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Introduction to confined space control" name="title" xtrc="othermeta:1;41:84" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita"/>
+         <othermeta class="- topic/othermeta " content="Introduces the confined space program its objectives leadership responsibilities and alignment with organisational EHS goals" name="shortdesc" xtrc="othermeta:2;42:174" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;43:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;44:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;45:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;46:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;47:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;48:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita"/>
+         <othermeta class="- topic/othermeta " content="confined space register;leadership;training program;competency records;permit database" name="entities" xtrc="othermeta:9;49:135" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs;usecase:introduction-and-governance;industry:glass manufacturing heavy-machinery-and-industrial-equipment" name="taxonomy" xtrc="othermeta:10;50:165" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita"/>
+         <othermeta class="- topic/othermeta " content="governance,leadership,training,scope,ehs-objectives" name="tags" xtrc="othermeta:11;51:96" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita"/>
+         <othermeta class="- topic/othermeta " content="Explain intent scope and leadership responsibilities for confined space safety" name="usecase" xtrc="othermeta:12;52:126" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita"/>
+      </metadata>
+   </prolog>
+   
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;56:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita">
+      <section class="- topic/section " xtrc="section:1;57:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita">
+         <p class="- topic/p " xtrc="p:1;58:32" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_introduction.dita">Confined spaces include spaces such as those in a vat, tank, pit, pipe, duct, flue, oven, chimney, silo, reaction vessel, container, receptacle, underground sewer, well, shaft, trench, tunnel, or other similar enclosed or partially enclosed structure, which meet certain conditions.</p>
+      </section>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-02-102\EHS-Space/EHS-02-102?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-02-102/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1D35A14-BB01-11F0-1461-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">Requirements</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">
+         <created class="- topic/created " date="2025-12-02T13:06:00+05:30" xtrc="created:1;12:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T13:06:00+05:30" xtrc="revised:1;13:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">
+         <audience class="- topic/audience " otherprops="safety-and-compliance-officers,maintenance-personnel,operations-teams,plant-management,industrial-engineers" type="role" xtrc="audience:1;16:154" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">metr-ehs-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">ppe-standards</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">gas-detector-specification</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">rescue-team-capabilities</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">training-requirements</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">entry-requirements</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">competency-criteria</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">equipment-certification</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">permit-conditions</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">inspection-and-testing</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">work-permits</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">plant-maintenance-works</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">contractor-management</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">operational-readiness</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">safety-compliance</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;37:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;38:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Requirements for confined space entry" name="title" xtrc="othermeta:1;41:83" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita"/>
+         <othermeta class="- topic/othermeta " content="Lists personnel equipment and procedural requirements for safe confined space entry including competency inspection and testing" name="shortdesc" xtrc="othermeta:2;42:177" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;43:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;44:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;45:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;46:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;47:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;48:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita"/>
+         <othermeta class="- topic/othermeta " content="ppe;gas detector;certificate of competency;inspection checklist;permit conditions" name="entities" xtrc="othermeta:9;49:130" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs;usecase:requirements-and-criteria;industry:glass manufacturing heavy-machinery-and-industrial-equipment" name="taxonomy" xtrc="othermeta:10;50:163" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita"/>
+         <othermeta class="- topic/othermeta " content="requirements,competency,equipment,inspection,permit" name="tags" xtrc="othermeta:11;51:96" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita"/>
+         <othermeta class="- topic/othermeta " content="Define mandatory requirements to authorise confined space entry and ensure safe execution" name="usecase" xtrc="othermeta:12;52:137" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita"/>
+      </metadata>
+   </prolog>
+   
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;56:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">
+      <section class="- topic/section " xtrc="section:1;57:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">
+         <ol class="- topic/ol " xtrc="ol:1;58:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">
+            <li class="- topic/li " xtrc="li:1;59:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">The requirement contains the following elements: <ol class="- topic/ol " xtrc="ol:2;59:110" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">
+                  <li class="- topic/li " xtrc="li:2;60:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">Procedures for identification of each confined space and informing employees by
+                     sign, placard, training program, or other effective means.</li>
+                  <li class="- topic/li " xtrc="li:3;62:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">Procedures for the selection and use of personal protective equipment necessary
+                     for permit-required confined space entry.</li>
+                  <li class="- topic/li " xtrc="li:4;64:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">Procedures for confined space atmospheric testing.</li>
+                  <li class="- topic/li " xtrc="li:5;65:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_requirements.dita">Procedures for a confined space entry permit system.</li>
+               </ol>
+            </li>
+         </ol>
+      </section>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-02-102\EHS-Space/EHS-02-102?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-02-102/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="r1D314B6-BB01-11F0-9964-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="reference:1;7:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">Procedure</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">
+         <created class="- topic/created " date="2025-12-02T13:06:00+05:30" xtrc="created:1;12:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T13:06:00+05:30" xtrc="revised:1;13:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">
+         <audience class="- topic/audience " otherprops="machine-operators,maintenance-personnel,industrial-engineers,safety-and-compliance-officers,plant-management" type="role" xtrc="audience:1;16:155" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">metr-ehs-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">safety-management-system</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">permit-to-work-platform</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">portable-gas-detectors</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">communication-devices</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">procedure-overview</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">hazard-assessment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">permit-issuance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">monitoring-and-audit</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">incident-reporting</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">maintenance-operations</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">plant-floor-operations</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">worker-safety</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">regulatory-compliance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">mro-workflows</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;37:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;38:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Confined space general procedure" name="title" xtrc="othermeta:1;41:78" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="General procedure covering hazard assessment permit issuance monitoring and incident reporting for confined space work" name="shortdesc" xtrc="othermeta:2;42:168" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;43:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;44:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;45:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;46:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;47:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;48:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="permit-to-work;hazard-assessment-form;supervisor;entry-attendant;gas-monitor" name="entities" xtrc="othermeta:9;49:125" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs;usecase:confined-space-procedure;industry:glass manufacturing heavy-machinery-and-industrial-equipment" name="taxonomy" xtrc="othermeta:10;50:162" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="hazard-assessment,permit-to-work,monitoring,audit,incident-reporting" name="tags" xtrc="othermeta:11;51:113" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="Define consistent steps for conducting confined space activities to protect personnel and comply with requirements" name="usecase" xtrc="othermeta:12;52:162" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita"/>
+      </metadata>
+   </prolog>
+   
+   <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;56:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">
+      <section class="- topic/section " xtrc="section:1;57:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">
+         <ol class="- topic/ol " xtrc="ol:1;58:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">
+            <li class="- topic/li " xtrc="li:1;59:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">Determination and Classification of Confined Spaces<ol class="- topic/ol " xtrc="ol:2;59:112" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">
+                  <li class="- topic/li " xtrc="li:2;60:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">All spaces located on each facility property shall be identified and evaluated using Form EHS-02-102-F 001 Confined Space Determination and Classification or equivalent. This form will determine if the space is a confined space, if the space is a permit-required confined space, or if the space can be reclassified as a non-permit required confined space. <ol class="- topic/ol " xtrc="ol:3;60:423" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">
+                        <li class="- topic/li " xtrc="li:3;61:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">In order to reclassify the space, the work to be done must not create any hazards that would require permit entry. </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:4;64:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">All spaces identified as a confined space shall be documented using the Form EHS-02-102-F 003 Confined Space Inventory Log or equivalent. </li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:5;67:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">Posting of Permit-Required Confined Space<ol class="- topic/ol " xtrc="ol:4;67:102" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">
+                  <li class="- topic/li " xtrc="li:6;68:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">All permit-required confined spaces shall be posted with a warning to employees not to enter the space or not to enter the space without a permit.</li>
+                  <li class="- topic/li " xtrc="li:7;69:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">All non-permit required confined spaces shall be posted.</li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:8;72:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">Personal Protective Equipment Selection<ol class="- topic/ol " xtrc="ol:5;72:100" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">
+                  <li class="- topic/li " xtrc="li:9;73:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">Personal protective equipment (PPE) for entry into a confined space shall be determined using Form EHS-03-001-F Job Hazard Analysis and PPE Assessment or equivalent.</li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:10;76:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">Non-Permit Confined Space Entry <ol class="- topic/ol " xtrc="ol:6;76:93" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">
+                  <li class="- topic/li " xtrc="li:11;77:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">There are no special requirements for personnel to enter or perform work in confined spaces that have been determined to be non-permit spaces. <ol class="- topic/ol " xtrc="ol:7;77:210" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">
+                        <li class="- topic/li " xtrc="li:12;78:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">Certain operations; including welding, grinding, torch cutting, painting,
+                           or any other operation with the potential to change the space’s
+                           atmosphere could change the classification of the space from non-permit
+                           to permit-required.</li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:13;84:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">Should atmosphere-altering operations need to be performed in the non-permit space, then reclassification of the space shall be necessary and a confined space entry permit shall be completed using Form EHS-02-102-F 002 Confined Space Entry Permit.</li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:14;87:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">Permit-Required Confined Space Entry <ol class="- topic/ol " xtrc="ol:8;87:98" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">
+                  <li class="- topic/li " xtrc="li:15;88:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">Entry Permit <ol class="- topic/ol " xtrc="ol:9;88:80" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">
+                        <li class="- topic/li " xtrc="li:16;89:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">Prior to personnel entry into a permit-required confined space, a supervisor trained in confined space shall plan the entry by utilizing the Form EHS-02-102-F 002 Confined Space Entry Permit or equivalent. The entry permit serves as a means to assist in the evaluation of potential hazards and/or conditions in the permit space and to document that control measures have been implemented to eliminate those hazards. </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:17;92:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">Alternate Methods <ol class="- topic/ol " xtrc="ol:10;92:85" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">
+                        <li class="- topic/li " xtrc="li:18;93:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">Alternate methods, such as using a tool or robot to perform the work, shall be a preferred method whenever possible to prevent personnel from entering confined space.</li>
+                        <li class="- topic/li " xtrc="li:19;94:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">All alternate methods shall be documented in the Form EHS-02-102-F 002
+                           Confined Space Entry Permit or equivalent.</li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:20;98:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">Pre-Entry Briefing<ol class="- topic/ol " xtrc="ol:11;98:85" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">
+                        <li class="- topic/li " xtrc="li:21;99:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">Once the entry supervisor has identified all potential hazards, hazard control, required personal protective equipment and emergency equipment required for the task, he/she shall conduct a pre-entry briefing with all entrants, attendants, and any other affected personnel. In this briefing, all items contained in the confined space entry permit shall be discussed, and any issues regarding the entry shall be resolved. The objective of this briefing is to make all involved persons aware of and confident with their responsibilities regarding the entry.</li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:22;102:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">Atmospheric Testing <ol class="- topic/ol " xtrc="ol:12;102:87" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">
+                        <li class="- topic/li " xtrc="li:23;103:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">Atmospheric testing of the permit-required space shall be conducted prior
+                           to any entry into the space, and continuously while the space is
+                           occupied. Continuous air monitoring shall be accomplished by wearing the
+                           monitor while inside the space.</li>
+                        <li class="- topic/li " xtrc="li:24;107:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">A multi-gas detector/monitor shall be utilized to conduct atmospheric
+                           testing in the space.</li>
+                        <li class="- topic/li " xtrc="li:25;109:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">If the space is vacated for any duration of time, retesting of the space
+                           shall be conducted prior to re-entry.</li>
+                        <li class="- topic/li " xtrc="li:26;111:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">In all cases, monitoring shall be conducted for oxygen concentrations,
+                           percentage of the lower explosion limit, carbon monoxide, and hydrogen
+                           sulfide. Additional monitoring for airborne hazardous materials may be
+                           required. Pre-entry atmospheric test results shall be recorded on the
+                           Form EHS-02-102-F 002 Confined Space Entry Permit or equivalent.</li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:27;118:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">Air Monitor Calibration <ol class="- topic/ol " xtrc="ol:13;118:91" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">
+                        <li class="- topic/li " xtrc="li:28;119:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">The multi-gas monitor used by the plant shall be calibrated and checked in accordance with manufacturer’s specifications and at a minimum, daily prior to entry. </li>
+                        <li class="- topic/li " xtrc="li:29;120:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">If the gas monitor alarms at any time, the space shall be evacuated and not re-entered until atmospheric conditions fall within acceptable entry conditions.</li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:30;125:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">Contractors<ol class="- topic/ol " xtrc="ol:14;125:72" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">
+                  <li class="- topic/li " xtrc="li:31;126:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">When a contractor performs permit-required confined space entry at an Space facility, the following shall be accomplished by the Space contract representative.<ol class="- topic/ol " xtrc="ol:15;126:226" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">
+                        <li class="- topic/li " xtrc="li:32;127:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">Provide the contractor with a copy of this Confined Space Entry Procedure.</li>
+                        <li class="- topic/li " xtrc="li:33;128:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">Apprise the contractor that the space is a permit required confined space
+                           and that the contractor must comply with all provisions of the Space
+                           requirements and local Confined Space Standard.</li>
+                        <li class="- topic/li " xtrc="li:34;131:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">Apprise the contractor of any known hazards that make the space a
+                           permit-required confined space.</li>
+                        <li class="- topic/li " xtrc="li:35;133:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">Apprise the contractor of any precautions or procedures that Space has
+                           implemented for the protection of employees in or near permit-required
+                           confined spaces where contractor personnel will be working.</li>
+                        <li class="- topic/li " xtrc="li:36;136:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">Coordinate entry operations with the contractor, when both Space and
+                           contractor personnel will be working in or near permit spaces. In these
+                           instances, the Space Confined Space Entry Program will be followed.</li>
+                        <li class="- topic/li " xtrc="li:37;139:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">The contractor must advise what emergency procedures will be used so Space
+                           can assist with coordination of local responding emergency medical
+                           services arriving at the facility.</li>
+                        <li class="- topic/li " xtrc="li:38;142:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_procedure.dita">Communicate with the contractor at the conclusion of the entry operations
+                           regarding the confined space program followed and regarding any hazards
+                           confronted or created in the permit-required space.</li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+      </section>
+   </refbody>
+</reference><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-02-102\EHS-Space/EHS-02-102?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-02-102/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept audience="internal" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1D37071-BB01-11F0-1413-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;8:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">
+   <title class="- topic/title " xtrc="title:1;9:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">Revision History</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;10:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">
+      <author class="- topic/author " xtrc="author:1;11:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;12:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">
+         <created class="- topic/created " date="2025-12-02T13:06:00+05:30" xtrc="created:1;13:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T13:06:00+05:30" xtrc="revised:1;14:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;16:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">
+         <audience class="- topic/audience " otherprops="document-control,plant-management,safety-and-compliance-officers" type="role" xtrc="audience:1;17:111" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;18:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">metr-ehs-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">document-management-system</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">version-control</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">approval-workflow</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">revision-log</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">revision-history-maintenance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">document-approval</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">change-log-recording</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">versioning-practice</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">review-cycle</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">quality-and-compliance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">regulatory-audit-readiness</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">technical-documentation</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">plant-governance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;36:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">records-retention</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;38:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;40:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Revision history" name="title" xtrc="othermeta:1;42:62" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="Revision history log and version control information for the confined space topic set" name="shortdesc" xtrc="othermeta:2;43:135" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;44:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;45:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;46:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;47:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;48:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;49:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="revision record;approver;change description;effective date;version identifier" name="entities" xtrc="othermeta:9;50:126" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:ehs;usecase:document-control;industry:glass manufacturing heavy-machinery-and-industrial-equipment" name="taxonomy" xtrc="othermeta:10;51:154" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="revision,version,approval,change-log,document-control" name="tags" xtrc="othermeta:11;52:98" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="Track document changes approvals and maintain audit ready revision history" name="usecase" xtrc="othermeta:12;53:122" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita"/>
+      </metadata>
+   </prolog>
+   
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;57:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">
+      <p class="- topic/p " xtrc="p:1;58:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">
+         <table class="- topic/table " colsep="1" frame="all" id="table_v1v_s33_nzb" rowsep="1" xtrc="table:1;63:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">
+            <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:1;64:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">
+               <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;65:89" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita"/>
+               <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;66:89" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita"/>
+               <tbody class="- topic/tbody " xtrc="tbody:1;67:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">
+                  <row class="- topic/row " xtrc="row:1;68:45" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">
+                     <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;69:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">2016-01-06</entry>
+                     <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:2;70:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">
+                        <p class="- topic/p " xtrc="p:2;71:47" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">Approved by Jim Joyce, V P</p>
+                        <p class="- topic/p " xtrc="p:3;72:47" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-102/EHS-02-102_revision_history.dita">Original Issue</p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </p>
+   </conbody>
+</concept></concept></dita>

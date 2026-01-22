@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\BAT-Space\BAT-00-001?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/BAT-Space/BAT-00-001/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Map//EN?><?doctype-system map.dtd?><map xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="m1A3D852-BB01-11F0-9335-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="map:1;7:25" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-001/BAT-00-001.ditamap">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-001/BAT-00-001.ditamap">Cullet Preheater Manual-Villotta</title>
+   <topicmeta class="- map/topicmeta " xtrc="topicmeta:1;9:40" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-001/BAT-00-001.ditamap">
+      <critdates class="- topic/critdates " xtrc="critdates:1;10:45" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-001/BAT-00-001.ditamap">
+         <revised class="- topic/revised " modified="10-21-2019" xtrc="revised:1;11:67" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-001/BAT-00-001.ditamap"/>
+      </critdates>
+      <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;13:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-001/BAT-00-001.ditamap">
+         <prodname class="- topic/prodname " xtrc="prodname:1;14:47" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-001/BAT-00-001.ditamap"/>
+      </prodinfo>
+   </topicmeta>
+   <topicref href="BAT-00-001_cullet_preheater_manual_villotta.dita#c1A420C2-BB01-11F0-1883-09173F13E4C5" class="- map/topicref " chunk="to-content" xtrc="topicref:1;19:38" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-001/BAT-00-001.ditamap">
+      <topicmeta class="- map/topicmeta " xtrc="topicmeta:2;20:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-001/BAT-00-001.ditamap">
+         <othermeta class="- topic/othermeta " content="BAT-00-001" name="DocumentNumber" xtrc="othermeta:1;23:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-001/BAT-00-001.ditamap"/>
+         <othermeta class="- topic/othermeta " content="10-21-2019" name="RevisionDate" xtrc="othermeta:2;24:90" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-001/BAT-00-001.ditamap"/>
+      </topicmeta>
+      <topicref href="BAT-00-001_cullet_preheater_manual_villotta.dita#c1A409BE-BB01-11F0-2093-09173F13E4C5" class="- map/topicref " xtrc="topicref:2;27:42" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-001/BAT-00-001.ditamap"/>
+      <topicref href="BAT-00-001_cullet_preheater_manual_villotta.dita#r1A43795-BB01-11F0-2390-09173F13E4C5" class="- map/topicref " xtrc="topicref:3;28:76" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-001/BAT-00-001.ditamap"/>
+      <topicref href="BAT-00-001_cullet_preheater_manual_villotta.dita#c1A3F1D1-BB01-11F0-3338-09173F13E4C5" class="- map/topicref " audience="internal" xtrc="topicref:4;31:42" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-001/BAT-00-001.ditamap"/>
+      <topicref href="BAT-00-001_cullet_preheater_manual_villotta.dita#c1A44E71-BB01-11F0-1064-09173F13E4C5" class="- map/topicref " audience="internal" xtrc="topicref:5;34:42" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/BAT-Space/BAT-00-001/BAT-00-001.ditamap"/>
+   </topicref>
+</map>

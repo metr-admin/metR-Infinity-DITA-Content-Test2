@@ -50,5 +50,8 @@
          <othermeta name="entities" content="ot-incident;ioc;furnace-controller;scada;forensics"/>
       </metadata>
    </prolog>
-   <conbody class="- topic/body  concept/conbody "/>
+   <conbody class="- topic/body  concept/conbody ">
+      <p>This document describes the response process for cybersecurity incidents affecting FSC
+         systems, including escalation, containment, and recovery steps.</p>
+   </conbody>
 </concept>

@@ -55,20 +55,12 @@
                       id="table_b5m_bm3_nzb"
                       class="- topic/simpletable ">
             <sthead class="- topic/sthead ">
-               <stentry class="- topic/stentry ">
-                  <p class="- topic/p ">Title</p>
-               </stentry>
-               <stentry class="- topic/stentry ">
-                  <p class="- topic/p ">Representative</p>
-               </stentry>
+               <stentry class="- topic/stentry ">Title</stentry>
+               <stentry class="- topic/stentry ">Representative</stentry>
             </sthead>
             <strow class="- topic/strow ">
-               <stentry class="- topic/stentry ">
-                  <p class="- topic/p ">Global Operations</p>
-               </stentry>
-               <stentry class="- topic/stentry ">
-                  <p class="- topic/p ">Benjamin Brown</p>
-               </stentry>
+               <stentry class="- topic/stentry ">Global Operations</stentry>
+               <stentry class="- topic/stentry ">Benjamin Brown</stentry>
             </strow>
          </simpletable>
       </p>

@@ -76,56 +76,33 @@
                       id="simpletable_bg5_4k3_nzb"
                       class="- topic/simpletable ">
             <sthead class="- topic/sthead ">
-               <stentry class="- topic/stentry ">
-                  <p class="- topic/p ">Section</p>
-               </stentry>
-               <stentry class="- topic/stentry ">
-                  <p class="- topic/p ">Title</p>
-               </stentry>
+               <stentry class="- topic/stentry ">Section</stentry>
+               <stentry class="- topic/stentry ">Title</stentry>
             </sthead>
             <strow class="- topic/strow ">
                <stentry class="- topic/stentry ">
-                  <p class="- topic/p ">
-                     <b class="+ topic/ph hi-d/b ">Introduction</b>
-                  </p>
+                  <b class="+ topic/ph hi-d/b ">Introduction</b>
                </stentry>
-               <stentry class="- topic/stentry ">
-                  <p class="- topic/p "> </p>
-               </stentry>
+               <stentry class="- topic/stentry "/>
+            </strow>
+            <strow class="- topic/strow ">
+               <stentry class="- topic/stentry "/>
+               <stentry class="- topic/stentry ">CPH - Table of Contents</stentry>
             </strow>
             <strow class="- topic/strow ">
                <stentry class="- topic/stentry ">
-                  <p class="- topic/p "> </p>
+                  <b class="+ topic/ph hi-d/b ">Safety</b>
                </stentry>
-               <stentry class="- topic/stentry ">
-                  <p class="- topic/p ">CPH - Table of Contents</p>
-               </stentry>
+               <stentry class="- topic/stentry "/>
             </strow>
             <strow class="- topic/strow ">
-               <stentry class="- topic/stentry ">
-                  <p class="- topic/p ">
-                     <b class="+ topic/ph hi-d/b ">Safety</b>
-                  </p>
-               </stentry>
-               <stentry class="- topic/stentry ">
-                  <p class="- topic/p "> </p>
-               </stentry>
+               <stentry class="- topic/stentry "> </stentry>
+               <stentry class="- topic/stentry ">FUR-02-001 Furnace Safety</stentry>
             </strow>
             <strow class="- topic/strow ">
-               <stentry class="- topic/stentry ">
-                  <p class="- topic/p "> </p>
-               </stentry>
-               <stentry class="- topic/stentry ">
-                  <p class="- topic/p ">FUR-02-001 Furnace Safety</p>
-               </stentry>
-            </strow>
-            <strow class="- topic/strow ">
-               <stentry class="- topic/stentry ">
-                  <p class="- topic/p "> </p>
-               </stentry>
-               <stentry class="- topic/stentry ">
-                  <p class="- topic/p ">Cullet Preheater System - CE User Manual (available in Windchill)</p>
-               </stentry>
+               <stentry class="- topic/stentry "/>
+               <stentry class="- topic/stentry ">Cullet Preheater System - CE User Manual (available
+                  in Windchill)</stentry>
             </strow>
             <strow class="- topic/strow ">
                <stentry class="- topic/stentry ">
@@ -133,67 +110,36 @@
                      <b class="+ topic/ph hi-d/b ">Installation</b>
                   </p>
                </stentry>
-               <stentry class="- topic/stentry ">
-                  <p class="- topic/p "> </p>
+               <stentry class="- topic/stentry "> </stentry>
+            </strow>
+            <strow class="- topic/strow ">
+               <stentry class="- topic/stentry "> </stentry>
+               <stentry class="- topic/stentry ">Installation Tasks Villotta</stentry>
+            </strow>
+            <strow class="- topic/strow ">
+               <stentry class="- topic/stentry "/>
+               <stentry class="- topic/stentry ">CPH Preassembly and Lift Procedure</stentry>
+            </strow>
+            <strow class="- topic/strow ">
+               <stentry class="- topic/stentry "> </stentry>
+               <stentry class="- topic/stentry ">35932-00-01-rev24 PFD</stentry>
+            </strow>
+            <strow class="- topic/strow ">
+               <stentry class="- topic/stentry "> </stentry>
+               <stentry class="- topic/stentry ">35932-00-100_3D_R4</stentry>
+            </strow>
+            <strow class="- topic/strow ">
+               <stentry class="- topic/stentry "/>
+               <stentry class="- topic/stentry "><b class="+ topic/ph hi-d/b ">As Built Drawings</b>
                </stentry>
             </strow>
             <strow class="- topic/strow ">
-               <stentry class="- topic/stentry ">
-                  <p class="- topic/p "> </p>
-               </stentry>
-               <stentry class="- topic/stentry ">
-                  <p class="- topic/p ">Installation Tasks Villotta</p>
-               </stentry>
+               <stentry class="- topic/stentry "> </stentry>
+               <stentry class="- topic/stentry "> 35932-00-301.pdf</stentry>
             </strow>
             <strow class="- topic/strow ">
-               <stentry class="- topic/stentry ">
-                  <p class="- topic/p "> </p>
-               </stentry>
-               <stentry class="- topic/stentry ">
-                  <p class="- topic/p ">CPH Preassembly and Lift Procedure</p>
-               </stentry>
-            </strow>
-            <strow class="- topic/strow ">
-               <stentry class="- topic/stentry ">
-                  <p class="- topic/p "> </p>
-               </stentry>
-               <stentry class="- topic/stentry ">
-                  <p class="- topic/p ">35932-00-01-rev24 PFD</p>
-               </stentry>
-            </strow>
-            <strow class="- topic/strow ">
-               <stentry class="- topic/stentry ">
-                  <p class="- topic/p "> </p>
-               </stentry>
-               <stentry class="- topic/stentry ">
-                  <p class="- topic/p ">35932-00-100_3D_R4</p>
-               </stentry>
-            </strow>
-            <strow class="- topic/strow ">
-               <stentry class="- topic/stentry ">
-                  <p class="- topic/p "> </p>
-               </stentry>
-               <stentry class="- topic/stentry ">
-                  <p class="- topic/p ">
-                     <b class="+ topic/ph hi-d/b ">As Built Drawings</b>
-                  </p>
-               </stentry>
-            </strow>
-            <strow class="- topic/strow ">
-               <stentry class="- topic/stentry ">
-                  <p class="- topic/p "> </p>
-               </stentry>
-               <stentry class="- topic/stentry ">
-                  <p class="- topic/p "> 35932-00-301.pdf</p>
-               </stentry>
-            </strow>
-            <strow class="- topic/strow ">
-               <stentry class="- topic/stentry ">
-                  <p class="- topic/p "> </p>
-               </stentry>
-               <stentry class="- topic/stentry ">
-                  <p class="- topic/p "> 35932-00-302.pdf</p>
-               </stentry>
+               <stentry class="- topic/stentry "> </stentry>
+               <stentry class="- topic/stentry "> 35932-00-302.pdf</stentry>
             </strow>
             <strow class="- topic/strow ">
                <stentry class="- topic/stentry ">

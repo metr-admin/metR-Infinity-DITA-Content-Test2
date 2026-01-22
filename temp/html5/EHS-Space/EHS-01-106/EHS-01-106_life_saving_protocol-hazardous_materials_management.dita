@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space/EHS-01-106?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-01-106/?><?path2rootmap-uri ./?><?path2project ../../?><?path2project-uri ../../?><dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3"><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-01-106\EHS-Space/EHS-01-106?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-01-106/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1CCF02F-BB01-11F0-2051-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita">Life Saving Protocol - Hazardous Materials Management</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita">
+         <created class="- topic/created " date="2025-12-02T10:00:00+05:30" xtrc="created:1;12:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T10:00:00+05:30" xtrc="revised:1;13:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita">
+         <audience class="- topic/audience " otherprops="safety officers,first responders,operations teams,environmental managers,plant management" type="role" xtrc="audience:1;16:136" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita">metr-ehs-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita">spill-containment-kits</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita">emergency-showers</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita">monitoring-alarms</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita">first-aid-equipment</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita">life-saving-protocol</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita">spill-response</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita">evacuation-procedure</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita">decontamination</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita">incident-notification</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita">chemical-exposure</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita">hazardous-materials-incident</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita">environmental-release</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita">plant-emergency</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita">worker-safety</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;37:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;38:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="09-12-2017" name="RevisionDate" xtrc="othermeta:2;24:90" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106.ditamap"/><othermeta class="- topic/othermeta " content="EHS-01-106" name="DocumentNumber" xtrc="othermeta:1;23:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106.ditamap"/><othermeta class="- topic/othermeta " content="Life Saving Protocol - Hazardous Materials Management" name="title" xtrc="othermeta:1;41:99" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita"/>
+         <othermeta class="- topic/othermeta " content="Immediate actions and life saving steps for hazardous materials incidents including decontamination, evacuation and emergency notifications." name="shortdesc" xtrc="othermeta:2;42:190" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;43:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;44:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;45:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;46:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;47:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;48:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita"/>
+         <othermeta class="- topic/othermeta " content="spill kits;decontamination stations;first responders;alarm systems" name="entities" xtrc="othermeta:9;49:115" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:emergency response;usecase:life saving steps for hazmat incidents;industry:glass manufacturing heavy machinery and industrial equipment" name="taxonomy" xtrc="othermeta:10;50:191" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita"/>
+         <othermeta class="- topic/othermeta " content="life-saving,spill response,decontamination,evacuation,notification" name="tags" xtrc="othermeta:11;51:111" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita"/>
+         <othermeta class="- topic/othermeta " content="provide immediate life saving procedures for hazardous materials incidents" name="usecase" xtrc="othermeta:12;52:122" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita"/>
+      </metadata>
+   </prolog>
+   
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;56:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_life_saving_protocol-hazardous_materials_management.dita"/>
+<?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-01-106\EHS-Space/EHS-01-106?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-01-106/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1CD1E65-BB01-11F0-4001-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita">Purpose</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita">
+         <created class="- topic/created " date="2025-12-02T10:00:00+05:30" xtrc="created:1;12:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T10:00:00+05:30" xtrc="revised:1;13:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita">
+         <audience class="- topic/audience " otherprops="safety and compliance officers,plant management,operations teams,environmental managers" type="role" xtrc="audience:1;16:134" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita">metr-ehs-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita">hazardous-materials-controls</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita">storage-systems</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita">ppe</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita">monitoring-equipment</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita">hazmat-policy</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita">purpose-statement</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita">control-measures</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita">compliance-objectives</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita">leadership-accountability</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita">hazardous-materials-management</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita">chemical-handling</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita">glass-manufacturing-processes</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita">plant-safety</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita">environmental-protection</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;37:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;38:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Purpose" name="title" xtrc="othermeta:1;41:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="Explains the purpose of hazardous materials management controls, policy objectives and alignment to safety and environmental requirements." name="shortdesc" xtrc="othermeta:2;42:188" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;43:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;44:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;45:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;46:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;47:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;48:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="chemical storage;hazmat cupboards;ppe;spill kits" name="entities" xtrc="othermeta:9;49:97" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:environment health safety;usecase:hazardous materials policy;industry:glass manufacturing heavy machinery and industrial equipment" name="taxonomy" xtrc="othermeta:10;50:186" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="hazardous materials,purpose,policy,controls,compliance" name="tags" xtrc="othermeta:11;51:99" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="state purpose of hazardous materials management and safety objectives" name="usecase" xtrc="othermeta:12;52:117" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita"/>
+      </metadata>
+   </prolog>
+   
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;56:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita">
+      <p class="- topic/p " xtrc="p:1;57:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_purpose.dita">Space has developed a set of mandatory Life Saving Protocols that set a minimum standard and minimum performance expectations for managing high-level hazards common to the glass industry.</p>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-01-106\EHS-Space/EHS-01-106?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-01-106/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1CD4AF4-BB01-11F0-1806-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita">Scope</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita">
+         <created class="- topic/created " date="2025-12-02T10:00:00+05:30" xtrc="created:1;12:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T10:00:00+05:30" xtrc="revised:1;13:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita">
+         <audience class="- topic/audience " otherprops="operations teams,environmental managers,maintenance personnel,safety officers" type="role" xtrc="audience:1;16:124" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita">metr-ehs-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita">hazmat-storage-systems</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita">spill-containment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita">monitoring-instruments</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita">ppe</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita">scope-definition</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita">applicability</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita">exclusion-criteria</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita">control-boundaries</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita">responsibility-assignment</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita">chemical-handling</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita">plant-storage-areas</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita">waste-management</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita">regulatory-compliance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita">environmental-protection</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;37:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;38:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Scope" name="title" xtrc="othermeta:1;41:51" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="Defines scope and boundaries for hazardous materials management including storage, handling and disposal across the plant." name="shortdesc" xtrc="othermeta:2;42:172" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;43:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;44:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;45:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;46:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;47:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;48:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="chemical stores;waste streams;spill kits;containment systems" name="entities" xtrc="othermeta:9;49:109" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:hazardous materials management;usecase:scope and applicability;industry:glass manufacturing heavy machinery and industrial equipment" name="taxonomy" xtrc="othermeta:10;50:188" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="scope,hazmat,storage,handling,environmental" name="tags" xtrc="othermeta:11;51:88" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="define scope for hazardous materials management and controls" name="usecase" xtrc="othermeta:12;52:108" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita"/>
+      </metadata>
+   </prolog>
+   
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;56:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita">
+      <ol class="- topic/ol " xtrc="ol:1;57:31" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita">
+         <li class="- topic/li " xtrc="li:1;58:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita">This protocol applies to all Space employees, contractors and visitors, and all operations including manufacturing facilities, technical centres, offices &amp; administrative buildings. All sites in all regions are expected to develop site specific procedures to comply with this protocol.</li>
+         <li class="- topic/li " xtrc="li:2;59:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita">Requirements of this protocol will apply to the control of hazards and risks related to
+            the accumulation, storage, handling, use and disposal of hazardous materials. For the
+            purpose of this protocol, hazardous materials relate to substances, mixtures, article
+            and wastes handled, generated and stored in the workplace. Sites must comply with any
+            applicable local legislation not specified in section <xref class="- topic/xref " href="EHS-01-106_life_saving_protocol-hazardous_materials_management.dita#r1CD06ED-BB01-11F0-1011-09173F13E4C5" xtrc="xref:1;63:139" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_scope.dita" type="reference"><?ditaot usertext?>3</xref>.</li>
+      </ol>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-01-106\EHS-Space/EHS-01-106?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-01-106/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="r1CD06ED-BB01-11F0-1011-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="reference:1;7:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">Process Requirements</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">
+         <created class="- topic/created " date="2025-12-02T10:00:00+05:30" xtrc="created:1;12:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T10:00:00+05:30" xtrc="revised:1;13:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">
+         <audience class="- topic/audience " otherprops="operations teams,environmental managers,safety officers,maintenance personnel" type="role" xtrc="audience:1;16:124" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">metr-ehs-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">process-controls</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">handling-procedures</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">storage-guidelines</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">waste-disposal-systems</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">process-requirements</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">handling-procedures</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">spill-response</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">labelling-and-msds</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">inspection-and-monitoring</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">chemical-handling</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">plant-operations</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">environmental-controls</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">regulatory-compliance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">hazmat-storage-areas</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;37:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;38:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Process Requirements" name="title" xtrc="othermeta:1;41:66" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita"/>
+         <othermeta class="- topic/othermeta " content="Specifies process requirements for safe handling, storage, labelling, monitoring and disposal of hazardous materials." name="shortdesc" xtrc="othermeta:2;42:167" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;43:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;44:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;45:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;46:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;47:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;48:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita"/>
+         <othermeta class="- topic/othermeta " content="msds sheets;label systems;storage cabinets;spill kits;monitoring sensors" name="entities" xtrc="othermeta:9;49:121" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:process safety;usecase:hazmat process requirements;industry:glass manufacturing heavy machinery and industrial equipment" name="taxonomy" xtrc="othermeta:10;50:176" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita"/>
+         <othermeta class="- topic/othermeta " content="process requirements,handling,storage,labelling,monitoring" name="tags" xtrc="othermeta:11;51:103" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita"/>
+         <othermeta class="- topic/othermeta " content="define procedural requirements for hazmat handling and storage" name="usecase" xtrc="othermeta:12;52:110" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita"/>
+      </metadata>
+   </prolog>
+   
+   <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;56:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">
+      <section class="- topic/section " xtrc="section:1;57:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">
+         <ol class="- topic/ol " xtrc="ol:1;58:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">
+            <li class="- topic/li " xtrc="li:1;59:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">Conduct an assessment to determine what hazardous materials need to be stored onsite, and the maximum quantity of those materials.</li>
+            <li class="- topic/li " xtrc="li:2;60:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">Obtain Safety Data Sheets (SDS) from manufacturer, importer or supplier and ensure that SDS’s are not older than four years, and are accessible to employees, contractors, and emergency services.<ol class="- topic/ol " xtrc="ol:2;60:255" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">
+                  <li class="- topic/li " xtrc="li:3;61:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">Contractors shall supply SDS’s for any hazardous materials they bring onsite.</li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:4;64:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">Conduct formal hazardous materials risk assessments and document the controls required to manage the exposure prior to new materials being introduced onsite.<ol class="- topic/ol " xtrc="ol:3;64:218" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">
+                  <li class="- topic/li " xtrc="li:5;65:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">No new chemical labeled with pictogram GHS08 (“health hazard”) shall be introduced without the written agreement from an industrial hygienist or EHS manager.</li>
+                  <li class="- topic/li " xtrc="li:6;66:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">The documented risk assessments shall be reviewed every four (4) years, or sooner in case of relevant changes.</li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:7;69:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">Controls implemented shall be consistent with the hierarchy of control, and all controls shall be maintained and tested to ensure that they effectively manage the the associated hazards and risks.</li>
+            <li class="- topic/li " xtrc="li:8;70:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">Maintain a register/database of hazardous materials and ensure that this information is
+               accessible to employees, contractors, and emergency services.</li>
+            <li class="- topic/li " xtrc="li:9;72:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">Ensure that hazardous substances and dangerous goods are securely stored, and that they are labeled, ventilated, and separated from incompatable materials. This shall be done in accordance with local regulatory requirements.</li>
+            <li class="- topic/li " xtrc="li:10;73:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">Containers and pipework used to carry and/or transport chemicals shall be suitable and appropriately labeled.</li>
+            <li class="- topic/li " xtrc="li:11;74:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">Locate vessels, containers, bulk stores, and process areas containing hazardous materials within areas of adequate design and size to safety contain spills and allow for effective response to spills.</li>
+            <li class="- topic/li " xtrc="li:12;75:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">Implement a management plan to minimize the risk to human health and the environment due to a release/spill of hazardous materials.<ol class="- topic/ol " xtrc="ol:4;75:192" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">
+                  <li class="- topic/li " xtrc="li:13;76:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">Suitable emergency plan provisions shall be in place for hazardous materials.</li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:14;79:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">Hazardous waste materials/substances shall be stored and disposed of in accordance with local laws and regulations, and by a licensed disposal company or contractor.</li>
+            <li class="- topic/li " xtrc="li:15;80:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">Personnel involved in the accumulation, storage, handling, use, and disposal of hazardous substances shall be adequately trained, supervised, and instructed.<ol class="- topic/ol " xtrc="ol:5;80:218" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">
+                  <li class="- topic/li " xtrc="li:16;81:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">Employees shall be provided with, and wear, suitable PPE appropriate to the task.</li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:17;84:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">Formal schedules shall be developed for industrial hygiene and occupational health monitoring based on risk assessments.<ol class="- topic/ol " xtrc="ol:6;84:181" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">
+                  <li class="- topic/li " xtrc="li:18;85:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_process_requirements.dita">Exposure monitoring shall be conducted in accordance with local legislative requirements.</li>
+               </ol>
+            </li>
+         </ol>
+      </section>
+   </refbody>
+</reference><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-01-106\EHS-Space/EHS-01-106?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-01-106/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept audience="internal" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1CCD929-BB01-11F0-2110-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;8:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">
+   <title class="- topic/title " xtrc="title:1;9:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">Approval</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;10:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">
+      <author class="- topic/author " xtrc="author:1;11:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;12:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">
+         <created class="- topic/created " date="2025-12-02T10:00:00+05:30" xtrc="created:1;13:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T10:00:00+05:30" xtrc="revised:1;14:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;16:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">
+         <audience class="- topic/audience " otherprops="executive leadership,environmental managers,safety and compliance officers,plant management" type="role" xtrc="audience:1;17:138" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;18:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">metr-ehs-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">approval-workflow</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">compliance-signoff</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">policy-acceptance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">document-repository</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">approval-process</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">signoff-criteria</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">management-review</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">role-based-authorization</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">regulatory-acknowledgement</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">hazardous-materials-management</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">environmental-compliance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">plant-governance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">policy-enforcement</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;36:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">operational-accountability</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;38:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;40:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Approval" name="title" xtrc="othermeta:1;42:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="Lists approvers, approval workflow and criteria required for hazardous materials management documents and controls." name="shortdesc" xtrc="othermeta:2;43:165" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;44:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;45:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;46:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;47:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;48:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;49:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="approvers;signoff records;regulatory references" name="entities" xtrc="othermeta:9;50:96" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:governance and compliance;usecase:approval and signoff;industry:glass manufacturing heavy machinery and industrial equipment" name="taxonomy" xtrc="othermeta:10;51:180" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="approval,signoff,compliance,hazmat,governance" name="tags" xtrc="othermeta:11;52:90" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="record approval steps and approver responsibilities for hazmat controls" name="usecase" xtrc="othermeta:12;53:119" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita"/>
+      </metadata>
+   </prolog>
+   
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;57:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">
+      <p class="- topic/p " xtrc="p:1;58:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">Sanctioning Representatives of the Global Safety Team<table class="- topic/table " id="table_f2x_33t_4zb" xtrc="table:1;58:135" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">
+            <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:1;59:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">
+               <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="22.68%" xtrc="colspec:1;60:82" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita"/>
+               <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="66%" xtrc="colspec:2;61:79" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita"/>
+               <thead class="- topic/thead " xtrc="thead:1;62:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">
+                  <row class="- topic/row " xtrc="row:1;63:45" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">
+                     <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;64:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">
+                        <p class="- topic/p " xtrc="p:2;65:47" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">Region</p>
+                     </entry>
+                     <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:2;67:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">
+                        <p class="- topic/p " xtrc="p:3;68:47" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">Representative</p>
+                     </entry>
+                  </row>
+               </thead>
+               <tbody class="- topic/tbody " xtrc="tbody:1;72:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">
+                  <row class="- topic/row " xtrc="row:2;73:45" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">
+                     <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:3;74:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">
+                        <p class="- topic/p " xtrc="p:4;75:47" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">Asia Pacific</p>
+                     </entry>
+                     <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:4;77:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">
+                        <p class="- topic/p " xtrc="p:5;78:47" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">Steve Bourke</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row " xtrc="row:3;81:45" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">
+                     <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:5;82:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">
+                        <p class="- topic/p " xtrc="p:6;83:47" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">Europe</p>
+                     </entry>
+                     <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:6;85:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">
+                        <p class="- topic/p " xtrc="p:7;86:47" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">Tim Neal</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row " xtrc="row:4;89:45" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">
+                     <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:7;90:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">
+                        <p class="- topic/p " xtrc="p:8;91:47" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">Latin America</p>
+                     </entry>
+                     <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:8;93:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">
+                        <p class="- topic/p " xtrc="p:9;94:47" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">Isabela Malpighi</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row " xtrc="row:5;97:45" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">
+                     <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:9;98:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">
+                        <p class="- topic/p " xtrc="p:10;99:47" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">North America</p>
+                     </entry>
+                     <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:10;101:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">
+                        <p class="- topic/p " xtrc="p:11;102:47" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">Ken Smigielski </p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row " xtrc="row:6;105:45" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">
+                     <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:11;106:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">
+                        <p class="- topic/p " xtrc="p:12;107:47" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">Global Technology</p>
+                     </entry>
+                     <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" xtrc="entry:12;109:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">
+                        <p class="- topic/p " xtrc="p:13;110:47" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_approval.dita">Joseph St. John</p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </p>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-01-106\EHS-Space/EHS-01-106?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-01-106/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept audience="internal" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1CD34C0-BB01-11F0-1305-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;8:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">
+   <title class="- topic/title " xtrc="title:1;9:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">Revision History</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;10:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">
+      <author class="- topic/author " xtrc="author:1;11:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;12:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">
+         <created class="- topic/created " date="2025-12-02T10:00:00+05:30" xtrc="created:1;13:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T10:00:00+05:30" xtrc="revised:1;14:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;16:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">
+         <audience class="- topic/audience " otherprops="documentation manager,compliance officers,environmental managers,plant management" type="role" xtrc="audience:1;17:128" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;18:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">metr-ehs-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">version-control</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">audit-records</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">change-log</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">document-repository</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">revision-history</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">change-approval</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">document-review</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">revision-notes</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">retention-policy</indexterm>
+            
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">regulatory-compliance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">ehs-management</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;34:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">environmental-reporting</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;35:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">plant-governance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;36:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">document-lifecycle</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;38:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;39:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;40:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Revision History" name="title" xtrc="othermeta:1;42:62" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="Revision history for hazardous materials management topic including approvals and change records for audit purposes." name="shortdesc" xtrc="othermeta:2;43:166" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;44:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;45:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;46:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;47:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;48:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;49:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="revision entries;approvers;change rationale;audit trails" name="entities" xtrc="othermeta:9;50:105" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:document governance;usecase:revision tracking;industry:glass manufacturing heavy machinery and industrial equipment" name="taxonomy" xtrc="othermeta:10;51:171" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="revision,version,audit,compliance,records" name="tags" xtrc="othermeta:11;52:86" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="maintain revision history for hazmat topic for auditing" name="usecase" xtrc="othermeta:12;53:103" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita"/>
+      </metadata>
+   </prolog>
+   
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;57:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">
+      <p class="- topic/p " xtrc="p:1;58:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">
+         <table class="- topic/table " id="table_kbb_k3t_4zb" xtrc="table:1;59:63" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">
+            <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:1;60:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">
+               <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="45.08%" xtrc="colspec:1;61:82" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita"/>
+               <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="45.08%" xtrc="colspec:2;62:82" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita"/>
+               <tbody class="- topic/tbody " xtrc="tbody:1;63:46" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">
+                  <row class="- topic/row " xtrc="row:1;64:45" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">
+                     <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;65:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">2015-12-30</entry>
+                     <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:2;66:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">
+                        <p class="- topic/p " xtrc="p:2;67:47" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">Approved by Jim Joyce, EHS V P</p>
+                        <p class="- topic/p " xtrc="p:3;68:47" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">Original Issue</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row " xtrc="row:2;71:45" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">
+                     <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:3;72:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">2017-09-08</entry>
+                     <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:4;73:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">
+                        <p class="- topic/p " xtrc="p:4;74:47" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">Approved by Joseph St. John, GT EHS Manager</p>
+                        <p class="- topic/p " xtrc="p:5;75:47" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">Revised with the following changes:</p>
+                        <p class="- topic/p " xtrc="p:6;76:47" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">Reorganized sections about formal risk assessment and documentation of
+                           controls.</p>
+                        <p class="- topic/p " xtrc="p:7;78:47" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">Clarified contractor responsibility</p>
+                        <p class="- topic/p " xtrc="p:8;79:47" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">Requirement of written agreement from industrial hygienist or EHS manager
+                           for chemical label.</p>
+                        <p class="- topic/p " xtrc="p:9;81:47" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">Moved workplace monitoring of hazardous materials to lower on page.</p>
+                        <p class="- topic/p " xtrc="p:10;82:47" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-01-106/EHS-01-106_revision_history.dita">Moved training section to lower on page and required use of PPE.</p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </p>
+   </conbody>
+</concept></concept></dita>

@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space/EHS-02-125?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-02-125/?><?path2rootmap-uri ./?><?path2project ../../?><?path2project-uri ../../?><dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3"><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-02-125\EHS-Space/EHS-02-125?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-02-125/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1E1B2A1-BB01-11F0-1922-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita">Respirable Crystalline Silica Management</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita">
+         <created class="- topic/created " date="2025-12-02T15:00:00+05:30" xtrc="created:1;12:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T15:00:00+05:30" xtrc="revised:1;13:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita">
+         <audience class="- topic/audience " otherprops="safety and compliance officers, operations teams, maintenance personnel, occupational health professionals, industrial hygienists" type="role" xtrc="audience:1;16:176" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita">
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;18:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita">air-sampling-pumps</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita">respiratory-protection</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita">local-exhaust-ventilation</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita">industrial-vacuum-systems</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita">silica-testing-kits</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita">exposure-assessment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita">air-monitoring-protocol</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita">engineering-controls-implementation</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita">health-surveillance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita">worker-training-on-silica</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita">respirable-crystalline-silica</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita">cutting-and-grinding-operations</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita">furnace-refractory-work</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita">material-handling-dust</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita">occupational-exposure-limits</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;34:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;35:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;36:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="09-05-2017" name="RevisionDate" xtrc="othermeta:2;21:90" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125.ditamap"/><othermeta class="- topic/othermeta " content="EHS-02-125" name="DocumentNumber" xtrc="othermeta:1;20:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125.ditamap"/><othermeta class="- topic/othermeta " content="Respirable Crystalline Silica Management" name="title" xtrc="othermeta:1;38:86" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita"/>
+         <othermeta class="- topic/othermeta " content="Controls, monitoring, and health measures for respirable crystalline silica exposure in glass manufacturing operations." name="shortdesc" xtrc="othermeta:2;39:169" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;40:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;41:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;42:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;43:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;44:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;45:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita"/>
+         <othermeta class="- topic/othermeta " content="air-sampling-equipment;lev-systems;ppe-respirators;health-surveillance-records;exposure-limits" name="entities" xtrc="othermeta:9;46:143" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:occupational-health;usecase:silica-exposure-management;industry:glass manufacturing heavy machinery and industrial equipment" name="taxonomy" xtrc="othermeta:10;47:180" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita"/>
+         <othermeta class="- topic/othermeta " content="silica,exposure-control,air-monitoring,health-surveillance" name="tags" xtrc="othermeta:11;48:103" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita"/>
+         <othermeta class="- topic/othermeta " content="manage and minimise silica exposure risks" name="usecase" xtrc="othermeta:12;49:89" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;52:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_respirable_crystalline_silica_management.dita"/>
+<?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-02-125\EHS-Space/EHS-02-125?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-02-125/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1E182CD-BB01-11F0-1098-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita">Purpose</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita">
+         <created class="- topic/created " date="2025-12-02T15:00:00+05:30" xtrc="created:1;12:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T15:00:00+05:30" xtrc="revised:1;13:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita">
+         <audience class="- topic/audience " otherprops="executive leadership, plant management, safety and compliance officers, operations teams, maintenance personnel, plant workforce" type="role" xtrc="audience:1;16:175" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita">
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;18:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita">metr-ehs-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita">air-monitoring-equipment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita">personal-protective-equipment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita">dust-extraction-systems</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita">industrial-filters</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita">ehs-policy-definition</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita">incident-prevention-framework</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita">leadership-accountability</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita">hazard-identification</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita">training-and-competency</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita">glass-manufacturing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita">furnace-operations</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita">maintenance-and-mro</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita">plant-safety-culture</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita">regulatory-compliance</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;34:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;35:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;36:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Purpose - EHS Framework Overview" name="title" xtrc="othermeta:1;38:78" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="Defines the purpose of the EHS framework to drive zero incident culture and leadership accountability in glass manufacturing." name="shortdesc" xtrc="othermeta:2;39:175" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;40:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;41:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;42:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;43:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;44:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;45:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="management leadership;ehs-policy;training programs;risk-registers;performance-metrics" name="entities" xtrc="othermeta:9;46:134" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:environmental-health-safety;usecase:ehs-governance;industry:glass manufacturing heavy machinery and industrial equipment" name="taxonomy" xtrc="othermeta:10;47:176" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="ehs-framework,zero-incident,leadership-accountability,risk-management" name="tags" xtrc="othermeta:11;48:114" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita"/>
+         <othermeta class="- topic/othermeta " content="establish organizational ehs purpose and objectives" name="usecase" xtrc="othermeta:12;49:99" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita"/>
+      </metadata>
+   </prolog>
+   
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;53:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita">
+      <p class="- topic/p " xtrc="p:1;54:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_purpose.dita">The purpose of this procedure is to protect human life and prevent ill health by establishing a system to inform employees of the potentially hazardous properties of respirable crystalline silica (RCS).</p>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-02-125\EHS-Space/EHS-02-125?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-02-125/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1E135E5-BB01-11F0-1775-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita">Application</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita">
+         <created class="- topic/created " date="2025-12-02T15:00:00+05:30" xtrc="created:1;12:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T15:00:00+05:30" xtrc="revised:1;13:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita">
+         <audience class="- topic/audience " otherprops="operations teams, plant management, safety and compliance officers, maintenance personnel, reliability engineers" type="role" xtrc="audience:1;16:159" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita">
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;18:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita">metr-ehs-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita">health-safety-tools</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita">monitoring-systems</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita">lockout-tagout-kits</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita">emergency-response-equipment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita">policy-application</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita">operational-controls</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita">permit-to-work-process</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita">contractor-management</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita">incident-reporting</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita">production-floor-activities</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita">maintenance-workflows</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita">shift-handovers</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita">contractor-works</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita">regulatory-inspections</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;34:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;35:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;36:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Application - How the EHS Framework Is Applied" name="title" xtrc="othermeta:1;38:92" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita"/>
+         <othermeta class="- topic/othermeta " content="Explains how the EHS framework is applied across operations, maintenance, contractor works and emergency response." name="shortdesc" xtrc="othermeta:2;39:164" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;40:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;41:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;42:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;43:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;44:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;45:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita"/>
+         <othermeta class="- topic/othermeta " content="permits-to-work;contractor-register;emergency-contacts;inspection-checklists;maintenance-schedules" name="entities" xtrc="othermeta:9;46:147" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:environmental-health-safety;usecase:policy-application;industry:glass manufacturing heavy machinery and industrial equipment" name="taxonomy" xtrc="othermeta:10;47:180" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita"/>
+         <othermeta class="- topic/othermeta " content="application,operational-controls,permits,contractor-management" name="tags" xtrc="othermeta:11;48:107" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita"/>
+         <othermeta class="- topic/othermeta " content="apply ehs rules to daily operations and maintenance" name="usecase" xtrc="othermeta:12;49:99" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;52:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita">
+      <p class="- topic/p " xtrc="p:1;53:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_application.dita">This procedure applies to all Space employees who may be exposed to RCS in any Space facility. Typically, these employees shall be in the Batch and Furnace Department, and maintenance employees and cleaners who regularly work in the Batch and Furnace Department.</p>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-02-125\EHS-Space/EHS-02-125?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-02-125/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1E1E456-BB01-11F0-6541-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;7:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita">Scope</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita">
+         <created class="- topic/created " date="2025-12-02T15:00:00+05:30" xtrc="created:1;12:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T15:00:00+05:30" xtrc="revised:1;13:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita">
+         <audience class="- topic/audience " otherprops="plant management, operations teams, maintenance personnel, safety and compliance officers, industrial engineers" type="role" xtrc="audience:1;16:158" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita">
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;18:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita">metr-ehs-space</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita">process-control-systems</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita">material-handling-equipment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita">ventilation-systems</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita">maintenance-tools</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita">scope-definition</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita">area-boundary-identification</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita">role-responsibility-mapping</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita">compliance-scope-assessment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita">process-exclusions</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita">glass-production-line</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita">melting-furnace-area</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita">cold-end-operations</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita">warehouse-and-logistics</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita">contractor-activities</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;34:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;35:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;36:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Scope - EHS Applicability and Boundaries" name="title" xtrc="othermeta:1;38:86" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="Specifies organisational boundaries, included areas, and roles covered by the EHS framework for glass manufacturing sites." name="shortdesc" xtrc="othermeta:2;39:172" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;40:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;41:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;42:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;43:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;44:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;45:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="production lines;furnaces;storage-areas;contractor-zones;maintenance-shops" name="entities" xtrc="othermeta:9;46:123" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:environmental-health-safety;usecase:scope-and-boundary-definition;industry:glass manufacturing heavy machinery and industrial equipment" name="taxonomy" xtrc="othermeta:10;47:191" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="scope,applicability,site-boundaries,roles-and-responsibilities" name="tags" xtrc="othermeta:11;48:107" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita"/>
+         <othermeta class="- topic/othermeta " content="define ehs coverage across plant functions" name="usecase" xtrc="othermeta:12;49:90" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;52:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita">
+      <p class="- topic/p " xtrc="p:1;53:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita">This procedure establishes the minimum requirements for protecting employees from respirable crystalline silica exposure and consequent illnesses. </p>
+      <p class="- topic/p " xtrc="p:2;54:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_scope.dita">In locations where more stringent country, state, or provincial standards or requirements
+         exist, the more stringent requirements shall be followed.</p>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-02-125\EHS-Space/EHS-02-125?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-02-125/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="r1E19A93-BB01-11F0-1692-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="reference:1;7:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">Reference</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">
+         <created class="- topic/created " date="2025-12-02T15:00:00+05:30" xtrc="created:1;12:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T15:00:00+05:30" xtrc="revised:1;13:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">
+         <audience class="- topic/audience " otherprops="safety and compliance officers, plant management, operations teams, external auditors" type="role" xtrc="audience:1;16:132" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;18:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">regulatory-guidance-documents</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">material-safety-data-sheets</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">industry-standards</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">testing-laboratories</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">equipment-manuals</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">compliance-references</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">standards-mapping</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">document-control</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">audit-preparation</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">msds-referencing</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">regulatory-inspections</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">environmental-permitting</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">plant-certifications</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">supplier-specifications</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">operational-compliance</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;34:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;35:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;36:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Reference - EHS Standards and Sources" name="title" xtrc="othermeta:1;38:83" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="Key references, standards and documents supporting EHS policy, compliance and operational controls for the plant." name="shortdesc" xtrc="othermeta:2;39:163" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;40:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;41:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;42:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;43:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;44:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;45:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="regulators;standards-bodies;msds;supplier-documents;test-reports" name="entities" xtrc="othermeta:9;46:113" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:environmental-health-safety;usecase:reference-and-standards;industry:glass manufacturing heavy machinery and industrial equipment" name="taxonomy" xtrc="othermeta:10;47:185" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="reference,standards,msds,compliance" name="tags" xtrc="othermeta:11;48:80" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita"/>
+         <othermeta class="- topic/othermeta " content="provide authoritative references for compliance and audits" name="usecase" xtrc="othermeta:12;49:106" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita"/>
+      </metadata>
+   </prolog>
+   <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;52:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">
+      <section class="- topic/section " xtrc="section:1;53:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">
+         <ul class="- topic/ul " xtrc="ul:1;54:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">
+            <li class="- topic/li " xtrc="li:1;55:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">EHS-02-112-F001 Job Hazard Analysis and PPE Assessment </li>
+            <li class="- topic/li " xtrc="li:2;56:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">EHS-02-114 Respiratory Protection</li>
+            <li class="- topic/li " xtrc="li:3;57:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">EHS-02-125-F001 Exposure Assessment Results</li>
+            <li class="- topic/li " xtrc="li:4;58:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">EHS-02-125-F002 Occupational Sampling Survey</li>
+            <li class="- topic/li " xtrc="li:5;59:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">EHS-02-125-F003 Industrial Hygiene Monitoring Summary</li>
+            <li class="- topic/li " xtrc="li:6;60:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">EHS-02-125-F004 Exposure Control Plan</li>
+            <li class="- topic/li " xtrc="li:7;61:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_reference.dita">EHS-02-125-F005 Central Vacuum Equipment Evaluation</li>
+         </ul>
+      </section>
+   </refbody>
+</reference><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-02-125\EHS-Space/EHS-02-125?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-02-125/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="r1E16952-BB01-11F0-1731-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="reference:1;7:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+   <title class="- topic/title " xtrc="title:1;8:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Procedure</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;9:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+      <author class="- topic/author " xtrc="author:1;10:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;11:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+         <created class="- topic/created " date="2025-12-02T15:00:00+05:30" xtrc="created:1;12:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T15:00:00+05:30" xtrc="revised:1;13:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;15:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+         <audience class="- topic/audience " otherprops="maintenance personnel, machine operators, safety officers, reliability engineers, industrial engineers" type="role" xtrc="audience:1;16:149" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;17:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;18:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">lockout-tagout-equipment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">confined-space-monitor</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">breathing-apparatus</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">dust-control-systems</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">inspection-tools</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">permit-to-work</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">lockout-tagout-procedure</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">pre-task-risk-assessment</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">equipment-isolation</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">routine-inspection</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">maintenance-activity</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">shutdown-procedures</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">plant-isolation-zones</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">hot-work-permit-areas</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">contractor-worksites</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;34:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;35:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;36:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Procedure - EHS Operational Procedures" name="title" xtrc="othermeta:1;38:84" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="Operational procedures for task risk assessment, permit to work and safe maintenance practices in glass manufacturing plants." name="shortdesc" xtrc="othermeta:2;39:175" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;40:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;41:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;42:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;43:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;44:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;45:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="permits;isolation-points;inspection-checklists;task-safety-analyses;maintenance-logs" name="entities" xtrc="othermeta:9;46:133" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:environmental-health-safety;usecase:operational-procedures;industry:glass manufacturing heavy machinery and industrial equipment" name="taxonomy" xtrc="othermeta:10;47:184" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="procedure,permit-to-work,lockout-tagout,task-risk-assessment" name="tags" xtrc="othermeta:11;48:105" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita"/>
+         <othermeta class="- topic/othermeta " content="provide step by step safe work procedures" name="usecase" xtrc="othermeta:12;49:89" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita"/>
+      </metadata>
+   </prolog>
+   
+   <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;53:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+      <section class="- topic/section " xtrc="section:1;54:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+         <ol class="- topic/ol " xtrc="ol:1;55:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+            <li class="- topic/li " xtrc="li:1;56:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Responsibility<ol class="- topic/ol " xtrc="ol:2;56:75" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                  <li class="- topic/li " xtrc="li:2;57:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">The facility manager shall be responsible for the implementation of the Respirable Crystalline Silica Management Program. Duties supporting this objective shall be assigned to the Plant EHS Manager, Plant Engineer, Batch and Furnace Supervisor, or others as designated.</li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:3;60:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Risk Assessment<ol class="- topic/ol " xtrc="ol:3;60:76" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                  <li class="- topic/li " xtrc="li:4;61:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Each facility shall conduct a Respirable Crystalline Silica (RCS) risk assessment. The risk assessment shall be based on the potential RCS airborne concentrations for the jobs and tasks of Similar Exposure Groups (SEGs).</li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:5;64:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Exposure Assessment<ol class="- topic/ol " xtrc="ol:4;64:80" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                  <li class="- topic/li " xtrc="li:6;65:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Introduction<ol class="- topic/ol " xtrc="ol:5;65:79" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                        <li class="- topic/li " xtrc="li:7;66:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Silica dust monitoring shall be conducted to determine employee exposure to RCS. The sampling shall be conducted by a competent person.</li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:8;69:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Industrial Hygiene Exposure Assessment<ol class="- topic/ol " xtrc="ol:6;69:105" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                        <li class="- topic/li " xtrc="li:9;70:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">An Exposure Assessment Strategy shall be developed to include:<ol class="- topic/ol " xtrc="ol:7;70:135" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                              <li class="- topic/li " xtrc="li:10;71:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Exposure assessment objectives and goals.</li>
+                              <li class="- topic/li " xtrc="li:11;72:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Information needed to characterize the workplace, workforce, and
+                              environmental agents.</li>
+                              <li class="- topic/li " xtrc="li:12;74:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Similar exposure groups (SEG’s) which includes groups of workers
+                              having the same general exposure profile for the agents being
+                              evaluated because of similarity and frequency of tasks they
+                              perform.</li>
+                              <li class="- topic/li " xtrc="li:13;78:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Judgements on acceptability of exposure assessments: <ol class="- topic/ol " xtrc="ol:8;78:132" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                                    <li class="- topic/li " xtrc="li:14;79:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Unacceptable Exposures – a control plan of action shall be
+                                    developed </li>
+                                    <li class="- topic/li " xtrc="li:15;81:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Uncertain Exposures – additional information shall be
+                                    collected</li>
+                                    <li class="- topic/li " xtrc="li:16;83:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Acceptable Exposures – exposures judged acceptable shall have
+                                    no additional actions, until it is time for reassessment. </li>
+                                 </ol>
+                              </li>
+                              <li class="- topic/li " xtrc="li:17;87:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Health Control Plan – for unacceptable assessments, the effectiveness
+                              of existing controls shall be evaluated and a determination shall be
+                              made whether new or modified controls are needed.</li>
+                              <li class="- topic/li " xtrc="li:18;90:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Reassessment – frequency for additional monitoring shall be
+                              determined.</li>
+                              <li class="- topic/li " xtrc="li:19;92:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Documentation – exposure assessment shall be communicated in a timely
+                              and effective fashion to all potentially affected workers. The entire
+                              exposure assessment process shall be documented.</li>
+                           </ol>
+                        </li>
+                        <li class="- topic/li " xtrc="li:20;97:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Objectives for Exposure Assessment shall be developed:<ol class="- topic/ol " xtrc="ol:9;97:127" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                              <li class="- topic/li " xtrc="li:21;98:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Personal Sampling or Area Sampling <ol class="- topic/ol " xtrc="ol:10;98:114" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                                    <li class="- topic/li " xtrc="li:22;99:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Position/Work Task to be monitored shall be identified. </li>
+                                    <li class="- topic/li " xtrc="li:23;100:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Area to be monitored as elevated exposure or low exposure
+                                    expected shall be identified.</li>
+                                    <li class="- topic/li " xtrc="li:24;102:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Relevant information shall be gathered including: employee
+                                    respiratory protection records; training, fit testing, and
+                                    engineering control records such as; ventilation status,
+                                    preventative maintenance records, etc.</li>
+                                    <li class="- topic/li " xtrc="li:25;106:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Form EHS-02-125-F002 Occupational Sampling Survey, or
+                                       equivalent, shall be completed during and after assessment
+                                       for each sample collected.</li>
+                                 </ol>
+                              </li>
+                              <li class="- topic/li " xtrc="li:26;111:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Sampling Data Assessment <ol class="- topic/ol " xtrc="ol:11;111:104" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                                    <li class="- topic/li " xtrc="li:27;112:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Once sampling is complete, Form EHS-02-125-F001 Exposure
+                                       Assessment Results, or equivalent, shall be used to record
+                                       the assessment results for RCS. </li>
+                                    <li class="- topic/li " xtrc="li:28;115:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Based on the information, a judgment shall be made on each
+                                    sample collected as to whether it is unacceptable, uncertain, or
+                                    acceptable.</li>
+                                    <li class="- topic/li " xtrc="li:29;118:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Determine whether additional controls, additional information,
+                                    or additional actions are required.</li>
+                                 </ol>
+                              </li>
+                              <li class="- topic/li " xtrc="li:30;122:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Affected employees shall be notified using Form EHS-02-125-F003
+                                 Industrial Hygiene Monitoring Summary, or equivalent. Notification
+                                 of employee sampling results shall be given in a timely and
+                                 effective fashion.</li>
+                           </ol>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:31;130:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Sampling Method<ol class="- topic/ol " xtrc="ol:12;130:82" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                        <li class="- topic/li " xtrc="li:32;131:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">A validated, well-established, and locally recognized sampling method shall be used to collect air/dust samples. For example:<ol class="- topic/ol " xtrc="ol:13;131:198" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                              <li class="- topic/li " xtrc="li:33;132:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">National Institute for Occupational Safety and Health (NIOSH) method 7500.</li>
+                              <li class="- topic/li " xtrc="li:34;133:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Occupational Safety and Health Administration (OSHA) ID-142 method.</li>
+                              <li class="- topic/li " xtrc="li:35;134:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">International Organization for Standardization (ISO) 16258 method.</li>
+                           </ol>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:36;139:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Calibration<ol class="- topic/ol " xtrc="ol:14;139:78" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                        <li class="- topic/li " xtrc="li:37;140:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Calibration of sampling equipment shall be verified/conducted prior to each day of sampling and verified at the end of each sampling shift.</li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:38;143:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Collection Apparatus<ol class="- topic/ol " xtrc="ol:15;143:87" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                        <li class="- topic/li " xtrc="li:39;144:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">The collection apparatus shall not permit for the escape of respirable dusts once collected. For example:<ol class="- topic/ol " xtrc="ol:16;144:178" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                              <li class="- topic/li " xtrc="li:40;145:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Tared (pre-weighed) PVC filters mounted in a cyclone sampling apparatus where dust can be collected and deposited on the filter, or</li>
+                              <li class="- topic/li " xtrc="li:41;146:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">A rotating polyurethane foam collection apparatus.</li>
+                           </ol>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:42;151:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Sample Volume<ol class="- topic/ol " xtrc="ol:17;151:80" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                        <li class="- topic/li " xtrc="li:43;152:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">A sample volume of at least 500 liters shall be required to assure reliable results, especially at lower concentration levels. Full shift samples are to be collected when possible. The greater the amount of shift time sampled, the greater the accuracy of the results.</li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:44;155:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Personal Samples<ol class="- topic/ol " xtrc="ol:18;155:83" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                        <li class="- topic/li " xtrc="li:45;156:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Personal samples shall be collected whenever possible, since they represent the most accurate method of determining the employee's exposure levels.  The personal samples shall be collected for SEGs with potential exposure.</li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:46;159:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Breathing Zone Samples<ol class="- topic/ol " xtrc="ol:19;159:89" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                        <li class="- topic/li " xtrc="li:47;160:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Samples shall be collected in the breathing zone of the employee by securing the sampling head to the collar of the worker.</li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:48;163:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Representative Samples<ol class="- topic/ol " xtrc="ol:20;163:89" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                        <li class="- topic/li " xtrc="li:49;164:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">When several employees are performing the same job, multiple representatives of the job category population who are expected to have the highest exposure to RCS shall be sampled, unless otherwise specified by local regulation. </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:50;167:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Analysis of Samples<ol class="- topic/ol " xtrc="ol:21;167:86" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                        <li class="- topic/li " xtrc="li:51;168:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Industrial hygiene air sample analysis shall be conducted by an accredited laboratory.</li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:52;171:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Allowable Limits<ol class="- topic/ol " xtrc="ol:22;171:83" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                        <li class="- topic/li " xtrc="li:53;172:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Once the analytical results are received from the laboratory, the results shall be compared to the local legislative limits. </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:54;175:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Data Storage<ol class="- topic/ol " xtrc="ol:23;175:79" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                        <li class="- topic/li " xtrc="li:55;176:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">The results shall be maintained as a permanent record, as required by the regulations and for use in trend analysis.  </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:56;179:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Employee Information<ol class="- topic/ol " xtrc="ol:24;179:87" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                        <li class="- topic/li " xtrc="li:57;180:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">The results of sampling shall be reviewed with the affected employees by the plant EHS Manager or designated plant person in a timely and effective fashion.</li>
+                        <li class="- topic/li " xtrc="li:58;181:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Once sampling is complete, Form EHS-02-125-F001 Exposure Assessment
+                           Results, or equivalent, shall be used to record the assessment results
+                           for RCS. </li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:59;188:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Medical Surveillance<ol class="- topic/ol " xtrc="ol:25;188:81" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                  <li class="- topic/li " xtrc="li:60;189:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Coverage<ol class="- topic/ol " xtrc="ol:26;189:75" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                        <li class="- topic/li " xtrc="li:61;190:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Each plant shall institute a Silica Medical Surveillance Program (SMSP) for all employees who could be exposed over the local/regional legislative limit. This may include employees who are assigned to the Batch &amp; Furnace Department. </li>
+                        <li class="- topic/li " xtrc="li:62;191:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">All examinations and procedures shall be performed by or under the supervision of a competent physician, at a reasonable time and place and at no cost to the employee.</li>
+                        <li class="- topic/li " xtrc="li:63;192:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">The SMSP examination can be combined with a Respiratory Protection
+                           examination using Procedure EHS-02-114 Respiratory Protection.</li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:64;196:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">SMSP - Program Administration<ol class="- topic/ol " xtrc="ol:27;196:96" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                        <li class="- topic/li " xtrc="li:65;197:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">The plant or plant EHS manager shall designate at least one employee as program administrator at their site. All components of the Space SMSP shall be implemented by the administrator. Depending on local legislation, this may include:<ol class="- topic/ol " xtrc="ol:28;197:307" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                              <li class="- topic/li " xtrc="li:66;198:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Supervision and oversight</li>
+                              <li class="- topic/li " xtrc="li:67;199:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Data collection</li>
+                              <li class="- topic/li " xtrc="li:68;200:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Computerized recordkeeping and reporting, including employee notification and respiratory clearance letter which states that the employee is approved to wear a respirator.</li>
+                           </ol>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:69;205:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">SMSP – Elements<ol class="- topic/ol " xtrc="ol:29;205:82" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                        <li class="- topic/li " xtrc="li:70;206:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Personal/Occupational/Medical History<ol class="- topic/ol " xtrc="ol:30;206:110" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                              <li class="- topic/li " xtrc="li:71;207:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">A personal/occupational/medical history shall be developed for each employee assigned to the SMSP. The physician or other licensed health care provider shall have a thorough understanding of silica-related diseases.  </li>
+                              <li class="- topic/li " xtrc="li:72;208:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">The physician or other licensed health care provider shall review past, present, and expected silica exposures and obtain the description of former, current and anticipated duties and those tasks relationship to RCS.</li>
+                              <li class="- topic/li " xtrc="li:73;209:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Review the type of personal protective equipment (PPE) to be used.</li>
+                           </ol>
+                        </li>
+                        <li class="- topic/li " xtrc="li:74;212:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Physical Exam<ol class="- topic/ol " xtrc="ol:31;212:86" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                              <li class="- topic/li " xtrc="li:75;213:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">An assessment of the cardiac and lung system. Also, examine the body extremities (to look for cyanosis, clubbing, or edema).</li>
+                              <li class="- topic/li " xtrc="li:76;214:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Tuberculosis (TB) test (baseline).  </li>
+                              <li class="- topic/li " xtrc="li:77;215:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Spirometry tests shall be performed by a qualified technician initially and then at least every three years. These shall include measurements of the employee's Forced Vital Capacity (FVC) and Forced Expiratory Volume at one second (FEV-1).</li>
+                              <li class="- topic/li " xtrc="li:78;216:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">A chest x-ray shall be performed and submitted to a physician or licensed healthcare professional certified in reading radiography for evaluation and grading of changes consistent with developing silicosis.</li>
+                              <li class="- topic/li " xtrc="li:79;217:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">A chest x-ray shall be obtained for relevant SEGs within six (6) months from employment or change of job and at a frequency of every three years, or more often as determined by a physician or other licensed health care provider. </li>
+                           </ol>
+                        </li>
+                        <li class="- topic/li " xtrc="li:80;220:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Other Testing – <ol class="- topic/ol " xtrc="ol:32;220:89" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                              <li class="- topic/li " xtrc="li:81;221:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Additional tests as deemed necessary by the physician or other licensed health care provider.</li>
+                           </ol>
+                        </li>
+                        <li class="- topic/li " xtrc="li:82;224:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Responsibility for Reporting<ol class="- topic/ol " xtrc="ol:33;224:101" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                              <li class="- topic/li " xtrc="li:83;225:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">The physician or other licensed health care provider shall review the results of the medical surveillance with the employee</li>
+                              <li class="- topic/li " xtrc="li:84;226:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">The physician or other licensed health care provider shall provide Space with a ‘fit-for-work’ certificate for the employee within thirty (30) days. </li>
+                           </ol>
+                        </li>
+                        <li class="- topic/li " xtrc="li:85;229:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita"> Record Retention<ol class="- topic/ol " xtrc="ol:34;229:90" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                              <li class="- topic/li " xtrc="li:86;230:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Medical records shall be retained for a period of thirty (30) years past the last date of work of the employee in the SMSP. These records shall be made reasonably available to the employee upon their request. The records shall be made available to the appropriate regulatory agency officials upon request.</li>
+                           </ol>
+                        </li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:87;237:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Exposure Control Plan<ol class="- topic/ol " xtrc="ol:35;237:82" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                  <li class="- topic/li " xtrc="li:88;238:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Form EHS-02-125-F004 Exposure Control Plan, or equivalent, shall be used to
+                     document an exposure control strategy for respirable crystalline silica.</li>
+                  <li class="- topic/li " xtrc="li:89;240:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">The written plan shall contain the following elements:<ol class="- topic/ol " xtrc="ol:36;240:121" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                        <li class="- topic/li " xtrc="li:90;241:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">A description of the tasks in the workplace that involve exposure to respirable crystalline silica.</li>
+                        <li class="- topic/li " xtrc="li:91;242:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">A Job Hazard Analysis (JHA) shall be conducted on each identified task
+                           using Form EHS-02-112-F001 Job Hazard Analysis and PPE Assessment.</li>
+                        <li class="- topic/li " xtrc="li:92;244:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">A description of the engineering control, work practices, and respiratory protection used to limit employee exposure to respirable crystalline silica for each task.</li>
+                        <li class="- topic/li " xtrc="li:93;245:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">A description of the housekeeping measures used to limit employee exposure to respirable crystalline silica.</li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:94;248:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">The effectiveness of the written exposure plan shall be reviewed and evaluated at least annually and updated as necessary.</li>
+               </ol>
+            </li>
+            <li class="- topic/li " xtrc="li:95;251:37" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Control Methods<ol class="- topic/ol " xtrc="ol:37;251:76" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                  <li class="- topic/li " xtrc="li:96;252:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Engineering and work practice controls shall be implemented to reduce and maintain employee exposure to RCS, to the extent that such controls are feasible. <ol class="- topic/ol " xtrc="ol:38;252:223" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                        <li class="- topic/li " xtrc="li:97;253:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Where possible, RCS shall be eliminated or substituted with a safer alternative. </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:98;256:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Regulated Areas<ol class="- topic/ol " xtrc="ol:39;256:82" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                        <li class="- topic/li " xtrc="li:99;257:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Regulated areas shall be established wherever exposure to airborne concentrations of RCS is, or can reasonably be expected to be, in excess of the local legislative exposure limit.<ol class="- topic/ol " xtrc="ol:40;257:253" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                              <li class="- topic/li " xtrc="li:100;258:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Regulated areas shall be separated from the rest of the workplace in a manner that minimizes the number of employees exposed to RCS within the regulated area.</li>
+                              <li class="- topic/li " xtrc="li:101;259:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Signs shall be posted at all entrances to regulated areas.</li>
+                              <li class="- topic/li " xtrc="li:102;260:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Access shall be limited to regulated areas to:
+                           <ol class="- topic/ol " xtrc="ol:41;261:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                                    <li class="- topic/li " xtrc="li:103;262:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Persons authorized by Space and required by work duties to be present in the regulated area.
+                              </li>
+                                    <li class="- topic/li " xtrc="li:104;264:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Any person entering such an area as a designated representative of employees for the purpose of exercising the right to observe monitoring procedures.</li>
+                                    <li class="- topic/li " xtrc="li:105;265:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Any person authorized by local legislation or regulations issued under it to be in a regulated area.</li>
+                                 </ol>
+                              </li>
+                           </ol>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:106;272:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Dust Control Procedures<ol class="- topic/ol " xtrc="ol:42;272:90" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                        <li class="- topic/li " xtrc="li:107;273:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">The accumulation of dust shall be reduced by following good housekeeping practices and reporting leaks / spills to a supervisor.</li>
+                        <li class="- topic/li " xtrc="li:108;274:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">When conducting utility or housekeeping activities where silica may be present, the following procedures shall be employed <i class="+ topic/ph hi-d/i " xtrc="i:1;274:202" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">in the following order</i>:<ol class="- topic/ol " xtrc="ol:43;274:253" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                              <li class="- topic/li " xtrc="li:109;275:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">High-Efficiency Particulate Air Filter (HEPA) Vacuuming shall be the preferred method and shall be used where practical.
+                           <ol class="- topic/ol " xtrc="ol:44;276:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                                    <li class="- topic/li " xtrc="li:110;277:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">When Central Vacuum Equipment is used, Form EHS-02-125-F005
+                                       Central Vacuum Equipment Evaluation, or equivalent shall be
+                                       completed in order to evaluate the performance status of the
+                                       equipment in the Batch House. </li>
+                                 </ol>
+                              </li>
+                              <li class="- topic/li " xtrc="li:111;283:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">If HEPA vacuuming is not practical, a wet method shall be used. 
+                           <ol class="- topic/ol " xtrc="ol:45;284:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                                    <li class="- topic/li " xtrc="li:112;285:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Moist floor sweep absorbent shall be used or moistening/wetting of dust prior to sweeping shall be practiced. DRY SWEEPING IS PROHIBITED. </li>
+                                 </ol>
+                              </li>
+                              <li class="- topic/li " xtrc="li:113;288:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">If shoveling of material is necessary, respiratory protection and Tyvek (or regional equivalent) coverall shall be required to keep dust off of clothing.  To reduce potential dusting when shoveling, material shall be placed in a container, instead of forceful throwing.</li>
+                              <li class="- topic/li " xtrc="li:114;289:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Compressed air shall not be used unless none of the above methods are practical.  This may include cleaning of various systems, such as scale components difficult to reach by other methods.  Use of compressed air shall be extremely limited and shall require personal protective equipment to include respiratory protection and Tyvek (or regional equivalent) coveralls.</li>
+                           </ol>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:115;294:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Personal Protective Equipment<ol class="- topic/ol " xtrc="ol:46;294:96" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                        <li class="- topic/li " xtrc="li:116;295:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Respiratory Protection<ol class="- topic/ol " xtrc="ol:47;295:95" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                              <li class="- topic/li " xtrc="li:117;296:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Respirators shall be worn in the Batch &amp; Furnace Department for protection against RCS as follows:
+                           <ol class="- topic/ol " xtrc="ol:48;297:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                                    <li class="- topic/li " xtrc="li:118;298:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">During cleaning operations	
+                              </li>
+                                    <li class="- topic/li " xtrc="li:119;300:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">When performing work which creates dust. This includes repairs, maintenance and utility work.</li>
+                                 </ol>
+                              </li>
+                           </ol>
+                        </li>
+                        <li class="- topic/li " xtrc="li:120;305:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Protective Clothing <ol class="- topic/ol " xtrc="ol:49;305:93" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                              <li class="- topic/li " xtrc="li:121;306:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Tyvek (or regional equivalent) coveralls may be worn for protection against RCS.
+                              <ol class="- topic/ol " xtrc="ol:50;307:55" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                                    <li class="- topic/li " xtrc="li:122;308:61" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Coveralls shall be removed at end of shift or end of task.  Coveralls shall not be worn into other areas of the plant.</li>
+                                 </ol>
+                              </li>
+                           </ol>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " xtrc="li:123;315:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Personal Hygiene / Practices<ol class="- topic/ol " xtrc="ol:51;315:95" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">
+                        <li class="- topic/li " xtrc="li:124;316:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Smoking, eating, drinking, using cosmetics or smokeless tobacco products in the work areas shall be prohibited. </li>
+                        <li class="- topic/li " xtrc="li:125;317:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Hands and face shall be washed before eating, drinking, or smoking.</li>
+                        <li class="- topic/li " xtrc="li:126;318:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Compressed air shall not be used to clean clothing.</li>
+                        <li class="- topic/li " xtrc="li:127;319:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_procedure.dita">Employees shall stand away from dusty processes, when possible, including raw material unloading. </li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+      </section>
+   </refbody>
+</reference><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-02-125\EHS-Space/EHS-02-125?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-02-125/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept audience="internal" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1E14F4F-BB01-11F0-1997-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;8:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">
+   <title class="- topic/title " xtrc="title:1;9:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">Approval</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;10:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">
+      <author class="- topic/author " xtrc="author:1;11:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;12:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">
+         <created class="- topic/created " date="2025-12-02T15:00:00+05:30" xtrc="created:1;13:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T15:00:00+05:30" xtrc="revised:1;14:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;16:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">
+         <audience class="- topic/audience " otherprops="executive leadership, plant management, safety and compliance officers, document controllers" type="role" xtrc="audience:1;17:139" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;18:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">document-control-system</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">approval-workflow-tool</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">signoff-forms</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">version-management</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">governance-portal</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">document-approval</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">management-signoff</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">change-control-process</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">version-release</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">record-keeping</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">policy-approval</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">operational-directives</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">compliance-endorsement</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">internal-governance</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">stakeholder-endorsement</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;35:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;36:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;37:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Approval - Document Approval and Signoff" name="title" xtrc="othermeta:1;39:86" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="Approval metadata and governance for EHS documents including signoff and version control." name="shortdesc" xtrc="othermeta:2;40:139" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;41:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;42:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;43:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;44:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;45:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;46:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="approvers;document-records;change-logs;signoff-dates;version-history" name="entities" xtrc="othermeta:9;47:117" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:document-governance;usecase:document-approval;industry:glass manufacturing heavy machinery and industrial equipment" name="taxonomy" xtrc="othermeta:10;48:171" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="approval,signoff,version-control,governance" name="tags" xtrc="othermeta:11;49:88" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita"/>
+         <othermeta class="- topic/othermeta " content="record approvals and governance for ehs documents" name="usecase" xtrc="othermeta:12;50:97" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;53:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">
+      <p class="- topic/p " xtrc="p:1;54:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">Sanctioning Representatives of the Global Team<simpletable class="- topic/simpletable " id="simpletable_bhd_xx4_pzb" relcolwidth="1* 1*" xtrc="simpletable:1;56:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">
+            <strow class="- topic/strow " xtrc="strow:1;57:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:1;58:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">
+                  <p class="- topic/p " xtrc="p:2;59:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:1;60:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">Region</b>
+                  </p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:2;63:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">
+                  <p class="- topic/p " xtrc="p:3;64:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">
+                     <b class="+ topic/ph hi-d/b " xtrc="b:2;65:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">Representative</b>
+                  </p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:2;69:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:3;70:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">
+                  <p class="- topic/p " xtrc="p:4;71:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">Asia Pacific</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:4;73:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">
+                  <p class="- topic/p " xtrc="p:5;74:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">Steve Bourke</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:3;77:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:5;78:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">
+                  <p class="- topic/p " xtrc="p:6;79:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">Europe</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:6;81:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">
+                  <p class="- topic/p " xtrc="p:7;82:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">Tim Neal</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:4;85:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:7;86:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">
+                  <p class="- topic/p " xtrc="p:8;87:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">Latin America</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:8;89:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">
+                  <p class="- topic/p " xtrc="p:9;90:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">Isabela Malpighi</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:5;93:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:9;94:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">
+                  <p class="- topic/p " xtrc="p:10;95:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">North America</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:10;97:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">
+                  <p class="- topic/p " xtrc="p:11;98:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">Ken Smigielski</p>
+               </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:6;101:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:11;102:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">
+                  <p class="- topic/p " xtrc="p:12;103:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">Global Technology</p>
+               </stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:12;105:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">
+                  <p class="- topic/p " xtrc="p:13;106:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_approval.dita">Joseph St. John</p>
+               </stentry>
+            </strow>
+         </simpletable>
+      </p>
+   </conbody>
+</concept><?workdir /C:\Users\Admin\Desktop\metR-Infinity-DITA-Content\space\temp\html5\EHS-Space\EHS-02-125\EHS-Space/EHS-02-125?><?workdir-uri file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/temp/html5/EHS-Space/EHS-02-125/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><concept audience="internal" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c1E1CBE1-BB01-11F0-1569-09173F13E4C5" specializations="@props/deliveryTarget" xml:lang="en-us" xtrc="concept:1;8:49" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">
+   <title class="- topic/title " xtrc="title:1;9:34" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">Revision History</title>
+   <prolog class="- topic/prolog " xtrc="prolog:1;10:12" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">
+      <author class="- topic/author " xtrc="author:1;11:15" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">Suchitra</author>
+      <critdates class="- topic/critdates " xtrc="critdates:1;12:18" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">
+         <created class="- topic/created " date="2025-12-02T15:00:00+05:30" xtrc="created:1;13:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita"/>
+         <revised class="- topic/revised " modified="2025-12-02T15:00:00+05:30" xtrc="revised:1;14:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita"/>
+      </critdates>
+      <metadata class="- topic/metadata " xtrc="metadata:1;16:17" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">
+         <audience class="- topic/audience " otherprops="document controllers, safety and compliance officers, plant management" type="role" xtrc="audience:1;17:117" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita"/>
+         <keywords class="- topic/keywords " xtrc="keywords:1;18:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">
+            <indexterm class="- topic/indexterm " xtrc="indexterm:1;19:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">revision-log</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:2;20:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">version-history-record</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:3;21:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">document-tracking-sheet</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:4;22:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">change-request-system</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:5;23:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">archive-storage</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:6;24:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">revision-tracking</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:7;25:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">change-notification</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:8;26:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">document-archival</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:9;27:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">update-approval</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:10;28:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">version-release-process</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:11;29:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">document-lifecycle</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:12;30:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">policy-amendments</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:13;31:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">compliance-updates</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:14;32:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">stakeholder-notifications</indexterm>
+            <indexterm class="- topic/indexterm " xtrc="indexterm:15;33:24" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">audit-traceability</indexterm>
+         </keywords>
+         <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;35:20" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">
+            <prodname class="- topic/prodname " xtrc="prodname:1;36:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">metR-EHS-Space</prodname>
+            <platform class="- topic/platform " xtrc="platform:1;37:23" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">web</platform>
+         </prodinfo>
+         <othermeta class="- topic/othermeta " content="Revision History - Document Changes" name="title" xtrc="othermeta:1;39:81" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="Revision history and change log for the EHS document with versioning and approvals." name="shortdesc" xtrc="othermeta:2;40:133" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="en-GB" name="language" xtrc="othermeta:3;41:54" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="1.0.0" name="version" xtrc="othermeta:4;42:53" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="approved" name="docStage" xtrc="othermeta:5;43:57" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="internal" name="access.role" xtrc="othermeta:6;44:60" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="non-sensitive" name="data.classification" xtrc="othermeta:7;45:73" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="standard-36m" name="retention.policy" xtrc="othermeta:8;46:69" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="version-entries;change-descriptions;approver-names;revision-dates;document-ids" name="entities" xtrc="othermeta:9;47:127" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="domain:document-management;usecase:revision-history;industry:glass manufacturing heavy machinery and industrial equipment" name="taxonomy" xtrc="othermeta:10;48:170" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="revision-history,change-log,versioning" name="tags" xtrc="othermeta:11;49:83" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita"/>
+         <othermeta class="- topic/othermeta " content="track historical document changes for governance" name="usecase" xtrc="othermeta:12;50:96" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita"/>
+      </metadata>
+   </prolog>
+   <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;53:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">
+      <p class="- topic/p " xtrc="p:1;54:29" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">
+         <simpletable class="- topic/simpletable " id="simpletable_vm3_1y4_pzb" relcolwidth="1* 1*" xtrc="simpletable:1;57:52" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">
+            <strow class="- topic/strow " xtrc="strow:1;58:43" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">
+               <stentry class="- topic/stentry " xtrc="stentry:1;59:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">2017-09-05</stentry>
+               <stentry class="- topic/stentry " xtrc="stentry:2;60:50" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">
+                  <p class="- topic/p " xtrc="p:2;61:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">Approved by Joseph St. John. GT EHS Manager</p>
+                  <p class="- topic/p " xtrc="p:3;62:41" xtrf="file:/C:/Users/Admin/Desktop/metR-Infinity-DITA-Content/space/EHS-Space/EHS-02-125/EHS-02-125_revision_history.dita">Original Issue</p>
+               </stentry>
+            </strow>
+         </simpletable>
+      </p>
+   </conbody>
+</concept></concept></dita>

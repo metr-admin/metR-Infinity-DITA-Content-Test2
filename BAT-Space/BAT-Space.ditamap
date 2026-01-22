@@ -6,12 +6,6 @@
      domains="(map mapgroup-d)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            (map ditavalref-d)                            (map glossref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
      class="- map/map ">
    <title class="- topic/title ">Space</title>
-   <topicref href="BAT-00-001/BAT-00-001.ditamap"
-             format="ditamap"
-             class="- map/topicref "/>
-   <topicref href="BAT-00-003/BAT-00-003.ditamap"
-             format="ditamap"
-             class="- map/topicref "/>
    <topicref href="BAT-02-001/BAT-02-001.ditamap"
              format="ditamap"
              class="- map/topicref "/>
