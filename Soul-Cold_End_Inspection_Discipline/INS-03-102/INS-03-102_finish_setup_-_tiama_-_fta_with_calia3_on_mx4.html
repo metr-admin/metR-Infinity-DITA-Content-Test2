@@ -1,0 +1,968 @@
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html lang="en-us"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta charset="UTF-8"><meta name="copyright" content="(C) Copyright 2026"><meta name="generator" content="DITA-OT"><meta name="keywords" content="metR-INS-Soul, tiama-fta-system, calia3, mx4-controller, tiama-fta, system-setup, calibration, integration, validation, startup-procedure, glass-manufacturing, production-line, equipment-configuration, industrial-automation, engineering-environment, inspection-equipment, automation-system, vision-module, purpose-definition, application-overview, system-utility, inspection-goals, usecase-definition, quality-control, industrial-engineering, inspection-process, machine-safety, safety-guidelines, hazard-assessment, risk-mitigation, emergency-procedure, equipment-lockout, production-safety, industrial-compliance, maintenance-protocols, workplace-safety, inspection-line, operation-instructions, system-guidelines, inspection-setup, user-procedure, equipment-handling, production-environment, machine-operations, maintenance-environment, industrial-safety, inspection-station, operator-console, training-module, required-training, competency-development, system-operation, safety-awareness, maintenance-procedure, operator-training, skill-development, industrial-environment, inspection-unit, equipment-listing, component-identification, hardware-setup, installation-requirements, maintenance-points, industrial-equipment, maintenance-procedures, production-infrastructure, definition-standards, terminology, vocabulary-alignment, system-terminology, document-glossary, glass-inspection, industrial-terminology, quality-management, engineering-documents, technical-training, fta-documentation, technical-references, equipment-specs, reference-compilation, standard-citation, specification-access, technical-sourcing, validation-support, technical-library, documentation-support, document-approval, quality-system, compliance-record, approval-process, review-cycle, validation-signoff, authorization, document-release, quality-assurance, compliance-framework, management-approval, document-history, change-log, system-revision, revision-tracking, update-management, change-validation, version-control, approval-cycle, documentation-process, audit-trail, engineering-change-management"><meta name="prodname" content="metR-INS-Soul"><meta name="platform" content="web"><meta name="RevisionDate" content="2021-10-12"><meta name="DocumentNumber" content="INS-03-102"><meta name="title" content="Finish Setup for Tiama FTA System with Calia3 on MX4"><meta name="shortdesc" content="Describes the setup and final configuration of the Tiama FTA system using Calia3 and MX4 controller for glass inspection."><meta name="language" content="en-GB"><meta name="version" content="1.0.0"><meta name="docStage" content="approved"><meta name="access.role" content="internal"><meta name="data.classification" content="non-sensitive"><meta name="retention.policy" content="standard-36m"><meta name="entities" content="Tiama FTA system; Calia3 module; MX4 controller; setup interface; inspection sensors"><meta name="taxonomy" content="domain:system-configuration;usecase:equipment-setup;industry:glass-manufacturing"><meta name="tags" content="fta-setup,calia3,configuration,system-validation,glass-inspection"><meta name="usecase" content="equipment setup and system integration"><link rel="stylesheet" type="text/css" href="../../commonltr.css">
+<link rel="stylesheet" type="text/css" href="../../common-extended.css"><title>Finish Setup - Tiama - FTA with CALIA3 on MX4</title></head><body><header role="banner"><div class="ditasearch" data-searchroot="../../"></div></header><nav role="toc"><ul><li><a href="../../Soul-Streator_Discipline/SBS-ET-026C/SBS-ET-026C_faults_causes_and_remedies_for_the_emptying_aid_.html#cC9F7D1E-BB9C-11F0-7190-09173F13E4C5">Faults, Causes, and Remedies for the Emptying Aid </a><ul><li><a href="../../Soul-Streator_Discipline/SBS-ET-026C/SBS-ET-026C_faults_causes_and_remedies_for_the_emptying_aid_.html#cC9FAE1D-BB9C-11F0-1811-09173F13E4C5">Purpose/Application</a></li><li><a href="../../Soul-Streator_Discipline/SBS-ET-026C/SBS-ET-026C_faults_causes_and_remedies_for_the_emptying_aid_.html#cC9F95DD-BB9C-11F0-1869-09173F13E4C5">PPE Required</a></li><li><a href="../../Soul-Streator_Discipline/SBS-ET-026C/SBS-ET-026C_faults_causes_and_remedies_for_the_emptying_aid_.html#cCA01650-BB9C-11F0-1884-09173F13E4C5">Safety Hazards</a></li><li><a href="../../Soul-Streator_Discipline/SBS-ET-026C/SBS-ET-026C_faults_causes_and_remedies_for_the_emptying_aid_.html#cC9FC9E0-BB9C-11F0-1215-09173F13E4C5">Respirable Crystalline Silica</a></li><li><a href="../../Soul-Streator_Discipline/SBS-ET-026C/SBS-ET-026C_faults_causes_and_remedies_for_the_emptying_aid_.html#cC9FFC04-BB9C-11F0-1995-09173F13E4C5">Safety Controls</a></li><li><a href="../../Soul-Streator_Discipline/SBS-ET-026C/SBS-ET-026C_faults_causes_and_remedies_for_the_emptying_aid_.html#cC9F4835-BB9C-11F0-1962-09173F13E4C5">Equipment Needed</a></li><li><a href="../../Soul-Streator_Discipline/SBS-ET-026C/SBS-ET-026C_faults_causes_and_remedies_for_the_emptying_aid_.html#cC9F30BE-BB9C-11F0-5753-09173F13E4C5">Comments</a></li><li><a href="../../Soul-Streator_Discipline/SBS-ET-026C/SBS-ET-026C_faults_causes_and_remedies_for_the_emptying_aid_.html#rC9F62DF-BB9C-11F0-9316-09173F13E4C5">Faults, Causes, and Remedies for the Emptying Aid</a></li><li><a href="../../Soul-Streator_Discipline/SBS-ET-026C/SBS-ET-026C_faults_causes_and_remedies_for_the_emptying_aid_.html#cC9F158F-BB9C-11F0-7838-09173F13E4C5">Approval</a></li><li><a href="../../Soul-Streator_Discipline/SBS-ET-026C/SBS-ET-026C_faults_causes_and_remedies_for_the_emptying_aid_.html#cC9FE107-BB9C-11F0-6781-09173F13E4C5">Revision History</a></li></ul></li><li><a href="../../Soul-Streator_Discipline/SBS-ET-026D/SBS-ET-026D_possible_error_messages1.html#cCA0BD23-BB9C-11F0-1621-09173F13E4C5">Possible Error Messages </a><ul><li><a href="../../Soul-Streator_Discipline/SBS-ET-026D/SBS-ET-026D_possible_error_messages1.html#cCA0EFA9-BB9C-11F0-8301-09173F13E4C5">Purpose/Application</a></li><li><a href="../../Soul-Streator_Discipline/SBS-ET-026D/SBS-ET-026D_possible_error_messages1.html#cCA0D53F-BB9C-11F0-3704-09173F13E4C5">PPE Required</a></li><li><a href="../../Soul-Streator_Discipline/SBS-ET-026D/SBS-ET-026D_possible_error_messages1.html#cCA16131-BB9C-11F0-3526-09173F13E4C5">Safety Hazards</a></li><li><a href="../../Soul-Streator_Discipline/SBS-ET-026D/SBS-ET-026D_possible_error_messages1.html#cCA107F7-BB9C-11F0-2195-09173F13E4C5">Respirable Crystalline Silica</a></li><li><a href="../../Soul-Streator_Discipline/SBS-ET-026D/SBS-ET-026D_possible_error_messages1.html#cCA13F4A-BB9C-11F0-5915-09173F13E4C5">Safety Controls</a></li><li><a href="../../Soul-Streator_Discipline/SBS-ET-026D/SBS-ET-026D_possible_error_messages1.html#cCA087E1-BB9C-11F0-3165-09173F13E4C5">Equipment Needed</a></li><li><a href="../../Soul-Streator_Discipline/SBS-ET-026D/SBS-ET-026D_possible_error_messages1.html#cCA07230-BB9C-11F0-1992-09173F13E4C5">Comments</a></li><li><a href="../../Soul-Streator_Discipline/SBS-ET-026D/SBS-ET-026D_possible_error_messages1.html#rCA0A35B-BB9C-11F0-1847-09173F13E4C5">Possible Error Messages</a></li><li><a href="../../Soul-Streator_Discipline/SBS-ET-026D/SBS-ET-026D_possible_error_messages1.html#cCA057A6-BB9C-11F0-9168-09173F13E4C5">Approval</a></li><li><a href="../../Soul-Streator_Discipline/SBS-ET-026D/SBS-ET-026D_possible_error_messages1.html#cCA12044-BB9C-11F0-1601-09173F13E4C5">Revision History</a></li></ul></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026E/SBS-MR-026E_aligning_the_guide_wheels_of_the_horizontal_carriage_.html#cCA1F2AB-BB9C-11F0-1220-09173F13E4C5">Aligning the Guide Wheels of the Horizontal Carriage</a><ul><li><a href="../../Soul-Streator_Discipline/SBS-MR-026E/SBS-MR-026E_aligning_the_guide_wheels_of_the_horizontal_carriage_.html#cCA2705F-BB9C-11F0-2093-09173F13E4C5">Purpose/Application</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026E/SBS-MR-026E_aligning_the_guide_wheels_of_the_horizontal_carriage_.html#cCA2558F-BB9C-11F0-6257-09173F13E4C5">PPE Required</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026E/SBS-MR-026E_aligning_the_guide_wheels_of_the_horizontal_carriage_.html#cCA2D3A7-BB9C-11F0-2146-09173F13E4C5">Safety Hazards</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026E/SBS-MR-026E_aligning_the_guide_wheels_of_the_horizontal_carriage_.html#cCA288B9-BB9C-11F0-1857-09173F13E4C5">Respirable Crystalline Silica </a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026E/SBS-MR-026E_aligning_the_guide_wheels_of_the_horizontal_carriage_.html#cCA2BB85-BB9C-11F0-1563-09173F13E4C5">Safety Controls</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026E/SBS-MR-026E_aligning_the_guide_wheels_of_the_horizontal_carriage_.html#cCA23D65-BB9C-11F0-1990-09173F13E4C5">Equipment Needed</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026E/SBS-MR-026E_aligning_the_guide_wheels_of_the_horizontal_carriage_.html#cCA222F2-BB9C-11F0-1041-09173F13E4C5">Comments</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026E/SBS-MR-026E_aligning_the_guide_wheels_of_the_horizontal_carriage_.html#cCA1A56F-BB9C-11F0-1218-09173F13E4C5"> Safety Information Before Performing Maintenance </a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026E/SBS-MR-026E_aligning_the_guide_wheels_of_the_horizontal_carriage_.html#tCA2ED3E-BB9C-11F0-1067-09173F13E4C5">Stopping and Restarting the Lifting Station</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026E/SBS-MR-026E_aligning_the_guide_wheels_of_the_horizontal_carriage_.html#tCA1C0C8-BB9C-11F0-3221-09173F13E4C5"> Using Safety Bolts on the Vertical Carriage</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026E/SBS-MR-026E_aligning_the_guide_wheels_of_the_horizontal_carriage_.html#tCA1D829-BB9C-11F0-1579-09173F13E4C5">Aligning the Guide Wheels of the Horizontal Carriage</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026E/SBS-MR-026E_aligning_the_guide_wheels_of_the_horizontal_carriage_.html#cCA20AD4-BB9C-11F0-1775-09173F13E4C5">Approval</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026E/SBS-MR-026E_aligning_the_guide_wheels_of_the_horizontal_carriage_.html#cCA2A0DF-BB9C-11F0-1037-09173F13E4C5">Revision History</a></li></ul></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026F/SBS-MR-026F_replacing_the_vulkolian_wheels_on_the_vertical_carriage.html#cCA4760E-BB9C-11F0-1132-09173F13E4C5">Replacing the Vulkolian Wheels on the Vertical Carriage</a><ul><li><a href="../../Soul-Streator_Discipline/SBS-MR-026F/SBS-MR-026F_replacing_the_vulkolian_wheels_on_the_vertical_carriage.html#cCA45DD1-BB9C-11F0-1094-09173F13E4C5">Purpose/Application</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026F/SBS-MR-026F_replacing_the_vulkolian_wheels_on_the_vertical_carriage.html#cCA4459A-BB9C-11F0-1740-09173F13E4C5">PPE Required</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026F/SBS-MR-026F_replacing_the_vulkolian_wheels_on_the_vertical_carriage.html#cCA4EC30-BB9C-11F0-1391-09173F13E4C5">Safety Hazards</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026F/SBS-MR-026F_replacing_the_vulkolian_wheels_on_the_vertical_carriage.html#cCA4A6EB-BB9C-11F0-1748-09173F13E4C5">Respirable Crystalline Silica</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026F/SBS-MR-026F_replacing_the_vulkolian_wheels_on_the_vertical_carriage.html#cCA4D25B-BB9C-11F0-2936-09173F13E4C5">Safety Controls</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026F/SBS-MR-026F_replacing_the_vulkolian_wheels_on_the_vertical_carriage.html#cCA42AF2-BB9C-11F0-1185-09173F13E4C5">Equipment Needed</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026F/SBS-MR-026F_replacing_the_vulkolian_wheels_on_the_vertical_carriage.html#cCA41787-BB9C-11F0-7146-09173F13E4C5">Comments</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026F/SBS-MR-026F_replacing_the_vulkolian_wheels_on_the_vertical_carriage.html#cCA3E67F-BB9C-11F0-5359-09173F13E4C5"> Safety Information Before Performing Maintenance </a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026F/SBS-MR-026F_replacing_the_vulkolian_wheels_on_the_vertical_carriage.html#tCA50527-BB9C-11F0-1597-09173F13E4C5">Stopping and Restarting the Lifting Station</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026F/SBS-MR-026F_replacing_the_vulkolian_wheels_on_the_vertical_carriage.html#tCA52237-BB9C-11F0-3206-09173F13E4C5">Using Safety Bolts on the Vertical Carriage</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026F/SBS-MR-026F_replacing_the_vulkolian_wheels_on_the_vertical_carriage.html#tCA48F47-BB9C-11F0-6185-09173F13E4C5"> Replacing the Vulkolian Wheels on the Vertical Carriage </a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026F/SBS-MR-026F_replacing_the_vulkolian_wheels_on_the_vertical_carriage.html#cCA3FF3D-BB9C-11F0-1915-09173F13E4C5">Approval</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026F/SBS-MR-026F_replacing_the_vulkolian_wheels_on_the_vertical_carriage.html#cCA4BC6A-BB9C-11F0-1844-09173F13E4C5">Revision History</a></li></ul></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026H/SBS-MR-026H_motor_maintenance.html#cCA6A794-BB9C-11F0-1495-09173F13E4C5">Motor Maintenance</a><ul><li><a href="../../Soul-Streator_Discipline/SBS-MR-026H/SBS-MR-026H_motor_maintenance.html#cCA6D805-BB9C-11F0-8201-09173F13E4C5">Purpose/Application</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026H/SBS-MR-026H_motor_maintenance.html#cCA6BFEF-BB9C-11F0-8110-09173F13E4C5">PPE Required</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026H/SBS-MR-026H_motor_maintenance.html#cCA73418-BB9C-11F0-1132-09173F13E4C5">Safety Hazards </a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026H/SBS-MR-026H_motor_maintenance.html#cCA6F039-BB9C-11F0-2761-09173F13E4C5">Respirable Crystalline Silica</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026H/SBS-MR-026H_motor_maintenance.html#cCA71BD0-BB9C-11F0-3414-09173F13E4C5">Safety Controls</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026H/SBS-MR-026H_motor_maintenance.html#cCA68F59-BB9C-11F0-1312-09173F13E4C5">Equipment Needed</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026H/SBS-MR-026H_motor_maintenance.html#cCA67BE4-BB9C-11F0-4446-09173F13E4C5">Comments</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026H/SBS-MR-026H_motor_maintenance.html#cCA64AE5-BB9C-11F0-1080-09173F13E4C5"> Safety Information Before Performing Maintenance </a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026H/SBS-MR-026H_motor_maintenance.html#tCA74C3F-BB9C-11F0-2108-09173F13E4C5">Stopping and Restarting the Lifting Station</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026H/SBS-MR-026H_motor_maintenance.html#tCA76477-BB9C-11F0-3679-09173F13E4C5">Using Safety Bolts on the Vertical Carriage</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026H/SBS-MR-026H_motor_maintenance.html#tCA630F4-BB9C-11F0-1446-09173F13E4C5"> Motor Maintenance</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026H/SBS-MR-026H_motor_maintenance.html#cCA663A5-BB9C-11F0-4751-09173F13E4C5">Approval</a></li><li><a href="../../Soul-Streator_Discipline/SBS-MR-026H/SBS-MR-026H_motor_maintenance.html#cCA70887-BB9C-11F0-6831-09173F13E4C5">Revision History</a></li></ul></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-123/SBS-OP-123_using_the_scada_agv_screen_.html#cC6018F9-BB9C-11F0-1946-09173F13E4C5">Using the SCADA AGV Screen </a><ul><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-123/SBS-OP-123_using_the_scada_agv_screen_.html#cC5F9431-BB9C-11F0-3201-09173F13E4C5">Purpose/Application</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-123/SBS-OP-123_using_the_scada_agv_screen_.html#cC5F7D3D-BB9C-11F0-1023-09173F13E4C5">PPE Required</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-123/SBS-OP-123_using_the_scada_agv_screen_.html#cC5FECAA-BB9C-11F0-1247-09173F13E4C5">Safety Hazards</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-123/SBS-OP-123_using_the_scada_agv_screen_.html#cC5FD574-BB9C-11F0-2101-09173F13E4C5">Safety Controls</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-123/SBS-OP-123_using_the_scada_agv_screen_.html#cC5F0F73-BB9C-11F0-6681-09173F13E4C5">Equipment Needed</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-123/SBS-OP-123_using_the_scada_agv_screen_.html#cC5EF778-BB9C-11F0-1975-09173F13E4C5">Comments</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-123/SBS-OP-123_using_the_scada_agv_screen_.html#cC5FA9F7-BB9C-11F0-3886-09173F13E4C5">Related Resources</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-123/SBS-OP-123_using_the_scada_agv_screen_.html#cC5F3ADA-BB9C-11F0-1734-09173F13E4C5">Monitoring the AGV</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-123/SBS-OP-123_using_the_scada_agv_screen_.html#cC600341-BB9C-11F0-6117-09173F13E4C5">Upper Area of the Status AGV Screen</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-123/SBS-OP-123_using_the_scada_agv_screen_.html#cC5F5088-BB9C-11F0-6329-09173F13E4C5">Popup Window for Each Position</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-123/SBS-OP-123_using_the_scada_agv_screen_.html#cC5F6789-BB9C-11F0-1068-09173F13E4C5">Position Parameters Panel</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-123/SBS-OP-123_using_the_scada_agv_screen_.html#cC5F251E-BB9C-11F0-2134-09173F13E4C5">Lower Area of the Status AGV Screen.</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-123/SBS-OP-123_using_the_scada_agv_screen_.html#cC5EE1AF-BB9C-11F0-1188-09173F13E4C5">Approval</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-123/SBS-OP-123_using_the_scada_agv_screen_.html#cC5FBFCB-BB9C-11F0-4648-09173F13E4C5">Revision History</a></li></ul></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-136A/SBS-OP-136A_overview_of_the_metering_conveyor_scale.html#cC629040-BB9C-11F0-1769-09173F13E4C5">Overview of the Metering Conveyor Scale</a><ul><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-136A/SBS-OP-136A_overview_of_the_metering_conveyor_scale.html#cC62D0BE-BB9C-11F0-1705-09173F13E4C5">Purpose/Application</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-136A/SBS-OP-136A_overview_of_the_metering_conveyor_scale.html#cC62A52C-BB9C-11F0-1340-09173F13E4C5">PPE Required</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-136A/SBS-OP-136A_overview_of_the_metering_conveyor_scale.html#cC634165-BB9C-11F0-1640-09173F13E4C5">Safety Hazards</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-136A/SBS-OP-136A_overview_of_the_metering_conveyor_scale.html#cC62E88A-BB9C-11F0-1886-09173F13E4C5">Respirable Crystalline Silica</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-136A/SBS-OP-136A_overview_of_the_metering_conveyor_scale.html#cC6329CB-BB9C-11F0-5644-09173F13E4C5">Safety Controls</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-136A/SBS-OP-136A_overview_of_the_metering_conveyor_scale.html#cC624E42-BB9C-11F0-4988-09173F13E4C5">Equipment Needed</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-136A/SBS-OP-136A_overview_of_the_metering_conveyor_scale.html#cC622065-BB9C-11F0-5784-09173F13E4C5">Comments</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-136A/SBS-OP-136A_overview_of_the_metering_conveyor_scale.html#cC626407-BB9C-11F0-4609-09173F13E4C5">Metering Conveyor Scale Components</a><ul><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-136A/SBS-OP-136A_overview_of_the_metering_conveyor_scale.html#cC623881-BB9C-11F0-1008-09173F13E4C5">Drive Station</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-136A/SBS-OP-136A_overview_of_the_metering_conveyor_scale.html#cC6357A8-BB9C-11F0-3817-09173F13E4C5">Tensioning Station</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-136A/SBS-OP-136A_overview_of_the_metering_conveyor_scale.html#cC63141C-BB9C-11F0-1827-09173F13E4C5">Rotary Survey</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-136A/SBS-OP-136A_overview_of_the_metering_conveyor_scale.html#cC62BAF2-BB9C-11F0-2132-09173F13E4C5">Protective Housings and Covers</a></li></ul></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-136A/SBS-OP-136A_overview_of_the_metering_conveyor_scale.html#cC6279A1-BB9C-11F0-5470-09173F13E4C5">Operating Modes</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-136A/SBS-OP-136A_overview_of_the_metering_conveyor_scale.html#cC6205E6-BB9C-11F0-3666-09173F13E4C5">Approval</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-136A/SBS-OP-136A_overview_of_the_metering_conveyor_scale.html#cC62FE49-BB9C-11F0-1539-09173F13E4C5">Revision History</a></li></ul></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-136B/SBS-OP-136B_overview_of_the_metering_conveyor_scale.html#cC643D1D-BB9C-11F0-1144-09173F13E4C5">Overview of the Metering Conveyor Scale</a><ul><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-136B/SBS-OP-136B_overview_of_the_metering_conveyor_scale.html#cC6467FE-BB9C-11F0-1655-09173F13E4C5">Purpose/Application</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-136B/SBS-OP-136B_overview_of_the_metering_conveyor_scale.html#cC645205-BB9C-11F0-2124-09173F13E4C5">PPE Required</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-136B/SBS-OP-136B_overview_of_the_metering_conveyor_scale.html#cC64D2E4-BB9C-11F0-1982-09173F13E4C5">Safety Hazards</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-136B/SBS-OP-136B_overview_of_the_metering_conveyor_scale.html#cC649412-BB9C-11F0-7326-09173F13E4C5">Respirable Crystalline Silica</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-136B/SBS-OP-136B_overview_of_the_metering_conveyor_scale.html#cC64BF49-BB9C-11F0-1227-09173F13E4C5">Safety Controls</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-136B/SBS-OP-136B_overview_of_the_metering_conveyor_scale.html#cC6424D8-BB9C-11F0-1755-09173F13E4C5">Equipment Needed</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-136B/SBS-OP-136B_overview_of_the_metering_conveyor_scale.html#cC641187-BB9C-11F0-1872-09173F13E4C5">Comments</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-136B/SBS-OP-136B_overview_of_the_metering_conveyor_scale.html#cC647E56-BB9C-11F0-1861-09173F13E4C5">Related Resources</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-136B/SBS-OP-136B_overview_of_the_metering_conveyor_scale.html#tC64E89D-BB9C-11F0-2013-09173F13E4C5">Safety Mechanisms and Controls</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-136B/SBS-OP-136B_overview_of_the_metering_conveyor_scale.html#tC64FE40-BB9C-11F0-9147-09173F13E4C5">Starting and Stopping the Metering Conveyor Scale</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-136B/SBS-OP-136B_overview_of_the_metering_conveyor_scale.html#cC63FBF1-BB9C-11F0-3839-09173F13E4C5">Approval</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-136B/SBS-OP-136B_overview_of_the_metering_conveyor_scale.html#cC64A9ED-BB9C-11F0-4801-09173F13E4C5">Revision History</a></li></ul></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-138A/SBS-OP-138A_overview_of_the_belt_conveyor.html#cC662746-BB9C-11F0-2009-09173F13E4C5">Overview of the Belt Conveyor</a><ul><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-138A/SBS-OP-138A_overview_of_the_belt_conveyor.html#cC6657AE-BB9C-11F0-1091-09173F13E4C5">Purpose/Application</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-138A/SBS-OP-138A_overview_of_the_belt_conveyor.html#cC663F6E-BB9C-11F0-5185-09173F13E4C5">PPE Required</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-138A/SBS-OP-138A_overview_of_the_belt_conveyor.html#cC66CE30-BB9C-11F0-7950-09173F13E4C5">Safety Hazards</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-138A/SBS-OP-138A_overview_of_the_belt_conveyor.html#cC6688AE-BB9C-11F0-1162-09173F13E4C5">Respirable Crystalline Silica</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-138A/SBS-OP-138A_overview_of_the_belt_conveyor.html#cC66B565-BB9C-11F0-1815-09173F13E4C5">Safety Controls</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-138A/SBS-OP-138A_overview_of_the_belt_conveyor.html#cC65E176-BB9C-11F0-8367-09173F13E4C5">Equipment Needed</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-138A/SBS-OP-138A_overview_of_the_belt_conveyor.html#cC65B348-BB9C-11F0-1831-09173F13E4C5">Comments</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-138A/SBS-OP-138A_overview_of_the_belt_conveyor.html#cC666FA1-BB9C-11F0-1696-09173F13E4C5">Related Resources</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-138A/SBS-OP-138A_overview_of_the_belt_conveyor.html#cC65F960-BB9C-11F0-1421-09173F13E4C5">Introduction</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-138A/SBS-OP-138A_overview_of_the_belt_conveyor.html#cC65C90E-BB9C-11F0-4665-09173F13E4C5">Drive Station</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-138A/SBS-OP-138A_overview_of_the_belt_conveyor.html#cC66E350-BB9C-11F0-3083-09173F13E4C5">Tensioning Station</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-138A/SBS-OP-138A_overview_of_the_belt_conveyor.html#cC659CED-BB9C-11F0-8263-09173F13E4C5">Belt Cleaners (Pneumatic)</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-138A/SBS-OP-138A_overview_of_the_belt_conveyor.html#cC66118F-BB9C-11F0-6325-09173F13E4C5">Operating Modes</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-138A/SBS-OP-138A_overview_of_the_belt_conveyor.html#cC658560-BB9C-11F0-7172-09173F13E4C5">Approval</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-138A/SBS-OP-138A_overview_of_the_belt_conveyor.html#cC66A00A-BB9C-11F0-2145-09173F13E4C5">Revision History</a></li></ul></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-138B/SBS-OP-138B_operating_the_belt_conveyor.html#cC67C3D1-BB9C-11F0-1771-09173F13E4C5">Operating the Belt Conveyor</a><ul><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-138B/SBS-OP-138B_operating_the_belt_conveyor.html#cC67EF4F-BB9C-11F0-1319-09173F13E4C5">Purpose/Application</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-138B/SBS-OP-138B_operating_the_belt_conveyor.html#cC67DA22-BB9C-11F0-6093-09173F13E4C5">PPE Required</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-138B/SBS-OP-138B_operating_the_belt_conveyor.html#cC6860D4-BB9C-11F0-1183-09173F13E4C5">Safety Hazard</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-138B/SBS-OP-138B_operating_the_belt_conveyor.html#cC681D2D-BB9C-11F0-1251-09173F13E4C5">Respirable Crystalline Silica</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-138B/SBS-OP-138B_operating_the_belt_conveyor.html#cC6848C5-BB9C-11F0-1243-09173F13E4C5">Safety Controls</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-138B/SBS-OP-138B_operating_the_belt_conveyor.html#cC67AE67-BB9C-11F0-2085-09173F13E4C5">Equipment Needed</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-138B/SBS-OP-138B_operating_the_belt_conveyor.html#cC679633-BB9C-11F0-1261-09173F13E4C5">Comments</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-138B/SBS-OP-138B_operating_the_belt_conveyor.html#cC68077F-BB9C-11F0-1194-09173F13E4C5">Related Resources</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-138B/SBS-OP-138B_operating_the_belt_conveyor.html#tC687680-BB9C-11F0-1353-09173F13E4C5">Safety Mechanisms and Controls</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-138B/SBS-OP-138B_operating_the_belt_conveyor.html#tC67684E-BB9C-11F0-1896-09173F13E4C5">Operating the Belt Conveyor</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-138B/SBS-OP-138B_operating_the_belt_conveyor.html#cC677E1D-BB9C-11F0-8582-09173F13E4C5">Approval</a></li><li><a href="../../Soul-Bowling_Green_Discipline/SBS-OP-138B/SBS-OP-138B_operating_the_belt_conveyor.html#cC6832EB-BB9C-11F0-1816-09173F13E4C5">Revision History</a></li></ul></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-02-001/INS-02-001_inspection_safety.html#cC695DD7-BB9C-11F0-1512-09173F13E4C5">Inspection Safety</a><ul><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-02-001/INS-02-001_inspection_safety.html#cC698C4D-BB9C-11F0-1707-09173F13E4C5">Purpose</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-02-001/INS-02-001_inspection_safety.html#rC69AE29-BB9C-11F0-1720-09173F13E4C5">Reference</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-02-001/INS-02-001_inspection_safety.html#tC697430-BB9C-11F0-3963-09173F13E4C5">Procedure</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-02-001/INS-02-001_inspection_safety.html#cC69455F-BB9C-11F0-1332-09173F13E4C5">Approval</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-02-001/INS-02-001_inspection_safety.html#cC69C3D9-BB9C-11F0-1018-09173F13E4C5">Revision History</a></li></ul></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-007/INS-03-007_setting_the_fta_wire_edge_height_.html#cC6E4A22-BB9C-11F0-1279-09173F13E4C5">Setting the FTA Wire Edge Height </a><ul><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-007/INS-03-007_setting_the_fta_wire_edge_height_.html#cC6DD4E1-BB9C-11F0-5465-09173F13E4C5">Purpose and Application</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-007/INS-03-007_setting_the_fta_wire_edge_height_.html#cC6E32DD-BB9C-11F0-8845-09173F13E4C5">Safety</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-007/INS-03-007_setting_the_fta_wire_edge_height_.html#tC6DBC90-BB9C-11F0-1597-09173F13E4C5">Instructions</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-007/INS-03-007_setting_the_fta_wire_edge_height_.html#cC6E02F3-BB9C-11F0-3647-09173F13E4C5">Required Training</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-007/INS-03-007_setting_the_fta_wire_edge_height_.html#rC6DEA82-BB9C-11F0-1621-09173F13E4C5">References</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-007/INS-03-007_setting_the_fta_wire_edge_height_.html#rC6D71B8-BB9C-11F0-1894-09173F13E4C5">Appendix FTA Wire Edge Height Chart (Narrow Neck Press &amp; Blow)</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-007/INS-03-007_setting_the_fta_wire_edge_height_.html#rC6D89DE-BB9C-11F0-1375-09173F13E4C5">Appendix FTA Wire Edge Height Chart (Press &amp; Blow)</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-007/INS-03-007_setting_the_fta_wire_edge_height_.html#rC6D5990-BB9C-11F0-1169-09173F13E4C5">Appendix FTA Wire Edge Height Chart (Blow &amp; Blow)</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-007/INS-03-007_setting_the_fta_wire_edge_height_.html#cC6DA233-BB9C-11F0-3913-09173F13E4C5">Approval</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-007/INS-03-007_setting_the_fta_wire_edge_height_.html#cC6E1B0E-BB9C-11F0-1218-09173F13E4C5">Revision History</a></li></ul></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-031/INS-03-031_container_handling_-_tiama_-_multistation_4.html#cC6F1F82-BB9C-11F0-3613-09173F13E4C5">Container Handling - Tiama - MultiStation 4</a><ul><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-031/INS-03-031_container_handling_-_tiama_-_multistation_4.html#cC6F6A8C-BB9C-11F0-1173-09173F13E4C5">Purpose and Application</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-031/INS-03-031_container_handling_-_tiama_-_multistation_4.html#cC6FAE46-BB9C-11F0-2192-09173F13E4C5">Safety</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-031/INS-03-031_container_handling_-_tiama_-_multistation_4.html#tC6F51B1-BB9C-11F0-1985-09173F13E4C5">Instructions</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-031/INS-03-031_container_handling_-_tiama_-_multistation_4.html#cC6F8051-BB9C-11F0-1227-09173F13E4C5">Required Training</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-031/INS-03-031_container_handling_-_tiama_-_multistation_4.html#cC6F37CC-BB9C-11F0-8142-09173F13E4C5">Equipment</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-031/INS-03-031_container_handling_-_tiama_-_multistation_4.html#cC6F988F-BB9C-11F0-1184-09173F13E4C5">Revision History</a></li></ul></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-100/INS-03-100_container_handling_setup_-_tiama_-_mx4.html#cC76F19D-BB9C-11F0-1929-09173F13E4C5">Container Handling Setup - Tiama - MX4</a><ul><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-100/INS-03-100_container_handling_setup_-_tiama_-_mx4.html#cC773946-BB9C-11F0-7247-09173F13E4C5">Purpose and Application</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-100/INS-03-100_container_handling_setup_-_tiama_-_mx4.html#cC7792A1-BB9C-11F0-1644-09173F13E4C5">Safety</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-100/INS-03-100_container_handling_setup_-_tiama_-_mx4.html#tC772142-BB9C-11F0-1520-09173F13E4C5">Instructions</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-100/INS-03-100_container_handling_setup_-_tiama_-_mx4.html#cC776499-BB9C-11F0-1019-09173F13E4C5">Required Training</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-100/INS-03-100_container_handling_setup_-_tiama_-_mx4.html#cC7708DA-BB9C-11F0-1226-09173F13E4C5">Equipment</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-100/INS-03-100_container_handling_setup_-_tiama_-_mx4.html#cC774EDA-BB9C-11F0-4771-09173F13E4C5">References</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-100/INS-03-100_container_handling_setup_-_tiama_-_mx4.html#cC76DB4F-BB9C-11F0-1031-09173F13E4C5">Approval</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-100/INS-03-100_container_handling_setup_-_tiama_-_mx4.html#cC777A57-BB9C-11F0-9211-09173F13E4C5">Revision History</a></li></ul></li><li class="active"><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-102/INS-03-102_finish_setup_-_tiama_-_fta_with_calia3_on_mx4.html#cC7F5539-BB9C-11F0-6062-09173F13E4C5">Finish Setup - Tiama - FTA with CALIA3 on MX4</a><ul><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-102/INS-03-102_finish_setup_-_tiama_-_fta_with_calia3_on_mx4.html#cC7F8303-BB9C-11F0-3676-09173F13E4C5">Purpose and Application</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-102/INS-03-102_finish_setup_-_tiama_-_fta_with_calia3_on_mx4.html#cC7FE143-BB9C-11F0-8246-09173F13E4C5">Safety</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-102/INS-03-102_finish_setup_-_tiama_-_fta_with_calia3_on_mx4.html#tC7F6D4C-BB9C-11F0-6516-09173F13E4C5">Instructions</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-102/INS-03-102_finish_setup_-_tiama_-_fta_with_calia3_on_mx4.html#cC7FB37D-BB9C-11F0-2708-09173F13E4C5">Required Training</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-102/INS-03-102_finish_setup_-_tiama_-_fta_with_calia3_on_mx4.html#cC7F3F5C-BB9C-11F0-8397-09173F13E4C5">Equipment</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-102/INS-03-102_finish_setup_-_tiama_-_fta_with_calia3_on_mx4.html#cC7F2986-BB9C-11F0-1747-09173F13E4C5">Definitions</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-102/INS-03-102_finish_setup_-_tiama_-_fta_with_calia3_on_mx4.html#cC7F9B3A-BB9C-11F0-2323-09173F13E4C5">References</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-102/INS-03-102_finish_setup_-_tiama_-_fta_with_calia3_on_mx4.html#cC7F113D-BB9C-11F0-9531-09173F13E4C5">Approval</a></li><li><a href="../../Soul-Cold_End_Inspection_Discipline/INS-03-102/INS-03-102_finish_setup_-_tiama_-_fta_with_calia3_on_mx4.html#cC7FC91C-BB9C-11F0-1844-09173F13E4C5">Revision History</a></li></ul></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-052E/MLT-MR-052E_testing_the_diesel_pump.html#cC889951-BB9C-11F0-1921-09173F13E4C5">Testing the Diesel Pump</a><ul><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-052E/MLT-MR-052E_testing_the_diesel_pump.html#cC883ACE-BB9C-11F0-1068-09173F13E4C5">Purpose/Application</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-052E/MLT-MR-052E_testing_the_diesel_pump.html#cC8825BD-BB9C-11F0-1521-09173F13E4C5">PPE Required</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-052E/MLT-MR-052E_testing_the_diesel_pump.html#cC888113-BB9C-11F0-3075-09173F13E4C5">Safety Hazards</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-052E/MLT-MR-052E_testing_the_diesel_pump.html#cC886B82-BB9C-11F0-3400-09173F13E4C5">Safety Controls</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-052E/MLT-MR-052E_testing_the_diesel_pump.html#cC88C4F0-BB9C-11F0-7827-09173F13E4C5">Tools &amp; Equipment</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-052E/MLT-MR-052E_testing_the_diesel_pump.html#cC880A90-BB9C-11F0-2098-09173F13E4C5">Comments</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-052E/MLT-MR-052E_testing_the_diesel_pump.html#tC88AF28-BB9C-11F0-8491-09173F13E4C5">Testing the Diesel Pump </a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-052E/MLT-MR-052E_testing_the_diesel_pump.html#cC87F4BB-BB9C-11F0-1284-09173F13E4C5">Approval</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-052E/MLT-MR-052E_testing_the_diesel_pump.html#cC8852F7-BB9C-11F0-1279-09173F13E4C5">Revision History</a></li></ul></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-053B/MLT-MR-053B_zeroing_the_melter_pressure_transmitters_.html#cC8A34E4-BB9C-11F0-5560-09173F13E4C5">Zeroing the Melter Pressure Transmitters </a><ul><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-053B/MLT-MR-053B_zeroing_the_melter_pressure_transmitters_.html#cC8994FE-BB9C-11F0-1325-09173F13E4C5">Purpose/Application</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-053B/MLT-MR-053B_zeroing_the_melter_pressure_transmitters_.html#cC897CB1-BB9C-11F0-1885-09173F13E4C5">PPE Required</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-053B/MLT-MR-053B_zeroing_the_melter_pressure_transmitters_.html#cC89EC63-BB9C-11F0-1202-09173F13E4C5">Safety Hazards</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-053B/MLT-MR-053B_zeroing_the_melter_pressure_transmitters_.html#cC89A88C-BB9C-11F0-1230-09173F13E4C5">Respirable Crystalline Silica</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-053B/MLT-MR-053B_zeroing_the_melter_pressure_transmitters_.html#cC89D68A-BB9C-11F0-1421-09173F13E4C5">Safety Controls</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-053B/MLT-MR-053B_zeroing_the_melter_pressure_transmitters_.html#cC8A04E2-BB9C-11F0-1756-09173F13E4C5">Tools &amp; Equipment</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-053B/MLT-MR-053B_zeroing_the_melter_pressure_transmitters_.html#cC896710-BB9C-11F0-2013-09173F13E4C5">Comments</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-053B/MLT-MR-053B_zeroing_the_melter_pressure_transmitters_.html#tC8A1D5E-BB9C-11F0-1540-09173F13E4C5">Zeroing the Melter Pressure Transmitters</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-053B/MLT-MR-053B_zeroing_the_melter_pressure_transmitters_.html#cC895098-BB9C-11F0-8732-09173F13E4C5">Approval</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-053B/MLT-MR-053B_zeroing_the_melter_pressure_transmitters_.html#cC89C07A-BB9C-11F0-1788-09173F13E4C5">Revision History</a></li></ul></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054A/MLT-MR-054A_removing_the_floor_burners_.html#cC8B2660-BB9C-11F0-4503-09173F13E4C5">Removing the Floor Burners </a><ul><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054A/MLT-MR-054A_removing_the_floor_burners_.html#cC8AF960-BB9C-11F0-1034-09173F13E4C5">Purpose/Application</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054A/MLT-MR-054A_removing_the_floor_burners_.html#cC8AE2C1-BB9C-11F0-1158-09173F13E4C5">PPE Required</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054A/MLT-MR-054A_removing_the_floor_burners_.html#cC8B6A30-BB9C-11F0-5337-09173F13E4C5">Safety Hazards</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054A/MLT-MR-054A_removing_the_floor_burners_.html#cC8B5480-BB9C-11F0-8212-09173F13E4C5">Safety Controls</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054A/MLT-MR-054A_removing_the_floor_burners_.html#cC8ACD01-BB9C-11F0-7735-09173F13E4C5">Equipment Needed</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054A/MLT-MR-054A_removing_the_floor_burners_.html#cC8AB723-BB9C-11F0-9526-09173F13E4C5">Comments</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054A/MLT-MR-054A_removing_the_floor_burners_.html#tC8B10A2-BB9C-11F0-1937-09173F13E4C5">Removing the Floor Burners</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054A/MLT-MR-054A_removing_the_floor_burners_.html#cC8A9F43-BB9C-11F0-1251-09173F13E4C5">Approval</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054A/MLT-MR-054A_removing_the_floor_burners_.html#cC8B3C3E-BB9C-11F0-8520-09173F13E4C5">Revision History</a></li></ul></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054F/MLT-MR-054F_inspecting_a_mass_flow_controller_mfc_for_leaks_.html#cC8DCC43-BB9C-11F0-8844-09173F13E4C5">Inspecting a Mass Flow Controller (MFC) for Leaks </a><ul><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054F/MLT-MR-054F_inspecting_a_mass_flow_controller_mfc_for_leaks_.html#cC8DF9D1-BB9C-11F0-1145-09173F13E4C5">Purpose/Application</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054F/MLT-MR-054F_inspecting_a_mass_flow_controller_mfc_for_leaks_.html#cC8DE1A6-BB9C-11F0-1428-09173F13E4C5">PPE Required</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054F/MLT-MR-054F_inspecting_a_mass_flow_controller_mfc_for_leaks_.html#cC8E3D75-BB9C-11F0-1109-09173F13E4C5">Safety Hazards</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054F/MLT-MR-054F_inspecting_a_mass_flow_controller_mfc_for_leaks_.html#cC8E284D-BB9C-11F0-6221-09173F13E4C5">Safety Controls</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054F/MLT-MR-054F_inspecting_a_mass_flow_controller_mfc_for_leaks_.html#cC8D9B86-BB9C-11F0-1118-09173F13E4C5">Equipment Needed</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054F/MLT-MR-054F_inspecting_a_mass_flow_controller_mfc_for_leaks_.html#cC8D85B0-BB9C-11F0-1204-09173F13E4C5">Comments</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054F/MLT-MR-054F_inspecting_a_mass_flow_controller_mfc_for_leaks_.html#tC8DB3CE-BB9C-11F0-1664-09173F13E4C5">Inspecting a Mass Flow Controller (MFC) for Leaks</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054F/MLT-MR-054F_inspecting_a_mass_flow_controller_mfc_for_leaks_.html#cC8D7172-BB9C-11F0-1020-09173F13E4C5">Approval</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054F/MLT-MR-054F_inspecting_a_mass_flow_controller_mfc_for_leaks_.html#cC8E1211-BB9C-11F0-6048-09173F13E4C5">Revision History</a></li></ul></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054H/MLT-MR-054H_adjusting_a_gas_ssov_limit_switch_.html#cC8EB1B6-BB9C-11F0-2082-09173F13E4C5">Adjusting a Gas SSOV Limit Switch </a><ul><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054H/MLT-MR-054H_adjusting_a_gas_ssov_limit_switch_.html#cC8F23F2-BB9C-11F0-1552-09173F13E4C5">Purpose/Application</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054H/MLT-MR-054H_adjusting_a_gas_ssov_limit_switch_.html#cC8F0AF2-BB9C-11F0-2942-09173F13E4C5">PPE Required</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054H/MLT-MR-054H_adjusting_a_gas_ssov_limit_switch_.html#cC8F6438-BB9C-11F0-1543-09173F13E4C5">Safety Hazards</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054H/MLT-MR-054H_adjusting_a_gas_ssov_limit_switch_.html#cC8F4E73-BB9C-11F0-8799-09173F13E4C5">Safety Controls</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054H/MLT-MR-054H_adjusting_a_gas_ssov_limit_switch_.html#cC8EF305-BB9C-11F0-6624-09173F13E4C5">Equipment Needed</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054H/MLT-MR-054H_adjusting_a_gas_ssov_limit_switch_.html#cC8EDF92-BB9C-11F0-2045-09173F13E4C5">Comments</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054H/MLT-MR-054H_adjusting_a_gas_ssov_limit_switch_.html#tC8E9976-BB9C-11F0-1781-09173F13E4C5">Adjusting a Gas SSOV Limit Switch</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054H/MLT-MR-054H_adjusting_a_gas_ssov_limit_switch_.html#cC8EC80D-BB9C-11F0-1553-09173F13E4C5">Approval</a></li><li><a href="../../Soul-Holzminden_Discipline/MLT-MR-054H/MLT-MR-054H_adjusting_a_gas_ssov_limit_switch_.html#cC8F3B1B-BB9C-11F0-1496-09173F13E4C5">Revision History</a></li></ul></li><li><a href="../../Soul-Maintenance_Discipline/HEP-03-002/HEP-03-002_he_treatment_hood_annual_maintenance.html#cC90A5C1-BB9C-11F0-3922-09173F13E4C5">HE Treatment Hood Annual Maintenance</a><ul><li><a href="../../Soul-Maintenance_Discipline/HEP-03-002/HEP-03-002_he_treatment_hood_annual_maintenance.html#cC90D3ED-BB9C-11F0-3480-09173F13E4C5">Purpose and Application</a></li><li><a href="../../Soul-Maintenance_Discipline/HEP-03-002/HEP-03-002_he_treatment_hood_annual_maintenance.html#cC912D61-BB9C-11F0-4111-09173F13E4C5">Safety</a></li><li><a href="../../Soul-Maintenance_Discipline/HEP-03-002/HEP-03-002_he_treatment_hood_annual_maintenance.html#tC90BB94-BB9C-11F0-1772-09173F13E4C5">Instructions</a></li><li><a href="../../Soul-Maintenance_Discipline/HEP-03-002/HEP-03-002_he_treatment_hood_annual_maintenance.html#cC9101CE-BB9C-11F0-6064-09173F13E4C5">Required Training</a></li><li><a href="../../Soul-Maintenance_Discipline/HEP-03-002/HEP-03-002_he_treatment_hood_annual_maintenance.html#rC90E9B6-BB9C-11F0-1668-09173F13E4C5">References</a></li><li><a href="../../Soul-Maintenance_Discipline/HEP-03-002/HEP-03-002_he_treatment_hood_annual_maintenance.html#cC908D9E-BB9C-11F0-5631-09173F13E4C5">Approval</a></li><li><a href="../../Soul-Maintenance_Discipline/HEP-03-002/HEP-03-002_he_treatment_hood_annual_maintenance.html#cC911783-BB9C-11F0-1376-09173F13E4C5">Revision History</a></li></ul></li><li><a href="../../Soul-Maintenance_Discipline/PKR-03-003/PKR-03-003_palletizer_annual_maintenance.html#cC931BEC-BB9C-11F0-1207-09173F13E4C5">Palletizer Annual Maintenance</a><ul><li><a href="../../Soul-Maintenance_Discipline/PKR-03-003/PKR-03-003_palletizer_annual_maintenance.html#cC933290-BB9C-11F0-1922-09173F13E4C5">Purpose and Application</a></li><li><a href="../../Soul-Maintenance_Discipline/PKR-03-003/PKR-03-003_palletizer_annual_maintenance.html#cC938C1A-BB9C-11F0-1960-09173F13E4C5">Safety</a></li><li><a href="../../Soul-Maintenance_Discipline/PKR-03-003/PKR-03-003_palletizer_annual_maintenance.html#tC9304BA-BB9C-11F0-2070-09173F13E4C5">Instructions</a></li><li><a href="../../Soul-Maintenance_Discipline/PKR-03-003/PKR-03-003_palletizer_annual_maintenance.html#cC93604C-BB9C-11F0-1384-09173F13E4C5">Required Training</a></li><li><a href="../../Soul-Maintenance_Discipline/PKR-03-003/PKR-03-003_palletizer_annual_maintenance.html#rC934858-BB9C-11F0-1728-09173F13E4C5">References</a></li><li><a href="../../Soul-Maintenance_Discipline/PKR-03-003/PKR-03-003_palletizer_annual_maintenance.html#cC92EC79-BB9C-11F0-7672-09173F13E4C5">Approval</a></li><li><a href="../../Soul-Maintenance_Discipline/PKR-03-003/PKR-03-003_palletizer_annual_maintenance.html#cC9378B9-BB9C-11F0-1140-09173F13E4C5">Revision History</a></li></ul></li><li><a href="../../Soul-Maintenance_Discipline/PKR-03-009/PKR-03-009_stretch_wrapper_monthly_maintenance.html#cC945ECC-BB9C-11F0-1746-09173F13E4C5">Stretch Wrapper Monthly Maintenance</a><ul><li><a href="../../Soul-Maintenance_Discipline/PKR-03-009/PKR-03-009_stretch_wrapper_monthly_maintenance.html#cC93E593-BB9C-11F0-1602-09173F13E4C5">Purpose and Application</a></li><li><a href="../../Soul-Maintenance_Discipline/PKR-03-009/PKR-03-009_stretch_wrapper_monthly_maintenance.html#cC944874-BB9C-11F0-1253-09173F13E4C5">Safety</a></li><li><a href="../../Soul-Maintenance_Discipline/PKR-03-009/PKR-03-009_stretch_wrapper_monthly_maintenance.html#tC93CFE5-BB9C-11F0-2034-09173F13E4C5">Instructions</a></li><li><a href="../../Soul-Maintenance_Discipline/PKR-03-009/PKR-03-009_stretch_wrapper_monthly_maintenance.html#cC9418A4-BB9C-11F0-5491-09173F13E4C5">Required Training</a></li><li><a href="../../Soul-Maintenance_Discipline/PKR-03-009/PKR-03-009_stretch_wrapper_monthly_maintenance.html#rC940063-BB9C-11F0-1645-09173F13E4C5">References</a></li><li><a href="../../Soul-Maintenance_Discipline/PKR-03-009/PKR-03-009_stretch_wrapper_monthly_maintenance.html#cC93BA27-BB9C-11F0-3017-09173F13E4C5">Approval</a></li><li><a href="../../Soul-Maintenance_Discipline/PKR-03-009/PKR-03-009_stretch_wrapper_monthly_maintenance.html#cC9430E3-BB9C-11F0-1598-09173F13E4C5">Revision History</a></li></ul></li><li><a href="../../Soul-Maintenance_Discipline/PKR-03-011/PKR-03-011_stretch_wrapper_annual_maintenance.html#cC954718-BB9C-11F0-2134-09173F13E4C5">Stretch Wrapper Annual Maintenance</a><ul><li><a href="../../Soul-Maintenance_Discipline/PKR-03-011/PKR-03-011_stretch_wrapper_annual_maintenance.html#cC94C446-BB9C-11F0-9702-09173F13E4C5">Purpose and Application</a></li><li><a href="../../Soul-Maintenance_Discipline/PKR-03-011/PKR-03-011_stretch_wrapper_annual_maintenance.html#cC952C33-BB9C-11F0-2330-09173F13E4C5">Safety</a></li><li><a href="../../Soul-Maintenance_Discipline/PKR-03-011/PKR-03-011_stretch_wrapper_annual_maintenance.html#tC94A9B7-BB9C-11F0-7030-09173F13E4C5">Instructions</a></li><li><a href="../../Soul-Maintenance_Discipline/PKR-03-011/PKR-03-011_stretch_wrapper_annual_maintenance.html#cC94F71D-BB9C-11F0-1938-09173F13E4C5">Required Training</a></li><li><a href="../../Soul-Maintenance_Discipline/PKR-03-011/PKR-03-011_stretch_wrapper_annual_maintenance.html#rC94DC5E-BB9C-11F0-3390-09173F13E4C5">References</a></li><li><a href="../../Soul-Maintenance_Discipline/PKR-03-011/PKR-03-011_stretch_wrapper_annual_maintenance.html#cC948F2C-BB9C-11F0-1878-09173F13E4C5">Approval</a></li><li><a href="../../Soul-Maintenance_Discipline/PKR-03-011/PKR-03-011_stretch_wrapper_annual_maintenance.html#cC9511AF-BB9C-11F0-8272-09173F13E4C5">Revision History</a></li></ul></li><li><a href="../../Soul-Maintenance_Discipline/PKR-07-001/PKR-07-001_packaging_systems_maintenance.html#cC95C6EB-BB9C-11F0-8746-09173F13E4C5">Packaging Systems Maintenance</a><ul><li><a href="../../Soul-Maintenance_Discipline/PKR-07-001/PKR-07-001_packaging_systems_maintenance.html#cC95E169-BB9C-11F0-1863-09173F13E4C5">Purpose</a></li><li><a href="../../Soul-Maintenance_Discipline/PKR-07-001/PKR-07-001_packaging_systems_maintenance.html#cC9579C6-BB9C-11F0-1834-09173F13E4C5">Application</a></li><li><a href="../../Soul-Maintenance_Discipline/PKR-07-001/PKR-07-001_packaging_systems_maintenance.html#rC95F96E-BB9C-11F0-1838-09173F13E4C5">References</a></li><li><a href="../../Soul-Maintenance_Discipline/PKR-07-001/PKR-07-001_packaging_systems_maintenance.html#rC95AC59-BB9C-11F0-2563-09173F13E4C5">Packaging Systems</a></li><li><a href="../../Soul-Maintenance_Discipline/PKR-07-001/PKR-07-001_packaging_systems_maintenance.html#rC962C25-BB9C-11F0-8816-09173F13E4C5">Spare Parts</a></li><li><a href="../../Soul-Maintenance_Discipline/PKR-07-001/PKR-07-001_packaging_systems_maintenance.html#cC9591AB-BB9C-11F0-1105-09173F13E4C5">Approval</a></li><li><a href="../../Soul-Maintenance_Discipline/PKR-07-001/PKR-07-001_packaging_systems_maintenance.html#cC961406-BB9C-11F0-1863-09173F13E4C5">Revision History</a></li></ul></li></ul></nav><main role="main"><article role="article" aria-labelledby="ariaid-title1"><article class="nested0" aria-labelledby="ariaid-title1" id="cC7F5539-BB9C-11F0-6062-09173F13E4C5">
+   <h1 class="title topictitle1" id="ariaid-title1">Finish Setup - Tiama - FTA with CALIA3 on MX4</h1>
+   
+   <div class="body conbody">
+      <p class="p">INS-03-102</p>
+      <p class="p">Revised: 2021-10-12</p>
+   </div>
+<article class="topic concept nested1" aria-labelledby="ariaid-title2" lang="en-us" id="cC7F8303-BB9C-11F0-3676-09173F13E4C5">
+   <h2 class="title topictitle2" id="ariaid-title2">Purpose and Application</h2>
+   
+   <div class="body conbody">
+      <section class="section"><h3 class="title sectiontitle">Purpose</h3>
+         
+         <p class="p">To define a work instruction for proper setup of the Finish Top Analysis inspection
+            device on a fully integrated MX4 Machine.</p>
+      </section>
+      <section class="section"><h3 class="title sectiontitle">Application</h3>
+         
+         <p class="p">This work instruction applies to all Soul manufacturing facilities.</p>
+      </section>
+   </div>
+</article><article class="topic concept nested1" aria-labelledby="ariaid-title3" lang="en-us" id="cC7FE143-BB9C-11F0-8246-09173F13E4C5">
+   <h2 class="title topictitle2" id="ariaid-title3">Safety</h2>
+   
+   <div class="body conbody">
+      <p class="p">Observe Soul standard safety requirements and procedures defined by the Global Environmental Health &amp; Safety (EH&amp;S) organization, as well as all applicable local, regional, and national requirements. Safety equipment and instructions specific to the completion of this work instruction are detailed in the Instructions Section.</p>
+      <div class="p">
+         <table class="table" id="cC7FE143-BB9C-11F0-8246-09173F13E4C5__table_gfj_4n2_xcc"><caption></caption><colgroup><col style="width:25%"><col style="width:25%"><col style="width:25%"><col style="width:25%"></colgroup><tbody class="tbody">
+                  <tr class="row">
+                     <td class="entry"></td>
+                     <td class="entry"></td>
+                     <td class="entry"></td>
+                     <td class="entry"></td>
+                  </tr>
+                  <tr class="row">
+                     <td class="entry"></td>
+                     <td class="entry"></td>
+                     <td class="entry"></td>
+                     <td class="entry"></td>
+                  </tr>
+                  <tr class="row">
+                     <td class="entry"></td>
+                     <td class="entry"></td>
+                     <td class="entry"></td>
+                     <td class="entry"></td>
+                  </tr>
+                  <tr class="row">
+                     <td class="entry"></td>
+                     <td class="entry"></td>
+                     <td class="entry"></td>
+                     <td class="entry"></td>
+                  </tr>
+               </tbody></table>
+      </div>
+   </div>
+</article><article class="topic task nested1" aria-labelledby="ariaid-title4" lang="en-us" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5">
+   <h2 class="title topictitle2" id="ariaid-title4">Instructions</h2>
+   
+   <div class="body taskbody">
+      <section><ol class="ol steps"><li class="li step">
+            <span class="ph cmd">Before starting the work instruction activity, perform the following steps:</span>
+            <ol type="a" class="ol substeps">
+               <li class="li substep">
+                  <span class="ph cmd">Do not begin these tasks without confirmation that personnel directly
+                     involved have completed the required training associated with the work
+                     instruction activity and have reviewed this document.</span>
+               </li>
+               <li class="li substep">
+                  <span class="ph cmd">Gather necessary tools and equipment as identified below in the Equipment
+                     Section.</span>
+               </li>
+               <li class="li substep">
+                  <span class="ph cmd">Wear and use additional Personal Protective Equipment (PPE) and safety
+                     equipment required for this specific work instruction.</span>
+               </li>
+               <li class="li substep">
+                  <span class="ph cmd">Obey all applicable safety requirements and procedures.</span>
+               </li>
+               <li class="li substep">
+                  <span class="ph cmd">Notify appropriate personnel of the activity and estimated time needed to
+                     complete the tasks.</span>
+               </li>
+               <li class="li substep">
+                  <span class="ph cmd">Clearly identify, mark-off, and secure the designated area defined by the
+                     work instruction activity.</span>
+               </li>
+               <li class="li substep">
+                  <span class="ph cmd">Follow all Lockout/Tagout procedures when work instruction activity requires
+                     isolating energy in the designated area. Verify energy is isolated before
+                     starting work.</span>
+               </li>
+               <li class="li substep">
+                  <span class="ph cmd">After verifying that energy is isolated, remove the protective guarding and
+                     open the safety interlock gates.</span>
+               </li>
+            </ol>
+         </li><li class="li step">
+            <span class="ph cmd">Prerequisites</span>
+            <ol type="a" class="ol substeps">
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Obtain a commercial quality container with a known height value measured and
+                     approved by the quality team.</span>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Monitor the production flow to ensure that the machine is properly set up in
+                     accordance with Work Instruction INS-03-100 Container Handling Setup - Tiama -
+                     MX4.</span>
+                  <div class="itemgroup info">
+                     <div class="p">
+                        <figure class="fig fignone">
+                           <br><div class="imagecenter"><img class="image imagecenter" src="media/image1.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+            </ol>
+         </li><li class="li step">
+            <span class="ph cmd">To set up the motor-driven movable frame, perform the following steps:</span>
+            <ol type="a" class="ol substeps">
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Confirm the motor-driven movable frame height adjustment in accordance with
+                     Work Instruction INS-03-100 Container Handling Setup - Tiama - MX4.</span>
+                  <div class="itemgroup info">
+                     <div class="p">
+                        <figure class="fig fignone">
+                           <br><div class="imagecenter"><img class="image imagecenter" src="media/image2.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Jog a commercial quality container of the type to be inspected into station 5
+                     or other station where FTA is installed on the machine.</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i">
+                        <li class="li">The MX4 should be in Manual mode <img class="image" src="media/image3.jpg">.</li>
+                        <li class="li">Move the container using the <img class="image" src="media/image4.jpg"> selector.
+                        </li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone">
+                           <br><div class="imagecenter"><img class="image imagecenter" src="media/image5.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Verify that the gauge light is on.</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i">
+                        <li class="li">The gauge signal is shown on the status bar. When the container can be
+                           inspected, the gauge light changes from gray to green.</li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone"><figcaption><span class="fig--title-label">Figure 1. </span>
+                              <strong class="ph b">Tiama MX4 Gauge Light:</strong>
+                           </figcaption>
+                           
+                        </figure>
+                        <figure class="fig fignone">
+                           <br><div class="imagecenter"><img class="image imagecenter" src="media/image6.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+            </ol>
+         </li><li class="li step">
+            <span class="ph cmd">For the mechanical setup of the FTA Head Assembly, perform the following steps:</span>
+            <ol type="a" class="ol substeps">
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Select <strong class="ph b">Detections </strong>&gt; <strong class="ph b">FTA</strong> from the Main Menu.</span>
+                  <div class="itemgroup info">
+                     <div class="p">
+                        <figure class="fig fignone">
+                           <br><div class="imagecenter"><img class="image imagecenter" src="media/image7.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Select <strong class="ph b">Settings &gt; Optics</strong> from the Main Menu.</span>
+                  <div class="itemgroup info">
+                     <div class="p">
+                        <figure class="fig fignone">
+                           <br><div class="imagecenter"><img class="image imagecenter" src="media/image8.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Display the cross hairs on the finish surface image.</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i">
+                        <li class="li">The MX4 should be in PAUSE mode <img class="image" src="media/image9.jpg"> .</li>
+                        <li class="li">Activate the <span class="ph uicontrol">Permanent</span> button <img class="image" src="media/image10.jpg"> .</li>
+                        <li class="li">Press the <span class="ph uicontrol">Cross</span> Hairs button to aid in setup
+                              <img class="image" src="media/image11.jpg">.</li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_crx_kyd_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_drx_kyd_xcc" src="media/image12.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Select the finish surface view and enable the laser.</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__ol_bq2_4yd_xcc">
+                        <li class="li">Activate the laser by clicking on the <img class="image" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_q5s_4yd_xcc" src="media/image13.jpg"> button in the <em class="ph i">
+                              <strong class="ph b">FTA Laser Source
+                                 Settings</strong>
+                           </em> menu.</li>
+                        <li class="li">The right image must show the finish surface with the cross hairs and
+                           laser.</li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_qt2_wyd_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_rt2_wyd_xcc" src="media/image14.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">If the container is not appearing on the screen, use the up/down and in/out
+                     adjustments until an image appears.</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__ol_phm_5yd_xcc">
+                        <li class="li">Locking Handle (in/out) [1].</li>
+                        <li class="li">Adjustment Knob (in/out) [2].</li>
+                        <li class="li">Locking Screw (up/down) [3].</li>
+                        <li class="li">Adjustment Knob (up/down) [4]. </li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_p4q_xyd_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_q4q_xyd_xcc" src="media/image15.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">While monitoring the Scope Screen, slightly loosen the Locking Screws and
+                     adjust the position of the Head Assembly left/right using the Adjustment Knob
+                     until the sealing surface image is horizontal as in the image shown. When
+                     finished, tighten the Locking Screws.</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__ol_rkx_1zd_xcc">
+                        <li class="li">Locking Screws (left/right) [1].</li>
+                        <li class="li">Adjustment Knob (left/right) [2].</li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_lln_bzd_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_mln_bzd_xcc" src="media/image16.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">While monitoring the Scope Screen, loosen the Locking Handle and adjust the
+                     position of the Head Assembly in/out using the Adjustment Knob until the
+                     sealing surface image is vertically centered as in the image shown. When
+                     finished, adjust the Locking Handle.</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__ol_xlv_tzd_xcc">
+                        <li class="li">Locking Handle (in/out) [1].</li>
+                        <li class="li">Adjustment Knob (in/out) [2].</li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_lfv_vzd_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_mfv_vzd_xcc" src="media/image17.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">While monitoring the Scope Screen, slightly loosen the Locking Screw and
+                     adjust the position of the Head Assembly up/down using the Adjustment Knob
+                     until the vertical Wire Edge laser line is centered as in the image shown. When
+                     finished, tighten the Locking Screw.</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__ol_cg4_d12_xcc">
+                        <li class="li">Locking Screw (up/down) [1].</li>
+                        <li class="li">Adjustment Knob (up/down) [2].</li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_ant_f12_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_bnt_f12_xcc" src="media/image18.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">When the laser is centered on the crosshairs, confirm that the sealing
+                     surface of the container is in focus. If it is not, the FTA Head requires
+                     realignment or repair.</span>
+                  <div class="itemgroup info">
+                     <div class="note note note_note" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__note_d5g_q12_xcc"><span class="note__title">Note:</span> 
+                        <p class="p">The previous adjustment steps may need to be repeated until the image is
+                           centered on the crosshairs. </p>
+                     </div>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_m3v_r12_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_n3v_r12_xcc" src="media/image19.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Tilt adjustments (if installed).</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__ol_jjr_v12_xcc">
+                        <li class="li">Tilt adjustment knob [1].</li>
+                        <li class="li">Tilt adjustment blocking screw [2].</li>
+                        <li class="li">Tilt adjustment default position pin [3]. </li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_rnj_w12_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_snj_w12_xcc" src="media/image20.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+            </ol>
+         </li><li class="li step">
+            <span class="ph cmd">To adjust the FTA light and laser settings, perform the following steps:</span>
+            <ol type="a" class="ol substeps">
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Adjust the <strong class="ph b">Sealing Surface Intensity </strong>slider until the Avg. Intensity
+                     reads between 80 and 90. (Ideal intensity is 100).</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__ol_iqc_cb2_xcc">
+                        <li class="li">The MX4 should be in <strong class="ph b">Manual mode</strong> and <strong class="ph b">the article should not
+                              rotate</strong>.</li>
+                        <li class="li">If the Sealing Surface Intensity value must be adjusted to near 100 to
+                           obtain the desired measured intensity, this may indicate that the FTA
+                           Head needs servicing.  </li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_ykq_cb2_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_zkq_cb2_xcc" src="media/image21.jpg"></div><br>
+                        </figure>
+                     </div>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_alq_cb2_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_blq_cb2_xcc" src="media/image22.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Adjust the <strong class="ph b">Sealing Surface Balance </strong>slider to obtain an even contrast
+                     throughout the image from top to bottom.</span>
+                  <div class="itemgroup info">
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_hr2_pb2_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_ir2_pb2_xcc" src="media/image23.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Adjust the <strong class="ph b">Laser</strong> Intensity.</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__ol_sky_zc2_xcc">
+                        <li class="li">Activate the laser by clicking on the <img class="image" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_gxh_bd2_xcc" src="media/image24.jpg"> button in the <em class="ph i">
+                              <strong class="ph b">FTA Laser Source
+                                 Settings</strong>
+                           </em> menu.</li>
+                        <li class="li">Move the <strong class="ph b">Laser Intensity</strong> slider until the Avg. Spot Width slider
+                           turns to green.</li>
+                        <li class="li">The ideal Avg. Spot Width is 4.0.</li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_bdy_2d2_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_cdy_2d2_xcc" src="media/image25.jpg"></div><br>
+                        </figure>
+                     </div>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_aqm_fd2_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_bqm_fd2_xcc" src="media/image26.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+            </ol>
+         </li><li class="li step">
+            <span class="ph cmd">For the software setup of the FTA, perform the following steps:</span>
+            <ol type="a" class="ol substeps">
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Spin the container:</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__ol_qhm_ld2_xcc">
+                        <li class="li">The machine should be in Manual mode [1].</li>
+                        <li class="li">Press the <span class="ph uicontrol">Green</span> button [2].</li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_ldf_md2_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_mdf_md2_xcc" src="media/image27.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Select <strong class="ph b">Settings &gt; FTA Defect Adjustment.</strong>
+                  </span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__ol_qgx_td2_xcc">
+                        <li class="li">The MX4 should be in Pause mode <img class="image" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_nh4_rd2_xcc" src="media/image28.jpg">.</li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_oh4_rd2_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_ph4_rd2_xcc" src="media/image29.jpg"></div><br>
+                        </figure>
+                     </div>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_qh4_rd2_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_rh4_rd2_xcc" src="media/image30.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Click on the <img class="image" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_jl1_yd2_xcc" src="media/image31.jpg"> button
+                     to show the finish edges on the trapped image.</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__ol_s4m_yd2_xcc">
+                        <li class="li">Select the Sealing Surface image.</li>
+                        <li class="li">Select one of the 64 frames.</li>
+                        <li class="li">Verify the green top and blue bottom arcs match with the finish
+                           edges.</li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_ew5_b22_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_fw5_b22_xcc" src="media/image32.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Learn the Top and Bottom finish limits.</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__ol_ssk_222_xcc">
+                        <li class="li">Click on the <img class="image" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_nfd_f22_xcc" src="media/image33.jpg">
+                           button.</li>
+                        <li class="li">Drag the Top and Bottom blue lines to the Top and Bottom limits of the
+                           Finish surface as shown.</li>
+                        <li class="li">Press the <span class="ph uicontrol">Learn</span> button.</li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_ydx_f22_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_zdx_f22_xcc" src="media/image34.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Verify the Article Type.</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__ol_cbk_l22_xcc">
+                        <li class="li">Click on the <img class="image" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_l31_m22_xcc" src="media/image35.jpg">
+                           button.</li>
+                        <li class="li">Choose the proper Article Type as needed.<ol class="ol" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__ol_tng_422_xcc">
+                              <li class="li">Normal: Used for most containers. It should always be used for
+                                 initial setup regardless of the actual bottle type.</li>
+                              <li class="li">Rough: Selected when finish edges are rough (due to a dirty
+                                 finish) or blurred due to the curvature of a crown finish.</li>
+                              <li class="li">No Step: Basically used for Blow &amp; Blow process if Normal
+                                 finish is not working (false rejects for Overpress or Wire Edge).
+                              </li>
+                           </ol>
+                        </li>
+                     </ol>
+                     <div class="note note note_note" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__note_xwm_p22_xcc"><span class="note__title">Note:</span> 
+                        <p class="p">Changing the Article type will restore the parameters values back to
+                           their defaults.</p>
+                     </div>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_ywm_p22_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_zwm_p22_xcc" src="media/image36.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Select the Image Contrast and Luminosity.</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__ol_cyt_y22_xcc">
+                        <li class="li">Click on the <img class="image" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_onz_y22_xcc" src="media/image37.jpg">
+                           button.</li>
+                        <li class="li">Move the Contrast and Luminosity sliders as required to better see the
+                           surface image.</li>
+                        <li class="li">This affects the displayed image only. It does not change the optical or
+                           light setup done previously.</li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_fjp_z22_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_gjp_z22_xcc" src="media/image38.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Show the Over height/Under height values.</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__ol_pdm_2f2_xcc">
+                        <li class="li">Click on the <img class="image" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_n1f_ff2_xcc" src="media/image39.jpg">
+                           button.</li>
+                        <li class="li">Click on the <span class="ph uicontrol">Sealing Surface</span> button.</li>
+                        <li class="li">The bottom image will show a green dot graphic with the values measured
+                           from the frames. The red lines are the threshold values defined. </li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_fqm_ff2_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_gqm_ff2_xcc" src="media/image40.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Show the Wire Edge height values.</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__ol_cb2_sf2_xcc">
+                        <li class="li">Click on the <span class="ph uicontrol">Wire Edge Height </span>button.</li>
+                        <li class="li">The bottom image will show a green dot graphic with the values measured
+                           from the frames. The red line is the threshold value defined.</li>
+                        <li class="li">
+                           <strong class="ph b">Negative values mean Overpress.</strong>
+                        </li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_yyf_tf2_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_zyf_tf2_xcc" src="media/image41.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Set up the revolutions per gauge.</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__ol_ikq_yf2_xcc">
+                        <li class="li">Select Settings/Advanced Parameters.</li>
+                        <li class="li">Confirm the <strong class="ph b">Rev Per Gauge</strong> value is set to 1.50.</li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_zrv_zf2_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_asv_zf2_xcc" src="media/image42.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+            </ol>
+         </li><li class="li step">
+            <span class="ph cmd">To verify there is no stray light coming from nearby stations (NCI, NCL or others), perform the following steps:</span>
+            <ol type="a" class="ol substeps">
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Jog 3 containers into the machine:</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__ol_o3s_dg2_xcc">
+                        <li class="li">One (1) in the station after FTA.</li>
+                        <li class="li">One (1) in the FTA position.</li>
+                        <li class="li">One (1) in the station before FTA.</li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_fhz_fg2_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_ghz_fg2_xcc" src="media/image43.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Spin the containers.</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__ol_rz2_mg2_xcc">
+                        <li class="li">The MX4 should be on MANU mode.</li>
+                        <li class="li">Press the <span class="ph uicontrol">ON</span> button.</li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_b3v_mg2_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_c3v_mg2_xcc" src="media/image44.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Trap the next 10 images.</span>
+                  <div class="itemgroup info">
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_rzx_pg2_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_szx_pg2_xcc" src="media/image45.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Check for stray light on the Sealing Surface, Wire Edge and Crizzle
+                     images.</span>
+                  <div class="itemgroup info">
+                     <p class="p">Possible solutions:</p>
+                     <ol class="ol" type="i" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__ol_uy3_xg2_xcc">
+                        <li class="li">Mask the NCL light source.</li>
+                        <li class="li">Change the position of the NCI lamp.</li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_cc5_zg2_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_dc5_zg2_xcc" src="media/image46.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">If there is no possibility to reduce stray light on the left side of the
+                     image by changing the position of the NCI lamp or masking the NCL lamp, set the
+                     WE Offset Left Column to 0.</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__ol_wh2_2h2_xcc">
+                        <li class="li">Enter to Settings/Advanced Parameters.</li>
+                        <li class="li">Select the Left Column Offset parameter.</li>
+                        <li class="li">Modify the value to 0.</li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_yvz_fh2_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_zvz_fh2_xcc" src="media/image47.jpg"></div><br>
+                        </figure>
+                     </div>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_xwl_gh2_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_ywl_gh2_xcc" src="media/image48.jpg"></div><br>
+                        </figure>
+                     </div>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_rpc_hh2_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_spc_hh2_xcc" src="media/image49.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+            </ol>
+         </li><li class="li step">
+            <span class="ph cmd">To review the Pockets screen of the FTA, perform the following steps:</span>
+            <ol type="a" class="ol substeps">
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Select <strong class="ph b">Settings &gt; Pockets</strong> from the Main Menu.</span>
+                  <div class="itemgroup info">
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_dhy_lh2_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_ehy_lh2_xcc" src="media/image50.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Clear out all the totals by pressing the<span class="ph uicontrol"> Reset Values</span>
+                     button <img class="image" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_jgl_ph2_xcc" src="media/image51.jpg">.</span>
+                  <div class="itemgroup info">
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_ufw_rh2_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_vfw_rh2_xcc" src="media/image52.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Start the machine (ensure production ware is available at the infeed).</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__ol_hhc_t32_xcc">
+                        <li class="li">The numbers shown are the median values obtained during the 15 minute
+                           inspection interval.</li>
+                        <li class="li">As the containers travel through the pockets, each number will turn
+                           black or red when a sufficient number of containers have passed.</li>
+                        <li class="li">The numbers will be displayed in black when acceptable (&gt;80% of set
+                           threshold), or red when below the 80% of the threshold. The FTA Head is
+                           properly adjusted when all these numbers are black.</li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_anf_w32_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_bnf_w32_xcc" src="media/image53.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Setting thresholds.</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__ol_ops_1j2_xcc">
+                        <li class="li">Click on the <span class="ph uicontrol">Settings button </span>
+                           <img class="image" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_l41_bj2_xcc" src="media/image54.jpg"> .</li>
+                        <li class="li">Select Alarm configuration <img class="image" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_ocm_bj2_xcc" src="media/image55.jpg"> .</li>
+                        <li class="li">Click on the <span class="ph uicontrol">Threshold option </span>
+                           <img class="image" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_znw_bj2_xcc" src="media/image56.jpg"> .</li>
+                        <li class="li">Set the threshold values.</li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_zjg_dj2_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_akg_dj2_xcc" src="media/image57.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+            </ol>
+         </li><li class="li step">
+            <span class="ph cmd">To confirm the FTA inspection and the appropriate inspection channels are
+               enabled.</span>
+            <ol type="a" class="ol substeps">
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Enable the FTA channels.</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__ol_sry_gj2_xcc">
+                        <li class="li">Select <strong class="ph b">Settings &gt; Advanced adjustments.</strong>
+                        </li>
+                        <li class="li">Confirm the appropriate inspection channels are enabled (in orange)
+                           according to the FTA section of MSDR INS-03-030 Minimum Inspection
+                           Channels on Soul Equipment.</li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_ezg_3j2_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_fzg_3j2_xcc" src="media/image58.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Verify the Reject Parameter settings are within the ranges specified in the
+                     FTA section of MSDR INS-07-031 Inspection Device Setup Parameters for Soul
+                     Equipment.</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__ol_kwt_jj2_xcc">
+                        <li class="li">Go to<strong class="ph b"> Settings</strong> &gt; FTA Defect Adjustment.</li>
+                        <li class="li">Select each Reject Parameter to modify the desired
+                           settings/thresholds.</li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_yrr_wj2_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_zrr_wj2_xcc" src="media/image59.jpg"></div><br>
+                        </figure>
+                     </div>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_tlx_1k2_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_ulx_1k2_xcc" src="media/image60.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Verify that the FTA inspection is enabled.</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__ol_h41_hk2_xcc">
+                        <li class="li">The MX4 should be in Manual Mode.</li>
+                        <li class="li">Select <strong class="ph b">Configuration</strong>
+                           <img class="image" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_rrq_hk2_xcc" src="media/image61.jpg">&gt; <strong class="ph b">Detector
+                              Presence</strong>
+                           <img class="image" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_srq_hk2_xcc" src="media/image62.jpg"> to display the
+                           Presence Detections display.</li>
+                        <li class="li">Click on the <span class="ph uicontrol">station 5</span> (or the station where the
+                           FTA is installed) button.</li>
+                        <li class="li">Click on the<span class="ph uicontrol"> FTA inspection </span>
+                           <img class="image" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_szf_jk2_xcc" src="media/image63.jpg"> to display the FTA
+                           verdict activation screen.</li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_g2c_kk2_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_h2c_kk2_xcc" src="media/image64.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Verify the FTA inspection <strong class="ph b">IS NOT</strong> inhibited.</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__ol_mjn_mk2_xcc">
+                        <li class="li">Select <strong class="ph b">Utilization &gt; Inhibition.</strong>
+                        </li>
+                        <li class="li">Confirm the FTA inspection IS NOT in orange. (Orange means the
+                           inspection is inhibited.)</li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_cyb_qk2_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_dyb_qk2_xcc" src="media/image65.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Verify the defect mapping function in the MX4 software.</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__ol_nrr_sk2_xcc">
+                        <li class="li">Select <strong class="ph b">Utilization</strong>
+                           <img class="image" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_pr4_tk2_xcc" src="media/image66.jpg"> &gt;<strong class="ph b"> Rejects
+                              Table</strong>
+                           <img class="image" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_qr4_tk2_xcc" src="media/image67.jpg"> to display the
+                           Rejects table screen.</li>
+                        <li class="li">Click on the <span class="ph uicontrol">FTA Box</span>. </li>
+                     </ol>
+                     <div class="p">
+                        <figure class="fig fignone" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__fig_r1f_yk2_xcc">
+                           <br><div class="imagecenter"><img class="image imagecenter" id="tC7F6D4C-BB9C-11F0-6516-09173F13E4C5__image_s1f_yk2_xcc" src="media/image68.jpg"></div><br>
+                        </figure>
+                     </div>
+                  </div>
+               </li>
+            </ol>
+         </li><li class="li step">
+            <span class="ph cmd">Upon completion of tasks, perform the following steps:</span>
+            <ol type="a" class="ol substeps">
+               <li class="li substep">
+                  <span class="ph cmd">Replace protective guarding and close safety interlock gates.</span>
+               </li>
+               <li class="li substep">
+                  <span class="ph cmd">Confirm the designated work area is clear and communicate to personnel the
+                     intent to restart energy.</span>
+               </li>
+               <li class="li substep">
+                  <span class="ph cmd">After the designated work area is confirmed clear and personnel are aware of
+                     the pending restart, follow all Lockout/Tagout procedures to restart energy
+                     supplied to the designated area. Verify energy is active.</span>
+               </li>
+               <li class="li substep">
+                  <span class="ph cmd">Remove signs and markings from the designated work area.</span>
+               </li>
+               <li class="li substep">
+                  <span class="ph cmd">Perform basic housekeeping duties. Clean up the work space, tools and
+                     equipment, dispose of trash, put tools and equipment in assigned area.</span>
+               </li>
+               <li class="li substep">
+                  <span class="ph cmd">Notify appropriate personnel that the work instruction activity has been
+                     completed.</span>
+               </li>
+            </ol>
+         </li></ol></section>
+   </div>
+</article><article class="topic concept nested1" aria-labelledby="ariaid-title5" lang="en-us" id="cC7FB37D-BB9C-11F0-2708-09173F13E4C5">
+   <h2 class="title topictitle2" id="ariaid-title5">Required Training</h2>
+                      
+   <div class="body conbody">
+      <p class="p">Before performing this work instruction, applicable personnel must be trained by an authorized trainer on the required training contents listed in this document.</p>
+   </div>
+</article><article class="topic concept nested1" aria-labelledby="ariaid-title6" lang="en-us" id="cC7F3F5C-BB9C-11F0-8397-09173F13E4C5">
+   <h2 class="title topictitle2" id="ariaid-title6">Equipment</h2>
+   
+   <div class="body conbody">
+      <p class="p">Allen wrench set</p>
+      <p class="p">Wrench set</p>
+      <p class="p">Screwdriver set</p>
+      <p class="p">Commercial Quality Container</p>
+      <p class="p">Challenge samples containing the defect to be rejected</p>
+   </div>
+</article><article class="topic concept nested1" aria-labelledby="ariaid-title7" lang="en-us" id="cC7F2986-BB9C-11F0-1747-09173F13E4C5">
+   <h2 class="title topictitle2" id="ariaid-title7">Definitions</h2>
+   
+   <div class="body conbody">
+      <dl class="dl" id="cC7F2986-BB9C-11F0-1747-09173F13E4C5__dl_jdr_ypb_bdc">
+         
+            <dt class="dt dlterm">Rough container type</dt>
+            <dd class="dd">Finish edges are rough due to a dirty finish or blurred due to curvature of the
+               crown finish.</dd>
+         
+      </dl>
+      <dl class="dl" id="cC7F2986-BB9C-11F0-1747-09173F13E4C5__dl_n1k_1qb_bdc">
+         
+            <dt class="dt dlterm">No Step container type</dt>
+            <dd class="dd">Improve Wire Edge or Overpress Finish detection on containers with no or very slight
+               step downs. Only use this type after plant evaluation of tradeoffs against</dd>
+         
+      </dl>
+   </div>
+</article><article class="topic concept nested1" aria-labelledby="ariaid-title8" lang="en-us" id="cC7F9B3A-BB9C-11F0-2323-09173F13E4C5">
+   <h2 class="title topictitle2" id="ariaid-title8">References</h2>
+   
+   <div class="body conbody">
+      <p class="p">INS-06-001 FTA Head Verification &amp; Maintenance</p>
+      <p class="p">INS-07-030 Minimum Inspection Channels for Soul Equipment</p>
+      <p class="p">INS-07-031 Inspection Device Setup Parameters for Soul Equipment</p>
+      <section class="section"><h3 class="title sectiontitle">Document Classification </h3>
+         
+         <ul class="ul">
+            <li class="li">Efficiency and Throughput</li>
+            <li class="li">Quality</li>
+         </ul>
+      </section>
+      <section class="section"><h3 class="title sectiontitle">Fundamentals</h3>
+         
+         <ul class="ul">
+            <li class="li">INS-305</li>
+         </ul>
+      </section>
+   </div>
+</article><article class="topic concept nested1" aria-labelledby="ariaid-title9" lang="en-us" id="cC7F113D-BB9C-11F0-9531-09173F13E4C5">
+   <h2 class="title topictitle2" id="ariaid-title9">Approval</h2>
+   
+   <div class="body conbody">
+      <div class="p">Sanctioning Representatives of the Global Team<table class="table" id="cC7F113D-BB9C-11F0-9531-09173F13E4C5__table_qmc_ml2_xcc"><caption></caption><colgroup><col style="width:23.72%"><col style="width:61.99%"></colgroup><thead class="thead">
+                  <tr class="row">
+                     <th class="entry" id="cC7F113D-BB9C-11F0-9531-09173F13E4C5__table_qmc_ml2_xcc__entry__1">
+                        <p class="p">Region</p>
+                     </th>
+                     <th class="entry" id="cC7F113D-BB9C-11F0-9531-09173F13E4C5__table_qmc_ml2_xcc__entry__2">
+                        <p class="p">Representative</p>
+                     </th>
+                  </tr>
+               </thead><tbody class="tbody">
+                  <tr class="row">
+                     <td class="entry" headers="cC7F113D-BB9C-11F0-9531-09173F13E4C5__table_qmc_ml2_xcc__entry__1">
+                        <p class="p">Europe</p>
+                     </td>
+                     <td class="entry" headers="cC7F113D-BB9C-11F0-9531-09173F13E4C5__table_qmc_ml2_xcc__entry__2">
+                        <p class="p">Robert Kurpiel, Bruno Laumier, Stefano Lucidi, Hans de Willigen</p>
+                     </td>
+                  </tr>
+                  <tr class="row">
+                     <td class="entry" headers="cC7F113D-BB9C-11F0-9531-09173F13E4C5__table_qmc_ml2_xcc__entry__1">
+                        <p class="p">Latin America</p>
+                     </td>
+                     <td class="entry" headers="cC7F113D-BB9C-11F0-9531-09173F13E4C5__table_qmc_ml2_xcc__entry__2">
+                        <p class="p">Marlon Bravo</p>
+                     </td>
+                  </tr>
+                  <tr class="row">
+                     <td class="entry" headers="cC7F113D-BB9C-11F0-9531-09173F13E4C5__table_qmc_ml2_xcc__entry__1">
+                        <p class="p">Mexico</p>
+                     </td>
+                     <td class="entry" headers="cC7F113D-BB9C-11F0-9531-09173F13E4C5__table_qmc_ml2_xcc__entry__2">
+                        <p class="p">Yigael Hernandez</p>
+                     </td>
+                  </tr>
+                  <tr class="row">
+                     <td class="entry" headers="cC7F113D-BB9C-11F0-9531-09173F13E4C5__table_qmc_ml2_xcc__entry__1">
+                        <p class="p">North America</p>
+                     </td>
+                     <td class="entry" headers="cC7F113D-BB9C-11F0-9531-09173F13E4C5__table_qmc_ml2_xcc__entry__2">
+                        <p class="p">David Gladwin</p>
+                     </td>
+                  </tr>
+                  <tr class="row">
+                     <td class="entry" headers="cC7F113D-BB9C-11F0-9531-09173F13E4C5__table_qmc_ml2_xcc__entry__1">
+                        <p class="p">Global Operations</p>
+                     </td>
+                     <td class="entry" headers="cC7F113D-BB9C-11F0-9531-09173F13E4C5__table_qmc_ml2_xcc__entry__2">
+                        <p class="p">Bob Morin</p>
+                     </td>
+                  </tr>
+               </tbody></table>
+      </div>
+   </div>
+</article><article class="topic concept nested1" aria-labelledby="ariaid-title10" lang="en-us" id="cC7FC91C-BB9C-11F0-1844-09173F13E4C5">
+   <h2 class="title topictitle2" id="ariaid-title10">Revision History</h2>
+   
+   <div class="body conbody">
+      <div class="p">
+         <table class="table" id="cC7FC91C-BB9C-11F0-1844-09173F13E4C5__table_wpf_nl2_xcc"><caption></caption><colgroup><col style="width:45.08%"><col style="width:45.08%"></colgroup><tbody class="tbody">
+                  <tr class="row">
+                     <td class="entry" rowspan="2">
+                        <p class="p">2021-10-12</p>
+                     </td>
+                     <td class="entry">
+                        <p class="p">Approved by Bob Morin, Global Inspection Network Leader</p>
+                     </td>
+                  </tr>
+                  <tr class="row">
+                     <td class="entry">
+                        <p class="p">Original Issue</p>
+                     </td>
+                  </tr>
+               </tbody></table>
+      </div>
+   </div>
+</article></article></article></main><footer role="contentinfo"><script src="../../ditasearch.js"></script></footer></body></html>
