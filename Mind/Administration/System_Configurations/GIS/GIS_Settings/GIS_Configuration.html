@@ -1,0 +1,637 @@
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta charset="UTF-8"><meta name="copyright" content="(C) Copyright 2026"><meta name="generator" content="DITA-OT"><meta name="description" content=""><meta name="keywords" content="gis-module, gis-settings, map-service, spatial-database, arcgis-connector, configure-gis, map-service-configuration, manage-spatial-data, authorize-gis-users, deploy-gis-services, mind-administration-guide, capital-program-management, geospatial-analysis, infrastructure-planning, field-operations"><meta name="prodname" content="Mind-Administration-Guide"><meta name="platform" content="web"><meta name="title" content="GIS Settings"><meta name="shortdesc" content="Geographic Information             System (GIS) application is an information database used to secure, store, update..."><meta name="language" content="en-GB"><meta name="version" content="1.0.0"><meta name="docStage" content="approved"><meta name="access.role" content="internal"><meta name="data.classification" content="non-sensitive"><meta name="retention.policy" content="standard-36m"><meta name="entities" content="map-service;arcgis;spatial-database;geodata;gis-service"><meta name="taxonomy" content="domain:capital-program-management;usecase:system-configuration;industry:software"><meta name="tags" content="gis,configuration,spatial-data,arcgis,mapping"><meta name="usecase" content="configure GIS integration and manage spatial logs"><link rel="stylesheet" type="text/css" href="../../../../../commonltr.css">
+<link rel="stylesheet" type="text/css" href="../../../../../common-extended.css"><title>GIS Settings</title></head><body id="Form_GISADCF"><header role="banner"><div class="ditasearch" data-searchroot="../../../../../"></div></header><nav role="toc"><ul><li><a href="../../../../../Mind/Administration/Admin.html">Administration</a></li><li><a href="../../../../../Mind/Administration/System_Configurations/SysConfig.html">System Configurations</a><ul><li><a href="../../../../../Mind/Administration/System_Configurations/App_Settings.html"> Application Settings</a></li><li><a href="../../../../../Mind/Administration/System_Configurations/AuthLoginSettings.html">Authentication and Login Settings</a></li><li><a href="../../../../../Mind/Administration/System_Configurations/WFSettings.html">Workflow Settings</a></li><li><a href="../../../../../Mind/Administration/System_Configurations/ConfigMobSettings.html">Mobile Settings</a></li><li><a href="../../../../../Mind/Administration/System_Configurations/GIS/GIS_Settings/GIS.html">GIS</a><ul><li class="active"><a href="../../../../../Mind/Administration/System_Configurations/GIS/GIS_Settings/GIS_Configuration.html">GIS Settings</a></li><li><a href="../../../../../Mind/Administration/System_Configurations/GIS/ESRI_Logs.html">ESRI Logs</a></li></ul></li></ul></li><li><a href="../../../../../Mind/Administration/Functional_Configurations/Funct_Cnfig.html">Functional Configurations</a><ul><li><a href="../../../../../Mind/Administration/Functional_Configurations/Featuresettngs.html">Feature Settings</a></li><li><a href="../../../../../Mind/Administration/Functional_Configurations/CnfigPlngMgmt.html">Configuring Planning Management</a></li><li><a href="../../../../../Mind/Administration/Functional_Configurations/CnfigBdgtMgmt.html">Configuring Budget Management</a></li><li><a href="../../../../../Mind/Administration/Functional_Configurations/ConfigCntMgmt.html">Managing Contract Configurations</a></li><li><a href="../../../../../Mind/Administration/Functional_Configurations/CnfigRsrceMgmt.html">Configuring Resource Management</a></li><li><a href="../../../../../Mind/Administration/Functional_Configurations/IssueLogColorConfig.html">Configuring the Issue Log List Page</a></li><li><a href="../../../../../Mind/Administration/Functional_Configurations/MobAppSettings.html">Configuring Mobile Application Settings</a></li><li><a href="../../../../../Mind/Administration/Functional_Configurations/MeetingSettings.html">Enabling Meeting Scheduler</a></li><li><a href="../../../../../Mind/Administration/Functional_Configurations/ImpNotifics.html">Important Notifications</a></li><li><a href="../../../../../Mind/Administration/Functional_Configurations/Report_Management/RepMgmt.html">Report Management</a><ul><li><a href="../../../../../Mind/Administration/Functional_Configurations/Report_Management/CnfigRep.html">Configuring a Report</a></li><li><a href="../../../../../Mind/Administration/Functional_Configurations/Report_Management/UnsubsReps.html">Unsubscribing to Reports</a></li></ul></li><li><a href="../../../../../Mind/Administration/Functional_Configurations/Business_Units/BUs.html">Business Units</a><ul><li><a href="../../../../../Mind/Administration/Functional_Configurations/Business_Units/CreateBU.html">Creating a Business Unit</a></li><li><a href="../../../../../Mind/Administration/Functional_Configurations/Business_Units/AssignBUtoUser.html">Assigning Business Units to a User</a></li><li><a href="../../../../../Mind/Administration/Functional_Configurations/Business_Units/RevokeBU.html">Revoking Business Units from a User Account</a></li><li><a href="../../../../../Mind/Administration/Functional_Configurations/Business_Units/DeactBU.html">Deactivating Business Units</a></li></ul></li></ul></li><li><a href="../../../../../Mind/Administration/User_Management/UserMgmt.html">User Management</a><ul><li><a href="../../../../../Mind/CoSP/Administration/User_Management/User_Accounts/UserAccs.html">User Accounts</a><ul><li><a href="../../../../../Mind/CoSP/Administration/User_Management/User_Accounts/Creating_User_Account/CreateUserAcc.html">Creating a User Account</a></li><li><a href="../../../../../Mind/CoSP/Administration/User_Management/User_Accounts/Creating_User_Account/CreateUserAccsBulk.html">Creating Multiple User Accounts in Bulk</a></li><li><a href="../../../../../Mind/CoSP/Administration/User_Management/User_Accounts/EditUserAccDets.html">Editing User Account Details</a></li><li><a href="../../../../../Mind/CoSP/Administration/User_Management/User_Accounts/ChangePassword.html">Changing the Password of a User Account</a></li><li><a href="../../../../../Mind/CoSP/Administration/User_Management/User_Accounts/Changing_the_Status_of_a_User_Account/UserAccStatus.html">Changing the Status of a User Account</a><ul><li><a href="../../../../../Mind/CoSP/Administration/User_Management/User_Accounts/Changing_the_Status_of_a_User_Account/ActUsrAcc.html">Activating a User Account</a></li><li><a href="../../../../../Mind/CoSP/Administration/User_Management/User_Accounts/Changing_the_Status_of_a_User_Account/DeActUserAcc.html">Deactivating a User Account</a></li></ul></li><li><a href="../../../../../Mind/CoSP/Administration/User_Management/User_Accounts/UnlockUsrAcc.html">Unlocking a User Account</a></li><li><a href="../../../../../Mind/CoSP/Administration/User_Management/User_Accounts/GenUsrAccReps.html">Generating User Accounts Reports</a></li></ul></li><li><a href="../../../../../Mind/Administration/User_Management/Security_Roles/SecurityRoles.html">Security Roles</a><ul><li><a href="../../../../../Mind/Administration/User_Management/Security_Roles/CreateRole.html">Creating Security Roles</a></li><li><a href="../../../../../Mind/Administration/User_Management/Security_Roles/AssignRoletoUsr.html">Assigning a Role to Users</a></li><li><a href="../../../../../Mind/Administration/User_Management/Security_Roles/EditRoleInfo.html">Editing Role Information</a></li><li><a href="../../../../../Mind/Administration/User_Management/Security_Roles/DelSecRole.html">Deleting a Security Role</a></li></ul></li><li><a href="../../../../../Mind/Administration/User_Management/Permissions/ConfigRolePerms.html">Permissions</a><ul><li><a href="../../../../../Mind/Administration/User_Management/Permissions/ConfigPerms-Role.html">Configuring Role Permissions</a></li><li><a href="../../../../../Mind/Administration/User_Management/Permissions/ConfigPerm-Form.html">Configuring Form Permissions</a></li><li><a href="../../../../../Mind/Administration/User_Management/Permissions/ConfigPermis-Bulk.html">Configuring Permissions in Bulk Using an Excel Workbook</a></li></ul></li><li><a href="../../../../../Mind/Administration/User_Management/Auto_Invite/AutoInvite.html">Auto Invite</a><ul><li><a href="../../../../../Mind/Administration/User_Management/Auto_Invite/CrtAIRule.html">Creating an Auto Invite Rule</a></li><li><a href="../../../../../Mind/Administration/User_Management/Auto_Invite/EditAIRule.html">Editing an Auto Invite Rule</a></li><li><a href="../../../../../Mind/Administration/User_Management/Auto_Invite/ExctAIRul.html">Administering an Auto Invite Rule</a></li><li><a href="../../../../../Mind/Administration/User_Management/Auto_Invite/DelAIRule.html">Deleting an Auto Invite Rule</a></li></ul></li><li><a href="../../../../../Mind/Administration/User_Management/Online_Registrations/OnlineAccRegs.html">Managing Online Account Registration Requests</a><ul><li><a href="../../../../../Mind/Administration/User_Management/Online_Registrations/ApprPndRegReq.html">Approving a Pending Registration Request</a></li><li><a href="../../../../../Mind/Administration/User_Management/Online_Registrations/RjctPndRegReq.html">Rejecting a Pending Registration Request</a></li></ul></li><li><a href="../../../../../Mind/Administration/System_Configurations/Authentication_and_Login_Settings_with_AIS/EIP_User.html">External Identity Provider User</a></li><li><a href="../../../../../Mind/Administration/User_Management/Online_Users/Online_Users.html">Online Users</a><ul><li><a href="../../../../../Mind/Administration/User_Management/Online_Users/ViewOnlineUsrs.html">Viewing the List of Online Users</a></li><li><a href="../../../../../Mind/Administration/User_Management/Online_Users/LogOffUserRemotely.html">Logging Out a User</a></li></ul></li><li><a href="../../../../../Mind/Administration/User_Management/UsrAcctn_config.html">User Settings</a></li><li><a href="../../../../../Mind/Administration/User_Management/Delegation_of_Authority/DOA.html">Delegation of Authority</a><ul><li><a href="../../../../../Mind/Administration/User_Management/Delegation_of_Authority/Delegate.html">Delegating Authorities</a></li><li><a href="../../../../../Mind/Administration/User_Management/Delegation_of_Authority/EditDOA.html">Editing Delegation Details</a></li><li><a href="../../../../../Mind/Administration/User_Management/Delegation_of_Authority/ViewDOA.html">Viewing Delegation Details</a></li><li><a href="../../../../../Mind/Administration/User_Management/Delegation_of_Authority/RevkDeleg.html">Revoking a Delegation</a></li><li><a href="../../../../../Mind/Administration/User_Management/Delegation_of_Authority/DelDOA.html">Deleting a Delegated Record</a></li></ul></li></ul></li><li><a href="../../../../../Mind/Administration/Configuration_Toolkit/ConfigToolkit.html">Configuration Toolkit</a><ul><li><a href="../../../../../Mind/Administration/Configuration_Toolkit/Workflow_Management/WFMgmt.html">Workflow Management</a><ul><li><a href="../../../../../Mind/Administration/Configuration_Toolkit/Workflow_Management/CreateWF.html">Creating a Workflow</a></li><li><a href="../../../../../Mind/Administration/Configuration_Toolkit/Workflow_Management/CreateWFSimple.html">Creating a Workflow Using Simple Mode</a></li><li><a href="../../../../../Mind/Administration/Configuration_Toolkit/Workflow_Management/CreateWFAdv.html">Creating a Workflow Using Advanced Mode</a></li><li><a href="../../../../../Mind/Administration/Configuration_Toolkit/Workflow_Management/EditWF.html">Editing a Workflow</a></li><li><a href="../../../../../Mind/Administration/Configuration_Toolkit/Workflow_Management/PublishWF.html">Publishing a Workflow</a></li></ul></li><li><a href="../../../../../Mind/Administration/Configuration_Toolkit/Form_Builder/FormBuilder.html">Form Builder</a><ul><li><a href="../../../../../Mind/Administration/Configuration_Toolkit/Form_Builder/ImportingXMLFileorFormintoFormBuilder.html">Importing XML File or Form into Form Builder</a></li><li><a href="../../../../../Mind/Administration/Configuration_Toolkit/Form_Builder/UsingFormBuilder.html">Creating a Form Using Form Builder</a></li><li><a href="../../../../../Mind/Administration/Configuration_Toolkit/Form_Builder/PublishForm.html">Publishing a Form</a></li></ul></li></ul></li><li><a href="../../../../../Mind/CoSP/Administration/ViewntegrLogs.html">Viewing the Integration Logs</a></li><li><span>Mind Engage</span><ul><li><span>Introduction</span><ul><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Mind_Engage/Introduction/Introduction_to_Mind_Engage.html">Introduction to Mind Engage</a></li></ul></li><li><span>Getting Started</span><ul><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Mind_Engage/Introduction/Introduction_to_User_Interface.html">Introduction to Mind Engage User Interface</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Mind_Engage/Getting_Started/Engage_Home.html">Engage Home</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Mind_Engage/Getting_Started/Modifying_User_Preferences/Modifying_User_Preferences.html">Modifying User Preferences</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Mind_Engage/Getting_Started/Modifying_User_Preferences/Changing_Password.html">Changing Password</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Mind_Engage/Getting_Started/Modifying_User_Preferences/Retrieving_Password.html">Retrieving Password</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Mind_Engage/Getting_Started/Logging_Out_of_Mind_Engage.html">Logging Out of Mind Engage</a></li></ul></li></ul></li><li><span>Settings</span><ul><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Settings/User_Roles/User_Roles.html">User Roles</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Settings/User_Management/User_Management.html">User Management</a><ul><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Settings/User_Management/Adding_Users.html">Adding Users</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Settings/User_Management/Updating_User_Details_.html">Updating User Details </a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Settings/User_Management/Deleting_a_User.html">Deleting a User</a></li></ul></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Settings/Public_Portal_Settings/Public_Portal_Settings.html">Public Portal Settings</a><ul><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Settings/Public_Portal_Settings/Managing_a_Template.html">Managing a Template</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Settings/Public_Portal_Settings/Adding_Form_Fields.html">Adding Form Fields</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Settings/Public_Portal_Settings/Adding_Layouts_and_Fonts.html">Adding Layouts and Fonts</a></li></ul></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Settings/Application_Settings/Application_Settings.html">Application Settings</a><ul><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Settings/Application_Settings/General_Settings.html">General Settings</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Settings/Application_Settings/Project_Fields.html">Project Fields</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Settings/Application_Settings/Terms_of_Use_Settings.html">Terms of Use Settings</a></li></ul></li></ul></li><li><span>Campaigning for Projects</span><ul><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Campaigning_for_Projects/Campaigning_for_Projects.html">Campaigning for Projects</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Campaigning_for_Projects/Creating_a_Campaign.html">Creating a Campaign</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Campaigning_for_Projects/Managing_Projects_in_a_Campaign.html">Managing Projects in a Campaign</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Campaigning_for_Projects/Publishing_a_Campaign.html">Publishing a Campaign</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Campaigning_for_Projects/Posting_a_Campaign_on_Social_Media.html">Posting a Campaign on Social Media</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Campaigning_for_Projects/Withdrawing_a_Campaign_.html">Withdrawing a Campaign </a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Campaigning_for_Projects/Copying_the_Public_Portal_URL.html">Copying the Public Portal URL</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Campaigning_for_Projects/Deleting_a_Campaign.html">Deleting a Campaign</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Campaigning_for_Projects/Closing_a_Campaign.html">Closing a Campaign</a></li></ul></li><li><span>Viewing Campaigns</span><ul><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Viewing_Campaigns/Viewing_Campaigns.html">Viewing Campaigns</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Viewing_Campaigns/Viewing_Campaigns_in_Draft_Status.html">Viewing Campaigns in Draft Status</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Viewing_Campaigns/Viewing_Campaigns_in_Accepting_Comments_Status.html">Viewing Campaigns in Accepting Comments Status</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Viewing_Campaigns/Viewing_Campaigns_in_Completed_Status.html">Viewing Campaigns in Completed Status</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Viewing_Campaigns/Responding_to_Comments.html">Responding to Comments</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Viewing_Campaigns/Viewing_Analytics_for_Campaigns_and_Projects.html">Viewing Analytics for Campaigns and Projects</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Viewing_Campaigns/Previewing_a_Campaign.html">Previewing a Campaign</a></li></ul></li><li><span>Reports and Dashboards</span><ul><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Reports_and_Dashboards/Analyzing_a_Campaign/Analyzing_a_Campaign.html">Analyzing a Campaign</a><ul><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Reports_and_Dashboards/Analyzing_a_Campaign/Viewing_Promotional_Details.html">Viewing Promotional Details</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Reports_and_Dashboards/Analyzing_a_Campaign/Analyzing_a_Campaign_by_Projects.html">Analyzing a Campaign by Projects</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Reports_and_Dashboards/Analyzing_a_Campaign/Analyzing_a_Campaign_by_Comments.html">Analyzing a Campaign by Comments</a></li></ul></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Reports_and_Dashboards/Campaign_Reports.html">Campaign Reports</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Reports_and_Dashboards/Generating_Reports/Generating_Reports.html">Generating Reports</a><ul><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Reports_and_Dashboards/Generating_Reports/Generating_a_Report.html">Generating a Report</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Reports_and_Dashboards/Generating_Reports/Printing_a_Report.html">Printing a Report</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Reports_and_Dashboards/Generating_Reports/Saving_a_Report.html">Saving a Report</a></li></ul></li></ul></li><li><span>Public Portal Users</span><ul><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Public_Portal_Users/Public_Portal_Users.html">Public Portal Users</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Public_Portal_Users/Viewing_a_Project.html">Viewing a Project</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Public_Portal_Users/Searching_a_Project.html">Searching a Project</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Public_Portal_Users/Rating_and_Sharing_Comments_for_a_Project.html">Rating and Sharing Comments for a Project</a></li><li><a href="../../../../../Mind_Engage_Online_Helpditamap-bundle/Public_Portal_Users/Viewing_and_Downloading_Reference_Documents.html">Viewing and Downloading Reference Documents</a></li></ul></li></ul></nav><main role="main"><article role="article" aria-labelledby="ariaid-title1">
+   <h1 class="title topictitle1" id="ariaid-title1">GIS Settings</h1>
+   
+   
+   <div class="body taskbody"><p class="shortdesc"></p>
+      <section class="section context">
+         <p class="p">Geographic Information
+                System (GIS) application is an information database used to secure, store, update,
+                analyze, manage, and display all kinds of spatial and geographical information.</p>
+         <p class="p">The <span class="ph uicontrol">GIS
+                    SETTINGS</span> page allows you to configure the map controls, such as
+                Layers and Base Maps required to perform the following activities: </p>
+         <ul class="ul">
+            <li class="li">Display the geographical information of the location</li>
+            <li class="li">Mark location points and boundaries on the map</li>
+            <li class="li">View the marked location points on the map at project and
+                    Enterprise level</li>
+         </ul>
+         <p class="p">The following settings are configured using<span class="ph uicontrol">GIS Settings</span>:</p>
+         <ul class="ul">
+            <li class="li">
+               <p class="p">
+                  <span class="ph uicontrol">GIS IN
+                            MOBILE</span>
+               </p>
+               <p class="p">Enabling GIS in mobile allows you to enter location data
+                        about the site through GIS rather than entering locations using latitude and
+                        longitude or manually entering the location address.Also, you can capture
+                        location information (points, lines, or shapes) using <span class="ph">Mind</span> on mobile devices in offline mode.</p>
+            </li>
+            <li class="li">
+               <p class="p">
+                  <span class="ph uicontrol">GIS
+                            AUTHENTICATION</span>
+               </p>
+               <p class="p">OAuth is an industry-standard protocol for
+                        authorization.ArcGIS(ESRI) uses OAuth to exchange ArcGIS identity with
+                        external applications safely. You can enable OAuth for the application for
+                        enhanced security while accessing ArcGIS(ESRI).</p>
+            </li>
+            <li class="li">
+               <p class="p">
+                  <span class="ph uicontrol">BASE
+                            MAPS</span>
+               </p>
+               <p class="p">A Base Map serves as a reference map on which you overlay
+                        data from layers and visualize geographic information. The ArcGIS (ESRI)
+                        website provides several predefined base map layers for you to use in your
+                        maps.</p>
+            </li>
+            <li class="li">
+               <p class="p">
+                  <span class="ph uicontrol">LAYERS</span>
+               </p>
+               <p class="p">A layer is a database of points used to mark a location in
+                        the map. Layers can be editable or read-only. Layers are created in the
+                        ArcGIS (ESRI) website. While creating an ArcGIS(ESRI) layer, you can specify
+                        the geometry and data fields for mapping <span class="ph">Mind</span> data fields with ESRI data fields.</p>
+               <ul class="ul">
+                  <li class="li">
+                     <p class="p">
+                        <span class="ph uicontrol">Geometry</span>
+                     </p>
+                     <p class="p">A location can be marked in a map using different
+                                shapes - point, line, or polygon. When you use a form to capture the
+                                project location, the drawing tools displayed for an editable layer
+                                are based on the selected shape.</p>
+                  </li>
+                  <li class="li">
+                     <p class="p">
+                        <span class="ph uicontrol">Fields</span>
+                     </p>
+                     <div class="p">The data fields defined for GIS in <span class="ph">Mind</span> must be mapped to those in ESRI. It is
+                                mandatory to map the following data fields for each layer - PID,
+                                ParentID, InstanceID, ModuleID, MapControlName, and GeometryID.<div class="note note note_note"><span class="note__title">Note:</span>  These 6 fields are defined in ESRI and
+                                    must be mapped for each layer used in the map control for the
+                                    Save to ESRI for any location from the map control to
+                                    succeed.</div>
+                     </div>
+                  </li>
+               </ul>
+            </li>
+            <li class="li">
+               <p class="p">
+                  <span class="ph uicontrol">LAYER
+                            ALIASES</span>
+               </p>
+               <p class="p">You can configure Tooltips for geometries present in each
+                        non-editable layer by creating Aliases for ArcGIS (ESRI) Outfields. The
+                        Aliases are used instead of the ArcGIS (ESRI) field names when displaying
+                        data in a tooltip in the map.</p>
+            </li>
+            <li class="li">
+               <p class="p">
+                  <span class="ph uicontrol">DEFAULT MAP
+                            LOCATION</span>
+               </p>
+               <p class="p">You can configure the default location of the map using
+                        the geographic coordinate systems.</p>
+            </li>
+            <li class="li">
+               <p class="p">
+                  <span class="ph uicontrol">SERVICE
+                            AUTHENTICATION SETTINGS</span>
+               </p>
+               <p class="p">You can configure the authentication of services.</p>
+            </li>
+            <li class="li">
+               <p class="p">
+                  <span class="ph uicontrol">GEOMETRY
+                            SERVICE SETTINGS</span>
+               </p>
+               <p class="p">The Geometry Service allows you to create and modify
+                        feature geometries.</p>
+            </li>
+            <li class="li">
+               <p class="p">
+                  <span class="ph uicontrol">OFFLINE
+                            EXTENT</span>
+               </p>
+               <p class="p">You must define the boundary or extent within which the
+                        data pertaining to the base map should be downloaded when the mobile
+                        application is offline. Defining such a rectangular extent will ensure that
+                        all Offline Base Maps imagery present within the framed area will be visible
+                        to the user.</p>
+            </li>
+            <li class="li">
+               <p class="p">
+                  <span class="ph uicontrol">OFFLINE BASE
+                            MAPS</span>
+               </p>
+               <p class="p">You can configure the URLs of Offline Base Maps and
+                        validate if they are Valid for Offline Download.</p>
+            </li>
+            <li class="li">
+               <p class="p">
+                  <span class="ph uicontrol">ESRI SAVE
+                            SETTINGS</span>
+               </p>
+               <p class="p">The location data created in <span class="ph">Mind</span> using map controls is saved in ArcGIS (ESRI).
+                        Sometimes Save to ESRI may fail due to various reasons such as interrupted
+                        network connection. The system will automatically retry to write the
+                        location data to ESRI based on the configured number of retries. Also, a
+                        failure notification is sent to the specified recipients. You can configure
+                        the maximum number of retries and the recipients of the failure notification
+                        in the ESRI Save Settings.</p>
+            </li>
+         </ul>
+      </section>
+      <section><ol class="ol steps"><li class="li step stepexpand">
+            <span class="ph cmd">In the module menu, click<span class="ph uicontrol">Administration</span>.</span>
+            <div class="itemgroup info">The<span class="ph uicontrol">ADMINISTRATION</span> page is
+                    displayed.</div>
+         </li><li class="li step stepexpand">
+            <span class="ph cmd">In the navigation pane, expand<span class="ph uicontrol">System Configurations</span>.</span>
+         </li><li class="li step stepexpand">
+            <span class="ph cmd">Expand <span class="ph uicontrol">GIS</span>, and then click
+                        <span class="ph uicontrol">GIS
+                    Settings</span>.</span>
+            <div class="itemgroup info">The <span class="ph uicontrol">GIS SETTINGS</span> page is
+                    displayed.</div>
+         </li><li class="li step stepexpand">
+            <span class="ph cmd">To enable GIS in the <span class="ph">Mind</span> mobile application, in the <span class="ph uicontrol">GIS IN MOBILE</span> section, select
+                    the <span class="ph uicontrol">Enable GIS in
+                        Mobile</span> check box.</span>
+            <div class="itemgroup info">By enabling GIS in mobile, you can view
+                    the following forms in the <span class="ph">Mind</span> mobile application:<ul class="ul">
+                  <li class="li">Project Location form</li>
+                  <li class="li">Map Controls used in forms that are available
+                            offline</li>
+               </ul>
+            </div>
+         </li><li class="li step stepexpand">
+            <span class="ph cmd">To enable OAuth authentication for GIS with ESRI,
+                    in the <span class="ph uicontrol">GIS
+                        AUTHENTICATION</span>section, select the <span class="ph uicontrol">Enable OAuth</span> check box.</span>
+         </li><li class="li step stepexpand" id="Form_GISADCF__Addbasemap">
+            <span class="ph cmd">To configure base maps, in the <span class="ph uicontrol">BASE MAPS</span> section, perform
+                    the following steps:</span>
+            <ol type="a" class="ol substeps">
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Click <span class="ph uicontrol">Add</span>.</span>
+                  <div class="itemgroup info">The <span class="ph uicontrol">New Base Map</span> dialog
+                            box is displayed.</div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">In the <span class="ph uicontrol">Name</span> box, enter a
+                            unique alphanumeric name for the new base map.</span>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">In the <span class="ph uicontrol">URL</span> box, enter the
+                            URL of the of the new base map available in ArcGIS (ESRI). </span>
+                  <div class="itemgroup info">
+                     <div class="note note note_note"><span class="note__title">Note:</span> In the forms using map control, you can see
+                                a view of the Base Map, accessible at the specified URL in ArcGIS
+                                (ESRI).</div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">To set the base map as the default map,
+                            select the <span class="ph uicontrol">Is
+                                Default</span> check box.</span>
+                  <div class="itemgroup info">
+                     <div class="note note note_note"><span class="note__title">Note:</span>  Only one base map can be selected as
+                                default. The default base map is displayed in the map view across
+                                the application.</div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Click <span class="ph uicontrol">Save</span> to save the new
+                            base map details.</span>
+                  <div class="itemgroup info">All the saved base maps are
+                            available for selection in the map view.</div>
+                  <div class="itemgroup info">Every base map serves as a
+                            spatial canvas for the user to view location data.</div>
+               </li>
+            </ol>
+         </li><li class="li step stepexpand" id="Form_GISADCF__AddLayer">
+            <span class="ph cmd">To configure layers, in the <span class="ph uicontrol">LAYERS</span> section, perform the
+                    following steps:</span>
+            <ol type="a" class="ol substeps">
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">In the <span class="ph uicontrol">Transparency of Drawing tools in
+                                %</span> box, enter the appropriate value..</span>
+                  <div class="itemgroup info">The value can be between 0 to
+                            100%, where 0% is fully opaque and 100% is fully transparent.</div>
+                  <div class="itemgroup info">This value defines the
+                            transparency of the geometrical shapes created by user to clearly
+                            distinguish the overlapping boundaries.</div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">To add a new layer, perform the following
+                            steps:</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i">
+                        <li class="li">
+                           <p class="p">Click <span class="ph uicontrol">Add</span>.</p>
+                           <p class="p">The <span class="ph uicontrol">New Layer</span>
+                                        dialog box is displayed.</p>
+                        </li>
+                        <li class="li">
+                           <p class="p">In the <span class="ph uicontrol">Name</span> box,
+                                        enter the name of the layer.</p>
+                        </li>
+                        <li class="li">
+                           <div class="p">In the <span class="ph uicontrol">URL</span> box,
+                                        enter the URL of the layer.<div class="note note note_note"><span class="note__title">Note:</span> 
+                                            Layers are created beforehand in ArcGIS
+                                        (ESRI).</div>
+                           </div>
+                        </li>
+                        <li class="li">
+                           <p class="p">To indicate that the URL is a group of
+                                        layers, select the <span class="ph uicontrol">Group URL</span>
+                                        check box.</p>
+                           <p class="p">When a group of layers is selected in a
+                                        form, the data from all the layers in the URL is visible on
+                                        the map.</p>
+                           <div class="p">
+                              <div class="note note note_note"><span class="note__title">Note:</span>  You cannot edit a group layer
+                                            after the group layer is saved.</div>
+                           </div>
+                        </li>
+                        <li class="li">
+                           <p class="p">Select the<span class="ph uicontrol">Enable
+                                            Editing</span>check box, to set the layer as
+                                        editable.</p>
+                           <div class="p">The<span class="ph uicontrol">Geometry</span>field is enabled.<div class="note note note_note"><span class="note__title">Note:</span>  If <span class="ph uicontrol">Group
+                                                URL</span> is selected, then the <span class="ph uicontrol">Enable
+                                                Editing</span> check box is not available for
+                                            selection.</div>
+                           </div>
+                        </li>
+                        <li class="li">
+                           <p class="p">Optionally, if the layer is marked as
+                                            <span class="ph uicontrol">Private</span> in the ArcGIS (ESRI) settings,
+                                        enter the <span class="ph uicontrol">User
+                                            ID</span>, <span class="ph uicontrol">Password</span>,
+                                            and<span class="ph uicontrol">ConfirmPassword</span>to enable user
+                                        authentication to access the layer in ArcGIS (ESRI).</p>
+                        </li>
+                        <li class="li">
+                           <p class="p">In the<span class="ph uicontrol">Geometry</span>drop-down list, select the required
+                                        geometry, if the layer is enabled for editing.</p>
+                        </li>
+                        <li class="li">
+                           <p class="p">Enter the<span class="ph uicontrol">Transparency in
+                                            %</span> value.</p>
+                           <p class="p">Values can be between 0 to 100%, where 0%
+                                        is fully opaque and100% is fully transparent.</p>
+                           <p class="p">By default, transparency of the layer when
+                                        placed over the Base Map is set to 50%.</p>
+                        </li>
+                        <li class="li">
+                           <p class="p">Click<span class="ph uicontrol">Save</span>to
+                                        save the new layer details.</p>
+                           <p class="p">The<span class="ph uicontrol">ID</span>is
+                                        automatically generated on saving the new layer.</p>
+                        </li>
+                     </ol>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">To ensure that the added layers are
+                            available for offline download in the mobile application,
+                                click<span class="ph uicontrol">Validate</span>.</span>
+                  <div class="itemgroup info">The <span class="ph uicontrol">Valid for offline
+                                Download</span>column displays one of the following
+                                options:<table class="table"><caption></caption><colgroup><col style="width:30%"><col style="width:70%"></colgroup><thead class="thead">
+                              <tr class="row">
+                                 <th class="entry colsep-1 rowsep-1" id="Form_GISADCF__AddLayer__entry__1">Option</th>
+                                 <th class="entry colsep-1 rowsep-1" id="Form_GISADCF__AddLayer__entry__2">Description</th>
+                              </tr>
+                           </thead><tbody class="tbody">
+                              <tr class="row">
+                                 <td class="entry colsep-1 rowsep-1" headers="Form_GISADCF__AddLayer__entry__1">Yes</td>
+                                 <td class="entry colsep-1 rowsep-1" headers="Form_GISADCF__AddLayer__entry__2">Validation is successful,
+                                                the layer is available for offline download.</td>
+                              </tr>
+                              <tr class="row">
+                                 <td class="entry colsep-1 rowsep-1" headers="Form_GISADCF__AddLayer__entry__1">No</td>
+                                 <td class="entry colsep-1 rowsep-1" headers="Form_GISADCF__AddLayer__entry__2">Validation is
+                                                unsuccessful, the layer is unavailable for offline
+                                                download.You can perform any of the the following
+                                                actions to enable the layer for offline download:<ul class="ul">
+                                       <li class="li">
+                                          <p class="p">In case the URL provided for
+                                                  the Layer is incorrect,edit it and validate
+                                                  again.</p>
+                                       </li>
+                                       <li class="li">
+                                          <p class="p">In case the Layer is not
+                                                  enabled for<span class="ph uicontrol">Offline</span> in ESRI, enable the layer
+                                                  for<span class="ph uicontrol">Offline</span> and validate again</p>
+                                       </li>
+                                    </ul>
+                                 </td>
+                              </tr>
+                              <tr class="row">
+                                 <td class="entry colsep-1 rowsep-1" headers="Form_GISADCF__AddLayer__entry__1">NA</td>
+                                 <td class="entry colsep-1 rowsep-1" headers="Form_GISADCF__AddLayer__entry__2">Layer is pending
+                                                validation.</td>
+                              </tr>
+                           </tbody></table>
+                  </div>
+               </li>
+            </ol>
+         </li><li class="li step stepexpand">
+            <span class="ph cmd">To configure aliases that will be displayed in the
+                    tooltips for non-editable layers, in the<span class="ph uicontrol">LAYER ALIASES</span>section, perform
+                    the following steps:</span>
+            <div class="itemgroup info">
+               <div class="note note note_note"><span class="note__title">Note:</span>  For every Map Control being used in a form, the
+                        tooltip fields are configured in<span class="ph uicontrol">GIS Settings</span>(for
+                        non-editable layers) and in Data Mappings in<span class="ph uicontrol">Form Builder</span>(for editable
+                        layers).</div>
+            </div>
+            <ol type="a" class="ol substeps">
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">From the<span class="ph uicontrol">Layer Name</span>drop-down
+                            list, select the appropriate layer.</span>
+                  <div class="itemgroup info">The<span class="ph uicontrol">Layer
+                            Aliases</span>information of the selected layer is displayed in the
+                            table.</div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">To create an outfield alias for a
+                            non-editable layer, perform the following steps:</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i">
+                        <li class="li">
+                           <p class="p">Click<span class="ph uicontrol">Add</span>.</p>
+                           <p class="p">The<span class="ph uicontrol">New
+                                        Alias</span>dialog box is displayed.</p>
+                        </li>
+                        <li class="li">
+                           <div class="p">Provide the following information:<table class="table"><caption></caption><colgroup><col style="width:30%"><col style="width:70%"></colgroup><thead class="thead">
+                                       <tr class="row">
+                                          <th class="entry colsep-1 rowsep-1" id="Form_GISADCF__entry__9">Field Name</th>
+                                          <th class="entry colsep-1 rowsep-1" id="Form_GISADCF__entry__10">Description</th>
+                                       </tr>
+                                    </thead><tbody class="tbody">
+                                       <tr class="row">
+                                          <td class="entry colsep-1 rowsep-1" headers="Form_GISADCF__entry__9">Layer Name</td>
+                                          <td class="entry colsep-1 rowsep-1" headers="Form_GISADCF__entry__10">
+                                             <p class="p">From the drop-down list,
+                                                  select the layer name.</p>
+                                             <p class="p">Available options are the
+                                                  non-editable layers configured in the<span class="ph uicontrol">LAYERS</span>section.</p>
+                                          </td>
+                                       </tr>
+                                       <tr class="row">
+                                          <td class="entry colsep-1 rowsep-1" headers="Form_GISADCF__entry__9">Sub Layer
+                                                  Name</td>
+                                          <td class="entry colsep-1 rowsep-1" headers="Form_GISADCF__entry__10">
+                                             <p class="p">From the drop-down list,
+                                                  select the sub-layer name.</p>
+                                             <p class="p">Available options are the
+                                                  sub layers contained within the selected group
+                                                  layer.</p>
+                                          </td>
+                                       </tr>
+                                       <tr class="row">
+                                          <td class="entry colsep-1 rowsep-1" headers="Form_GISADCF__entry__9">Outfield
+                                                  Name</td>
+                                          <td class="entry colsep-1 rowsep-1" headers="Form_GISADCF__entry__10">
+                                             <p class="p">Enter the name of the
+                                                  outfield attribute as defined in ArcGIS (ESRI)
+                                                  database.</p>
+                                          </td>
+                                       </tr>
+                                       <tr class="row">
+                                          <td class="entry colsep-1 rowsep-1" headers="Form_GISADCF__entry__9">Outfield
+                                                  Alias</td>
+                                          <td class="entry colsep-1 rowsep-1" headers="Form_GISADCF__entry__10">
+                                             <p class="p">Enter the outfield alias to
+                                                  be displayed in the tooltips in the map view.</p>
+                                          </td>
+                                       </tr>
+                                    </tbody></table>
+                           </div>
+                        </li>
+                        <li class="li">
+                           <p class="p">Click<span class="ph uicontrol">Save</span>to
+                                        save the new layer aliasdetails.</p>
+                           <p class="p">Layer aliases enable you to easily
+                                        identify the outfield attribute when displayed in
+                                        thetooltipsin the map view.</p>
+                        </li>
+                     </ol>
+                  </div>
+               </li>
+            </ol>
+         </li><li class="li step stepexpand">
+            <span class="ph cmd">To configure the default map location, in
+                        the<span class="ph uicontrol">DEFAULT MAP
+                        LOCATION</span>section, for the<span class="ph uicontrol">Default Map Type</span>, select
+                    either of the following options: </span>
+            <div class="itemgroup info">
+               <table class="table"><caption></caption><colgroup><col style="width:30%"><col style="width:70%"></colgroup><thead class="thead">
+                        <tr class="row">
+                           <th class="entry colsep-1 rowsep-1" id="Form_GISADCF__entry__19">Field Name</th>
+                           <th class="entry colsep-1 rowsep-1" id="Form_GISADCF__entry__20">Description</th>
+                        </tr>
+                     </thead><tbody class="tbody">
+                        <tr class="row">
+                           <td class="entry colsep-1 rowsep-1" headers="Form_GISADCF__entry__19">Zoom Level</td>
+                           <td class="entry colsep-1 rowsep-1" headers="Form_GISADCF__entry__20">
+                              <ol class="ol" type="a">
+                                 <li class="li">Enter the values for X and Y
+                                                Coordinates. </li>
+                                 <li class="li">Enter the zoom level. </li>
+                              </ol>
+                           </td>
+                        </tr>
+                        <tr class="row">
+                           <td class="entry colsep-1 rowsep-1" headers="Form_GISADCF__entry__19">Extent</td>
+                           <td class="entry colsep-1 rowsep-1" headers="Form_GISADCF__entry__20">
+                              <ol class="ol" type="a">
+                                 <li class="li">Enter the Starting X (longitude)
+                                                and Y (latitude) Coordinates. </li>
+                                 <li class="li">Enter the End X (longitude) and
+                                                Y (latitude) Coordinates. </li>
+                              </ol>
+                           </td>
+                        </tr>
+                     </tbody></table>
+            </div>
+         </li><li class="li step stepexpand">
+            <span class="ph cmd">To configure service authentication settings, in
+                        the<span class="ph uicontrol">SERVICEAUTHENTICATION
+                        SETTINGS</span>section, provide the following details required for
+                    service authentication:</span>
+            <div class="itemgroup info">
+               <ul class="ul">
+                  <li class="li">
+                     <p class="p">
+                        <span class="ph uicontrol">Client Login Service</span>
+                     </p>
+                     <p class="p">Enter the URL that is used to authenticate the
+                                application being integrated with ArcGIS (ESRI).</p>
+                  </li>
+                  <li class="li">
+                     <p class="p">
+                        <span class="ph uicontrol">User
+                                    Login Service</span>
+                     </p>
+                     <p class="p">Enter the URL that is used to authenticate a named
+                                user.</p>
+                  </li>
+                  <li class="li">
+                     <p class="p">
+                        <span class="ph uicontrol">Referer</span>
+                     </p>
+                     <p class="p">Enter the recipient URL to which authentication
+                                response is sent.</p>
+                  </li>
+                  <li class="li">
+                     <p class="p">
+                        <span class="ph uicontrol">Client ID</span>
+                     </p>
+                     <p class="p">Enter the client'sID that is used to authenticate
+                                the application.</p>
+                  </li>
+                  <li class="li">
+                     <p class="p">
+                        <span class="ph uicontrol">Client Secret</span>
+                     </p>
+                     <p class="p">Enter the client's password that is used to
+                                authenticate the application.</p>
+                  </li>
+               </ul>
+            </div>
+         </li><li class="li step stepexpand">
+            <span class="ph cmd">To support the spatial reference other than the
+                    default spatial reference, in the<span class="ph uicontrol">GEOMETRY SERVICE SETTINGS</span>section,<span class="ph uicontrol">Geometry Service URL</span>box,
+                    enter the geometry serviceURL defined in ESRI.</span>
+         </li><li class="li step stepexpand">
+            <span class="ph cmd">To set a boundary or extent for the offline Base
+                    Map when displayed in the <span class="ph">Mind</span> mobile application, in the<span class="ph uicontrol">OFFLINE EXTENT</span>section,
+                    perform the following steps:</span>
+            <div class="itemgroup info">
+               <div class="note note note_note"><span class="note__title">Note:</span>  It is recommended to set the<span class="ph uicontrol">Offline Extent</span>coordinates
+                        same as the<span class="ph uicontrol">Default Map
+                            Location</span>.</div>
+            </div>
+            <ol type="a" class="ol substeps">
+               <li class="li substep">
+                  <span class="ph cmd">Enter the<span class="ph uicontrol">Start Y
+                                Coordinate</span>and<span class="ph uicontrol">End Y
+                            Coordinate</span>.</span>
+               </li>
+               <li class="li substep">
+                  <span class="ph cmd">Enter the<span class="ph uicontrol">Start X Coordinate</span>and
+                                <span class="ph uicontrol">End X
+                                Coordinate</span>.</span>
+               </li>
+            </ol>
+         </li><li class="li step stepexpand">
+            <span class="ph cmd">Toconfigure URLs of Offline Base Maps, in
+                        the<span class="ph uicontrol">OFFLINE BASE
+                        MAPS</span>section, perform the following steps:</span>
+            <ol type="a" class="ol substeps">
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Click<span class="ph uicontrol">Add</span>.</span>
+                  <div class="itemgroup info">The<span class="ph uicontrol">New Offline Base
+                            Maps</span>dialog box is displayed.</div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">In the <span class="ph uicontrol">Name</span> box, the name of
+                            Base Map that appears for user to select in the Mobile
+                            application.</span>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">In the <span class="ph uicontrol">URL</span> box, enter the
+                            URL of the offline Base Map.</span>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">From the <span class="ph uicontrol">From Level</span> and
+                                <span class="ph uicontrol">To Level</span>
+                            drop-down lists, select the probable valueof levels of base map that can
+                            be downloaded to the Mobile application. </span>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Select the <span class="ph uicontrol">Is Default</span> to make
+                            the map the default base map for map controls.</span>
+                  <div class="itemgroup info">
+                     <div class="note note note_note"><span class="note__title">Note:</span> Only one offline Base Map can be selected as
+                                default.</div>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Click<span class="ph uicontrol">Save</span>.</span>
+                  <div class="itemgroup info">The new offline base maps details
+                            are saved.</div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">To validate that the base maps are
+                            available for offline download in the mobile application,
+                                click<span class="ph uicontrol">Validate</span>.</span>
+                  <div class="itemgroup info">The<span class="ph uicontrol">Valid for Offline
+                                Download</span>column displays any of the options described
+                                below:<ul class="ul">
+                        <li class="li">
+                           <span class="ph uicontrol">Yes</span>–Validation is successful, the layer is
+                                    available for offline download.</li>
+                        <li class="li">
+                           <span class="ph uicontrol">No</span>–
+                                    Validation is unsuccessful, the layer is unavailable for offline
+                                    download.You can perform any of the the following actions to
+                                    enable the layer for offline download:<ul class="ul">
+                              <li class="li">
+                                 <p class="p">In case the Layer is not enabled
+                                                  for<span class="ph uicontrol">Offline</span> in ESRI, enable the layer
+                                                  for<span class="ph uicontrol">Offline</span> and validate again.</p>
+                              </li>
+                              <li class="li">
+                                 <p class="p">In case the URL provided for the
+                                                Layer is incorrect,edit it and validate again.</p>
+                              </li>
+                           </ul>
+                        </li>
+                        <li class="li">
+                           <span class="ph uicontrol">NA</span> –Base Map
+                                    is pending validation.</li>
+                     </ul>
+                  </div>
+               </li>
+            </ol>
+         </li><li class="li step stepexpand">
+            <span class="ph cmd">To configure additional settings for Feature Layer
+                    writing, in the<span class="ph uicontrol">ESRI SAVE
+                        SETTINGS</span>section, perform the following steps:</span>
+            <ol type="a" class="ol substeps">
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">In the<span class="ph uicontrol">Maximum Number of
+                                Retries</span>box, enter the maximum number of attempts to be
+                            made by the system to write location data on to the feature layer in
+                            ArcGIS (ESRI) after the first failed attempt.</span>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">In the<span class="ph uicontrol">Failure Notification recipient
+                                Email(s)</span> box ,select the users to whom the notification
+                            of failure must be sent. </span>
+                  <div class="itemgroup info">Available options are user
+                            accounts available in <span class="ph">Mind</span>.</div>
+               </li>
+            </ol>
+         </li><li class="li step stepexpand">
+            <span class="ph cmd">Click <span class="ph uicontrol">Save</span> to save the
+                    changes.</span>
+         </li></ol></section>
+   </div>
+<nav role="navigation" class="related-links"><div class="familylinks"><div class="parentlink"><strong>Parent topic:</strong> <a class="link" href="../../../../../Mind/Administration/System_Configurations/GIS/GIS_Settings/GIS.html">GIS</a></div></div></nav></article></main><footer role="contentinfo"><script src="../../../../../ditasearch.js"></script></footer></body></html>

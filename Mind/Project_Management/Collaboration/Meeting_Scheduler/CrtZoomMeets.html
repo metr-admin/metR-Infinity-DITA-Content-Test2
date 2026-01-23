@@ -1,0 +1,179 @@
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta charset="UTF-8"><meta name="copyright" content="(C) Copyright 2026"><meta name="generator" content="DITA-OT"><meta name="description" content=""><meta name="keywords" content="zoom-integration, meeting-scheduler, attachments, calendar-sync, meeting-management, create-zoom-meeting, schedule-meeting, attach-documents, authorize-user, publish-meeting, mind-administration-guide, capital-program-management, collaboration-platforms, enterprise-web"><meta name="prodname" content="Mind-Administration-Guide"><meta name="platform" content="web"><meta name="title" content="Creating Zoom Meetings"><meta name="shortdesc" content="Create and schedule Zoom meetings from within the application; attachments and permissions apply."><meta name="language" content="en-GB"><meta name="version" content="1.0.0"><meta name="docStage" content="approved"><meta name="access.role" content="internal"><meta name="data.classification" content="non-sensitive"><meta name="retention.policy" content="standard-36m"><meta name="entities" content="zoom-meeting;user-account;attachments;calendar;meeting-scheduler"><meta name="taxonomy" content="domain:capital-program-management;usecase:create-zoom-meeting;industry:glass-manufacturing"><meta name="tags" content="create-meeting,schedule,attachments,authorization,publish"><meta name="usecase" content="Steps to create and schedule Zoom meetings, including attachments and publishing considerations."><link rel="stylesheet" type="text/css" href="../../../../commonltr.css">
+<link rel="stylesheet" type="text/css" href="../../../../common-extended.css"><title>Creating Zoom Meetings</title></head><body id="Form_MEETSCH_New"><header role="banner"><div class="ditasearch" data-searchroot="../../../../"></div></header><nav role="toc"><ul><li><a href="../../../../Mind/Administration/Admin.html">Administration</a></li><li><a href="../../../../Mind/Administration/System_Configurations/SysConfig.html">System Configurations</a><ul><li><a href="../../../../Mind/Administration/System_Configurations/App_Settings.html"> Application Settings</a></li><li><a href="../../../../Mind/Administration/System_Configurations/AuthLoginSettings.html">Authentication and Login Settings</a></li><li><a href="../../../../Mind/Administration/System_Configurations/WFSettings.html">Workflow Settings</a></li><li><a href="../../../../Mind/Administration/System_Configurations/ConfigMobSettings.html">Mobile Settings</a></li><li><a href="../../../../Mind/Administration/System_Configurations/GIS/GIS_Settings/GIS.html">GIS</a><ul><li><a href="../../../../Mind/Administration/System_Configurations/GIS/GIS_Settings/GIS_Configuration.html">GIS Settings</a></li><li><a href="../../../../Mind/Administration/System_Configurations/GIS/ESRI_Logs.html">ESRI Logs</a></li></ul></li></ul></li><li><a href="../../../../Mind/Administration/Functional_Configurations/Funct_Cnfig.html">Functional Configurations</a><ul><li><a href="../../../../Mind/Administration/Functional_Configurations/Featuresettngs.html">Feature Settings</a></li><li><a href="../../../../Mind/Administration/Functional_Configurations/CnfigPlngMgmt.html">Configuring Planning Management</a></li><li><a href="../../../../Mind/Administration/Functional_Configurations/CnfigBdgtMgmt.html">Configuring Budget Management</a></li><li><a href="../../../../Mind/Administration/Functional_Configurations/ConfigCntMgmt.html">Managing Contract Configurations</a></li><li><a href="../../../../Mind/Administration/Functional_Configurations/CnfigRsrceMgmt.html">Configuring Resource Management</a></li><li><a href="../../../../Mind/Administration/Functional_Configurations/IssueLogColorConfig.html">Configuring the Issue Log List Page</a></li><li><a href="../../../../Mind/Administration/Functional_Configurations/MobAppSettings.html">Configuring Mobile Application Settings</a></li><li><a href="../../../../Mind/Administration/Functional_Configurations/MeetingSettings.html">Enabling Meeting Scheduler</a></li><li><a href="../../../../Mind/Administration/Functional_Configurations/ImpNotifics.html">Important Notifications</a></li><li><a href="../../../../Mind/Administration/Functional_Configurations/Report_Management/RepMgmt.html">Report Management</a><ul><li><a href="../../../../Mind/Administration/Functional_Configurations/Report_Management/CnfigRep.html">Configuring a Report</a></li><li><a href="../../../../Mind/Administration/Functional_Configurations/Report_Management/UnsubsReps.html">Unsubscribing to Reports</a></li></ul></li><li><a href="../../../../Mind/Administration/Functional_Configurations/Business_Units/BUs.html">Business Units</a><ul><li><a href="../../../../Mind/Administration/Functional_Configurations/Business_Units/CreateBU.html">Creating a Business Unit</a></li><li><a href="../../../../Mind/Administration/Functional_Configurations/Business_Units/AssignBUtoUser.html">Assigning Business Units to a User</a></li><li><a href="../../../../Mind/Administration/Functional_Configurations/Business_Units/RevokeBU.html">Revoking Business Units from a User Account</a></li><li><a href="../../../../Mind/Administration/Functional_Configurations/Business_Units/DeactBU.html">Deactivating Business Units</a></li></ul></li></ul></li><li><a href="../../../../Mind/Administration/User_Management/UserMgmt.html">User Management</a><ul><li><a href="../../../../Mind/CoSP/Administration/User_Management/User_Accounts/UserAccs.html">User Accounts</a><ul><li><a href="../../../../Mind/CoSP/Administration/User_Management/User_Accounts/Creating_User_Account/CreateUserAcc.html">Creating a User Account</a></li><li><a href="../../../../Mind/CoSP/Administration/User_Management/User_Accounts/Creating_User_Account/CreateUserAccsBulk.html">Creating Multiple User Accounts in Bulk</a></li><li><a href="../../../../Mind/CoSP/Administration/User_Management/User_Accounts/EditUserAccDets.html">Editing User Account Details</a></li><li><a href="../../../../Mind/CoSP/Administration/User_Management/User_Accounts/ChangePassword.html">Changing the Password of a User Account</a></li><li><a href="../../../../Mind/CoSP/Administration/User_Management/User_Accounts/Changing_the_Status_of_a_User_Account/UserAccStatus.html">Changing the Status of a User Account</a><ul><li><a href="../../../../Mind/CoSP/Administration/User_Management/User_Accounts/Changing_the_Status_of_a_User_Account/ActUsrAcc.html">Activating a User Account</a></li><li><a href="../../../../Mind/CoSP/Administration/User_Management/User_Accounts/Changing_the_Status_of_a_User_Account/DeActUserAcc.html">Deactivating a User Account</a></li></ul></li><li><a href="../../../../Mind/CoSP/Administration/User_Management/User_Accounts/UnlockUsrAcc.html">Unlocking a User Account</a></li><li><a href="../../../../Mind/CoSP/Administration/User_Management/User_Accounts/GenUsrAccReps.html">Generating User Accounts Reports</a></li></ul></li><li><a href="../../../../Mind/Administration/User_Management/Security_Roles/SecurityRoles.html">Security Roles</a><ul><li><a href="../../../../Mind/Administration/User_Management/Security_Roles/CreateRole.html">Creating Security Roles</a></li><li><a href="../../../../Mind/Administration/User_Management/Security_Roles/AssignRoletoUsr.html">Assigning a Role to Users</a></li><li><a href="../../../../Mind/Administration/User_Management/Security_Roles/EditRoleInfo.html">Editing Role Information</a></li><li><a href="../../../../Mind/Administration/User_Management/Security_Roles/DelSecRole.html">Deleting a Security Role</a></li></ul></li><li><a href="../../../../Mind/Administration/User_Management/Permissions/ConfigRolePerms.html">Permissions</a><ul><li><a href="../../../../Mind/Administration/User_Management/Permissions/ConfigPerms-Role.html">Configuring Role Permissions</a></li><li><a href="../../../../Mind/Administration/User_Management/Permissions/ConfigPerm-Form.html">Configuring Form Permissions</a></li><li><a href="../../../../Mind/Administration/User_Management/Permissions/ConfigPermis-Bulk.html">Configuring Permissions in Bulk Using an Excel Workbook</a></li></ul></li><li><a href="../../../../Mind/Administration/User_Management/Auto_Invite/AutoInvite.html">Auto Invite</a><ul><li><a href="../../../../Mind/Administration/User_Management/Auto_Invite/CrtAIRule.html">Creating an Auto Invite Rule</a></li><li><a href="../../../../Mind/Administration/User_Management/Auto_Invite/EditAIRule.html">Editing an Auto Invite Rule</a></li><li><a href="../../../../Mind/Administration/User_Management/Auto_Invite/ExctAIRul.html">Administering an Auto Invite Rule</a></li><li><a href="../../../../Mind/Administration/User_Management/Auto_Invite/DelAIRule.html">Deleting an Auto Invite Rule</a></li></ul></li><li><a href="../../../../Mind/Administration/User_Management/Online_Registrations/OnlineAccRegs.html">Managing Online Account Registration Requests</a><ul><li><a href="../../../../Mind/Administration/User_Management/Online_Registrations/ApprPndRegReq.html">Approving a Pending Registration Request</a></li><li><a href="../../../../Mind/Administration/User_Management/Online_Registrations/RjctPndRegReq.html">Rejecting a Pending Registration Request</a></li></ul></li><li><a href="../../../../Mind/Administration/System_Configurations/Authentication_and_Login_Settings_with_AIS/EIP_User.html">External Identity Provider User</a></li><li><a href="../../../../Mind/Administration/User_Management/Online_Users/Online_Users.html">Online Users</a><ul><li><a href="../../../../Mind/Administration/User_Management/Online_Users/ViewOnlineUsrs.html">Viewing the List of Online Users</a></li><li><a href="../../../../Mind/Administration/User_Management/Online_Users/LogOffUserRemotely.html">Logging Out a User</a></li></ul></li><li><a href="../../../../Mind/Administration/User_Management/UsrAcctn_config.html">User Settings</a></li><li><a href="../../../../Mind/Administration/User_Management/Delegation_of_Authority/DOA.html">Delegation of Authority</a><ul><li><a href="../../../../Mind/Administration/User_Management/Delegation_of_Authority/Delegate.html">Delegating Authorities</a></li><li><a href="../../../../Mind/Administration/User_Management/Delegation_of_Authority/EditDOA.html">Editing Delegation Details</a></li><li><a href="../../../../Mind/Administration/User_Management/Delegation_of_Authority/ViewDOA.html">Viewing Delegation Details</a></li><li><a href="../../../../Mind/Administration/User_Management/Delegation_of_Authority/RevkDeleg.html">Revoking a Delegation</a></li><li><a href="../../../../Mind/Administration/User_Management/Delegation_of_Authority/DelDOA.html">Deleting a Delegated Record</a></li></ul></li></ul></li><li><a href="../../../../Mind/Administration/Configuration_Toolkit/ConfigToolkit.html">Configuration Toolkit</a><ul><li><a href="../../../../Mind/Administration/Configuration_Toolkit/Workflow_Management/WFMgmt.html">Workflow Management</a><ul><li><a href="../../../../Mind/Administration/Configuration_Toolkit/Workflow_Management/CreateWF.html">Creating a Workflow</a></li><li><a href="../../../../Mind/Administration/Configuration_Toolkit/Workflow_Management/CreateWFSimple.html">Creating a Workflow Using Simple Mode</a></li><li><a href="../../../../Mind/Administration/Configuration_Toolkit/Workflow_Management/CreateWFAdv.html">Creating a Workflow Using Advanced Mode</a></li><li><a href="../../../../Mind/Administration/Configuration_Toolkit/Workflow_Management/EditWF.html">Editing a Workflow</a></li><li><a href="../../../../Mind/Administration/Configuration_Toolkit/Workflow_Management/PublishWF.html">Publishing a Workflow</a></li></ul></li><li><a href="../../../../Mind/Administration/Configuration_Toolkit/Form_Builder/FormBuilder.html">Form Builder</a><ul><li><a href="../../../../Mind/Administration/Configuration_Toolkit/Form_Builder/ImportingXMLFileorFormintoFormBuilder.html">Importing XML File or Form into Form Builder</a></li><li><a href="../../../../Mind/Administration/Configuration_Toolkit/Form_Builder/UsingFormBuilder.html">Creating a Form Using Form Builder</a></li><li><a href="../../../../Mind/Administration/Configuration_Toolkit/Form_Builder/PublishForm.html">Publishing a Form</a></li></ul></li></ul></li><li><a href="../../../../Mind/CoSP/Administration/ViewntegrLogs.html">Viewing the Integration Logs</a></li><li><span>Mind Engage</span><ul><li><span>Introduction</span><ul><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Mind_Engage/Introduction/Introduction_to_Mind_Engage.html">Introduction to Mind Engage</a></li></ul></li><li><span>Getting Started</span><ul><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Mind_Engage/Introduction/Introduction_to_User_Interface.html">Introduction to Mind Engage User Interface</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Mind_Engage/Getting_Started/Engage_Home.html">Engage Home</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Mind_Engage/Getting_Started/Modifying_User_Preferences/Modifying_User_Preferences.html">Modifying User Preferences</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Mind_Engage/Getting_Started/Modifying_User_Preferences/Changing_Password.html">Changing Password</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Mind_Engage/Getting_Started/Modifying_User_Preferences/Retrieving_Password.html">Retrieving Password</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Mind_Engage/Getting_Started/Logging_Out_of_Mind_Engage.html">Logging Out of Mind Engage</a></li></ul></li></ul></li><li><span>Settings</span><ul><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Settings/User_Roles/User_Roles.html">User Roles</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Settings/User_Management/User_Management.html">User Management</a><ul><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Settings/User_Management/Adding_Users.html">Adding Users</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Settings/User_Management/Updating_User_Details_.html">Updating User Details </a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Settings/User_Management/Deleting_a_User.html">Deleting a User</a></li></ul></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Settings/Public_Portal_Settings/Public_Portal_Settings.html">Public Portal Settings</a><ul><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Settings/Public_Portal_Settings/Managing_a_Template.html">Managing a Template</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Settings/Public_Portal_Settings/Adding_Form_Fields.html">Adding Form Fields</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Settings/Public_Portal_Settings/Adding_Layouts_and_Fonts.html">Adding Layouts and Fonts</a></li></ul></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Settings/Application_Settings/Application_Settings.html">Application Settings</a><ul><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Settings/Application_Settings/General_Settings.html">General Settings</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Settings/Application_Settings/Project_Fields.html">Project Fields</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Settings/Application_Settings/Terms_of_Use_Settings.html">Terms of Use Settings</a></li></ul></li></ul></li><li><span>Campaigning for Projects</span><ul><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Campaigning_for_Projects/Campaigning_for_Projects.html">Campaigning for Projects</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Campaigning_for_Projects/Creating_a_Campaign.html">Creating a Campaign</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Campaigning_for_Projects/Managing_Projects_in_a_Campaign.html">Managing Projects in a Campaign</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Campaigning_for_Projects/Publishing_a_Campaign.html">Publishing a Campaign</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Campaigning_for_Projects/Posting_a_Campaign_on_Social_Media.html">Posting a Campaign on Social Media</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Campaigning_for_Projects/Withdrawing_a_Campaign_.html">Withdrawing a Campaign </a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Campaigning_for_Projects/Copying_the_Public_Portal_URL.html">Copying the Public Portal URL</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Campaigning_for_Projects/Deleting_a_Campaign.html">Deleting a Campaign</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Campaigning_for_Projects/Closing_a_Campaign.html">Closing a Campaign</a></li></ul></li><li><span>Viewing Campaigns</span><ul><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Viewing_Campaigns/Viewing_Campaigns.html">Viewing Campaigns</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Viewing_Campaigns/Viewing_Campaigns_in_Draft_Status.html">Viewing Campaigns in Draft Status</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Viewing_Campaigns/Viewing_Campaigns_in_Accepting_Comments_Status.html">Viewing Campaigns in Accepting Comments Status</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Viewing_Campaigns/Viewing_Campaigns_in_Completed_Status.html">Viewing Campaigns in Completed Status</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Viewing_Campaigns/Responding_to_Comments.html">Responding to Comments</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Viewing_Campaigns/Viewing_Analytics_for_Campaigns_and_Projects.html">Viewing Analytics for Campaigns and Projects</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Viewing_Campaigns/Previewing_a_Campaign.html">Previewing a Campaign</a></li></ul></li><li><span>Reports and Dashboards</span><ul><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Reports_and_Dashboards/Analyzing_a_Campaign/Analyzing_a_Campaign.html">Analyzing a Campaign</a><ul><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Reports_and_Dashboards/Analyzing_a_Campaign/Viewing_Promotional_Details.html">Viewing Promotional Details</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Reports_and_Dashboards/Analyzing_a_Campaign/Analyzing_a_Campaign_by_Projects.html">Analyzing a Campaign by Projects</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Reports_and_Dashboards/Analyzing_a_Campaign/Analyzing_a_Campaign_by_Comments.html">Analyzing a Campaign by Comments</a></li></ul></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Reports_and_Dashboards/Campaign_Reports.html">Campaign Reports</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Reports_and_Dashboards/Generating_Reports/Generating_Reports.html">Generating Reports</a><ul><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Reports_and_Dashboards/Generating_Reports/Generating_a_Report.html">Generating a Report</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Reports_and_Dashboards/Generating_Reports/Printing_a_Report.html">Printing a Report</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Reports_and_Dashboards/Generating_Reports/Saving_a_Report.html">Saving a Report</a></li></ul></li></ul></li><li><span>Public Portal Users</span><ul><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Public_Portal_Users/Public_Portal_Users.html">Public Portal Users</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Public_Portal_Users/Viewing_a_Project.html">Viewing a Project</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Public_Portal_Users/Searching_a_Project.html">Searching a Project</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Public_Portal_Users/Rating_and_Sharing_Comments_for_a_Project.html">Rating and Sharing Comments for a Project</a></li><li><a href="../../../../Mind_Engage_Online_Helpditamap-bundle/Public_Portal_Users/Viewing_and_Downloading_Reference_Documents.html">Viewing and Downloading Reference Documents</a></li></ul></li></ul></nav><main role="main"><article role="article" aria-labelledby="ariaid-title1">
+   <h1 class="title topictitle1" id="ariaid-title1">Creating Zoom Meetings</h1>
+   
+   
+   <div class="body taskbody"><p class="shortdesc"></p>
+      <section class="section prereq">The user should be authorized to create the meeting.</section>
+      <section class="section context">You can create Zoom meetings in <span class="ph">Mind</span> using the Meeting Scheduler feature.</section>
+      <section><ol class="ol steps"><li class="li step stepexpand">
+            <span class="ph cmd">In the module menu, click<span class="ph uicontrol">Projects</span>.</span>
+            <div class="itemgroup info">The<span class="ph uicontrol">PROJECTS</span>list page is displayed.</div>
+         </li><li class="li step stepexpand">
+            <span class="ph cmd">In the<span class="ph uicontrol">PROJECTS</span>list page, click the required project, and then click<span class="ph uicontrol">Edit</span>.</span>
+         </li><li class="li step stepexpand">
+            <span class="ph cmd">In the navigation pane, expand the project folder.</span>
+         </li><li class="li step stepexpand">
+            <span class="ph cmd">Expand<span class="ph uicontrol">Collaboration</span>, and then click<span class="ph uicontrol">Meeting Scheduler</span>.</span>
+            <div class="itemgroup info">The<span class="ph uicontrol">MEETING SCHEDULER</span>list page is displayed.</div>
+         </li><li class="li step stepexpand">
+            <span class="ph cmd">Click<span class="ph uicontrol">New</span>.</span>
+            <div class="itemgroup info">The<span class="ph uicontrol">MEETING SCHEDULER</span>page is displayed.</div>
+         </li><li class="li step stepexpand">
+            <span class="ph cmd">Provide the required information in the fields, as described in the following table.</span>
+            <table border="1" frame="hsides" rules="rows" cellpadding="4" cellspacing="0" summary="" class="simpletable choicetable choicetableborder"><colgroup><col style="width:50%"><col style="width:50%"></colgroup><thead><tr class="sthead chhead"><th scope="col" class="stentry choptionhd" style="vertical-align:bottom;text-align:left;">Field Name</th><th scope="col" class="stentry chdeschd" style="vertical-align:bottom;text-align:left;">Description</th></tr></thead><tbody><tr class="strow chrow">
+                  <th style="vertical-align:top;" scope="row" class="stentry choption">Title</th>
+                  <td style="vertical-align:top;" class="stentry chdesc"> Enter the title of the meeting.</td>
+               </tr><tr class="strow chrow">
+                  <th style="vertical-align:top;" scope="row" class="stentry choption">Meeting Date</th>
+                  <td style="vertical-align:top;" class="stentry chdesc">Select the date of the meeting.</td>
+               </tr><tr class="strow chrow">
+                  <th style="vertical-align:top;" scope="row" class="stentry choption">Start Time</th>
+                  <td style="vertical-align:top;" class="stentry chdesc">Enter the start time of the meeting in accordance to the time zone of the application.</td>
+               </tr><tr class="strow chrow">
+                  <th style="vertical-align:top;" scope="row" class="stentry choption">End Time</th>
+                  <td style="vertical-align:top;" class="stentry chdesc">Enter the end time of the meeting in accordance to the time zone of the application. Ensure the end time is later than the start time.</td>
+               </tr><tr class="strow chrow">
+                  <th style="vertical-align:top;" scope="row" class="stentry choption">Meeting Type</th>
+                  <td style="vertical-align:top;" class="stentry chdesc">Select the meeting type.<div class="p">Available options are meeting types defined in the<span class="ph uicontrol">Meeting Type</span>catalog of the library.<div class="note note note_note"><span class="note__title">Note:</span> When <span class="ph uicontrol">Minutes Of Meeting</span> form exists, then both <span class="ph uicontrol">Minutes Of Meeting </span>and <span class="ph uicontrol">Meeting scheduler </span>forms share the same <span class="ph uicontrol">Meeting Type </span>catalog of the library.</div>
+                     </div>
+                  </td>
+               </tr><tr class="strow chrow">
+                  <th style="vertical-align:top;" scope="row" class="stentry choption">Venue</th>
+                  <td style="vertical-align:top;" class="stentry chdesc">Select the venue of the meeting.<div class="p">Available options are venues defined in the<span class="ph uicontrol">Meeting Venue</span>catalog of the library.<ol class="ol" type="a">
+                           <li class="li">
+                              <p class="p">Alternatively, to specify the venue, perform the following steps.</p>
+                           </li>
+                           <li class="li">
+                              <p class="p">From the<span class="ph uicontrol">Venue</span>drop-down list, select<span class="ph uicontrol">Others</span>.</p>
+                              <p class="p">A text box is displayed.</p>
+                           </li>
+                           <li class="li">
+                              <div class="p">In the box, enter the venue details.<div class="note note note_note"><span class="note__title">Note:</span> When <span class="ph uicontrol">Minutes Of Meeting</span> form exists, then both <span class="ph uicontrol">Minutes Of Meeting</span> and <span class="ph uicontrol">Meeting scheduler</span> forms share the same <span class="ph uicontrol">Meeting Venue</span> catalog of the library.</div>
+                              </div>
+                           </li>
+                        </ol>
+                     </div>
+                  </td>
+               </tr><tr class="strow chrow">
+                  <th style="vertical-align:top;" scope="row" class="stentry choption">Agenda</th>
+                  <td style="vertical-align:top;" class="stentry chdesc">Enter the agenda of the meeting.</td>
+               </tr><tr class="strow chrow">
+                  <th style="vertical-align:top;" scope="row" class="stentry choption">Notes</th>
+                  <td style="vertical-align:top;" class="stentry chdesc">Enter any notes for the meeting.</td>
+               </tr></tbody></table>
+            <div class="itemgroup info">The<span class="ph uicontrol">Meeting Status</span>of the meeting record is set to<span class="ph uicontrol">Draft</span>only when the meeting created is saved but not published.<div class="note note note_note"><span class="note__title">Note:</span> When the meeting is published, the <span class="ph uicontrol">Meeting Status</span> changes to <span class="ph uicontrol">Published</span>.</div>
+            </div>
+         </li><li class="li step stepexpand">
+            <span class="ph cmd">To add meeting invitees in the<span class="ph uicontrol">Meeting Invitees</span>section, perform the following steps.</span>
+            <ol type="a" class="ol substeps">
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">To add invitees from the list of user accounts defined in enterprise.</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i">
+                        <li class="li">
+                           <p class="p">Click <span class="ph uicontrol">Add</span>.</p>
+                           <div class="p">The<span class="ph uicontrol">Select Users</span>dialog box displays the following details of all the application users and key contacts of all contracts within the project.<ul class="ul">
+                                 <li class="li">
+                                    <p class="p">User Name</p>
+                                 </li>
+                                 <li class="li">
+                                    <p class="p">First Name</p>
+                                 </li>
+                                 <li class="li">
+                                    <p class="p">Last Name</p>
+                                 </li>
+                                 <li class="li">
+                                    <p class="p">Email</p>
+                                 </li>
+                                 <li class="li">
+                                    <p class="p">Department</p>
+                                 </li>
+                                 <li class="li">
+                                    <p class="p">User Type such as Project user, Non-project user, Contract, Key Contact</p>
+                                 </li>
+                                 <li class="li">
+                                    <p class="p">Contract name if the user is invited to a contract or if the user is a key contact of a contract</p>
+                                 </li>
+                              </ul>
+                           </div>
+                        </li>
+                        <li class="li">
+                           <p class="p">Select the required users, and then click<span class="ph uicontrol">Select</span>.</p>
+                           <p class="p">The selected users are added as invitees to the meeting.</p>
+                        </li>
+                     </ol>
+                  </div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">To add external user.</span>
+                  <div class="itemgroup info">
+                     <ol class="ol" type="i">
+                        <li class="li">
+                           <p class="p">In the<span class="ph uicontrol">Department</span>column, click and enter the department name of the invitee.</p>
+                        </li>
+                        <li class="li">
+                           <p class="p">In the<span class="ph uicontrol">Email</span>column, click and enter the email address of the invitee.</p>
+                        </li>
+                        <li class="li">
+                           <p class="p">In the<span class="ph uicontrol">Last Name</span>column, click and enter the last name of the invitee.</p>
+                        </li>
+                        <li class="li">
+                           <p class="p">In the<span class="ph uicontrol">First Name</span>column, click and enter the first name of the invitee.</p>
+                        </li>
+                        <li class="li">
+                           <p class="p">Click<span class="ph uicontrol">Add External User</span>.</p>
+                           <p class="p">A row is added in the<span class="ph uicontrol">Meeting Invitees</span>section.</p>
+                        </li>
+                     </ol>
+                  </div>
+               </li>
+            </ol>
+         </li><li class="li step stepexpand">
+            <span class="ph cmd">Click<span class="ph uicontrol">Create Zoom Meeting</span>to generate a Zoom meeting URL.</span>
+            <div class="itemgroup info">The Zoom meeting URL is displayed in the<span class="ph uicontrol">Meeting Link</span>box.</div>
+         </li><li class="li step stepexpand">
+            <span class="ph cmd">To add references to any form within any record, in the<span class="ph uicontrol">Linked Object</span>section, perform the following steps.</span>
+            <ol type="a" class="ol substeps">
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">Click<span class="ph uicontrol">Add</span>.</span>
+                  <div class="itemgroup info">The<span class="ph uicontrol">Select Items</span>dialog box is displayed.</div>
+               </li>
+               <li class="li substep substepexpand">
+                  <span class="ph cmd">To select the required project form, in the<span class="ph uicontrol">Source Form</span>box, click and select the required form.</span>
+                  <div class="itemgroup info">Alternatively, to select a contract form, perform the following steps.<ol class="ol" type="i">
+                        <li class="li">
+                           <p class="p">In the<span class="ph uicontrol">Select Project / Contract</span>box, corresponding to the project name, click <img class="image" src="../../../Icons/RemUser.jpg" alt="Delete">.</p>
+                        </li>
+                        <li class="li">
+                           <p class="p">In the<span class="ph uicontrol">Select Project / Contract</span>box, click and select the required contract.</p>
+                           <p class="p">Alternatively, type the name of the contract, and then select the required contract.</p>
+                           <p class="p">Available contracts are all the contracts the user is invited to in the project.</p>
+                        </li>
+                        <li class="li">
+                           <p class="p">To select the required contract form, in the<span class="ph uicontrol">Source Form</span>box, click and select the required form.</p>
+                           <p class="p">Alternatively, type the name of the form, and then select the required form.</p>
+                        </li>
+                     </ol>
+                  </div>
+               </li>
+            </ol>
+         </li><li class="li step stepexpand">
+            <span class="ph cmd">Click <span class="ph uicontrol">Search</span>.</span>
+            <div class="itemgroup info">All the records of the selected form are displayed.</div>
+         </li><li class="li step stepexpand">
+            <span class="ph cmd">Select the required records, and then click<span class="ph uicontrol">Select</span>.</span>
+            <div class="itemgroup info">The selected records are added to the<span class="ph uicontrol">Linked Objects</span>section.<div class="note note note_note"><span class="note__title">Note:</span> To view the details of a linked record, in the <span class="ph uicontrol">Description</span> column, click the required record.</div>
+            </div>
+         </li><li class="li step stepexpand">
+            <span class="ph cmd">Optionally, in the<span class="ph uicontrol">Attachments</span>section, attach or link related files.</span>
+            <div class="itemgroup info">For information on attachments, refer to <a class="xref" href="../../../Common_Application_Features/Attachments/Attachments.html"> Attachments</a>.</div>
+         </li><li class="li step stepexpand">
+            <span class="ph cmd">
+               <span class="ph">Click <span class="ph uicontrol">Save &amp; Exit</span> to save the record and return to the list page. Optionally, click <span class="ph uicontrol">Save &amp; Continue</span> to save the record and continue on the same page.</span>
+            </span>
+         </li></ol></section>
+   </div>
+</article></main><footer role="contentinfo"><script src="../../../../ditasearch.js"></script></footer></body></html>
