@@ -57,7 +57,12 @@
       <section class="- topic/section ">
          <p class="- topic/p ">Complete the following inspections when the melter is set to hot hold.</p>
          <table class="- topic/table ">
-            <tgroup cols="6" class="- topic/tgroup ">
+            <tgroup cols="5" class="- topic/tgroup ">
+        <colspec colname="col1"/>
+        <colspec colname="col2"/>
+        <colspec colname="col3"/>
+        <colspec colname="col4"/>
+        <colspec colname="col5"/>
                <colspec colname="c1" colwidth="5.36%" class="- topic/colspec "/>
                <colspec colname="c2" colwidth="64.69%" class="- topic/colspec "/>
                <colspec colname="c3" colwidth="4.06%" class="- topic/colspec "/>
