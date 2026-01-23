@@ -1,6 +1,7 @@
 <!DOCTYPE html
   SYSTEM "about:legacy-compat">
-<html lang="en"><head><meta charset="UTF-8"><meta name="DC.rights.owner" content="(C) Copyright 2025"><meta name="copyright" content="(C) Copyright 2025"><meta name="generator" content="DITA-OT"><meta name="DC.type" content="task"><meta name="description" content=""><meta name="DC.subject" content="capital-programme-management-application,planned-projects-module,location-management-module,map-interface,esri-integration,gis-settings,creating-project-location,associating-contract-with-location,saving-map-markers,editing-location-details,saving-to-esri-geodatabase,reviewing-esri-save-status,capital-programme-management,planned-projects-workflow,programme-office-operations,enterprise-software-dashboard,geospatial-integration,glass-manufacturing-industry"><meta name="keywords" content="capital-programme-management-application, planned-projects-module, location-management-module, map-interface, esri-integration, gis-settings, creating-project-location, associating-contract-with-location, saving-map-markers, editing-location-details, saving-to-esri-geodatabase, reviewing-esri-save-status, capital-programme-management, planned-projects-workflow, programme-office-operations, enterprise-software-dashboard, geospatial-integration, glass-manufacturing-industry"><meta name="DC.audience.type" content="role"><meta name="prodname" content="Mind-Administration-Guide"><meta name="platform" content="web"><meta name="DC.creator" content="Pallavi"><meta name="DC.date.created" content="2025-11-20+05:30"><meta name="DC.date.modified" content="2025-11-20"><meta name="title" content="Managing Project Location Details on a Map"><meta name="shortdesc" content="Steps to add, edit and save project location details on the map and persist geometry to ESRI (ArcGIS)."><meta name="language" content="en-GB"><meta name="version" content="1.0.0"><meta name="docStage" content="approved"><meta name="access.role" content="internal"><meta name="data.classification" content="non-sensitive"><meta name="retention.policy" content="standard-36m"><meta name="entities" content="project location;project;contract;map marker;location geometry;ESRI geodatabase;planned project"><meta name="taxonomy" content="domain:capital-programme-management;usecase:manage-project-location-on-map;industry:glass-manufacturing"><meta name="tags" content="project-location,map,gis,esri,location-management,planned-projects,save-status"><meta name="usecase" content="manage-project-location-on-map"><meta name="DC.format" content="HTML5"><meta name="DC.identifier" content="Form_PRJLOCN"><title>Managing Project Location Details on a Map</title><link rel="stylesheet" type="text/css" href="../../../../commonltr.css"></head><body id="Form_PRJLOCN"><main role="main"><article role="article" aria-labelledby="ariaid-title1">
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta charset="UTF-8"><meta name="copyright" content="(C) Copyright 2026"><meta name="generator" content="DITA-OT"><meta name="description" content=""><meta name="keywords" content="capital-programme-management-application, planned-projects-module, location-management-module, map-interface, esri-integration, gis-settings, creating-project-location, associating-contract-with-location, saving-map-markers, editing-location-details, saving-to-esri-geodatabase, reviewing-esri-save-status, capital-programme-management, planned-projects-workflow, programme-office-operations, enterprise-software-dashboard, geospatial-integration, glass-manufacturing-industry"><meta name="prodname" content="Mind-Administration-Guide"><meta name="platform" content="web"><meta name="title" content="Managing Project Location Details on a Map"><meta name="shortdesc" content="Steps to add, edit and save project location details on the map and persist geometry to ESRI (ArcGIS)."><meta name="language" content="en-GB"><meta name="version" content="1.0.0"><meta name="docStage" content="approved"><meta name="access.role" content="internal"><meta name="data.classification" content="non-sensitive"><meta name="retention.policy" content="standard-36m"><meta name="entities" content="project location;project;contract;map marker;location geometry;ESRI geodatabase;planned project"><meta name="taxonomy" content="domain:capital-programme-management;usecase:manage-project-location-on-map;industry:glass-manufacturing"><meta name="tags" content="project-location,map,gis,esri,location-management,planned-projects,save-status"><meta name="usecase" content="manage-project-location-on-map"><link rel="stylesheet" type="text/css" href="../../../../commonltr.css">
+<link rel="stylesheet" type="text/css" href="..\..\..\../common-extended.css"><title>Managing Project Location Details on a Map</title></head><body id="Form_PRJLOCN"><header role="banner"><div class="ditasearch" data-searchroot="../../../../"></div></header><main role="main"><article role="article" aria-labelledby="ariaid-title1">
    <h1 class="title topictitle1" id="ariaid-title1">Managing Project Location Details on a Map</h1>
    
    
@@ -48,24 +49,24 @@
             <div class="itemgroup info">The<span class="ph uicontrol">LOCATION</span> page displays the following non-editable fields:<table class="table"><caption></caption><colgroup><col style="width:30%"><col style="width:70%"></colgroup><thead class="thead">
                         <tr class="row">
                            <th class="entry colsep-1 rowsep-1" id="Form_PRJLOCN__entry__1">Field Name</th>
-                           <th class="entry rowsep-1" id="Form_PRJLOCN__entry__2">Description</th>
+                           <th class="entry colsep-1 rowsep-1" id="Form_PRJLOCN__entry__2">Description</th>
                         </tr>
                      </thead><tbody class="tbody">
                         <tr class="row">
                            <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__entry__1">Location ID</td>
-                           <td class="entry rowsep-1" headers="Form_PRJLOCN__entry__2">On saving the record, a unique identification code is automatically generated.</td>
+                           <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__entry__2">On saving the record, a unique identification code is automatically generated.</td>
                         </tr>
                         <tr class="row">
                            <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__entry__1">PWA Project Number</td>
-                           <td class="entry rowsep-1" headers="Form_PRJLOCN__entry__2">When the project workflow status moves to <span class="ph uicontrol">In-Progress</span>, a unique identification number is automatically generated for the project.</td>
+                           <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__entry__2">When the project workflow status moves to <span class="ph uicontrol">In-Progress</span>, a unique identification number is automatically generated for the project.</td>
                         </tr>
                         <tr class="row">
                            <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__entry__1">Project Name</td>
-                           <td class="entry rowsep-1" headers="Form_PRJLOCN__entry__2">The name of the associated project.</td>
+                           <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__entry__2">The name of the associated project.</td>
                         </tr>
                         <tr class="row">
                            <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__entry__1">Project Type</td>
-                           <td class="entry rowsep-1" headers="Form_PRJLOCN__entry__2">The type of the associated project.</td>
+                           <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__entry__2">The type of the associated project.</td>
                         </tr>
                         <tr class="row">
                            <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__entry__1">
@@ -73,23 +74,23 @@
         
         
         Project Manager</td>
-                           <td class="entry rowsep-1" headers="Form_PRJLOCN__entry__2">The name of the project manager. </td>
+                           <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__entry__2">The name of the project manager. </td>
                         </tr>
                         <tr class="row">
                            <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__entry__1">Project Budget ($)</td>
-                           <td class="entry rowsep-1" headers="Form_PRJLOCN__entry__2">The budget of the associated project.</td>
+                           <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__entry__2">The budget of the associated project.</td>
                         </tr>
                         <tr class="row">
                            <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__entry__1">Start Date</td>
-                           <td class="entry rowsep-1" headers="Form_PRJLOCN__entry__2">The date the project begins.</td>
+                           <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__entry__2">The date the project begins.</td>
                         </tr>
                         <tr class="row">
                            <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__entry__1">End Date</td>
-                           <td class="entry rowsep-1" headers="Form_PRJLOCN__entry__2">The date the project ends.</td>
+                           <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__entry__2">The date the project ends.</td>
                         </tr>
                         <tr class="row">
-                           <td class="entry colsep-1" headers="Form_PRJLOCN__entry__1">Description</td>
-                           <td class="entry" headers="Form_PRJLOCN__entry__2">The description of the project. </td>
+                           <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__entry__1">Description</td>
+                           <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__entry__2">The description of the project. </td>
                         </tr>
                      </tbody></table>
             </div>
@@ -103,7 +104,7 @@
             <span class="ph cmd">In the<span class="ph uicontrol">Description</span>box, enter a detailed description of the project location.</span>
          </li><li class="li step stepexpand">
             <span class="ph cmd">To find the appropriate location and draw the location geometries on the map, perform  the following steps:</span>
-            <ol type="a" class="ol substeps" id="Form_PRJLOCN__Location_SubStepsOnly">
+            <ol type="a" class="ol substeps" id="Form_PRJLOCN__d150e127">
                <li class="li substep substepexpand">
                   <span class="ph cmd">To find the appropriate location on the map, perform  the following steps:</span>
                   <div class="itemgroup info">
@@ -161,13 +162,13 @@
                   <div class="itemgroup info">
                      <table class="table"><caption></caption><colgroup><col style="width:25%"><col style="width:75%"></colgroup><thead class="thead">
                               <tr class="row">
-                                 <th class="entry colsep-1 rowsep-1" id="Form_PRJLOCN__Location_SubStepsOnly__entry__1">Action</th>
-                                 <th class="entry rowsep-1" id="Form_PRJLOCN__Location_SubStepsOnly__entry__2">Steps</th>
+                                 <th class="entry colsep-1 rowsep-1" id="Form_PRJLOCN__d150e127__entry__1">Action</th>
+                                 <th class="entry colsep-1 rowsep-1" id="Form_PRJLOCN__d150e127__entry__2">Steps</th>
                               </tr>
                            </thead><tbody class="tbody">
                               <tr class="row">
-                                 <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__Location_SubStepsOnly__entry__1">Edit</td>
-                                 <td class="entry rowsep-1" headers="Form_PRJLOCN__Location_SubStepsOnly__entry__2">
+                                 <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__d150e127__entry__1">Edit</td>
+                                 <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__d150e127__entry__2">
                                     <ol class="ol" type="i">
                                        <li class="li">Right-click in a boundary or on a line, and then click <span class="ph uicontrol">Edit</span>.
                                     <p class="p">Points that are editable are displayed.</p>
@@ -178,8 +179,8 @@
                                  </td>
                               </tr>
                               <tr class="row">
-                                 <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__Location_SubStepsOnly__entry__1">Move</td>
-                                 <td class="entry rowsep-1" headers="Form_PRJLOCN__Location_SubStepsOnly__entry__2">
+                                 <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__d150e127__entry__1">Move</td>
+                                 <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__d150e127__entry__2">
                                     <ol class="ol" type="i">
                                        <li class="li">Right-click in a boundary or on a line, and then click <span class="ph uicontrol">Move</span>.
                                 </li>
@@ -189,8 +190,8 @@
                                  </td>
                               </tr>
                               <tr class="row">
-                                 <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__Location_SubStepsOnly__entry__1">Rotate</td>
-                                 <td class="entry rowsep-1" headers="Form_PRJLOCN__Location_SubStepsOnly__entry__2">
+                                 <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__d150e127__entry__1">Rotate</td>
+                                 <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__d150e127__entry__2">
                                     <ol class="ol" type="i">
                                        <li class="li">Right-click in a boundary or on a line, and then click <span class="ph uicontrol">Rotate</span>.
                                 </li>
@@ -200,8 +201,8 @@
                                  </td>
                               </tr>
                               <tr class="row">
-                                 <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__Location_SubStepsOnly__entry__1">Scale</td>
-                                 <td class="entry rowsep-1" headers="Form_PRJLOCN__Location_SubStepsOnly__entry__2">
+                                 <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__d150e127__entry__1">Scale</td>
+                                 <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__d150e127__entry__2">
                                     <ol class="ol" type="i">
                                        <li class="li">Right-click in a boundary or on a line, and then click <span class="ph uicontrol">Scale</span>.
                                 </li>
@@ -211,8 +212,8 @@
                                  </td>
                               </tr>
                               <tr class="row">
-                                 <td class="entry colsep-1" headers="Form_PRJLOCN__Location_SubStepsOnly__entry__1">Delete</td>
-                                 <td class="entry" headers="Form_PRJLOCN__Location_SubStepsOnly__entry__2">
+                                 <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__d150e127__entry__1">Delete</td>
+                                 <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__d150e127__entry__2">
                                     <ol class="ol" type="i">
                                        <li class="li">Right-click in a boundary or on a line to be deleted.
                                 </li>
@@ -237,30 +238,30 @@
                <table class="table"><caption></caption><colgroup><col style="width:30%"><col style="width:70%"></colgroup><thead class="thead">
                         <tr class="row">
                            <th class="entry colsep-1 rowsep-1" id="Form_PRJLOCN__entry__33">Status</th>
-                           <th class="entry rowsep-1" id="Form_PRJLOCN__entry__34">Description</th>
+                           <th class="entry colsep-1 rowsep-1" id="Form_PRJLOCN__entry__34">Description</th>
                         </tr>
                      </thead><tbody class="tbody">
                         <tr class="row">
                            <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__entry__33">Completed</td>
-                           <td class="entry rowsep-1" headers="Form_PRJLOCN__entry__34">The location geometry is successfully saved from the application to the ESRI geodatabase.<div class="note note note_note"><span class="note__title">Note:</span> <div class="note__body"> Once the geometry drawn on the map is successfully saved to theESRIgeodatabase, the updated or edited geometry will override the current geometry present in ESRI. The changes will not be merged.</div></div>
+                           <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__entry__34">The location geometry is successfully saved from the application to the ESRI geodatabase.<div class="note note note_note"><span class="note__title">Note:</span>  Once the geometry drawn on the map is successfully saved to theESRIgeodatabase, the updated or edited geometry will override the current geometry present in ESRI. The changes will not be merged.</div>
                            </td>
                         </tr>
                         <tr class="row">
                            <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__entry__33">In Progress</td>
-                           <td class="entry rowsep-1" headers="Form_PRJLOCN__entry__34">Saving location data from the application to the ESRI geodatabase is in progress. If the first attempt of saving location data fails, then the system automatically attempts to save the location data, based on the number of tries defined in the <span class="ph uicontrol">ESRI SAVE SETTINGS</span> section in the <span class="ph uicontrol">GIS Settings</span> page of the <span class="ph uicontrol">Administration</span> module. <span class="ph">For information ESRI save settings, refer to<a class="xref" href="../../../Administration/System_Configurations/GIS/GIS_Settings/GIS_Configuration.html">Configuring the ESRI Save Settings</a>.</span>
+                           <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__entry__34">Saving location data from the application to the ESRI geodatabase is in progress. If the first attempt of saving location data fails, then the system automatically attempts to save the location data, based on the number of tries defined in the <span class="ph uicontrol">ESRI SAVE SETTINGS</span> section in the <span class="ph uicontrol">GIS Settings</span> page of the <span class="ph uicontrol">Administration</span> module. <span class="ph">For information ESRI save settings, refer to<a class="xref" href="../../../Administration/System_Configurations/GIS/GIS_Settings/GIS_Configuration.html">Configuring the ESRI Save Settings</a>.</span>
                            </td>
                         </tr>
                         <tr class="row">
                            <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__entry__33">Pending</td>
-                           <td class="entry rowsep-1" headers="Form_PRJLOCN__entry__34">Saving of location data to the ESRI geodatabase is pending.</td>
+                           <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__entry__34">Saving of location data to the ESRI geodatabase is pending.</td>
                         </tr>
                         <tr class="row">
-                           <td class="entry colsep-1" headers="Form_PRJLOCN__entry__33">Failed</td>
-                           <td class="entry" headers="Form_PRJLOCN__entry__34">Saving location data from the application to the ESRI geodatabase has failed despite retrying after the configured number of retries defined in the <span class="ph uicontrol">ESRI SAVE SETTINGS</span> section in the <span class="ph uicontrol">GIS Settings</span> page of the <span class="ph uicontrol">Administration</span> module.<span class="ph">For information ESRI save settings, refer to<a class="xref" href="../../../Administration/System_Configurations/GIS/GIS_Settings/GIS_Configuration.html">Configuring the ESRI Save Settings</a>.The following are the different statuses:</span>
+                           <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__entry__33">Failed</td>
+                           <td class="entry colsep-1 rowsep-1" headers="Form_PRJLOCN__entry__34">Saving location data from the application to the ESRI geodatabase has failed despite retrying after the configured number of retries defined in the <span class="ph uicontrol">ESRI SAVE SETTINGS</span> section in the <span class="ph uicontrol">GIS Settings</span> page of the <span class="ph uicontrol">Administration</span> module.<span class="ph">For information ESRI save settings, refer to<a class="xref" href="../../../Administration/System_Configurations/GIS/GIS_Settings/GIS_Configuration.html">Configuring the ESRI Save Settings</a>.The following are the different statuses:</span>
                            </td>
                         </tr>
                      </tbody></table>
             </div>
          </li></ol></section>
    </div>
-</article></main></body></html>
+</article></main><footer role="contentinfo"><script src="../../../../ditasearch.js"></script></footer></body></html>
